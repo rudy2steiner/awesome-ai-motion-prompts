@@ -1,6 +1,6 @@
 # Awesome AI Motion Prompts
 
-**[355 个 Motion 案例](data/README.md)** · **[16 个精选](#prompt-library)** · **[339 个研究候选](data/README.md#research-candidates)**
+**[355+ 个 Motion 提示词](data/README.md)**
 
 [English](README.md) | 简体中文
 

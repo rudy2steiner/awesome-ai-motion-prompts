@@ -1,6 +1,6 @@
 # Awesome AI Motion Prompts
 
-**[355 motion references](data/README.md)** · **[16 featured](#prompt-library)** · **[339 research candidates](data/README.md#research-candidates)**
+**[355+ Motion Prompts](data/README.md)**
 
 English | [简体中文](README.zh-CN.md)
 
