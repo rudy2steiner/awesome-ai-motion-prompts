@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-213 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+252 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -143,6 +143,9 @@
 - [Motion Graphics Showreel Video](https://x.com/itsuki_dev/status/2103438087204618392) — @itsuki_dev · Claude Opus 5.5 · [Prompt](../prompts/motion-2103438087204618392.md#prompt)
 - [Motion Designer Showreel](https://x.com/hanifproduktif/status/2103404901451829311) — @hanifproduktif · Claude Opus 5.5 · [Prompt](../prompts/motion-2103404901451829311.md#prompt)
 - [Motion Graphics Resume Showreel](https://x.com/rendesr/status/2103395846578676116) — @rendesr · Claude Opus 5.5 · [Prompt](../prompts/motion-2103395846578676116.md#prompt)
+- [The Beauty of Three.js Showcase Video](https://x.com/yupengfei990919/status/2104788406656184436) — @yupengfei990919 · Claude Opus 5.5 · [Prompt](../prompts/motion-2104788406656184436.md#prompt)
+- [Beauty of Physics One-Shot Animation via Claude Code and Opus 5.5](https://x.com/akokoi1/status/2104200939095904322) — @akokoi1 · Claude Opus 5.5 · [Prompt](../prompts/motion-2104200939095904322.md#prompt)
+- [Ex Nihilo: Pure HTML/GLSL Demoscene Intro by Claude Opus 5.5](https://x.com/JustinPerea/status/2102893186330841502) — @JustinPerea · Claude Opus 5.5 · [Prompt](../prompts/motion-2102893186330841502.md#prompt)
 
 
 <a id="explainers-data"></a>
@@ -177,6 +180,9 @@
 - [250 Years of U.S. History Sand Animation](https://x.com/Michaelzsguo/status/2102592355165782312) — @Michaelzsguo · Claude Opus 5.5 · [Prompt](../prompts/motion-2102592355165782312.md#prompt)
 - [3D Desk to CPU Atom Zoom](https://x.com/Acoramaa/status/2103833991879053577) — @Acoramaa · Claude Opus 5.5 · [Prompt](../prompts/motion-2103833991879053577.md#prompt)
 - [Interactive 3D Raptor 3 Rocket Engine WebGL Model](https://x.com/konstantinsaifo/status/2104094723887501736) — @konstantinsaifo · Claude Opus 5.5 · [Prompt](../prompts/motion-2104094723887501736.md#prompt)
+- [Vision Pro Woodshop Safety Simulation via Swift RealityKit](https://x.com/hunter_spatial/status/2108711466303938570) — @hunter_spatial · Claude Opus 5.5 · [Prompt](../prompts/motion-2108711466303938570.md#prompt)
+- [Interactive Educational 3D Jet Engine in the Browser](https://x.com/maker_evan/status/2108459952683811167) — @maker_evan · Claude Opus 5.5 / GPT-6 Astra · [Prompt](../prompts/motion-2108459952683811167.md#prompt)
+- [Tesla-Style Electric Motor 3D Explainer Animation Comparison](https://x.com/Edenwoodfilm/status/2111959819301044536) — @Edenwoodfilm · Claude Opus 5.5 / DeepSeek V4.1 Flash 1017 · [Prompt](../prompts/motion-2111959819301044536.md#prompt)
 
 
 <a id="characters-stories"></a>
@@ -209,6 +215,8 @@
 - [Dario vs. Altman Fight Video](https://x.com/Xanderwow_A/status/2103637769012597063) — @Xanderwow_A · Claude Opus 5.5 · [Prompt](../prompts/motion-2103637769012597063.md#prompt)
 - [Torradeira Turbo 3000 Animated Short](https://x.com/NemTudo_/status/2102973867656614053) — @NemTudo_ · Claude Opus 5.5 · [Prompt](../prompts/motion-2102973867656614053.md#prompt)
 - [Porco Rosso Sunset Dogfight Web3D](https://x.com/NFT_Chen/status/2103882415299350878) — @NFT_Chen · Claude Opus 5.5 · [Prompt](../prompts/motion-2103882415299350878.md#prompt)
+- [Glim - 3D Animated Short via Blender Python Scripts](https://x.com/Reena_Lin/status/2110705871755878728) — @Reena_Lin · Claude Opus 5.5 · [Prompt](../prompts/motion-2110705871755878728.md#prompt)
+- [Aliens Stop for Burgers Three.js Short Animation](https://x.com/shownotover/status/2110274182046953661) — @shownotover · Gemini Argon / Claude Opus 5.5 · [Prompt](../prompts/motion-2110274182046953661.md#prompt)
 
 
 <a id="3d-simulations"></a>
@@ -238,6 +246,26 @@
 - [3D Water Simulation Benchmark](https://x.com/StephanFerraro/status/2103020274107224281) — @StephanFerraro · Claude Opus 5.5 · [Prompt](../prompts/motion-2103020274107224281.md#prompt)
 - [Earth to Observable Universe Zoom-Out](https://x.com/kgonia7/status/2103835848575746268) — @kgonia7 · Claude Opus 5.5 · [Prompt](../prompts/motion-2103835848575746268.md#prompt)
 - [Creative Front-End and Video Generation](https://x.com/DemitiyaGeekzen/status/2103517910274818523) — @DemitiyaGeekzen · Claude Opus 5.5 · [Prompt](../prompts/motion-2103517910274818523.md#prompt)
+- [3D Jelly Canal with Lock, Boat, and Windmill](https://x.com/0xKenny1st/status/2112605599145832540) — @0xKenny1st · Claude Opus 5.5 / GPT-6 Astra · [Prompt](../prompts/motion-2112605599145832540.md#prompt)
+- [Autonomous Voxel Coral Reef and Sunken Shipwreck in HTML](https://x.com/not_sacke/status/2112635371716841661) — @not_sacke · Claude Opus 5.5 · [Prompt](../prompts/motion-2112635371716841661.md#prompt)
+- [300 Wooden Dominoes in a Spiral Comparison](https://x.com/buzzhive_ai/status/2111133280854581722) — @buzzhive_ai · Claude Opus 5.5 / Claude Haiku 5.5 · [Prompt](../prompts/motion-2111133280854581722.md#prompt)
+- [A Year of a Cherry Tree in 16 Seconds 3D Simulation](https://x.com/AIMind_Ai/status/2110792641277198383) — @AIMind_Ai · Claude Opus 5.5 / Gemini 4 Argon · [Prompt](../prompts/motion-2110792641277198383.md#prompt)
+- [Mechanical Wasp 3D Build and Exploded Animation](https://x.com/liamxbtt/status/2110331654522736697) — @liamxbtt · Claude Opus 5.5 · [Prompt](../prompts/motion-2110331654522736697.md#prompt)
+- [Midnight Cake Interactive 3D Scene](https://x.com/SadAlbert10/status/2109197651518636184) — @SadAlbert10 · Claude Opus 5.5 · [Prompt](../prompts/motion-2109197651518636184.md#prompt)
+- [6-Joint Robotic Arm Physics Simulation Generated from a Natural Language Specification](https://x.com/0x_meden/status/2108914859492483132) — @0x_meden · Claude Opus 5.5 · [Prompt](../prompts/motion-2108914859492483132.md#prompt)
+- [AH-64E Apache Guardian Interactive 3D Presentation](https://x.com/maker_evan/status/2108475056082850278) — @maker_evan · Claude Opus 5.5 / GPT-6 Astra · [Prompt](../prompts/motion-2108475056082850278.md#prompt)
+- [Tesseract: Six Universes, One Box (HTML5 3D Shader Demo)](https://x.com/TragoBuilds/status/2108384651362394407) — @TragoBuilds · Claude Opus 5.5 · [Prompt](../prompts/motion-2108384651362394407.md#prompt)
+- [SpaceX Super Heavy Mechazilla Catch Three.js Animation](https://x.com/adamshafizullah/status/2111398174548214218) — @adamshafizullah · DeepSeek V4.1 Flash 1017 / Claude Opus 5.5 / Claude Sonnet 5.5 · [Prompt](../prompts/motion-2111398174548214218.md#prompt)
+- [Rube Goldberg Machine Benchmark Comparison](https://x.com/mkeremturhan/status/2111211281814294908) — @mkeremturhan · Claude Opus 5.5 / Grok 4.7 / NVIDIA Nemotron (version unspecified) / Space Bunny (agent; model unspecified) · [Prompt](../prompts/motion-2111211281814294908.md#prompt)
+- [Colosseum Construction 3D Three.js Film](https://x.com/genuenci/status/2111155149003710638) — @genuenci · Claude Opus 5.5 / GPT (version unspecified) · [Prompt](../prompts/motion-2111155149003710638.md#prompt)
+- [3D Car Crash Simulation Benchmark](https://x.com/melvynx/status/2111081760369107300) — @melvynx · Claude Opus 5.5 / Gemini 4 Argon / Muse Wonder 1.0 / GPT-6.1 Sol · [Prompt](../prompts/motion-2111081760369107300.md#prompt)
+- [Interactive Voxel Ship in a Bottle Diorama](https://x.com/arixxbt/status/2110835030964732074) — @arixxbt · Gemini 4 Argon / Claude Opus 5.5 · [Prompt](../prompts/motion-2110835030964732074.md#prompt)
+- [3D Mediterranean Tsunami Simulation in Three.js](https://x.com/genuenci/status/2110724865711862155) — @genuenci · Claude Opus 5.5 / ChatGPT (version unspecified) · [Prompt](../prompts/motion-2110724865711862155.md#prompt)
+- [3D Eiffel Tower Generation in Three.js with Claude Opus 5.5](https://x.com/AkshayGurav_/status/2110712475167629442) — @AkshayGurav_ · Gemini 4 Argon / Claude Opus 5.5 / GPT-6 Astra / Kimi K3 · [Prompt](../prompts/motion-2110712475167629442.md#prompt)
+- [Interactive 3D Dam Collapse Simulation](https://x.com/genuenci/status/2110620135245443294) — @genuenci · Claude Opus 5.5 / ChatGPT (version unspecified) · [Prompt](../prompts/motion-2110620135245443294.md#prompt)
+- [Claude Code Mascot 3D Recreation in Three.js](https://x.com/yurshevv/status/2110478089478127834) — @yurshevv · Claude Opus 5.5 · [Prompt](../prompts/motion-2110478089478127834.md#prompt)
+- [Antlight: Glowing Colony Terrarium Simulation](https://x.com/jeffbruchado/status/2110491352311984308) — @jeffbruchado · Claude Opus 5.5 / Claude Sonnet 5.5 · [Prompt](../prompts/motion-2110491352311984308.md#prompt)
+- [3D Whale Breaching Scene Model Comparison](https://x.com/Bhavani_00007/status/2110078803297055212) — @Bhavani_00007 · Gemini 4 Argon / Claude Opus 5.5 / GPT-6 Astra / Kimi K3 · [Prompt](../prompts/motion-2110078803297055212.md#prompt)
 
 
 <a id="music-audiovisual"></a>
@@ -273,3 +301,14 @@
 - [3D Forest Conservation Website](https://x.com/Souradip3000/status/2103876499262800291) — @Souradip3000 · Claude Opus 5.5 · [Prompt](../prompts/motion-2103876499262800291.md#prompt)
 - [Deep-Sea Horror Game](https://x.com/ggsimm/status/2102882622053535814) — @ggsimm · Claude Opus 5.5 · [Prompt](../prompts/motion-2102882622053535814.md#prompt)
 - [Underground Delivery Network Game](https://x.com/lisp_mi/status/2104046743751139812) — @lisp_mi · Claude Opus 5.5 · [Prompt](../prompts/motion-2104046743751139812.md#prompt)
+- [Interactive Ant Colony Terrarium in HTML](https://x.com/BuildFastWithAI/status/2110400267783110897) — @BuildFastWithAI · Gemini 4 Argon / Claude Opus 5.5 · [Prompt](../prompts/motion-2110400267783110897.md#prompt)
+- [Interactive 3D Eiffel Tower Scene in Browser](https://x.com/maker_evan/status/2108490153467478249) — @maker_evan · Claude Opus 5.5 / GPT-6 Astra · [Prompt](../prompts/motion-2108490153467478249.md#prompt)
+- [Interactive 3D Planetary Gearbox CAD Simulation](https://x.com/KanikaBK/status/2107788313390416110) — @KanikaBK · Claude Opus 5.5 · [Prompt](../prompts/motion-2107788313390416110.md#prompt)
+- [Interactive Sliceable Jelly Toy Simulation](https://x.com/ottollm/status/2112309298768306299) — @ottollm · MiniMax M3.1 Flash / Claude Opus 5.5 · [Prompt](../prompts/motion-2112309298768306299.md#prompt)
+- [Interactive Three.js Slime Simulation (Claude Opus 5.5 vs GPT-6.1-sol)](https://x.com/realmilessun/status/2111484789685735539) — @realmilessun · Claude Opus 5.5 / GPT-6.1 Sol · [Prompt](../prompts/motion-2111484789685735539.md#prompt)
+- [3D Jelly Fruit Interactive Website](https://x.com/0xEver4k/status/2111408548249006439) — @0xEver4k · Gemini 4 Argon / Claude Opus 5.5 · [Prompt](../prompts/motion-2111408548249006439.md#prompt)
+- [3D Car Configurator Benchmark Across Coding Agents](https://x.com/SergeForge/status/2111135774544441654) — @SergeForge · Claude Opus 5.5 / Claude Sonnet 5.5 / GPT-6.1 Sol / Claude Haiku 5.5 · [Prompt](../prompts/motion-2111135774544441654.md#prompt)
+- [Interactive Three.js Spaceship Cockpit Warp Jump Comparison](https://x.com/olezhavich/status/2111085252592415232) — @olezhavich · Claude Opus 5.5 / GPT-6.1 Sol · [Prompt](../prompts/motion-2111085252592415232.md#prompt)
+- [Interactive Tokyo Street Alley at Night in the Rain](https://x.com/olezhavich/status/2110708088680403204) — @olezhavich · Claude Opus 5.5 / GPT-6.1 Sol · [Prompt](../prompts/motion-2110708088680403204.md#prompt)
+- [Interactive 3D LEGO Instructions Viewer (BrickForge)](https://x.com/HeyMrOdo/status/2110317136086470729) — @HeyMrOdo · Claude Opus 5.5 · [Prompt](../prompts/motion-2110317136086470729.md#prompt)
+- [Claude Opus 5.5 vs Gemini Argon: Procedural 3D Plush Cat in Three.js](https://x.com/geek_zard/status/2110216255474897247) — @geek_zard · Claude Opus 5.5 / Gemini Argon · [Prompt](../prompts/motion-2110216255474897247.md#prompt)
