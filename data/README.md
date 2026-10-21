@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-895 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+896 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -469,6 +469,7 @@
 - [MotionVault: Scroll Timeline](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/scroll.ts#L62) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-timeline.md#prompt)
 - [motion-pack: Proof clip × Swiss Grid, 15 s 16:9](https://github.com/ANVEAI/motion-pack/blob/main/docs/prompts.md#L207) — @ANVEAI / motion-pack contributors · Claude Code / model-agnostic coding agent (motion-pack required) · [Prompt](../prompts/motion-motion-pack-proof-clip.md#prompt)
 - [motion-pack: Explainer × Blueprint, 45 s 16:9](https://github.com/ANVEAI/motion-pack/blob/main/docs/prompts.md#L235) — @ANVEAI / motion-pack contributors · Claude Code / model-agnostic coding agent (motion-pack required) · [Prompt](../prompts/motion-motion-pack-explainer.md#prompt)
+- [Context Tax: narrated motion explainer for an engineering team](https://x.com/mablesjoseph/status/2105472483054735781) — @mablesjoseph · Claude Opus 5.5 (Max effort) / Remotion / ElevenLabs (author reported) · [Prompt](../prompts/motion-2105472483054735781.md#prompt)
 
 
 <a id="characters-stories"></a>
