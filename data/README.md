@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-944 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+952 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -1004,3 +1004,11 @@
 - [MotionVault: Spotlight](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/card.ts#L42) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-spotlight-card.md#prompt)
 - [MotionVault: Pixel Surge](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/card.ts#L220) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-pixel-card.md#prompt)
 - [MotionVault: Spring Cursor](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/spring.ts#L97) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-spring-cursor.md#prompt)
+- [Motion Prompt: Pinning](https://showheyohtaki.github.io/motion-prompt/#076) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-076.md#prompt)
+- [Motion Prompt: Horizontal scroll](https://showheyohtaki.github.io/motion-prompt/#077) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-077.md#prompt)
+- [Motion Prompt: Scroll snap](https://showheyohtaki.github.io/motion-prompt/#078) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-078.md#prompt)
+- [Motion Prompt: Highlighter animation](https://showheyohtaki.github.io/motion-prompt/#080) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-080.md#prompt)
+- [Motion Prompt: Underline animation](https://showheyohtaki.github.io/motion-prompt/#086) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-086.md#prompt)
+- [Motion Prompt: Before/after slider](https://showheyohtaki.github.io/motion-prompt/#087) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-087.md#prompt)
+- [Motion Prompt: Page transition](https://showheyohtaki.github.io/motion-prompt/#092) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-092.md#prompt)
+- [Motion Prompt: Floating animation](https://showheyohtaki.github.io/motion-prompt/#096) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-096.md#prompt)
