@@ -25353,5 +25353,33 @@
       "visualQuality": "not_reviewed",
       "fullReview": false
     }
+  },
+  {
+    "id": "2112946391878393917",
+    "title": "Zombie and alien donut-shop comedy with a time-freeze fight",
+    "author": "bmx_ai13",
+    "sourceUrl": "https://x.com/bmx_ai13/status/2112946391878393917",
+    "promptSourceUrl": "https://x.com/bmx_ai13/status/2112946391878393917",
+    "prompt": "FORMAT: 30 seconds | 24fps cinematic | ultra photorealistic live action | studio comedy action | practical prosthetic creature makeup | VFX time freeze | 2am fluorescent night interior. Real-time, no random slow motion.\n\nNO ON-SCREEN TEXT - CRITICAL: no captions, subtitles, titles, logos, watermarks, timecode or UI at any point. Menu board and case labels are blank coloured panels, never legible.\n\nIDENTITY LOCK: the same two leads in every shot, never changing face, skin, height, wardrobe or props. No morphing, no extra fighters. The cashier and four customers become frozen statues after 0:03 and never move, blink or react until 0:27.\n\nCHARACTERS\nTHE ZOMBIE: 6 foot 2, gaunt, grey-green mottled skin with dry cracked patches, cloudy pale eyes, sunken sockets, lank dark hair, no wounds, no blood. Torn navy night-shift security uniform, crooked clip-on tie, one shoe untied. Moves stiff and heavy, then surprisingly quick. Voice: deep gravelly rasp, slow, every word an effort.\nTHE ALIEN: 4 foot 10, slender, smooth pale lilac skin, large glossy black almond eyes, small nostril slits, narrow bald cranium, long four-fingered hands. Oversized yellow tourist rain poncho, small cross-body camera. Voice: light, clipped, overly correct English with a faint electronic flutter.\n\nENVIRONMENT: a narrow 24-hour donut shop at 2am. Cream tile floor, chrome stools, a lit glass display case along the right wall, all trays empty except exactly ONE glazed donut on a paper doily, glowing under the case light. Rain streaking the front window, a red traffic light outside.\n\n0:00-0:03 THE FREEZE\nHandheld medium down the counter. A customer drops a coffee cup, coffee arcing. The zombie and the alien lunge at the case from opposite ends. Sound drops out. Everything stops: coffee hangs as a glossy brown ribbon, raindrops pinned on the glass, the cashier's yawn locked open. Only the two leads keep moving.\n\n0:03-0:08 REALIZATION\nBoth straighten, look at the hanging coffee, then each other. Slow 30 degree orbit.\nALIEN: \"I have crossed four galaxies for this donut.\"\nZOMBIE: \"I... died... for this donut.\"\nALIEN: \"That is not the same thing.\"\n\n0:08-0:13 FIRST EXCHANGE\nThe zombie swings a long stiff arm, the alien ducks, slides on wet tile and kicks a stool into his shins. He topples, catches the counter, groans. Whip pan as she vaults onto the counter.\n\n0:13-0:18 THE FLASH\nShe snaps her camera in his face, a hard white flash. He staggers, then pulls a folded umbrella from a frozen customer with real effort, the customer staying rigid.\nZOMBIE: \"Rude.\"\n\n0:18-0:23 COUNTER FIGHT\nFast tracking shot. She leaps stool to stool over frozen shoulders, he swings the umbrella, she parries with a frozen customer's rolled newspaper. Three crisp readable exchanges. His clip-on tie pops off. Her hood flops over her eyes.\n\n0:23-0:27 TRUCE\nBoth stop, breathing hard, hands on knees, coffee ribbon between them.\nALIEN: \"Share?\"\nZOMBIE: \"Share.\"\nThey shake hands, four lilac fingers in a grey palm. Micro pause. Both eyes flick to the donut.\n\n0:27-0:30 TIME RESUMES\nBoth dive at the case. The world unfreezes: coffee splashes down, the cashier finishes the yawn, customers jolt, rain runs, fridge hum slams back.\n\nLAST FRAME: locked medium wide down the counter. The zombie and the alien pressed cheek to cheek at the open case, both gripping the one donut, glaze stretching between their hands, both grinning, coffee spraying through the light. Cashier and customers turn to stare. No text, captions, subtitles, signage lettering, logos or watermarks anywhere in frame.\n\nCAMERA: controlled handheld in exchanges, smooth dolly and orbit on freeze reveals, low angle for the zombie, eye level for the alien, fast whip pans. Shallow depth on dialogue, consistent screen direction.\n\nLIGHT AND COLOUR: cold overhead fluorescent key, warm amber case glow on faces and the donut, red street light through the rainy window. 70% cool tile and skin, 20% case amber, 10% red.\n\nVFX AND PHYSICS: frozen liquid holds surface tension and highlights. The resume restores gravity in one continuous frame, no morphing, no dissolve. Stools scrape and tip, his heavy fall shakes the counter, she lands light, poncho crackling and lagging, true contact shadows. Nothing floats except the deliberately frozen.\n\nACTING: natural blinking, active brows on the zombie, the alien's eyes narrowing and widening, dry deadpan timing. Only the speaker's mouth forms words.\n\nAUDIO, DIEGETIC ONLY: fridge hum and rain before the freeze. During it near-silence: breathing, a dry groan, sneaker squeak on wet tile, poncho crackle, stool scrape, umbrella whoosh, shutter clack. At resume: splash, gasps, rain and hum return. These are the only words spoken. No music, no score, no humming, no swell, no drone.\n\nLOCKS: No blood, no gore, no wounds. No duplicated people, no extra limbs, the alien always has four fingers. No wardrobe or face changes, no cartoon physics, no excessive shake. Dry comedy, readable fight, coherent physics.",
+    "model": "Seedance 2.5",
+    "primaryCategory": "characters-stories",
+    "promptStatus": "source_transcribed",
+    "promptCompleteness": "published_video_generation_prompt",
+    "notes": "Discovered in X Latest search. Complete prompt was read directly from the same author post containing the native video and Seedance 2.5 attribution. This is generated cinematic character video and VFX, not code-rendered motion graphics. The prompt specifies a 30-second sequence, fixed character identities, time-freeze physics, dialogue and diegetic audio only; these requested properties were not independently verified in the output. Native video presence was confirmed, but full playback and visual quality were not reviewed.",
+    "platform": "X",
+    "modelStatus": "author_claim",
+    "status": "collected",
+    "promptFile": "prompts/motion-2112946391878393917.md",
+    "discoveryUrl": "https://x.com/bmx_ai13/status/2112946391878393917",
+    "verification": {
+      "method": "chrome_mcp_x_latest_original_thread",
+      "checkedAt": "2026-10-22",
+      "originalPostConfirmed": true,
+      "promptMatchedSource": true,
+      "authorClaimConfirmed": true,
+      "nativeVideoConfirmed": true,
+      "visualQuality": "not_reviewed",
+      "fullReview": false
+    }
   }
 ]
