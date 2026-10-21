@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-981 works with prompt text saved in this repository. The collection includes published briefs, workflows and reusable animation templates. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+983 works with prompt text saved in this repository. The collection includes published briefs, workflows and reusable animation templates. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -638,6 +638,7 @@
 - [Stickman Video Director: Stop Letting Overthinking Ruin Your Life](https://github.com/kaomei/stickman-video-director/blob/main/skills/directing-stickman-videos/references/examples.md#phase-b--omni-flash-production-package) — @kaomei / stickman-video-director contributors · Gemini Omni Flash (published target; generation not independently confirmed) · [Prompt](../prompts/motion-stickman-director-overthinking.md#prompt)
 - [Stickman Video Director: Zeke: glass ceiling, light bridge and vault](https://github.com/kaomei/stickman-video-director/blob/main/skills/directing-stickman-videos/references/examples.md#example-2-style-2a-modern-beanie-zeke--modern-studio-tech) — @kaomei / stickman-video-director contributors · Gemini Omni Flash (published target; generation not independently confirmed) · [Prompt](../prompts/motion-stickman-director-invisible-boundaries.md#prompt)
 - [Mrs Bramble’s elevator armor reveal: six-model image-to-video comparison](https://x.com/KorpiAi/status/2112966594997481617) — @KorpiAi · Wan 3.0 / Veo 3.1 Fast / Kling v3 / Gemini Omni / Seedance 2.5 / LTX 2 (author reported) · [Prompt](../prompts/motion-2112966594997481617.md#prompt)
+- [OSideMedia: Rainy night-market pursuit with a sliding gate escape](https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/main/templates/01-cinematic-action-chase.md#example-prompt) — @OSideMedia / higgsfield-ai-prompt-skill contributors · Kling 3.0 (template target; generation not confirmed) · [Prompt](../prompts/motion-osidemedia-01-cinematic-action-chase.md#prompt)
 
 
 <a id="3d-simulations"></a>
@@ -802,6 +803,7 @@
 - [Depth-aware particle video reconstruction with beat-driven impacts](https://x.com/Pluvio9yte/status/2107087191738662953) — @Pluvio9yte · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2107087191738662953.md#prompt)
 - [Motion Prompt: J-cut](https://showheyohtaki.github.io/motion-prompt/#047) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-047.md#prompt)
 - [Motion Prompt: L-cut](https://showheyohtaki.github.io/motion-prompt/#048) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-048.md#prompt)
+- [OSideMedia: Contemporary dancer with orbiting camera and glow trails](https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/main/templates/10-dance-music-performance.md#example-prompt) — @OSideMedia / higgsfield-ai-prompt-skill contributors · Minimax Hailuo 2.3 (template target; generation not confirmed) · [Prompt](../prompts/motion-osidemedia-10-dance-music-performance.md#prompt)
 
 
 <a id="interactive"></a>

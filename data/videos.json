@@ -32545,5 +32545,67 @@
       "visualQuality": "not_reviewed",
       "fullReview": false
     }
+  },
+  {
+    "id": "osidemedia-01-cinematic-action-chase",
+    "title": "OSideMedia: Rainy night-market pursuit with a sliding gate escape",
+    "author": "OSideMedia / higgsfield-ai-prompt-skill contributors",
+    "sourceUrl": "https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/main/templates/01-cinematic-action-chase.md#example-prompt",
+    "promptSourceUrl": "https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/main/templates/01-cinematic-action-chase.md#example-prompt",
+    "prompt": "Model: Kling 3.0\nAspect: 16:9 | Duration: 10s | Style: Cinematic\n\nA woman in a tactical jacket sprints through a rain-soaked night market,\nweaving between stalls and startled vendors. Steam rises from food carts.\nNeon signs fracture in every puddle.\nCamera: Action Run — low behind her, matching pace.\nA metal gate drops ahead. She slides under it without breaking stride.\nStyle: Cinematic. Cold blue shadows, warm amber market light, high contrast. 16:9.",
+    "model": "Kling 3.0 (template target; generation not confirmed)",
+    "primaryCategory": "characters-stories",
+    "promptStatus": "creator_published_production_example",
+    "promptCompleteness": "complete_published_example_prompt",
+    "requiresReference": false,
+    "notes": "Public annotated Example prompt from a community Higgsfield prompting library. This is a reusable production template, not an original model-run transcript or a confirmed finished video. The named model, camera and effect presets, duration and aspect ratio are preserved as source-specified targets; platform availability and model capabilities were not independently verified. No corresponding rendered output is supplied by this example document. The dance example changes from an orbit to an overhead shot, despite nearby general advice about one camera movement; this source inconsistency is preserved rather than silently rewritten. Only the main example is counted; alternate styles, settings, identity/motion blocks and reference variations are not additional entries. Source read through Chrome MCP. No generation, playback or visual-quality test was performed.",
+    "platform": "GitHub",
+    "modelStatus": "not_specified",
+    "status": "collected",
+    "promptFile": "prompts/motion-osidemedia-01-cinematic-action-chase.md",
+    "discoveryUrl": "https://github.com/OSideMedia/higgsfield-ai-prompt-skill",
+    "verification": {
+      "method": "chrome_mcp_published_workflow_documentation",
+      "checkedAt": "2026-10-22",
+      "originalPostConfirmed": true,
+      "promptMatchedSource": true,
+      "authorClaimConfirmed": false,
+      "nativeVideoConfirmed": false,
+      "exampleFilesListed": false,
+      "exactPromptOutputConfirmed": false,
+      "visualQuality": "not_reviewed",
+      "fullReview": false
+    }
+  },
+  {
+    "id": "osidemedia-10-dance-music-performance",
+    "title": "OSideMedia: Contemporary dancer with orbiting camera and glow trails",
+    "author": "OSideMedia / higgsfield-ai-prompt-skill contributors",
+    "sourceUrl": "https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/main/templates/10-dance-music-performance.md#example-prompt",
+    "promptSourceUrl": "https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/main/templates/10-dance-music-performance.md#example-prompt",
+    "prompt": "Model: Minimax Hailuo 2.3\nAspect: 16:9 | Duration: 10s | Style: Cinematic\n\nA dancer in a white flowing dress performs alone in a vast black studio.\nA single overhead spotlight. She moves through contemporary choreography —\nslow arms, sudden explosive turns, floor work.\nCamera: 360 Orbit tightening toward her as movement intensifies.\nOverhead shot as she collapses to the floor in the final beat.\nStyle: Cinematic. Pure black and white contrast. 16:9.\nApply Glow Trace preset — her movement leaves a trail of white light.",
+    "model": "Minimax Hailuo 2.3 (template target; generation not confirmed)",
+    "primaryCategory": "music-audiovisual",
+    "promptStatus": "creator_published_production_example",
+    "promptCompleteness": "complete_published_example_prompt",
+    "requiresReference": false,
+    "notes": "Public annotated Example prompt from a community Higgsfield prompting library. This is a reusable production template, not an original model-run transcript or a confirmed finished video. The named model, camera and effect presets, duration and aspect ratio are preserved as source-specified targets; platform availability and model capabilities were not independently verified. No corresponding rendered output is supplied by this example document. The dance example changes from an orbit to an overhead shot, despite nearby general advice about one camera movement; this source inconsistency is preserved rather than silently rewritten. Only the main example is counted; alternate styles, settings, identity/motion blocks and reference variations are not additional entries. Source read through Chrome MCP. No generation, playback or visual-quality test was performed.",
+    "platform": "GitHub",
+    "modelStatus": "not_specified",
+    "status": "collected",
+    "promptFile": "prompts/motion-osidemedia-10-dance-music-performance.md",
+    "discoveryUrl": "https://github.com/OSideMedia/higgsfield-ai-prompt-skill",
+    "verification": {
+      "method": "chrome_mcp_published_workflow_documentation",
+      "checkedAt": "2026-10-22",
+      "originalPostConfirmed": true,
+      "promptMatchedSource": true,
+      "authorClaimConfirmed": false,
+      "nativeVideoConfirmed": false,
+      "exampleFilesListed": false,
+      "exactPromptOutputConfirmed": false,
+      "visualQuality": "not_reviewed",
+      "fullReview": false
+    }
   }
 ]
