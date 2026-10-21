@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-717 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+722 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -484,6 +484,7 @@
 - [Clawd: a one-minute character film without text](https://x.com/LexnLin/status/2110389810258968965) — LexnLin · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2110389810258968965.md#prompt)
 - [Cute Oktoberfest character animation](https://x.com/cherry_mx_reds/status/2102493303388475855) — cherry_mx_reds · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2102493303388475855.md#prompt)
 - [Sci-fi morning routine reveals a vast city](https://x.com/AIWarper/status/2105370568178479476) — AIWarper · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2105370568178479476.md#prompt)
+- [High-speed parkour motion previz](https://x.com/Kashiko_AIart/status/2096096560690209130) — かし子🍩 · GPT-6 Astra (directory reported) · [Prompt](../prompts/motion-2096096560690209130.md#prompt)
 
 
 <a id="3d-simulations"></a>
@@ -588,6 +589,7 @@
 - [Lighthouse Thunderstorm HTML Canvas Animation](https://x.com/onmanjrekar/status/2110166432151400762) — onmanjrekar · Claude Opus 5.5 / Gemini Argon 4 / Claude Sonnet 5.5 / Fable 5.1 / Muse Spark 1.3 (directory reported) · [Prompt](../prompts/motion-2110166432151400762.md#prompt)
 - [Puzzle cube solves on camera with move counter and timer](https://x.com/semichenkko/status/2111754643604636049) — semichenkko · Claude Opus 5.5 / DeepSeek V4.1 Flash (directory reported) · [Prompt](../prompts/motion-2111754643604636049.md#prompt)
 - [Cottagecore Japanese minka build with a cinematic Minecraft tour](https://x.com/nik_akki/status/2110807768550764628) — nik_akki · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2110807768550764628.md#prompt)
+- [Gargantua black-hole geodesic raytracer (WebGL2)](https://x.com/devloper_hs/status/2079590483727442205) — Harsh · Kimi K3 (directory reported) · [Prompt](../prompts/motion-2079590483727442205.md#prompt)
 
 
 <a id="music-audiovisual"></a>
@@ -633,6 +635,7 @@
 - [Generative Goldfish in Black Lacquer Bowl with Sound](https://x.com/mizugame_22/status/2104940371038109764) — mizugame_22 · Claude Opus 5.5 / Claude Sonnet 5.5 (directory reported) · [Prompt](../prompts/motion-2104940371038109764.md#prompt)
 - [Spoken Word Video: All Watched Over by Machines of Loving Grace](https://x.com/BretKerr/status/2104408032792990102) — BretKerr · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2104408032792990102.md#prompt)
 - [Pixel-art Halloween diorama for a long lofi loop](https://x.com/HugoDuprez/status/2102746041250705890) — HugoDuprez · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2102746041250705890.md#prompt)
+- [Nightjar Listening Room](https://developers.openai.com/showcase/nightjar-listening-room) — Katia Gil Guzman (OpenAI) · GPT-6 Astra (directory reported) · [Prompt](../prompts/motion-nightjar-listening-room.md#prompt)
 
 
 <a id="interactive"></a>
@@ -777,3 +780,5 @@
 - [Fable 5.5 interactive 3D Xbox controller](https://x.com/notjazii/status/2106050222828998967) — notjazii · Fable 5.5 (directory reported) · [Prompt](../prompts/motion-2106050222828998967.md#prompt)
 - [Peach Jelly: soft flesh and removable pit material study](https://x.com/vib3coded/status/2112240323560645092) — vib3coded · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2112240323560645092.md#prompt)
 - [Plush Watermelon with soft-body gait and cloth limbs](https://x.com/vib3coded/status/2111428909203866089) — vib3coded · Claude Opus 5.5 / Gemini 4 Argon (directory reported) · [Prompt](../prompts/motion-2111428909203866089.md#prompt)
+- [Courtyard House](https://developers.openai.com/showcase/courtyard-house) — Katia Gil Guzman (OpenAI) · GPT-6 Astra (directory reported) · [Prompt](../prompts/motion-courtyard-house.md#prompt)
+- [Tidal House](https://developers.openai.com/showcase/tidal-house) — Katia Gil Guzman (OpenAI) · GPT-6 Astra (directory reported) · [Prompt](../prompts/motion-tidal-house.md#prompt)
