@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-983 works with prompt text saved in this repository. The collection includes published briefs, workflows and reusable animation templates. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+988 works with prompt text saved in this repository. The collection includes published briefs, workflows and reusable animation templates. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -175,6 +175,8 @@
 - [motion-pack: SaaS feature drop × Swiss Grid, 20 s 16:9](https://github.com/ANVEAI/motion-pack/blob/main/docs/prompts.md#L171) — @ANVEAI / motion-pack contributors · Claude Code / model-agnostic coding agent (motion-pack required) · [Prompt](../prompts/motion-motion-pack-saas-feature-drop.md#prompt)
 - [X Vision: on-brand startup launch film with a beat-synced score](https://x.com/meetarno/status/2102934732203782464) — @meetarno · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2102934732203782464.md#prompt)
 - [AI_Animation: Cinematic phone UI product walkthrough](https://github.com/Unclecheng-li/AI_Animation/blob/master/skills/phone-ui-demos/README.md#使用方式) — @Unclecheng-li / AI_Animation contributors · Model-agnostic coding agent (AI_Animation skill required) · [Prompt](../prompts/motion-ai-animation-phone-ui-demos.md#prompt)
+- [OSideMedia: Robot-arm travel mug reveal with a macro pour](https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/main/templates/02-product-ugc-showcase.md#example-prompt) — @OSideMedia / higgsfield-ai-prompt-skill contributors · Kling 3.0 (video) / Nano Banana Pro (image) (template target; generation not confirmed) · [Prompt](../prompts/motion-osidemedia-02-product-ugc-showcase.md#prompt)
+- [OSideMedia: Fashion walk with a retreating camera and hard shadows](https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/main/templates/04-fashion-editorial.md#example-prompt) — @OSideMedia / higgsfield-ai-prompt-skill contributors · Kling 3.0 (template target; generation not confirmed) · [Prompt](../prompts/motion-osidemedia-04-fashion-editorial.md#prompt)
 
 
 <a id="motion-studies"></a>
@@ -380,6 +382,7 @@
 - [Melt: a solid character surrounded by a liquefying environment](https://x.com/magnific/status/2112975398363676721) — @magnific · Kling (version not specified) (author reported) · [Prompt](../prompts/motion-2112975398363676721.md#prompt)
 - [Multiverse: a fixed face across rapid reality switches](https://x.com/magnific/status/2112975356558999740) — @magnific · Kling (version not specified) (author reported) · [Prompt](../prompts/motion-2112975356558999740.md#prompt)
 - [Fluid: a person liquefies, travels and reconstructs in new poses](https://x.com/magnific/status/2112975313043116064) — @magnific · Kling (version not specified) (author reported) · [Prompt](../prompts/motion-2112975313043116064.md#prompt)
+- [OSideMedia: Storm front accelerates across an open ocean](https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/main/templates/07-landscape-establishing-shot.md#example-prompt) — @OSideMedia / higgsfield-ai-prompt-skill contributors · Veo 3.1 (template target; generation not confirmed) · [Prompt](../prompts/motion-osidemedia-07-landscape-establishing-shot.md#prompt)
 
 
 <a id="explainers-data"></a>
@@ -639,6 +642,8 @@
 - [Stickman Video Director: Zeke: glass ceiling, light bridge and vault](https://github.com/kaomei/stickman-video-director/blob/main/skills/directing-stickman-videos/references/examples.md#example-2-style-2a-modern-beanie-zeke--modern-studio-tech) — @kaomei / stickman-video-director contributors · Gemini Omni Flash (published target; generation not independently confirmed) · [Prompt](../prompts/motion-stickman-director-invisible-boundaries.md#prompt)
 - [Mrs Bramble’s elevator armor reveal: six-model image-to-video comparison](https://x.com/KorpiAi/status/2112966594997481617) — @KorpiAi · Wan 3.0 / Veo 3.1 Fast / Kling v3 / Gemini Omni / Seedance 2.5 / LTX 2 (author reported) · [Prompt](../prompts/motion-2112966594997481617.md#prompt)
 - [OSideMedia: Rainy night-market pursuit with a sliding gate escape](https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/main/templates/01-cinematic-action-chase.md#example-prompt) — @OSideMedia / higgsfield-ai-prompt-skill contributors · Kling 3.0 (template target; generation not confirmed) · [Prompt](../prompts/motion-osidemedia-01-cinematic-action-chase.md#prompt)
+- [OSideMedia: A hallway mirror changes while its owner stays still](https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/main/templates/03-horror-atmosphere.md#example-prompt) — @OSideMedia / higgsfield-ai-prompt-skill contributors · Kling 3.0 (template target; generation not confirmed) · [Prompt](../prompts/motion-osidemedia-03-horror-atmosphere.md#prompt)
+- [OSideMedia: Deadpan office coffee against a chaotic background](https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/main/templates/08-comedy-social-media.md#example-prompt) — @OSideMedia / higgsfield-ai-prompt-skill contributors · Kling 3.0 (template target; generation not confirmed) · [Prompt](../prompts/motion-osidemedia-08-comedy-social-media.md#prompt)
 
 
 <a id="3d-simulations"></a>
