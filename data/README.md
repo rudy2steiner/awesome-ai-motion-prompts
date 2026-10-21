@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-749 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+752 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -159,6 +159,7 @@
 - [Clawd Moves In — Living Screencast](https://github.com/lemomo-ai/lemo-opuscar/blob/main/styles/living-screencast/STYLE.md) — @lemomo-ai · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-lemo-living-screencast.md#prompt)
 - [Tennis game launch video](https://x.com/deifosv/status/2103197522382786581) — @deifosv · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2103197522382786581.md#prompt)
 - [Ren app: a 30-second launch motion and sound design brief](https://x.com/macrohou/status/2103545787875733862) — @macrohou · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2103545787875733862.md#prompt)
+- [BMX Juice: slapstick commercial with an aerial dive and slow-motion stunt](https://x.com/bmx_ai13/status/2108306440855101555) — @bmx_ai13 · Wan 3.0 (author reported) · [Prompt](../prompts/motion-2108306440855101555.md#prompt)
 
 
 <a id="motion-studies"></a>
@@ -282,6 +283,7 @@
 - [Opus 5.5 Motion Designer Showreel](https://x.com/Ai9app/status/2104912803786375645) — Ai9app · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2104912803786375645.md#prompt)
 - [Multiplane city timelapse with foreground occlusion](https://x.com/_davideast/status/2112932231270285730) — @_davideast · Gemini 4 Argon (author reported) · [Prompt](../prompts/motion-2112932231270285730.md#prompt)
 - [Gemini 4 Carbon: thirty-second motion graphics demo](https://x.com/Genysis_Ai_26/status/2112909613788230013) — @Genysis_Ai_26 · Gemini 4 Carbon (author reported) · [Prompt](../prompts/motion-2112909613788230013.md#prompt)
+- [24 Hours Solo in Bangkok: fisheye travel montage and rhythmic match cuts](https://x.com/bmx_ai13/status/2097611216965497165) — @bmx_ai13 · Wan 3 (author reported) · [Prompt](../prompts/motion-2097611216965497165.md#prompt)
 
 
 <a id="explainers-data"></a>
@@ -505,6 +507,7 @@
 - [Humpback whale breach: a procedural fifteen-second ocean cinematic](https://x.com/aGim_asf/status/2112578971049115653) — @aGim_asf · Claude Opus 5.5 / DeepSeek V4.1 Flash 1017 / MiniMax M3.1 Flash (author reported) · [Prompt](../prompts/motion-2112578971049115653.md#prompt)
 - [One-shot maglev journey through titans, dinosaurs and an artificial sun world](https://x.com/HeyAbhishek/status/2106710882567037394) — @HeyAbhishek · Seedance 2.5 / Claude Opus 5.5 (author reported) (author reported) · [Prompt](../prompts/motion-2106710882567037394.md#prompt)
 - [Zombie and alien donut-shop comedy with a time-freeze fight](https://x.com/bmx_ai13/status/2112946391878393917) — @bmx_ai13 · Seedance 2.5 (author reported) · [Prompt](../prompts/motion-2112946391878393917.md#prompt)
+- [Something in the Tea: a tiny dragon café comedy](https://x.com/bmx_ai13/status/2108899939816439877) — @bmx_ai13 · Seedance 2.5 (author reported) · [Prompt](../prompts/motion-2108899939816439877.md#prompt)
 
 
 <a id="3d-simulations"></a>
