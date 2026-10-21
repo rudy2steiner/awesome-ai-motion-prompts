@@ -26412,5 +26412,61 @@
       "visualQuality": "not_reviewed",
       "fullReview": false
     }
+  },
+  {
+    "id": "2106789700807856416",
+    "title": "3D pixel-art pelican cycling over a city bridge: three-model comparison",
+    "author": "SadAlbert10",
+    "sourceUrl": "https://x.com/SadAlbert10/status/2106789700807856416",
+    "promptSourceUrl": "https://x.com/SadAlbert10/status/2106789700807856416",
+    "prompt": "Make a realistic 3D pixel Art animation of a Pelican riding a Bicycle over the Bridge, beautiful city in the background.",
+    "model": "Gemini 3.1 Pro (high) / Claude Sonnet 5.5 (high) / Claude Opus 5.5 (medium)",
+    "primaryCategory": "motion-studies",
+    "promptStatus": "source_transcribed",
+    "promptCompleteness": "published_short_prompt",
+    "notes": "Older work found while reviewing upstream leads. The exact short prompt was read directly from the original author post, which contains native comparison video. Model labels and effort settings are author-reported; the entire comparison is counted once, not once per model. Native video presence was confirmed; full playback, visual quality and actual model/runtime configuration were not independently reviewed. Prior context is not established.",
+    "platform": "X",
+    "modelStatus": "author_claim",
+    "status": "collected",
+    "promptFile": "prompts/motion-2106789700807856416.md",
+    "discoveryUrl": "https://x.com/SadAlbert10/status/2106789700807856416",
+    "verification": {
+      "method": "chrome_mcp_original_x_prompt_thread",
+      "checkedAt": "2026-10-22",
+      "originalPostConfirmed": true,
+      "promptMatchedSource": true,
+      "authorClaimConfirmed": true,
+      "nativeVideoConfirmed": true,
+      "visualQuality": "not_reviewed",
+      "fullReview": false
+    }
+  },
+  {
+    "id": "2104179308101005594",
+    "title": "Looping SVG pelican: six-model self-contained HTML comparison",
+    "author": "GodsBoy7777",
+    "sourceUrl": "https://x.com/GodsBoy7777/status/2104179308101005594",
+    "promptSourceUrl": "https://x.com/GodsBoy7777/status/2104179308101005594",
+    "prompt": "Create a pelican looping SVG animation. Deliver it as a single self-contained file named index.html in the current directory.",
+    "model": "GPT-6 Astra / GPT-6 Sol / GPT-6 Luna / GPT-5.6 Sol / GPT-5.6 Luna / Claude Opus 5.5",
+    "primaryCategory": "motion-studies",
+    "promptStatus": "source_transcribed",
+    "promptCompleteness": "published_short_prompt",
+    "notes": "Older work found while reviewing upstream leads. The exact short prompt was read directly from the original author post, which contains native comparison video. Model labels and effort settings are author-reported; the entire comparison is counted once, not once per model. Native video presence was confirmed; full playback, visual quality and actual model/runtime configuration were not independently reviewed. Prior context is not established. The author explicitly says one prompt on one day cannot establish model degradation, reports both GPT-5.6 pelicans leaving the frame and lists one-shot/no-edit conditions. File sizes, timings, loop behavior and output-code links were not independently tested. This is a comparison reference, not a claim that all six outputs are production-ready.",
+    "platform": "X",
+    "modelStatus": "author_claim",
+    "status": "collected",
+    "promptFile": "prompts/motion-2104179308101005594.md",
+    "discoveryUrl": "https://x.com/GodsBoy7777/status/2104179308101005594",
+    "verification": {
+      "method": "chrome_mcp_original_x_prompt_thread",
+      "checkedAt": "2026-10-22",
+      "originalPostConfirmed": true,
+      "promptMatchedSource": true,
+      "authorClaimConfirmed": true,
+      "nativeVideoConfirmed": true,
+      "visualQuality": "not_reviewed",
+      "fullReview": false
+    }
   }
 ]

@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-785 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+787 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -299,6 +299,8 @@
 - [Japanese fantasy-city pixel animation: GPT, Sonnet, Opus and Astra comparison](https://x.com/notjazii/status/2105033612093698466) — @notjazii · GPT 6.1 Sol / Sonnet 5.5 / Opus 5.5 / Astra (version unspecified) (author reported) · [Prompt](../prompts/motion-2105033612093698466.md#prompt)
 - [Dot to search bar: five-second typography and matte loop](https://x.com/cgclick/status/2107906341243081068) — @cgclick · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2107906341243081068.md#prompt)
 - [Fear Itself: Art Deco recursive typography and reversed infinite zoom](https://x.com/Gdgtify/status/2110706003058536747) — @Gdgtify · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2110706003058536747.md#prompt)
+- [3D pixel-art pelican cycling over a city bridge: three-model comparison](https://x.com/SadAlbert10/status/2106789700807856416) — @SadAlbert10 · Gemini 3.1 Pro (high) / Claude Sonnet 5.5 (high) / Claude Opus 5.5 (medium) (author reported) · [Prompt](../prompts/motion-2106789700807856416.md#prompt)
+- [Looping SVG pelican: six-model self-contained HTML comparison](https://x.com/GodsBoy7777/status/2104179308101005594) — @GodsBoy7777 · GPT-6 Astra / GPT-6 Sol / GPT-6 Luna / GPT-5.6 Sol / GPT-5.6 Luna / Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2104179308101005594.md#prompt)
 
 
 <a id="explainers-data"></a>
