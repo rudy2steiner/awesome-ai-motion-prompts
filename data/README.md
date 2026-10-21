@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-877 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+883 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -937,3 +937,9 @@
 - [MotionVault: Clip Reveal](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/scroll.ts#L82) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-clip-reveal.md#prompt)
 - [MotionVault: Wallet Pull](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/card.ts#L200) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-wallet-pull.md#prompt)
 - [MotionVault: Scratch Card](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/card.ts#L210) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-scratch-card.md#prompt)
+- [MotionVault: Swipe Match](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/card.ts#L170) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-swipe-cards.md#prompt)
+- [MotionVault: Keycap](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/card.ts#L190) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-keycap.md#prompt)
+- [MotionVault: Accordion Gallery](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/layout.ts#L59) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-accordion-gallery.md#prompt)
+- [MotionVault: Infinite Moving Cards](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/layout.ts#L119) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-infinite-moving.md#prompt)
+- [MotionVault: Tracing Beam](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/scroll.ts#L102) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-tracing-beam.md#prompt)
+- [MotionVault: Spring Modal](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/spring.ts#L27) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-spring-modal.md#prompt)
