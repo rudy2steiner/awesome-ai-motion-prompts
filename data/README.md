@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-740 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+742 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -396,6 +396,7 @@
 - [The Map Still Says Sea — Satellite Briefing](https://github.com/lemomo-ai/lemo-opuscar/blob/main/styles/satellite-briefing/STYLE.md) — @lemomo-ai · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-lemo-satellite-briefing.md#prompt)
 - [Hand-drawn educational video remake with layered GPT assets and Opus animation](https://x.com/wadezone/status/2112042940172570637) — @wadezone · Claude Opus 5.5 / GPT (image model unspecified) / Codex (model unspecified) (author reported) · [Prompt](../prompts/motion-2112042940172570637.md#prompt)
 - [Measured Blue — Microscope Story](https://github.com/lemomo-ai/lemo-opuscar/blob/main/styles/microscope/STYLE.md) — @lemomo-ai · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-lemo-microscope.md#prompt)
+- [Aircraft wing lift: a Three.js explainer comparison](https://x.com/aGim_asf/status/2112872797319856446) — @aGim_asf · Claude Opus 5.5 / DeepSeek V4.1 Flash (author reported) · [Prompt](../prompts/motion-2112872797319856446.md#prompt)
 
 
 <a id="characters-stories"></a>
@@ -498,6 +499,7 @@
 - [Grandmother’s babysitting surprise: a 3D family comedy](https://x.com/Zarnab_with_Ai/status/2112370323320619487) — @Zarnab_with_Ai · Seedance 2.5 (author reported) · [Prompt](../prompts/motion-2112370323320619487.md#prompt)
 - [Midnight at the Starlight Hotel — Art Deco](https://github.com/lemomo-ai/lemo-opuscar/blob/main/styles/art-deco/STYLE.md) — @lemomo-ai · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-lemo-art-deco.md#prompt)
 - [Meet Pip — Mid-century Cartoon](https://github.com/lemomo-ai/lemo-opuscar/blob/main/styles/midcentury-toon/STYLE.md) — @lemomo-ai · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-lemo-midcentury-toon.md#prompt)
+- [Humpback whale breach: a procedural fifteen-second ocean cinematic](https://x.com/aGim_asf/status/2112578971049115653) — @aGim_asf · Claude Opus 5.5 / DeepSeek V4.1 Flash 1017 / MiniMax M3.1 Flash (author reported) · [Prompt](../prompts/motion-2112578971049115653.md#prompt)
 
 
 <a id="3d-simulations"></a>
