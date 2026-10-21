@@ -25178,5 +25178,65 @@
       "visualQuality": "not_reviewed",
       "fullReview": false
     }
+  },
+  {
+    "pageUrl": "https://prompt-motion.com/deifosv-04e4d3",
+    "prompt": "Create a high energy launch video, showing live stats from the website, show that users can play on desktop and mobile and multiple themes, if need, give me a prompt to generate the song using Suno",
+    "sourceUrl": "https://x.com/deifosv/status/2103197522382786581",
+    "title": "Tennis game launch video",
+    "id": "2103197522382786581",
+    "author": "deifosv",
+    "model": "Claude Opus 5.5",
+    "primaryCategory": "product-brand",
+    "promptSourceUrl": "https://prompt-motion.com/deifosv-04e4d3",
+    "promptStatus": "upstream_transcribed",
+    "promptCompleteness": "published_brief",
+    "notes": "Discovered through Prompt Motion, a catalogue linked from X Latest. This is an older work, not a newly published X post. The original post confirms the work, author-reported Opus 5.5 use and native video presence. Prompt text is preserved from the public catalogue transcription; only its opening was independently matched to the original post. The complete original long post, full playback and visual quality were not reviewed. Any referenced skill, website, music or other assets must be supplied separately. Inclusion does not license those assets.",
+    "platform": "X",
+    "modelStatus": "author_claim",
+    "status": "collected",
+    "promptFile": "prompts/motion-2103197522382786581.md",
+    "discoveryUrl": "https://x.com/GMIDave/status/2112431290355958176",
+    "verification": {
+      "method": "chrome_mcp_catalogue_and_original_x_post",
+      "checkedAt": "2026-10-22",
+      "originalPostConfirmed": true,
+      "promptMatchedSource": false,
+      "promptOpeningMatchedSource": true,
+      "authorClaimConfirmed": true,
+      "nativeVideoConfirmed": true,
+      "visualQuality": "not_reviewed",
+      "fullReview": false
+    }
+  },
+  {
+    "pageUrl": "https://prompt-motion.com/lemomo-ai-0d9cff",
+    "prompt": "Create a tutorial video explaining how to create videos using Lemo-Opuscar skill (Opus 5.5) , in a [Whiteboard Explainer] style.  One prompt, one answer, then ship film.",
+    "sourceUrl": "https://x.com/lemomo_ai/status/2104070024575242622",
+    "title": "Whiteboard skill tutorial",
+    "id": "2104070024575242622",
+    "author": "lemomo_ai",
+    "model": "Claude Opus 5.5",
+    "primaryCategory": "explainers-data",
+    "promptSourceUrl": "https://prompt-motion.com/lemomo-ai-0d9cff",
+    "promptStatus": "upstream_transcribed",
+    "promptCompleteness": "published_brief",
+    "notes": "Discovered through Prompt Motion, a catalogue linked from X Latest. This is an older work, not a newly published X post. The original post confirms the work, author-reported Opus 5.5 use and native video presence. Prompt text is preserved from the public catalogue transcription; only its opening was independently matched to the original post. The complete original long post, full playback and visual quality were not reviewed. Any referenced skill, website, music or other assets must be supplied separately. Inclusion does not license those assets.",
+    "platform": "X",
+    "modelStatus": "author_claim",
+    "status": "collected",
+    "promptFile": "prompts/motion-2104070024575242622.md",
+    "discoveryUrl": "https://x.com/GMIDave/status/2112431290355958176",
+    "verification": {
+      "method": "chrome_mcp_catalogue_and_original_x_post",
+      "checkedAt": "2026-10-22",
+      "originalPostConfirmed": true,
+      "promptMatchedSource": false,
+      "promptOpeningMatchedSource": true,
+      "authorClaimConfirmed": true,
+      "nativeVideoConfirmed": true,
+      "visualQuality": "not_reviewed",
+      "fullReview": false
+    }
   }
 ]

@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-742 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+744 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -157,6 +157,7 @@
 - [Tabi landing-page launch film with procedural animation](https://x.com/nikhilbhima/status/2109019765134213540) — nikhilbhima · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2109019765134213540.md#prompt)
 - [21 Keys, Opened — Exploded Teardown](https://github.com/lemomo-ai/lemo-opuscar/blob/main/styles/teardown/STYLE.md) — @lemomo-ai · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-lemo-teardown.md#prompt)
 - [Clawd Moves In — Living Screencast](https://github.com/lemomo-ai/lemo-opuscar/blob/main/styles/living-screencast/STYLE.md) — @lemomo-ai · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-lemo-living-screencast.md#prompt)
+- [Tennis game launch video](https://x.com/deifosv/status/2103197522382786581) — @deifosv · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2103197522382786581.md#prompt)
 
 
 <a id="motion-studies"></a>
@@ -397,6 +398,7 @@
 - [Hand-drawn educational video remake with layered GPT assets and Opus animation](https://x.com/wadezone/status/2112042940172570637) — @wadezone · Claude Opus 5.5 / GPT (image model unspecified) / Codex (model unspecified) (author reported) · [Prompt](../prompts/motion-2112042940172570637.md#prompt)
 - [Measured Blue — Microscope Story](https://github.com/lemomo-ai/lemo-opuscar/blob/main/styles/microscope/STYLE.md) — @lemomo-ai · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-lemo-microscope.md#prompt)
 - [Aircraft wing lift: a Three.js explainer comparison](https://x.com/aGim_asf/status/2112872797319856446) — @aGim_asf · Claude Opus 5.5 / DeepSeek V4.1 Flash (author reported) · [Prompt](../prompts/motion-2112872797319856446.md#prompt)
+- [Whiteboard skill tutorial](https://x.com/lemomo_ai/status/2104070024575242622) — @lemomo_ai · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2104070024575242622.md#prompt)
 
 
 <a id="characters-stories"></a>
