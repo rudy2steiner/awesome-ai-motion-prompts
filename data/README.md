@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-959 works with prompt text saved in this repository. The collection includes published briefs, workflows and reusable animation templates. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+973 works with prompt text saved in this repository. The collection includes published briefs, workflows and reusable animation templates. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -373,6 +373,20 @@
 - [Motion Prompt: Pixelate](https://showheyohtaki.github.io/motion-prompt/#141) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-141.md#prompt)
 - [Motion Prompt: Exploded view](https://showheyohtaki.github.io/motion-prompt/#143) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-143.md#prompt)
 - [Motion Prompt: Split screen](https://showheyohtaki.github.io/motion-prompt/#144) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-144.md#prompt)
+- [Motion Prompt: Pop-in](https://showheyohtaki.github.io/motion-prompt/#001) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-001.md#prompt)
+- [Motion Prompt: Stagger](https://showheyohtaki.github.io/motion-prompt/#002) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-002.md#prompt)
+- [Motion Prompt: Mask reveal](https://showheyohtaki.github.io/motion-prompt/#005) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-005.md#prompt)
+- [Motion Prompt: Count-up](https://showheyohtaki.github.io/motion-prompt/#007) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-007.md#prompt)
+- [Motion Prompt: Kinetic typography](https://showheyohtaki.github.io/motion-prompt/#008) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-008.md#prompt)
+- [Motion Prompt: Overshoot](https://showheyohtaki.github.io/motion-prompt/#010) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-010.md#prompt)
+- [Motion Prompt: Squash & stretch](https://showheyohtaki.github.io/motion-prompt/#011) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-011.md#prompt)
+- [Motion Prompt: Liquid motion](https://showheyohtaki.github.io/motion-prompt/#013) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-013.md#prompt)
+- [Motion Prompt: Motion trail](https://showheyohtaki.github.io/motion-prompt/#014) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-014.md#prompt)
+- [Motion Prompt: Mask transition](https://showheyohtaki.github.io/motion-prompt/#017) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-017.md#prompt)
+- [Motion Prompt: Shape transition](https://showheyohtaki.github.io/motion-prompt/#018) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-018.md#prompt)
+- [Motion Prompt: Liquid transition](https://showheyohtaki.github.io/motion-prompt/#019) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-019.md#prompt)
+- [Motion Prompt: Light sweep](https://showheyohtaki.github.io/motion-prompt/#022) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-022.md#prompt)
+- [Motion Prompt: Impact shake](https://showheyohtaki.github.io/motion-prompt/#024) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-024.md#prompt)
 
 
 <a id="explainers-data"></a>
