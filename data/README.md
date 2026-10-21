@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-131 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+133 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -159,11 +159,12 @@
 
 - [Golden Gate Bridge with fog, water and traffic](https://x.com/MondemSuraj/status/2108716642540691517) — @MondemSuraj · Claude Opus 5.5 · [Prompt](../prompts/mondemsuraj-691517.md#prompt)
 - [Procedural 1857 field cannon with live technical views](https://x.com/thebuggeddev/status/2107449104926482912) — @thebuggeddev · Claude Opus 5.5 · [Prompt](../prompts/thebuggeddev-482912.md#prompt)
-- [Procedural Formula 1 pit stop with synthesized audio](https://x.com/rubenssoto_ai/status/2108512810774802657) — @rubenssoto_ai · Claude Opus 5.5 · [Prompt](../prompts/rubenssoto-ai-802657.md#prompt)
+- [Procedural Formula 1 pit stop with synthesized audio](https://x.com/rubenssoto_ai/status/2108512810774802657) — @rubenssoto_ai · Claude Opus 5.5 + Claude Haiku 5.5 · [Prompt](../prompts/rubenssoto-ai-802657.md#prompt)
 - [Douglas A-1H Skyraider in Three.js](https://x.com/BuildFastWithAI/status/2103152898708582551) — @BuildFastWithAI · Claude Opus 5.5 · [Prompt](../prompts/buildfastwithai-582551.md#prompt)
 - [Procedural Three.js elephant](https://x.com/Thusatharan/status/2108511286795640926) — @Thusatharan · Claude Opus 5.5 · [Prompt](../prompts/thusatharan-640926.md#prompt)
 - [Blender mountain-road car chase previs](https://x.com/tonysurix/status/2108230699224596746) — @tonysurix · Claude Opus 5.5 · [Prompt](../prompts/tonysurix-596746.md#prompt)
 - [Warehouse loading-dock simulation](https://x.com/konstantinsaifo/status/2106855420237169107) — @konstantinsaifo · Claude Opus 5.5 · [Prompt](../prompts/konstantinsaifo-169107.md#prompt)
+- [Pelican riding a bicycle: a procedural film](https://x.com/AxtonLiu/status/2103119648271290566) — @AxtonLiu · Claude Opus 5.5 · [Prompt](../prompts/axtonliu-290566.md#prompt)
 
 
 <a id="music-audiovisual"></a>
@@ -191,3 +192,4 @@
 - [Tron-inspired browser game](https://x.com/0xRathi/status/2102986585004511319) — @0xRathi · Claude Opus 5.5 · [Prompt](../prompts/0xrathi-511319.md#prompt)
 - [Five distinct scroll-driven sections](https://x.com/ercankeskinx/status/2102995443818897906) — @ercankeskinx · Claude Opus 5.5 · [Prompt](../prompts/ercankeskinx-897906.md#prompt)
 - [Touch-responsive ink painting](https://x.com/YouWareAI/status/2105656935622259061) — @YouWareAI · Claude Opus 5.5 · [Prompt](../prompts/youwareai-259061.md#prompt)
+- [Premium 3D badge unlock with cursor tilt](https://x.com/BThreeAgency/status/2103739079745827092) — @BThreeAgency · Claude Opus 5.5 · [Prompt](../prompts/bthreeagency-827092.md#prompt)
