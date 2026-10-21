@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-747 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+748 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -503,6 +503,7 @@
 - [Midnight at the Starlight Hotel — Art Deco](https://github.com/lemomo-ai/lemo-opuscar/blob/main/styles/art-deco/STYLE.md) — @lemomo-ai · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-lemo-art-deco.md#prompt)
 - [Meet Pip — Mid-century Cartoon](https://github.com/lemomo-ai/lemo-opuscar/blob/main/styles/midcentury-toon/STYLE.md) — @lemomo-ai · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-lemo-midcentury-toon.md#prompt)
 - [Humpback whale breach: a procedural fifteen-second ocean cinematic](https://x.com/aGim_asf/status/2112578971049115653) — @aGim_asf · Claude Opus 5.5 / DeepSeek V4.1 Flash 1017 / MiniMax M3.1 Flash (author reported) · [Prompt](../prompts/motion-2112578971049115653.md#prompt)
+- [One-shot maglev journey through titans, dinosaurs and an artificial sun world](https://x.com/HeyAbhishek/status/2106710882567037394) — @HeyAbhishek · Seedance 2.5 / Claude Opus 5.5 (author reported) (author reported) · [Prompt](../prompts/motion-2106710882567037394.md#prompt)
 
 
 <a id="3d-simulations"></a>
