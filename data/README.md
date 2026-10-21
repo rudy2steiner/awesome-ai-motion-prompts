@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-150 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+213 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -67,6 +67,23 @@
 - [SaaS launch using real frontend components](https://x.com/FractaDev/status/2103941789744861266) — @FractaDev · Claude Opus 5.5 · [Prompt](../prompts/fractadev-861266.md#prompt)
 - [Quickdesign motion launch reel](https://x.com/quickdesignio/status/2103617779857338399) — @quickdesignio · Claude Opus 5.5 · [Prompt](../prompts/quickdesignio-338399.md#prompt)
 - [Commotion tiling-layout feature reel](https://x.com/Amol909S/status/2103456534768607293) — @Amol909S · Claude Opus 5.5 · [Prompt](../prompts/amol909s-607293.md#prompt)
+- [PayBox Logo Motion Design Reel](https://x.com/0xValure/status/2103603025579331584) — @0xValure · Claude Opus 5.5 · [Prompt](../prompts/motion-2103603025579331584.md#prompt)
+- [Dynamic Motion Graphics Video](https://x.com/ann_nnng/status/2103723183899852885) — @ann_nnng · Claude Opus 5.5 · [Prompt](../prompts/motion-2103723183899852885.md#prompt)
+- [Flexprice Motion Graphics Showreel](https://x.com/sudeepsd_/status/2103776623548158453) — @sudeepsd_ · Claude Opus 5.5 · [Prompt](../prompts/motion-2103776623548158453.md#prompt)
+- [Dynamic Motion Graphics Showreel](https://x.com/theattnlayer/status/2103776779064471834) — @theattnlayer · Claude Opus 5.5 · [Prompt](../prompts/motion-2103776779064471834.md#prompt)
+- [Retro/Futuristic Opus 5.5 Launch Video](https://x.com/johnsavage_ai/status/2103792769982427263) — @johnsavage_ai · Claude Opus 5.5 · [Prompt](../prompts/motion-2103792769982427263.md#prompt)
+- [Product Demo](https://x.com/VisheshBaghell/status/2103772327146119508) — @VisheshBaghell · Claude Opus 5.5 · [Prompt](../prompts/motion-2103772327146119508.md#prompt)
+- [Motion Graphics Introduction Video](https://x.com/blushpetal795/status/2103744870041170220) — @blushpetal795 · Claude Opus 5.5 · [Prompt](../prompts/motion-2103744870041170220.md#prompt)
+- [Apple-Style App Promo Video](https://x.com/gautam_mer1/status/2103703336780530003) — @gautam_mer1 · Claude Opus 5.5 · [Prompt](../prompts/motion-2103703336780530003.md#prompt)
+- [Motion Graphics Showreel Video](https://x.com/KangarooHere/status/2103617278671818789) — @KangarooHere · Claude Opus 5.5 · [Prompt](../prompts/motion-2103617278671818789.md#prompt)
+- [Motion Graphics Showreel](https://x.com/dansushik/status/2103547478482289121) — @dansushik · Claude Opus 5.5 · [Prompt](../prompts/motion-2103547478482289121.md#prompt)
+- [Dynamic Motion Graphics Showreel](https://x.com/Adamdesgns/status/2103542756555768014) — @Adamdesgns · Claude Opus 5.5 · [Prompt](../prompts/motion-2103542756555768014.md#prompt)
+- [Instagram Ad for Liinks](https://x.com/charliie/status/2103514073476334026) — @charliie · Claude Opus 5.5 · [Prompt](../prompts/motion-2103514073476334026.md#prompt)
+- [Dynamic Motion Graphics Showreel for Omarchy](https://x.com/tcballard/status/2103441222375268605) — @tcballard · Claude Opus 5.5 · [Prompt](../prompts/motion-2103441222375268605.md#prompt)
+- [JavaScript About Us Page Animation](https://x.com/TomAndrieu96707/status/2103411144899875264) — @TomAndrieu96707 · Claude Opus 5.5 · [Prompt](../prompts/motion-2103411144899875264.md#prompt)
+- [Opus 5.5 Demo Video](https://x.com/vahidf24/status/2103258346690121886) — @vahidf24 · Claude Opus 5.5 · [Prompt](../prompts/motion-2103258346690121886.md#prompt)
+- [AppSumo Animated Promo Clip](https://x.com/mattbean/status/2103146389412917572) — @mattbean · Claude Opus 5.5 · [Prompt](../prompts/motion-2103146389412917572.md#prompt)
+- [Modern Startup Video](https://x.com/lepadev/status/2103101681806475414) — @lepadev · Claude Opus 5.5 · [Prompt](../prompts/motion-2103101681806475414.md#prompt)
 
 
 <a id="motion-studies"></a>
@@ -96,6 +113,36 @@
 - [Fifteen-second motion craft showreel](https://x.com/RoundtableSpace/status/2104424611010232366) — @RoundtableSpace · Claude Opus 5.5 · [Prompt](../prompts/roundtablespace-232366.md#prompt)
 - [Ultra-high-speed sprint motion previs](https://x.com/Kashiko_AIart/status/2094182215894831283) — @Kashiko_AIart · GPT-6 Astra (directory-reported) · [Prompt](../prompts/ultra-high-speed-sprint-control-mp4.md#prompt)
 - [Side-scrolling parkour with exact frame timing](https://x.com/Kashiko_AIart/status/2093692302745383041) — @Kashiko_AIart · GPT-6 Astra (directory-reported) · [Prompt](../prompts/side-scrolling-chase-with-a-frame-table.md#prompt)
+- [Dynamic Motion Graphics Showreel](https://x.com/MisbahSy/status/2103831201114882277) — @MisbahSy · Claude Opus 5.5 · [Prompt](../prompts/motion-2103831201114882277.md#prompt)
+- [Dynamic Motion Graphics Showreel](https://x.com/wallt_white/status/2103750353585942703) — @wallt_white · Claude Opus 5.5 · [Prompt](../prompts/motion-2103750353585942703.md#prompt)
+- [Motion Graphics Showreel](https://x.com/RaphaelAubryy/status/2103416909857190360) — @RaphaelAubryy · Claude Opus 5.5 · [Prompt](../prompts/motion-2103416909857190360.md#prompt)
+- [Motion Graphics Showreel](https://x.com/levabashidze/status/2103786742520184909) — @levabashidze · Claude Opus 5.5 · [Prompt](../prompts/motion-2103786742520184909.md#prompt)
+- [Motion Graphics Showreel](https://x.com/eyishazyer/status/2103816865852129686) — @eyishazyer · Claude Opus 5.5 · [Prompt](../prompts/motion-2103816865852129686.md#prompt)
+- [Dynamic Motion Design Showreel](https://x.com/RoxsaV2/status/2103749285846073412) — @RoxsaV2 · Claude Opus 5.5 · [Prompt](../prompts/motion-2103749285846073412.md#prompt)
+- [Motion Graphics Showreel](https://x.com/TeslaChartz/status/2103746486978887985) — @TeslaChartz · Claude Opus 5.5 · [Prompt](../prompts/motion-2103746486978887985.md#prompt)
+- [Motion Designer Showreel](https://x.com/motiondsgnr/status/2103692944771313960) — @motiondsgnr · Claude Opus 5.5 · [Prompt](../prompts/motion-2103692944771313960.md#prompt)
+- [Motion Graphics Showreel Video](https://x.com/jasonzhou1993/status/2103663364958515541) — @jasonzhou1993 · Claude Opus 5.5 · [Prompt](../prompts/motion-2103663364958515541.md#prompt)
+- [Dynamic Motion Designer Showreel Video](https://x.com/VanshWTFFF/status/2103644352794992798) — @VanshWTFFF · Claude Opus 5.5 · [Prompt](../prompts/motion-2103644352794992798.md#prompt)
+- [Dynamic Motion Designer Showreel](https://x.com/leadnotifi/status/2103628028391960983) — @leadnotifi · Claude Opus 5.5 · [Prompt](../prompts/motion-2103628028391960983.md#prompt)
+- [Motion Designer Showreel](https://x.com/tolgayhickiran/status/2103619422128935120) — @tolgayhickiran · Claude Opus 5.5 · [Prompt](../prompts/motion-2103619422128935120.md#prompt)
+- [Dynamic Motion Graphics Showreel](https://x.com/marouanegazouzi/status/2103608571435131257) — @marouanegazouzi · Claude Opus 5.5 · [Prompt](../prompts/motion-2103608571435131257.md#prompt)
+- [Opus 5.5 Motion Graphics Showreel](https://x.com/johnsavage_ai/status/2103600308010041677) — @johnsavage_ai · Claude Opus 5.5 · [Prompt](../prompts/motion-2103600308010041677.md#prompt)
+- [Dynamic Motion Graphics Showreel](https://x.com/Shinskinakamoto/status/2103580532852589043) — @Shinskinakamoto · Claude Opus 5.5 · [Prompt](../prompts/motion-2103580532852589043.md#prompt)
+- [Motion Graphics Showreel Video](https://x.com/m1n9_k7/status/2103580011882295601) — @m1n9_k7 · Claude Opus 5.5 · [Prompt](../prompts/motion-2103580011882295601.md#prompt)
+- [Dynamic Motion Graphics Showreel](https://x.com/m1n9_k7/status/2103579630045466682) — @m1n9_k7 · Claude Opus 5.5 · [Prompt](../prompts/motion-2103579630045466682.md#prompt)
+- [Motion Graphics Showreel](https://x.com/SagarmohanSingh/status/2103574041781322168) — @SagarmohanSingh · Claude Opus 5.5 · [Prompt](../prompts/motion-2103574041781322168.md#prompt)
+- [Motion Graphics Showreel](https://x.com/CrazyAlphaaa/status/2103568486249480622) — @CrazyAlphaaa · Claude Opus 5.5 · [Prompt](../prompts/motion-2103568486249480622.md#prompt)
+- [Motion Graphics Showreel](https://x.com/3xtihor/status/2103551886272159839) — @3xtihor · Claude Opus 5.5 · [Prompt](../prompts/motion-2103551886272159839.md#prompt)
+- [Motion Graphics Showreel](https://x.com/sahildesigner23/status/2103536115563307120) — @sahildesigner23 · Claude Opus 5.5 · [Prompt](../prompts/motion-2103536115563307120.md#prompt)
+- [Motion Graphics Showreel](https://x.com/safarkhanshuvo/status/2103520091552059752) — @safarkhanshuvo · Claude Opus 5.5 · [Prompt](../prompts/motion-2103520091552059752.md#prompt)
+- [Dynamic Motion Graphics Showreel](https://x.com/LeonKohli/status/2103517696038191220) — @LeonKohli · Claude Opus 5.5 · [Prompt](../prompts/motion-2103517696038191220.md#prompt)
+- [Dynamic Motion Graphics Showreel](https://x.com/fionntobin/status/2103510776690479597) — @fionntobin · Claude Opus 5.5 · [Prompt](../prompts/motion-2103510776690479597.md#prompt)
+- [Motion Graphics Showreel Video](https://x.com/bhanujraj/status/2103496403544928454) — @bhanujraj · Claude Opus 5.5 · [Prompt](../prompts/motion-2103496403544928454.md#prompt)
+- [Dynamic Motion Graphics Showreel](https://x.com/umangratani/status/2103486881136840800) — @umangratani · Claude Opus 5.5 · [Prompt](../prompts/motion-2103486881136840800.md#prompt)
+- [Dynamic Motion Graphics Showreel](https://x.com/sudo_kiran/status/2103463886372696074) — @sudo_kiran · Claude Opus 5.5 · [Prompt](../prompts/motion-2103463886372696074.md#prompt)
+- [Motion Graphics Showreel Video](https://x.com/itsuki_dev/status/2103438087204618392) — @itsuki_dev · Claude Opus 5.5 · [Prompt](../prompts/motion-2103438087204618392.md#prompt)
+- [Motion Designer Showreel](https://x.com/hanifproduktif/status/2103404901451829311) — @hanifproduktif · Claude Opus 5.5 · [Prompt](../prompts/motion-2103404901451829311.md#prompt)
+- [Motion Graphics Resume Showreel](https://x.com/rendesr/status/2103395846578676116) — @rendesr · Claude Opus 5.5 · [Prompt](../prompts/motion-2103395846578676116.md#prompt)
 
 
 <a id="explainers-data"></a>
@@ -127,6 +174,9 @@
 - [Pixel-art history of LLMs and recursive improvement](https://x.com/PluginPlay__/status/2103910844677472343) — @PluginPlay__ · Claude Opus 5.5 · [Prompt](../prompts/pluginplay-472343.md#prompt)
 - [Transformer and attention explained in JavaScript](https://x.com/dotey/status/2103683057689522564) — @dotey · Claude Opus 5.5 · [Prompt](../prompts/dotey-522564.md#prompt)
 - [T cells: a five-minute narrated explainer](https://x.com/DeryaTR_/status/2095659170661904804) — @DeryaTR_ · GPT-6 Astra · [Prompt](../prompts/t-cells-a-5-minute-explainer-from-one-line.md#prompt)
+- [250 Years of U.S. History Sand Animation](https://x.com/Michaelzsguo/status/2102592355165782312) — @Michaelzsguo · Claude Opus 5.5 · [Prompt](../prompts/motion-2102592355165782312.md#prompt)
+- [3D Desk to CPU Atom Zoom](https://x.com/Acoramaa/status/2103833991879053577) — @Acoramaa · Claude Opus 5.5 · [Prompt](../prompts/motion-2103833991879053577.md#prompt)
+- [Interactive 3D Raptor 3 Rocket Engine WebGL Model](https://x.com/konstantinsaifo/status/2104094723887501736) — @konstantinsaifo · Claude Opus 5.5 · [Prompt](../prompts/motion-2104094723887501736.md#prompt)
 
 
 <a id="characters-stories"></a>
@@ -155,6 +205,10 @@
 - [Pixel-art cheetah run: Opus and Astra comparison](https://x.com/HarshithLucky3/status/2103120423005425972) — @HarshithLucky3 · Claude Opus 5.5 / GPT-6 Astra · [Prompt](../prompts/pixel-art-cheetah-run-harshithlucky3.md#prompt)
 - [One treat button: wordless 3D cat short](https://x.com/boboga777/status/2097900087901106244) — @boboga777 · GPT-6 Astra · [Prompt](../prompts/wordless-3d-cat-short-one-treat-button-boboga777.md#prompt)
 - [Recursive pelican bicycle GIF](https://x.com/1littlecoder/status/2077880380900937865) — @1littlecoder · Kimi K3 · [Prompt](../prompts/recursive-pelican-bicycle-loop-1littlecoder.md#prompt)
+- [Short Story Animation](https://x.com/jackfriks/status/2103132260589338762) — @jackfriks · Claude Opus 5.5 · [Prompt](../prompts/motion-2103132260589338762.md#prompt)
+- [Dario vs. Altman Fight Video](https://x.com/Xanderwow_A/status/2103637769012597063) — @Xanderwow_A · Claude Opus 5.5 · [Prompt](../prompts/motion-2103637769012597063.md#prompt)
+- [Torradeira Turbo 3000 Animated Short](https://x.com/NemTudo_/status/2102973867656614053) — @NemTudo_ · Claude Opus 5.5 · [Prompt](../prompts/motion-2102973867656614053.md#prompt)
+- [Porco Rosso Sunset Dogfight Web3D](https://x.com/NFT_Chen/status/2103882415299350878) — @NFT_Chen · Claude Opus 5.5 · [Prompt](../prompts/motion-2103882415299350878.md#prompt)
 
 
 <a id="3d-simulations"></a>
@@ -180,6 +234,10 @@
 - [Voxel soccer: Qwen and Fable comparison](https://x.com/Zmthanh/status/2079198084689723560) — @Zmthanh · Qwen3.8-Max-Preview / Claude Fable 5 · [Prompt](../prompts/voxel-soccer-goal-animation-zmthanh-fable5.md#prompt)
 - [Zen temple: a continuous 3D construction film](https://x.com/huoshan007/status/2098697876155076820) — @huoshan007 · GPT-6 Astra · [Prompt](../prompts/zen-temple-64-second-build-video-huoshan007.md#prompt)
 - [Tokyo Tower: daylight and night-time 3D film](https://x.com/wafffle_dev/status/2102276620124062065) — @wafffle_dev · GPT-6 Astra · [Prompt](../prompts/tokyo-tower-day-and-night-3d-film-wafffle-dev.md#prompt)
+- [3D Animation of Gradient Descent](https://x.com/anirockshady/status/2103195903012032809) — @anirockshady · Claude Opus 5.5 · [Prompt](../prompts/motion-2103195903012032809.md#prompt)
+- [3D Water Simulation Benchmark](https://x.com/StephanFerraro/status/2103020274107224281) — @StephanFerraro · Claude Opus 5.5 · [Prompt](../prompts/motion-2103020274107224281.md#prompt)
+- [Earth to Observable Universe Zoom-Out](https://x.com/kgonia7/status/2103835848575746268) — @kgonia7 · Claude Opus 5.5 · [Prompt](../prompts/motion-2103835848575746268.md#prompt)
+- [Creative Front-End and Video Generation](https://x.com/DemitiyaGeekzen/status/2103517910274818523) — @DemitiyaGeekzen · Claude Opus 5.5 · [Prompt](../prompts/motion-2103517910274818523.md#prompt)
 
 
 <a id="music-audiovisual"></a>
@@ -210,3 +268,8 @@
 - [Premium 3D badge unlock with cursor tilt](https://x.com/BThreeAgency/status/2103739079745827092) — @BThreeAgency · Claude Opus 5.5 · [Prompt](../prompts/bthreeagency-827092.md#prompt)
 - [Hand-drawn Japanese street: three-model comparison](https://x.com/gmi_cloud/status/2080834581247435102) — @gmi_cloud · Claude Opus 5 / Claude Fable 5 / GPT 5.6 Sol · [Prompt](../prompts/hand-drawn-japanese-suburban-street-gmi-cloud-fable5.md#prompt)
 - [Monica’s apartment: first-person Three.js scene](https://x.com/scottstts/status/2064464351906673029) — @scottstts · Claude Fable 5 · [Prompt](../prompts/friends-apartment-threejs-scottstts.md#prompt)
+- [Multiplayer Shooting Game](https://x.com/Ved_CJ/status/2103708392930066575) — @Ved_CJ · Claude Opus 5.5 · [Prompt](../prompts/motion-2103708392930066575.md#prompt)
+- [MapleStory Clone in Raylib-cs](https://x.com/NoLit64/status/2103628970000347627) — @NoLit64 · Claude Opus 5.5 · [Prompt](../prompts/motion-2103628970000347627.md#prompt)
+- [3D Forest Conservation Website](https://x.com/Souradip3000/status/2103876499262800291) — @Souradip3000 · Claude Opus 5.5 · [Prompt](../prompts/motion-2103876499262800291.md#prompt)
+- [Deep-Sea Horror Game](https://x.com/ggsimm/status/2102882622053535814) — @ggsimm · Claude Opus 5.5 · [Prompt](../prompts/motion-2102882622053535814.md#prompt)
+- [Underground Delivery Network Game](https://x.com/lisp_mi/status/2104046743751139812) — @lisp_mi · Claude Opus 5.5 · [Prompt](../prompts/motion-2104046743751139812.md#prompt)
