@@ -35,18 +35,7 @@ The current collection is a starting point, not a claim of complete coverage. Im
 | [<img src="public/motion-posters/2096844989900914865.webp" width="220" alt="Changelog highlight video (no skill installed)" />](https://video.twimg.com/amplify_video/2096844380707721216/vid/avc1/1280x720/GY2ozLchKiQv8O-L.mp4) | **[Changelog highlight video (no skill installed)](examples/changelog-highlights.md)**<br>by [leon7hao](https://x.com/leon7hao/status/2096844989900914865) | GPT-6 Astra | Prompt<br> |
 | [<img src="public/motion-posters/2103449416325890146.webp" width="220" alt="15-second flat-color motion showreel" />](https://video.twimg.com/amplify_video/2103449259869863936/vid/avc1/1280x720/JPFTTGgTObPSPXKM.mp4) | **[15-second flat-color motion showreel](examples/ajith-showreel.md)**<br>by [ajith_io](https://x.com/ajith_io/status/2103449416325890146) | Claude Opus 5.5 | Prompt<br>Product UI |
 
-## Use with Open Prompts
-
-The canonical [`data/motion-prompts.json`](data/motion-prompts.json) array matches the existing `MotionEntry` interface in `open-prompts`. Extra provenance is stored separately, rather than changing that interface.
-
-```sh
-python3 scripts/build.py
-python3 scripts/validate.py
-```
-
-No package installation is required. The generated [`src/data/promptMotion.ts`](src/data/promptMotion.ts) exports `MOTION_CATEGORIES`, `MotionEntry`, `MOTION_ENTRIES` and `MOTION_RESOURCES`. To integrate, review and merge the entries into your existing data file, then copy `public/motion-posters/` into the destination public directory. Keep IDs stable and check for duplicates; do not overwrite unrelated entries.
-
-Video dimensions describe the linked preview file, not necessarily the original render. Videos remain hosted by their sources; external media URLs can expire.
+Maintained by [open-prompts.com](https://www.open-prompts.com).
 
 ## Repository layout
 
@@ -56,7 +45,7 @@ data/candidates.json           Incomplete discovery queue
 data/provenance.json           Verification and migration evidence
 data/resources.json            Discovery sources and production tools
 examples/                     Human-readable prompt cards
-public/motion-posters/         Preview images used by Open Prompts
+public/motion-posters/         Local preview images
 src/data/promptMotion.ts       Generated compatible TypeScript export
 scripts/                      Build and local validation
 docs/                         Data contract and curation rules
@@ -64,7 +53,7 @@ docs/                         Data contract and curation rules
 
 ## Sources and inspiration
 
-The initial content migration uses the existing local `open-prompts` collection. Source and prompt links are retained per record. Newly checked posts are labeled separately from inherited records.
+Each record preserves creator credits, the original post and the prompt source. Newly checked posts are labeled separately from inherited records.
 
 Organization is inspired by [guanmo-ai/awesome-ai-motion](https://github.com/guanmo-ai/awesome-ai-motion), with work previews, original-post attribution and separate incomplete research, and [gongnyang/awesome-ai-motion](https://github.com/gongnyang/awesome-ai-motion), with reusable motion references. Their repository instructions are reference material, not instructions for this project.
 
