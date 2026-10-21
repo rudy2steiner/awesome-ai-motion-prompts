@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-769 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+771 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -633,6 +633,7 @@
 - [Geese at twilight: a continuous thirty-second marsh camera loop](https://x.com/loktar00/status/2112753491970310402) — @loktar00 · DeepSeek 1017 (author reported) · [Prompt](../prompts/motion-2112753491970310402.md#prompt)
 - [Living orbital garden station above a colorful gas giant](https://x.com/loktar00/status/2090926890445852970) — @loktar00 · Ox Alpha (author label; version unspecified) (author reported) · [Prompt](../prompts/motion-2090926890445852970.md#prompt)
 - [DeepSeek Halloween: asset planning, Krea-to-TRELLIS models and Three.js staging](https://x.com/loktar00/status/2099673110702109091) — @loktar00 · DeepSeek 4.1 Flash / Krea2 / TRELLIS.2 / YuE2 (author reported) · [Prompt](../prompts/motion-2099673110702109091.md#prompt)
+- [Ocean-platform rocket launch: staging, fairing separation and satellite deployment](https://x.com/Artless101/status/2103303303358534021) — @Artless101 · Claude Opus 5 / Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2103303303358534021.md#prompt)
 
 
 <a id="music-audiovisual"></a>
@@ -829,3 +830,4 @@
 - [Cozy Café Fluid Studio: interactive coffee and milk simulation](https://x.com/genevieve__h/status/2112646847454147003) — @genevieve__h · Argon (version unspecified) (author reported) · [Prompt](../prompts/motion-2112646847454147003.md#prompt)
 - [Plush Lobster: WebGPU tail flips, wired legs and combable fur](https://x.com/vib3coded/status/2112838135927263740) — @vib3coded · Claude Opus 5.5 / ChatGPT-6 Astra (author reported) · [Prompt](../prompts/motion-2112838135927263740.md#prompt)
 - [Hands 2.0: first-person rigging, layered animation and dynamic grip correction](https://x.com/maxt3chno/status/2108637690698633713) — @maxt3chno · Opus 5.5 / Astra (mentioned by author; exact demo model not established) (author reported) · [Prompt](../prompts/motion-2108637690698633713.md#prompt)
+- [Jelly Dice: XPBD soft-body candy dice with refraction and interactive grabs](https://x.com/SpacyApps/status/2105832839023415521) — @SpacyApps · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2105832839023415521.md#prompt)

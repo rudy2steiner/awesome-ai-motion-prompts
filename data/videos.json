@@ -25952,5 +25952,61 @@
       "visualQuality": "not_reviewed",
       "fullReview": false
     }
+  },
+  {
+    "id": "2105832839023415521",
+    "title": "Jelly Dice: XPBD soft-body candy dice with refraction and interactive grabs",
+    "author": "SpacyApps",
+    "sourceUrl": "https://x.com/SpacyApps/status/2105832839023415521",
+    "promptSourceUrl": "https://x.com/SpacyApps/status/2105833401127157886",
+    "prompt": "Build \"Jelly Dice\": a single self-contained HTML file (all JS/CSS inline, no build step) with translucent gummy-candy dice that behave like real soft bodies. Render with raw WebGPU (WGSL shaders, no three.js). If WebGPU is unavailable, show a clean fallback card that explains why.\n\nPHYSICS (the heart of it; it must feel like real jelly, not a rigid die with a wobble shader)\n- Each die is a rounded cube simulated as a tetrahedral lattice with XPBD: co-rotational shape matching (per cell and per tet) for elasticity, tet volume constraints so it is nearly incompressible, and hard strain limits so it can never stretch without bound. Inverted elements must always recover.\n- Floor contact with static and kinetic friction, plus a raised rim around the plate. Die–die contact against each other's rounded box, with friction.\n- Separate rigid motion from deformation: rotational resistance on the floor, internal damping that only damps the wobble, never the rigid motion.\n- Sleep when calm: settled dice must never jitter. Wake neighbours when an awake die comes close.\n- Heavy landings soak up the rebound, so a dropped die squashes and settles instead of bouncing like rubber.\n\nINTERACTION\n- Drag a die to stretch it. The grab is compliant and progressive: a gentle pull stretches the jelly while its base clings to the plate, and a firm pull lifts and moves it. Cap the force, and allow no launches or wild spin on release.\n- A quick tap pokes: a small squish into the surface, and the whole die rings.\n- Drag the empty table to orbit the camera, pinch or scroll to zoom. The camera drifts gently toward where the dice are, never while one is held.\n- Roll button (and Space / R): throw 1–5 dice (number picker). When everything settles, read each top face and show the values plus the total. A die resting cocked against another gets a small nudge (twice at most) before the result is read.\n\nLOOK (photographic, like a product shot of real candy)\n- Procedural photo studio: warm paper sweep, a big overhead softbox, a back-left strip light and a cool fill card.\n- The dice sit on a frosted-glass plate with a bright rolled bevel, satin sheen and fine grain, casting its own soft shadow on the table.\n- Candy material: real refraction (bend the ray in, find the exit depth from a back-face pass, look up what is behind), Beer–Lambert absorption by thickness so thin parts are light and the core is deep, thin edges glowing when the key light shines through, and glossy Fresnel skin with a crisp highlight.\n- Pips: ivory dots set just under the skin in shallow concave dimples. Pips on the far faces stay visible through the body.\n- Dice seen through other dice must refract correctly (depth layers wherever their screen footprints overlap).\n- Soft shadows whose penumbra grows with distance; the shadows are tinted with the candy colour and lighter, because the candy is translucent. Contact occlusion from a top-down height map.\n- Smooth normals from the deformation Jacobian (cofactor) on the GPU via a compute pass. Upload only node positions per frame.\n- Six candy colours: Emerald, Amethyst, Amber, Sapphire, Raspberry, Lime. Khronos PBR Neutral tone mapping, MSAA, dither.\n\nUI (editorial, minimal)\n- Masthead top-left in Instrument Serif and Instrument Sans. Along the bottom: colour swatches, dice count, Roll button, total and the individual values.\n- A settings panel with Softness and Wobble decay sliders, ¼ speed, Show mesh (lattice overlay), Sound (soft synthesised squelchy \"tup\" impacts, off by default), Pause, Reset dice and Reset view, plus an FPS readout.\n- Responsive down to a phone (touch, pinch zoom), keyboard accessible, respects reduced motion.\n\nQuality bar: the stretch, poke and landings should look and feel like real gummy candy at 60 fps. Test it headlessly with screenshots before handing it over.",
+    "model": "Claude Opus 5.5",
+    "primaryCategory": "interactive",
+    "promptStatus": "source_transcribed",
+    "promptCompleteness": "complete_published_prompt",
+    "notes": "Older work found while checking upstream prompt leads. The complete published prompt was read directly from the author’s reply, and public reply metadata links it to the original native-video demonstration. Model attribution is author-reported. Native video presence was confirmed; full playback, visual quality, performance and requested output constraints were not independently reviewed. The prompt requests raw WebGPU/WGSL, XPBD deformation, layered refraction and specific interaction physics. Those implementation details are requested requirements, not independently verified properties of the delivered demo. The author-reported run cost is not a verified or generalizable price.",
+    "platform": "X",
+    "modelStatus": "author_claim",
+    "status": "collected",
+    "promptFile": "prompts/motion-2105832839023415521.md",
+    "discoveryUrl": "https://x.com/SpacyApps/status/2105832839023415521",
+    "verification": {
+      "method": "chrome_mcp_original_x_prompt_thread",
+      "checkedAt": "2026-10-22",
+      "originalPostConfirmed": true,
+      "promptMatchedSource": true,
+      "authorClaimConfirmed": true,
+      "nativeVideoConfirmed": true,
+      "visualQuality": "not_reviewed",
+      "fullReview": false
+    }
+  },
+  {
+    "id": "2103303303358534021",
+    "title": "Ocean-platform rocket launch: staging, fairing separation and satellite deployment",
+    "author": "Artless101",
+    "sourceUrl": "https://x.com/Artless101/status/2103303303358534021",
+    "promptSourceUrl": "https://x.com/Artless101/status/2103303449831964679",
+    "prompt": "Create a cinematic, highly detailed, interactive 3D rocket launch from an ocean platform at dawn. Deliver the complete project in one HTML file that opens directly in Chrome. Use Three.js + WebGL and procedural assets. Embed assets wherever practical; a reliable CDN may be used for the rendering library.\n\nART DIRECTION\nCreate a dramatic transition from a dark, blue-violet ocean before sunrise to warm sunlight above the atmosphere. Use convincing proportions, detailed materials, atmospheric depth, and carefully composed camera angles. The result should feel like a polished miniature spaceflight film.\nROCKET AND LAUNCH PLATFORM\nBuild a convincing multistage rocket with a shaped nose cone, panel seams, structural rings, interstage connections, engine nozzles, and a payload fairing that separates into two halves.\n\nCreate a detailed floating launch platform with a support tower, retracting strongback, service arms, railings, ladders, pipes, equipment, floodlights, and blinking warning beacons. Keep all structures physically connected and correctly positioned.\nLAUNCH SEQUENCE\nCreate an approximately 46-second sequence:\n\nEstablishing camera move around the platform.\n\nService arms and strongback retract.\nEngines ignite, illuminating the rocket, platform, and nearby water.\nSmoke spreads across the deck as the rocket lifts off and accelerates.\nThe camera follows the climb from the atmosphere toward space.\nThe first stage separates and falls away.\nThe second-stage engine ignites.\nThe fairing halves separate, revealing a satellite.\nThe engine shuts down, the satellite deploys, and its solar panels unfold.\nFinish with an orbital view of the satellite against Earth’s curved horizon and sunrise.\nCompress the flight timeline for presentation while maintaining coherent motion. Avoid sudden position changes, intersecting components, or disconnected effects.\nOCEAN, ATMOSPHERE, AND EFFECTS\nUse animated shader-driven ocean waves with Fresnel reflections and warm engine-light reflections. Create layered exhaust with a bright core, softer outer flame, and drifting smoke particles.\nSmoke should expand, fade, and respond to wind. Exhaust must remain attached to the correct engine through staging. Transition smoothly from atmospheric haze to a dark star field and Earth’s illuminated limb.\n\nCAMERA AND INTERACTION\nUse smooth cinematic camera transitions: wide establishing view, low-angle ignition shot, ascent tracking, stage separation, and satellite close-up. Keep the main subject visible in both portrait and landscape layouts.\n\nInclude play/pause, replay, and a scrubber with event markers. Seeking must reconstruct the correct rocket configuration, particle state, camera position, and lighting. Replaying must reset the entire sequence cleanly.\nKeep the interface minimal and unobtrusive. Allow it to be hidden for recording.\n\nTECHNICAL QUALITY\nUse frame-rate-independent animation and efficient particle systems. Reuse geometry and materials where appropriate, handle resizing correctly, and balance visual detail with smooth performance.\n\nTest the final HTML in a desktop browser. Inspect the console and capture screenshots at ignition, liftoff, staging, and satellite deployment. Fix loading errors, clipping, geometry problems, broken seeking, and poor camera framing before delivering the file.",
+    "model": "Claude Opus 5 / Claude Opus 5.5",
+    "primaryCategory": "3d-simulations",
+    "promptStatus": "source_transcribed",
+    "promptCompleteness": "complete_published_prompt",
+    "notes": "Older work found while checking upstream prompt leads. The complete published prompt was read directly from the author’s reply, and public reply metadata links it to the original native-video demonstration. Model attribution is author-reported. Native video presence was confirmed; full playback, visual quality, performance and requested output constraints were not independently reviewed. The original post compares Opus 5 and Opus 5.5; the comparison is counted once. The prompt asks for an approximately 46-second deterministic, seekable sequence with procedural assets. Actual duration, seek reconstruction and physical accuracy were not independently checked.",
+    "platform": "X",
+    "modelStatus": "author_claim",
+    "status": "collected",
+    "promptFile": "prompts/motion-2103303303358534021.md",
+    "discoveryUrl": "https://x.com/Artless101/status/2103303303358534021",
+    "verification": {
+      "method": "chrome_mcp_original_x_prompt_thread",
+      "checkedAt": "2026-10-22",
+      "originalPostConfirmed": true,
+      "promptMatchedSource": true,
+      "authorClaimConfirmed": true,
+      "nativeVideoConfirmed": true,
+      "visualQuality": "not_reviewed",
+      "fullReview": false
+    }
   }
 ]
