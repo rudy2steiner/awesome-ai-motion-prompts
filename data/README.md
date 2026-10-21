@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-675 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+684 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -146,6 +146,11 @@
 - [Mackenzie Club fox-chase event hype film](https://x.com/DaveRogenmoser/status/2103249424075899271) — @DaveRogenmoser · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103249424075899271.md#prompt)
 - [Hedy product promotion with real UI and feature assets](https://x.com/JulianPscheid/status/2103197385283494027) — @JulianPscheid · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103197385283494027.md#prompt)
 - [Claude Opus 5.5 App Motion Design Showcase](https://x.com/Mishka_yan/status/2104531023144849496) — Mishka_yan · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2104531023144849496.md#prompt)
+- [30-Second Developer Portfolio Showreel with Product Screenshots](https://x.com/HO_BA/status/2103845264649761062) — HO_BA · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103845264649761062.md#prompt)
+- [Distilbook 30-Second Showreel with Reference Visual Style](https://x.com/ajith_io/status/2103541149709615243) — ajith_io · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103541149709615243.md#prompt)
+- [40-Second Distilbook Motion Graphics Showreel](https://x.com/ajith_io/status/2103800569584562538) — ajith_io · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103800569584562538.md#prompt)
+- [Flora Product Ad Video with Playwright and FFmpeg](https://x.com/andre_lucaxxs/status/2103292636945846347) — andre_lucaxxs · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103292636945846347.md#prompt)
+- [README hero video for an open-source project](https://x.com/hqmank/status/2103831140033241156) — hqmank · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103831140033241156.md#prompt)
 
 
 <a id="motion-studies"></a>
@@ -264,6 +269,8 @@
 - [Bold-type HTML showreel rendered frame by frame](https://x.com/aichrislee/status/2103878567540961335) — @aichrislee · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103878567540961335.md#prompt)
 - [Seattle History Motion Graphics Video](https://x.com/yanliudesign/status/2104393313935839698) — yanliudesign · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2104393313935839698.md#prompt)
 - [Claude Opus 5.5 Chinese Calligraphy Dynamic Scroll Animation](https://x.com/feigaobox/status/2106042539744862690) — feigaobox · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2106042539744862690.md#prompt)
+- [Mona Lisa painting process replay with visible cursor movement](https://x.com/ehsanik/status/2102885216692162993) — ehsanik · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2102885216692162993.md#prompt)
+- [Cinematic thirty-second typography and 3D motion reel](https://x.com/essjaykay755/status/2103446726245847163) — essjaykay755 · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103446726245847163.md#prompt)
 
 
 <a id="explainers-data"></a>
@@ -467,6 +474,7 @@
 - [GPT 6 Astra vs Opus 5.5 场景生成对比](https://x.com/aiZttt__/status/2109243092142571577) — aiZttt__ · Claude Opus 5.5 / GPT 6 Astra (directory reported) · [Prompt](../prompts/motion-2109243092142571577.md#prompt)
 - [Kokopelli's Space Journey Animation](https://x.com/KimikoA97936/status/2108555077933822275) — KimikoA97936 · Claude Opus 5.5 / Astra (version unspecified) (directory reported) · [Prompt](../prompts/motion-2108555077933822275.md#prompt)
 - [Drooling Cat Motion Graphic Animation with Opus 5.5](https://x.com/zanki00000/status/2104484761238671402) — zanki00000 · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2104484761238671402.md#prompt)
+- [Three.js Star Wars 90s Cartoon Story Animation](https://x.com/Ryzoft/status/2102989395359887481) — Ryzoft · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2102989395359887481.md#prompt)
 
 
 <a id="3d-simulations"></a>
@@ -735,3 +743,4 @@
 - [Interactive Manual Driving School Simulator](https://x.com/rocky_ganji/status/2110340955677376851) — rocky_ganji · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2110340955677376851.md#prompt)
 - [Interactive AI Data Center Simulation in Three.js](https://x.com/IAenCrudo/status/2107591732561097013) — IAenCrudo · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2107591732561097013.md#prompt)
 - [Interactive MacBook Keyboard with Key Sounds and Split-Flap Animation](https://x.com/fedemas/status/2108400811411996801) — fedemas · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2108400811411996801.md#prompt)
+- [Heatwave: portrait police-chase arcade prototype](https://x.com/froessell/status/2103789415323562325) — froessell · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103789415323562325.md#prompt)
