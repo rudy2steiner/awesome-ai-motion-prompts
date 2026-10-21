@@ -1,39 +1,38 @@
 # Submissions welcome!
 
-**Add your motion directly under a category in [README.md](README.md#prompt-library), then open a pull request.** All models, platforms and creators are welcome.
+**Pick a category in [README.md](README.md#contents), click “＋ Submit to this category”, add your motion, and open a PR.** Any model, platform or creator is welcome.
 
-## Where do I edit?
+## Add a work
 
-1. Open [README.md in the GitHub editor](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md). GitHub will help you fork the repository if needed.
-2. Find the matching heading under **Prompt library**, such as **Product & Brand** or **Typography & Motion Studies**.
-3. Add your motion at the end of that category, above its `Add new ... motions above this line` comment. Open a PR with a short note about your work.
+The category link opens the README editor. Find that category and add your work above its `Add new ... motions above this line` comment. GitHub will guide you through forking the repository and opening a PR.
 
-Copy this format and replace the placeholders:
+For a featured preview, copy a card from that category's table. Each `<tr>` holds up to three `<td>` cards; start a new row when needed:
 
-```markdown
-- **[Your motion title](https://your-video-or-demo-url)** — by [@creator](https://creator-or-original-post-url) · Model name · [Prompt](https://your-prompt-or-skill-url)
+```html
+<tr>
+<td width="33%" valign="top">
+<a href="examples/your-motion.md"><img src="public/motion-previews/your-motion.gif" width="260" alt="Your motion title" /></a><br>
+<a href="examples/your-motion.md"><b>Your motion title</b></a><br>
+<a href="https://your-original-post-url">@creator</a> · <a href="examples/your-motion.md#prompt">Prompt</a><br>
+<sub>Model name</sub>
+</td>
+</tr>
 ```
 
-Add a short GIF preview below your entry so readers can see the motion without leaving GitHub. Link the preview to your in-repository prompt card when you have one:
+No preview yet? Add a simple text entry under the category instead:
 
 ```markdown
-  [<img src="https://your-preview-image-url" width="280" alt="Your motion title" />](https://your-video-or-demo-url)
+- [Your motion title](https://your-video-or-demo-url) — @creator · Model name · [Prompt](https://your-prompt-or-skill-url)
 ```
 
-If your prompt is not hosted elsewhere, copy [`examples/_template.md`](examples/_template.md) to `examples/your-motion-name.md`, add the prompt, and link that file from your README entry.
+Maintainers can help turn it into a featured card. The **Full list is text-only**; it does not need a cover or image.
 
-**You do not need to edit JSON files or run a build to submit a motion.** The README is community-maintained; the build script does not overwrite it. Maintainers handle structured metadata separately.
+If you need somewhere to put your prompt, copy [`examples/_template.md`](examples/_template.md) to `examples/your-motion.md` and link it from your entry. Keep descriptions in English and prompts in their original language. Credit the original creator and mention required references, tools or important edits.
 
-## What to include
-
-A playable preview, the prompt or skill, creator credit and the model used. Keep descriptions in English and prompts in their original language. Mention required references, tools and important follow-up prompts when relevant. Credit the original creator when recommending someone else's work.
-
-There is no follower, view or star threshold. One work per PR keeps discussion focused. If no category fits, suggest a new heading in the same PR. Continue updating that PR if reviewers request changes.
+**No JSON editing, build commands or submission forms are required.** One work per PR. No follower, view or star threshold. Suggest a new category in your PR if none fits.
 
 ## For maintainers
 
-After reviewing an entry, optionally add its structured record to `data/motion-prompts.json`, provenance to `data/provenance.json`, and its primary category to `data/categories.json`. Keep the README entry in place. Incomplete research can remain in `data/candidates.json`.
+The README stays manually editable. Review previews, attribution and prompt sources before merging. Normalize structured data separately using the [data contract](docs/DATA_FORMAT.md), then run `python3 scripts/build.py` and `python3 scripts/validate.py`. Building never replaces the README.
 
-Run `python3 scripts/build.py` and `python3 scripts/validate.py` when changing structured data. Neither command replaces the README. See the [data contract](docs/DATA_FORMAT.md) and [verification rules](docs/SOURCING.md).
-
-For corrections or removals, open an issue or PR identifying the work and requested change. Third-party works retain their creators' rights; see [third-party content](THIRD_PARTY.md).
+For corrections or removals, open an issue or PR identifying the work and requested change. See [third-party content](THIRD_PARTY.md) and [source verification](docs/SOURCING.md).

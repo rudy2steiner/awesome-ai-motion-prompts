@@ -1,179 +1,139 @@
-<a href="https://www.open-prompts.com/motion-prompts"><img src="public/hero-motion.gif" width="640" height="360" alt="Featured motion by shneural" /></a>
-
-Featured motion: [@shneural](https://x.com/shneural/status/2103151003272962130) · [Prompt and details](examples/bold-type.md) · Click the preview to explore more motion.
-
 # Awesome AI Motion Prompts
 
-Discover remarkable motion. Find the prompt behind it.
+Motion worth watching. Prompts worth trying. Any model, any platform.
 
-A multi-model, web-wide collection of AI motion graphics, animation and interactive references, with original prompts, creator credits and production context. English is the primary documentation language; prompts stay in their original language.
+[<img src="public/hero-motion.gif" width="640" height="360" alt="Featured motion by shneural" />](examples/bold-type.md)
 
-**Submissions welcome!** Made your own motion? [Submit your motion prompt](https://github.com/rudy2steiner/awesome-ai-motion-prompts/blob/main/CONTRIBUTING.md) — all models, platforms and creators are welcome. Add your motion under its category in this README and open a pull request. Include a preview, prompt or skill, creator credit and model. [Contribution guide](CONTRIBUTING.md).
+Featured: [@shneural](https://x.com/shneural/status/2103151003272962130) · [Prompt](examples/bold-type.md)
 
-**[▶ Play online](https://www.open-prompts.com/motion-prompts)** · [Categories](#prompt-library) · [Full list](docs/FULL_LIST.md) · [Submit a PR](CONTRIBUTING.md)
+**[▶ Play online](https://www.open-prompts.com/motion-prompts)** · **[Full list](docs/FULL_LIST.md)** · **[Submit a PR](CONTRIBUTING.md)**
 
-Watch short looping previews here and open any work to read its prompt on GitHub. Full videos are available through the optional Play online link above.
+**Submissions welcome!** Add your motion under its category below and open a PR. [How to contribute](CONTRIBUTING.md).
 
-## Scope
+## Contents
 
-All models and platforms are welcome: Claude, GPT / ChatGPT / Codex, Gemini, Kimi, open models, and future systems. Look for strong typography, coherent choreography, readable storytelling and intentional sound. X, YouTube, Reddit, GitHub and independent websites are discovery sources. Coding agents, model families and rendering tools are different fields of evidence; never infer one from another.
+- [Product & Brand](#product-brand)
+- [Typography & Motion Studies](#motion-studies)
+- [Explainers & Data](#explainers-data)
+- [Characters & Stories](#characters-stories)
+- [3D & Simulations](#3d-simulations)
+- [Music & Audiovisual](#music-audiovisual)
+- [Interactive Experiences](#interactive)
+- [Full list](docs/FULL_LIST.md)
+- [Contributing](CONTRIBUTING.md)
 
-The current collection is a starting point, not a claim of complete coverage. Importable means the record has the required fields; it does not mean the video has been reproduced or reviewed frame by frame. Candidate records may lack a prompt, confirmed model or quality review. See [verification rules](docs/SOURCING.md).
-
-## Prompt library
-
-Add your motion directly under the matching category below, then open a PR. A preview, prompt link, creator credit and model name are enough to start. [How to contribute](CONTRIBUTING.md).
-
-[Product & Brand](#product-brand) · [Typography & Motion Studies](#motion-studies) · [Explainers & Data](#explainers-data) · [Characters & Stories](#characters-stories) · [3D & Simulations](#3d-simulations) · [Music & Audiovisual](#music-audiovisual) · [Interactive Experiences](#interactive)
+<a id="prompt-library"></a>
 
 <a id="product-brand"></a>
-### Product & Brand
 
-Product launches, brand films, logo reveals and UI demos.
+## Product & Brand
 
-- **[UI morph showreel](examples/ui-morph.md)** — by [twoclipping](https://x.com/twoclipping/status/2103273003555402193) · Opus 5.5 · [Prompt](examples/ui-morph.md#prompt)
+[＋ Submit to this category](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L29) · [Full list](docs/FULL_LIST.md#product-brand)
 
-  [<img src="public/motion-previews/ui-morph.gif" width="280" alt="Animated preview: UI morph showreel" />](examples/ui-morph.md)
-
-- **[Photo print app launch film](examples/photo-print.md)** — by [twoclipping](https://x.com/twoclipping/status/2103835273813496100) · Opus 5.5 · [Prompt](examples/photo-print.md#prompt)
-
-  [<img src="public/motion-previews/photo-print.gif" width="280" alt="Animated preview: Photo print app launch film" />](examples/photo-print.md)
-
-- **[Cinetic skill launch film](examples/cinetic.md)** — by [LexnLin](https://x.com/LexnLin/status/2106891315371737480) · Opus 5.5 · [Prompt](examples/cinetic.md#prompt)
-
-  [<img src="public/motion-previews/cinetic.gif" width="280" alt="Animated preview: Cinetic skill launch film" />](examples/cinetic.md)
-
-- **[TypingMind logo reveal](examples/typingmind.md)** — by [tdinh_me](https://x.com/tdinh_me/status/2103704250329301409) · Opus 5.5 · [Prompt](examples/typingmind.md#prompt)
-
-  [<img src="public/motion-previews/typingmind.gif" width="280" alt="Animated preview: TypingMind logo reveal" />](examples/typingmind.md)
-
-- **[Enxovaly baby app promo](examples/enxovaly.md)** — by [gabrielbuzziv](https://x.com/gabrielbuzziv/status/2103589440258187408) · Opus 5.5 · [Prompt](examples/enxovaly.md#prompt)
-
-  [<img src="public/motion-previews/enxovaly.gif" width="280" alt="Animated preview: Enxovaly baby app promo" />](examples/enxovaly.md)
-
-- **[Changelog highlight video (no skill installed)](examples/changelog-highlights.md)** — by [leon7hao](https://x.com/leon7hao/status/2096844989900914865) · GPT-6 Astra · [Prompt](examples/changelog-highlights.md#prompt)
-
-  [<img src="public/motion-previews/changelog-highlights.gif" width="280" alt="Animated preview: Changelog highlight video (no skill installed)" />](examples/changelog-highlights.md)
+<table>
+<tr>
+<td width="33%" valign="top"><a href="examples/ui-morph.md"><img src="public/motion-previews/ui-morph.gif" width="260" alt="UI morph showreel" /></a><br><a href="examples/ui-morph.md"><b>UI morph showreel</b></a><br><a href="https://x.com/twoclipping/status/2103273003555402193">@twoclipping</a> · <a href="examples/ui-morph.md#prompt">Prompt</a><br><sub>Opus 5.5</sub></td>
+<td width="33%" valign="top"><a href="examples/photo-print.md"><img src="public/motion-previews/photo-print.gif" width="260" alt="Photo print app launch film" /></a><br><a href="examples/photo-print.md"><b>Photo print app launch film</b></a><br><a href="https://x.com/twoclipping/status/2103835273813496100">@twoclipping</a> · <a href="examples/photo-print.md#prompt">Prompt</a><br><sub>Opus 5.5</sub></td>
+<td width="33%" valign="top"><a href="examples/cinetic.md"><img src="public/motion-previews/cinetic.gif" width="260" alt="Cinetic skill launch film" /></a><br><a href="examples/cinetic.md"><b>Cinetic skill launch film</b></a><br><a href="https://x.com/LexnLin/status/2106891315371737480">@LexnLin</a> · <a href="examples/cinetic.md#prompt">Prompt</a><br><sub>Opus 5.5</sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="examples/typingmind.md"><img src="public/motion-previews/typingmind.gif" width="260" alt="TypingMind logo reveal" /></a><br><a href="examples/typingmind.md"><b>TypingMind logo reveal</b></a><br><a href="https://x.com/tdinh_me/status/2103704250329301409">@tdinh_me</a> · <a href="examples/typingmind.md#prompt">Prompt</a><br><sub>Opus 5.5</sub></td>
+<td width="33%" valign="top"><a href="examples/enxovaly.md"><img src="public/motion-previews/enxovaly.gif" width="260" alt="Enxovaly baby app promo" /></a><br><a href="examples/enxovaly.md"><b>Enxovaly baby app promo</b></a><br><a href="https://x.com/gabrielbuzziv/status/2103589440258187408">@gabrielbuzziv</a> · <a href="examples/enxovaly.md#prompt">Prompt</a><br><sub>Opus 5.5</sub></td>
+<td width="33%" valign="top"><a href="examples/changelog-highlights.md"><img src="public/motion-previews/changelog-highlights.gif" width="260" alt="Changelog highlight video (no skill installed)" /></a><br><a href="examples/changelog-highlights.md"><b>Changelog highlight video (no skill installed)</b></a><br><a href="https://x.com/leon7hao/status/2096844989900914865">@leon7hao</a> · <a href="examples/changelog-highlights.md#prompt">Prompt</a><br><sub>GPT-6 Astra</sub></td>
+</tr>
+</table>
 
 <!-- Add new Product & Brand motions above this line. -->
 
 <a id="motion-studies"></a>
-### Typography & Motion Studies
 
-Kinetic type, shape morphing, particles, transitions and showreels.
+## Typography & Motion Studies
 
-- **[Kinetic type](examples/kinetic-type.md)** — by [techhalla](https://x.com/techhalla/status/2103411244468498547) · Opus 5.5 · [Prompt](examples/kinetic-type.md#prompt)
+[＋ Submit to this category](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L50) · [Full list](docs/FULL_LIST.md#motion-studies)
 
-  [<img src="public/motion-previews/kinetic-type.gif" width="280" alt="Animated preview: Kinetic type" />](examples/kinetic-type.md)
-
-- **[Motion showreel](examples/motion-showreel.md)** — by [prasenx](https://x.com/prasenx/status/2103538744695693512) · Opus 5.5 · [Prompt](examples/motion-showreel.md#prompt)
-
-  [<img src="public/motion-previews/motion-showreel.gif" width="280" alt="Animated preview: Motion showreel" />](examples/motion-showreel.md)
-
-- **[Bold kinetic type showreel](examples/bold-type.md)** — by [shneural](https://x.com/shneural/status/2103151003272962130) · Claude Opus 5.5 / GPT-6 Astra · [Prompt](examples/bold-type.md#prompt)
-
-  [<img src="public/motion-previews/bold-type.gif" width="280" alt="Animated preview: Bold kinetic type showreel" />](examples/bold-type.md)
-
-- **[Motion designer showreel](examples/particle-showreel.md)** — by [himanshutwtxs](https://x.com/himanshutwtxs/status/2103495232637882858) · Opus 5.5 · [Prompt](examples/particle-showreel.md#prompt)
-
-  [<img src="public/motion-previews/particle-showreel.gif" width="280" alt="Animated preview: Motion designer showreel" />](examples/particle-showreel.md)
-
-- **[15-second flat-color motion showreel](examples/ajith-showreel.md)** — by [ajith_io](https://x.com/ajith_io/status/2103449416325890146) · Claude Opus 5.5 · [Prompt](examples/ajith-showreel.md#prompt)
-
-  [<img src="public/motion-previews/ajith-showreel.gif" width="280" alt="Animated preview: 15-second flat-color motion showreel" />](examples/ajith-showreel.md)
+<table>
+<tr>
+<td width="33%" valign="top"><a href="examples/kinetic-type.md"><img src="public/motion-previews/kinetic-type.gif" width="260" alt="Kinetic type" /></a><br><a href="examples/kinetic-type.md"><b>Kinetic type</b></a><br><a href="https://x.com/techhalla/status/2103411244468498547">@techhalla</a> · <a href="examples/kinetic-type.md#prompt">Prompt</a><br><sub>Opus 5.5</sub></td>
+<td width="33%" valign="top"><a href="examples/motion-showreel.md"><img src="public/motion-previews/motion-showreel.gif" width="260" alt="Motion showreel" /></a><br><a href="examples/motion-showreel.md"><b>Motion showreel</b></a><br><a href="https://x.com/prasenx/status/2103538744695693512">@prasenx</a> · <a href="examples/motion-showreel.md#prompt">Prompt</a><br><sub>Opus 5.5</sub></td>
+<td width="33%" valign="top"><a href="examples/bold-type.md"><img src="public/motion-previews/bold-type.gif" width="260" alt="Bold kinetic type showreel" /></a><br><a href="examples/bold-type.md"><b>Bold kinetic type showreel</b></a><br><a href="https://x.com/shneural/status/2103151003272962130">@shneural</a> · <a href="examples/bold-type.md#prompt">Prompt</a><br><sub>Claude Opus 5.5 / GPT-6 Astra</sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="examples/particle-showreel.md"><img src="public/motion-previews/particle-showreel.gif" width="260" alt="Motion designer showreel" /></a><br><a href="examples/particle-showreel.md"><b>Motion designer showreel</b></a><br><a href="https://x.com/himanshutwtxs/status/2103495232637882858">@himanshutwtxs</a> · <a href="examples/particle-showreel.md#prompt">Prompt</a><br><sub>Opus 5.5</sub></td>
+<td width="33%" valign="top"><a href="examples/ajith-showreel.md"><img src="public/motion-previews/ajith-showreel.gif" width="260" alt="15-second flat-color motion showreel" /></a><br><a href="examples/ajith-showreel.md"><b>15-second flat-color motion showreel</b></a><br><a href="https://x.com/ajith_io/status/2103449416325890146">@ajith_io</a> · <a href="examples/ajith-showreel.md#prompt">Prompt</a><br><sub>Claude Opus 5.5</sub></td>
+</tr>
+</table>
 
 <!-- Add new Typography & Motion Studies motions above this line. -->
 
 <a id="explainers-data"></a>
-### Explainers & Data
 
-Educational explainers, diagrams, charts and data stories.
+## Explainers & Data
 
-- **[Mathematics motion showreel](examples/mathematics.md)** — by [Math_files](https://x.com/Math_files/status/2104486181853610052) · Opus 5.5 · [Prompt](examples/mathematics.md#prompt)
+[＋ Submit to this category](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L70) · [Full list](docs/FULL_LIST.md#explainers-data)
 
-  [<img src="public/motion-previews/mathematics.gif" width="280" alt="Animated preview: Mathematics motion showreel" />](examples/mathematics.md)
-
-- **[Recursion explained in genres](examples/recursion.md)** — by [emollick](https://x.com/emollick/status/2103688362960019567) · Opus 5.5 · [Prompt](examples/recursion.md#prompt)
-
-  [<img src="public/motion-previews/recursion.gif" width="280" alt="Animated preview: Recursion explained in genres" />](examples/recursion.md)
+<table>
+<tr>
+<td width="33%" valign="top"><a href="examples/mathematics.md"><img src="public/motion-previews/mathematics.gif" width="260" alt="Mathematics motion showreel" /></a><br><a href="examples/mathematics.md"><b>Mathematics motion showreel</b></a><br><a href="https://x.com/Math_files/status/2104486181853610052">@Math_files</a> · <a href="examples/mathematics.md#prompt">Prompt</a><br><sub>Opus 5.5</sub></td>
+<td width="33%" valign="top"><a href="examples/recursion.md"><img src="public/motion-previews/recursion.gif" width="260" alt="Recursion explained in genres" /></a><br><a href="examples/recursion.md"><b>Recursion explained in genres</b></a><br><a href="https://x.com/emollick/status/2103688362960019567">@emollick</a> · <a href="examples/recursion.md#prompt">Prompt</a><br><sub>Opus 5.5</sub></td>
+</tr>
+</table>
 
 <!-- Add new Explainers & Data motions above this line. -->
 
 <a id="characters-stories"></a>
-### Characters & Stories
 
-Character animation, narrative shorts and concept-driven stories.
+## Characters & Stories
 
-- **[Overthinking showreel](examples/overthinking.md)** — by [gizakdag](https://x.com/gizakdag/status/2103566030916239768) · Opus 5.5 · [Prompt](examples/overthinking.md#prompt)
+[＋ Submit to this category](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L85) · [Full list](docs/FULL_LIST.md#characters-stories)
 
-  [<img src="public/motion-previews/overthinking.gif" width="280" alt="Animated preview: Overthinking showreel" />](examples/overthinking.md)
+<table>
+<tr>
+<td width="33%" valign="top"><a href="examples/overthinking.md"><img src="public/motion-previews/overthinking.gif" width="260" alt="Overthinking showreel" /></a><br><a href="examples/overthinking.md"><b>Overthinking showreel</b></a><br><a href="https://x.com/gizakdag/status/2103566030916239768">@gizakdag</a> · <a href="examples/overthinking.md#prompt">Prompt</a><br><sub>Opus 5.5</sub></td>
+</tr>
+</table>
 
 <!-- Add new Characters & Stories motions above this line. -->
 
 <a id="3d-simulations"></a>
-### 3D & Simulations
 
-3D scenes, spatial animation, procedural worlds and physical simulations.
+## 3D & Simulations
 
-- **[Infinite zoom](examples/infinite-zoom.md)** — by [koldo2k](https://x.com/koldo2k/status/2103129343253778767) · Opus 5.5 · [Prompt](examples/infinite-zoom.md#prompt)
+[＋ Submit to this category](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L99) · [Full list](docs/FULL_LIST.md#3d-simulations)
 
-  [<img src="public/motion-previews/infinite-zoom.gif" width="280" alt="Animated preview: Infinite zoom" />](examples/infinite-zoom.md)
+<table>
+<tr>
+<td width="33%" valign="top"><a href="examples/infinite-zoom.md"><img src="public/motion-previews/infinite-zoom.gif" width="260" alt="Infinite zoom" /></a><br><a href="examples/infinite-zoom.md"><b>Infinite zoom</b></a><br><a href="https://x.com/koldo2k/status/2103129343253778767">@koldo2k</a> · <a href="examples/infinite-zoom.md#prompt">Prompt</a><br><sub>Opus 5.5</sub></td>
+</tr>
+</table>
 
 <!-- Add new 3D & Simulations motions above this line. -->
 
 <a id="music-audiovisual"></a>
-### Music & Audiovisual
 
-Music videos, audio-reactive visuals and sound-led motion. Including a soundtrack alone does not make a work a music video.
+## Music & Audiovisual
 
-Be the first to add a motion here!
+[＋ Submit to this category](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L113) · [Full list](docs/FULL_LIST.md#music-audiovisual)
+
+Be the first to share a motion in this category.
 
 <!-- Add new Music & Audiovisual motions above this line. -->
 
 <a id="interactive"></a>
-### Interactive Experiences
 
-Responsive motion, interactive art, playful interfaces and animated game demonstrations.
+## Interactive Experiences
 
-- **[Starry Night cat-spotting game](examples/starry-night.md)** — by [MandelDuck](https://x.com/MandelDuck/status/2103802923465768972) · Opus 5.5 · [Prompt](examples/starry-night.md#prompt)
+[＋ Submit to this category](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L123) · [Full list](docs/FULL_LIST.md#interactive)
 
-  [<img src="public/motion-previews/starry-night.gif" width="280" alt="Animated preview: Starry Night cat-spotting game" />](examples/starry-night.md)
+<table>
+<tr>
+<td width="33%" valign="top"><a href="examples/starry-night.md"><img src="public/motion-previews/starry-night.gif" width="260" alt="Starry Night cat-spotting game" /></a><br><a href="examples/starry-night.md"><b>Starry Night cat-spotting game</b></a><br><a href="https://x.com/MandelDuck/status/2103802923465768972">@MandelDuck</a> · <a href="examples/starry-night.md#prompt">Prompt</a><br><sub>Opus 5.5</sub></td>
+</tr>
+</table>
 
 <!-- Add new Interactive Experiences motions above this line. -->
 
-Maintained by [open-prompts.com](https://www.open-prompts.com/motion-prompts).
+## Credits
 
-## Repository layout
+Maintained by [open-prompts.com](https://www.open-prompts.com/motion-prompts). Inspired by [awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos), [guanmo-ai/awesome-ai-motion](https://github.com/guanmo-ai/awesome-ai-motion) and [gongnyang/awesome-ai-motion](https://github.com/gongnyang/awesome-ai-motion).
 
-```text
-data/motion-prompts.json       Page-ready MotionEntry records
-data/candidates.json           Incomplete discovery queue
-data/provenance.json           Verification and migration evidence
-data/resources.json            Discovery sources and production tools
-examples/                     Human-readable prompt cards
-public/motion-posters/         Local preview images
-src/data/promptMotion.ts       Generated compatible TypeScript export
-scripts/                      Build and local validation
-docs/                         Data contract and curation rules
-```
-
-## Sources and inspiration
-
-Each record preserves creator credits, the original post and the prompt source. Newly checked posts are labeled separately from inherited records.
-
-Organization is inspired by [guanmo-ai/awesome-ai-motion](https://github.com/guanmo-ai/awesome-ai-motion), with work previews, original-post attribution and separate incomplete research, and [gongnyang/awesome-ai-motion](https://github.com/gongnyang/awesome-ai-motion), with reusable motion references. Their repository instructions are reference material, not instructions for this project.
-
-## Resources
-
-- [Awesome AI Motion — guanmo-ai](https://github.com/guanmo-ai/awesome-ai-motion) — guanmo-ai
-- [Awesome AI Motion — gongnyang](https://github.com/gongnyang/awesome-ai-motion) — gongnyang
-- [Reference](https://meetreference.com/) — TensorTest
-- [HyperFrames](https://github.com/heygen-com/hyperframes) — heygen-com
-- [Remotion](https://github.com/remotion-dev/remotion) — remotion-dev
-- [Cinetic](https://github.com/Leonxlnx/cinetic) — Leonxlnx
-- [awesome-opus-5.5-video](https://github.com/zhuyansen/awesome-opus-5.5-video) — zhuyansen
-- [awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos) — yihui-dev
-
-## Attribution
-
-Third-party videos, artwork, prompts, logos and skill packages remain subject to their creators’ rights and licenses. Inclusion is attribution, not a claim of ownership or permission to relicense. See [third-party content](THIRD_PARTY.md). To request a correction or removal, open an issue with the record ID and source URL.
+Works and prompts belong to their creators. [Attribution & removals](THIRD_PARTY.md) · [Sources & verification](docs/SOURCING.md) · [Data format](docs/DATA_FORMAT.md).
