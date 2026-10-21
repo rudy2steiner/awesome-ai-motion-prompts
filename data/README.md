@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-809 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+820 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -309,6 +309,9 @@
 - [MotionVault: Morphing Text](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/text.ts#L257) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-morphing-text.md#prompt)
 - [MotionVault: Caustics](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/background.ts#L182) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-caustics.md#prompt)
 - [MotionVault: Rain Glass](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/background.ts#L215) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-rain-glass.md#prompt)
+- [MotionVault: Shape Shift](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/loader.ts#L48) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-shape-shift.md#prompt)
+- [MotionVault: Orbit](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/loader.ts#L58) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-orbit-loader.md#prompt)
+- [MotionVault: Hourglass](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/loader.ts#L118) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-hourglass.md#prompt)
 
 
 <a id="explainers-data"></a>
@@ -869,3 +872,11 @@
 - [MotionVault: Domino Run](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/scroll.ts#L172) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-domino-run.md#prompt)
 - [MotionVault: Elastic Slider](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/spring.ts#L87) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-elastic-slider.md#prompt)
 - [MotionVault: Magnet Lines](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/spring.ts#L107) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-magnet-lines.md#prompt)
+- [MotionVault: Holo Glare](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/card.ts#L129) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-holo-card.md#prompt)
+- [MotionVault: Tilt Parallax](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/card.ts#L160) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-tilt-parallax.md#prompt)
+- [MotionVault: Pixel Decay](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/card.ts#L230) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-decay-card.md#prompt)
+- [MotionVault: Electric Border](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/card.ts#L241) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-electric-border.md#prompt)
+- [MotionVault: Polaroid Develop](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/card.ts#L324) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-polaroid-develop.md#prompt)
+- [MotionVault: Depth Carousel](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/layout.ts#L89) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-depth-carousel.md#prompt)
+- [MotionVault: Morph Slider](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/layout.ts#L99) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-morph-slider.md#prompt)
+- [MotionVault: Inertia Drag Stack](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/layout.ts#L109) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-inertia-drag-stack.md#prompt)
