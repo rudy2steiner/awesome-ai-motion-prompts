@@ -32,8 +32,6 @@ Featured: [@shneural](https://x.com/shneural/status/2103151003272962130) · [Pro
 
 ## Product & Brand
 
-[＋ Submit to this category](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L33) · [Full list](data/README.md#product-brand)
-
 <table>
 <tr>
 <td width="33%" valign="top"><a href="prompts/ui-morph.md"><img src="data/media/ui-morph.gif" width="260" alt="UI morph showreel" /></a><br><a href="prompts/ui-morph.md"><b>UI morph showreel</b></a><br><a href="https://x.com/twoclipping/status/2103273003555402193">@twoclipping</a> · <a href="prompts/ui-morph.md#prompt">Prompt</a><br><sub>Opus 5.5</sub></td>
@@ -52,8 +50,6 @@ Featured: [@shneural](https://x.com/shneural/status/2103151003272962130) · [Pro
 <a id="motion-studies"></a>
 
 ## Typography & Motion Studies
-
-[＋ Submit to this category](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L54) · [Full list](data/README.md#motion-studies)
 
 <table>
 <tr>
@@ -74,8 +70,6 @@ Featured: [@shneural](https://x.com/shneural/status/2103151003272962130) · [Pro
 
 ## Explainers & Data
 
-[＋ Submit to this category](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L75) · [Full list](data/README.md#explainers-data)
-
 <table>
 <tr>
 <td width="33%" valign="top"><a href="prompts/mathematics.md"><img src="data/media/mathematics.gif" width="260" alt="Mathematics motion showreel" /></a><br><a href="prompts/mathematics.md"><b>Mathematics motion showreel</b></a><br><a href="https://x.com/Math_files/status/2104486181853610052">@Math_files</a> · <a href="prompts/mathematics.md#prompt">Prompt</a><br><sub>Opus 5.5</sub></td>
@@ -94,8 +88,6 @@ Featured: [@shneural](https://x.com/shneural/status/2103151003272962130) · [Pro
 <a id="characters-stories"></a>
 
 ## Characters & Stories
-
-[＋ Submit to this category](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L96) · [Full list](data/README.md#characters-stories)
 
 <table>
 <tr>
@@ -116,8 +108,6 @@ Featured: [@shneural](https://x.com/shneural/status/2103151003272962130) · [Pro
 
 ## 3D & Simulations
 
-[＋ Submit to this category](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L117) · [Full list](data/README.md#3d-simulations)
-
 <table>
 <tr>
 <td width="33%" valign="top"><a href="prompts/infinite-zoom.md"><img src="data/media/infinite-zoom.gif" width="260" alt="Infinite zoom" /></a><br><a href="prompts/infinite-zoom.md"><b>Infinite zoom</b></a><br><a href="https://x.com/koldo2k/status/2103129343253778767">@koldo2k</a> · <a href="prompts/infinite-zoom.md#prompt">Prompt</a><br><sub>Opus 5.5</sub></td>
@@ -137,8 +127,6 @@ Featured: [@shneural](https://x.com/shneural/status/2103151003272962130) · [Pro
 
 ## Music & Audiovisual
 
-[＋ Submit to this category](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L138) · [Full list](data/README.md#music-audiovisual)
-
 <table>
 <tr>
 <td width="33%" valign="top"><a href="prompts/samaote-124569.md"><img src="data/media/samaote-124569.gif" width="260" alt="Lyrics synchronized to vocals and beats" /></a><br><a href="prompts/samaote-124569.md"><b>Lyrics synchronized to vocals and beats</b></a><br><a href="https://x.com/samaote/status/2103510974796124569">@samaote</a> · <a href="prompts/samaote-124569.md#prompt">Prompt</a><br><sub>Claude Opus 5.5</sub></td>
@@ -157,8 +145,6 @@ Featured: [@shneural](https://x.com/shneural/status/2103151003272962130) · [Pro
 <a id="interactive"></a>
 
 ## Interactive Experiences
-
-[＋ Submit to this category](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L159) · [Full list](data/README.md#interactive)
 
 <table>
 <tr>

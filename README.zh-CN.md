@@ -34,8 +34,6 @@
 
 ## 产品与品牌
 
-[＋ 向此分类投稿](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L33) · [完整清单](data/README.md#product-brand)
-
 <table>
 <tr>
 <td width="33%" valign="top"><a href="prompts/ui-morph.md"><img src="data/media/ui-morph.gif" width="260" alt="UI 形变动效" /></a><br><a href="prompts/ui-morph.md"><b>UI 形变动效</b></a><br><a href="https://x.com/twoclipping/status/2103273003555402193">@twoclipping</a> · <a href="prompts/ui-morph.md#prompt">提示词</a><br><sub>Opus 5.5</sub></td>
@@ -54,8 +52,6 @@
 <a id="motion-studies"></a>
 
 ## 字排与动效实验
-
-[＋ 向此分类投稿](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L54) · [完整清单](data/README.md#motion-studies)
 
 <table>
 <tr>
@@ -76,8 +72,6 @@
 
 ## 知识讲解与数据
 
-[＋ 向此分类投稿](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L75) · [完整清单](data/README.md#explainers-data)
-
 <table>
 <tr>
 <td width="33%" valign="top"><a href="prompts/mathematics.md"><img src="data/media/mathematics.gif" width="260" alt="数学动效作品集" /></a><br><a href="prompts/mathematics.md"><b>数学动效作品集</b></a><br><a href="https://x.com/Math_files/status/2104486181853610052">@Math_files</a> · <a href="prompts/mathematics.md#prompt">提示词</a><br><sub>Opus 5.5</sub></td>
@@ -96,8 +90,6 @@
 <a id="characters-stories"></a>
 
 ## 角色与叙事
-
-[＋ 向此分类投稿](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L96) · [完整清单](data/README.md#characters-stories)
 
 <table>
 <tr>
@@ -118,8 +110,6 @@
 
 ## 3D 场景与模拟
 
-[＋ 向此分类投稿](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L117) · [完整清单](data/README.md#3d-simulations)
-
 <table>
 <tr>
 <td width="33%" valign="top"><a href="prompts/infinite-zoom.md"><img src="data/media/infinite-zoom.gif" width="260" alt="无限缩放" /></a><br><a href="prompts/infinite-zoom.md"><b>无限缩放</b></a><br><a href="https://x.com/koldo2k/status/2103129343253778767">@koldo2k</a> · <a href="prompts/infinite-zoom.md#prompt">提示词</a><br><sub>Opus 5.5</sub></td>
@@ -139,8 +129,6 @@
 
 ## 音乐与视听
 
-[＋ 向此分类投稿](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L138) · [完整清单](data/README.md#music-audiovisual)
-
 <table>
 <tr>
 <td width="33%" valign="top"><a href="prompts/samaote-124569.md"><img src="data/media/samaote-124569.gif" width="260" alt="跟随人声与节拍的歌词动效" /></a><br><a href="prompts/samaote-124569.md"><b>跟随人声与节拍的歌词动效</b></a><br><a href="https://x.com/samaote/status/2103510974796124569">@samaote</a> · <a href="prompts/samaote-124569.md#prompt">提示词</a><br><sub>Claude Opus 5.5</sub></td>
@@ -159,8 +147,6 @@
 <a id="interactive"></a>
 
 ## 交互体验
-
-[＋ 向此分类投稿](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L159) · [完整清单](data/README.md#interactive)
 
 <table>
 <tr>
