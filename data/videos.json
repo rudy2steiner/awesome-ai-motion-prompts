@@ -25238,5 +25238,35 @@
       "visualQuality": "not_reviewed",
       "fullReview": false
     }
+  },
+  {
+    "id": "2103545787875733862",
+    "title": "Ren app: a 30-second launch motion and sound design brief",
+    "author": "macrohou",
+    "sourceUrl": "https://x.com/macrohou/status/2103545787875733862",
+    "promptSourceUrl": "https://prompt-motion.com/macrohou-33959d",
+    "prompt": "[gave access to Ren repo] Make a dynamic 30-second motion graphics video for Ren that shows off your motion and sound design. Go crazy.",
+    "model": "Claude Opus 5.5",
+    "primaryCategory": "product-brand",
+    "promptStatus": "upstream_transcribed",
+    "promptCompleteness": "published_brief_requires_repository",
+    "requiresReference": true,
+    "notes": "An older work discovered through Prompt Motion, a catalogue linked from X Latest; not a newly published X post. The original author post confirms the Ren launch experiment, Opus 5.5 attribution, prompt opening and native video presence. Complete brief text is transcribed by the linked public catalogue. The author supplied access to the Ren repository; this brief is not self-contained and that project context is not bundled here. Full original long-post text, playback and visual quality were not independently reviewed.",
+    "platform": "X",
+    "modelStatus": "author_claim",
+    "status": "collected",
+    "promptFile": "prompts/motion-2103545787875733862.md",
+    "discoveryUrl": "https://x.com/GMIDave/status/2112431290355958176",
+    "verification": {
+      "method": "chrome_mcp_catalogue_and_original_x_post",
+      "checkedAt": "2026-10-22",
+      "originalPostConfirmed": true,
+      "promptMatchedSource": false,
+      "promptOpeningMatchedSource": true,
+      "authorClaimConfirmed": true,
+      "nativeVideoConfirmed": true,
+      "visualQuality": "not_reviewed",
+      "fullReview": false
+    }
   }
 ]

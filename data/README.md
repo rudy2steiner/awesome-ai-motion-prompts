@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-744 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+745 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -158,6 +158,7 @@
 - [21 Keys, Opened — Exploded Teardown](https://github.com/lemomo-ai/lemo-opuscar/blob/main/styles/teardown/STYLE.md) — @lemomo-ai · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-lemo-teardown.md#prompt)
 - [Clawd Moves In — Living Screencast](https://github.com/lemomo-ai/lemo-opuscar/blob/main/styles/living-screencast/STYLE.md) — @lemomo-ai · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-lemo-living-screencast.md#prompt)
 - [Tennis game launch video](https://x.com/deifosv/status/2103197522382786581) — @deifosv · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2103197522382786581.md#prompt)
+- [Ren app: a 30-second launch motion and sound design brief](https://x.com/macrohou/status/2103545787875733862) — @macrohou · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2103545787875733862.md#prompt)
 
 
 <a id="motion-studies"></a>
