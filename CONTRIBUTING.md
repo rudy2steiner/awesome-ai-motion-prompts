@@ -36,7 +36,7 @@ data/media/            Short animated previews
 
 Keep README entries and prompt files manually editable. No build step is required.
 
-`data/videos.json` is the single work dataset. `status` separates `featured` works from `candidate` research. Featured records retain the original prompt fields, with `primaryCategory`, `promptFile`, preview details, optional `onlineUrl` and provenance in the same record. `data/categories.json` maps categories to featured entry IDs. Update the text-only `data/README.md` when adding a work to the full list.
+`data/videos.json` is the single work dataset. Include a work only when its prompt text is saved in `prompts/`, matches the dataset, and has a credited source. Link-only discovery leads do not belong in this dataset or the full list and do not count toward the README total. Count works with local prompt text, not unique prompt wording or independently verified works. `status` is `collected` for these entries or `featured` for entries selected for the preview gallery; neither status establishes independent playback or model verification. Preserve the actual review evidence on each prompt page. `data/categories.json` maps categories to gallery entry IDs. Update the text-only `data/README.md` and both README totals when adding or removing a work.
 
 ## Review
 
