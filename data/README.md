@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-693 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+717 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -152,6 +152,9 @@
 - [Flora Product Ad Video with Playwright and FFmpeg](https://x.com/andre_lucaxxs/status/2103292636945846347) — andre_lucaxxs · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103292636945846347.md#prompt)
 - [README hero video for an open-source project](https://x.com/hqmank/status/2103831140033241156) — hqmank · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103831140033241156.md#prompt)
 - [Opus 5.5 Forgefy Product Motion Graphics Showcase](https://x.com/0xPaulvibe/status/2104562535340884325) — 0xPaulvibe · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2104562535340884325.md#prompt)
+- [Dump sticker-feature launch trailer in an Apple-style aesthetic](https://x.com/javiiarchive/status/2105283486487896448) — javiiarchive · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2105283486487896448.md#prompt)
+- [Cominka recruiting film with Kansai-dialect narration](https://x.com/YoheiN2023/status/2103590367518171295) — YoheiN2023 · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103590367518171295.md#prompt)
+- [Tabi landing-page launch film with procedural animation](https://x.com/nikhilbhima/status/2109019765134213540) — nikhilbhima · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2109019765134213540.md#prompt)
 
 
 <a id="motion-studies"></a>
@@ -477,6 +480,10 @@
 - [Kokopelli's Space Journey Animation](https://x.com/KimikoA97936/status/2108555077933822275) — KimikoA97936 · Claude Opus 5.5 / Astra (version unspecified) (directory reported) · [Prompt](../prompts/motion-2108555077933822275.md#prompt)
 - [Drooling Cat Motion Graphic Animation with Opus 5.5](https://x.com/zanki00000/status/2104484761238671402) — zanki00000 · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2104484761238671402.md#prompt)
 - [Three.js Star Wars 90s Cartoon Story Animation](https://x.com/Ryzoft/status/2102989395359887481) — Ryzoft · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2102989395359887481.md#prompt)
+- [Pelican cycles through a detailed Three.js city](https://x.com/addyosmani/status/2102436416437580159) — addyosmani · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2102436416437580159.md#prompt)
+- [Clawd: a one-minute character film without text](https://x.com/LexnLin/status/2110389810258968965) — LexnLin · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2110389810258968965.md#prompt)
+- [Cute Oktoberfest character animation](https://x.com/cherry_mx_reds/status/2102493303388475855) — cherry_mx_reds · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2102493303388475855.md#prompt)
+- [Sci-fi morning routine reveals a vast city](https://x.com/AIWarper/status/2105370568178479476) — AIWarper · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2105370568178479476.md#prompt)
 
 
 <a id="3d-simulations"></a>
@@ -579,6 +586,8 @@
 - [Simulating the Moon Crashing into Earth](https://x.com/ottollm/status/2108517404712325592) — ottollm · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2108517404712325592.md#prompt)
 - [Animated Seaside Amusement Park with Ferris Wheel and Carousel](https://x.com/lucian__03/status/2102501547062239317) — lucian__03 · Claude Opus 5.5 / Grok 4.7 (directory reported) · [Prompt](../prompts/motion-2102501547062239317.md#prompt)
 - [Lighthouse Thunderstorm HTML Canvas Animation](https://x.com/onmanjrekar/status/2110166432151400762) — onmanjrekar · Claude Opus 5.5 / Gemini Argon 4 / Claude Sonnet 5.5 / Fable 5.1 / Muse Spark 1.3 (directory reported) · [Prompt](../prompts/motion-2110166432151400762.md#prompt)
+- [Puzzle cube solves on camera with move counter and timer](https://x.com/semichenkko/status/2111754643604636049) — semichenkko · Claude Opus 5.5 / DeepSeek V4.1 Flash (directory reported) · [Prompt](../prompts/motion-2111754643604636049.md#prompt)
+- [Cottagecore Japanese minka build with a cinematic Minecraft tour](https://x.com/nik_akki/status/2110807768550764628) — nik_akki · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2110807768550764628.md#prompt)
 
 
 <a id="music-audiovisual"></a>
@@ -623,6 +632,7 @@
 - [Psychedelic Pop Punk VJ Motion Graphics with Techno Sync](https://x.com/yama_kiyo/status/2103740786177134910) — yama_kiyo · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103740786177134910.md#prompt)
 - [Generative Goldfish in Black Lacquer Bowl with Sound](https://x.com/mizugame_22/status/2104940371038109764) — mizugame_22 · Claude Opus 5.5 / Claude Sonnet 5.5 (directory reported) · [Prompt](../prompts/motion-2104940371038109764.md#prompt)
 - [Spoken Word Video: All Watched Over by Machines of Loving Grace](https://x.com/BretKerr/status/2104408032792990102) — BretKerr · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2104408032792990102.md#prompt)
+- [Pixel-art Halloween diorama for a long lofi loop](https://x.com/HugoDuprez/status/2102746041250705890) — HugoDuprez · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2102746041250705890.md#prompt)
 
 
 <a id="interactive"></a>
@@ -753,3 +763,17 @@
 - [Interactive WebGPU Melon Jelly Simulation](https://x.com/esrhengwu/status/2104504957173153951) — esrhengwu · Claude Opus 5.5 / GPT-6 Astra (directory reported) · [Prompt](../prompts/motion-2104504957173153951.md#prompt)
 - [Interactive 3D Hand Gestures with Framer and MediaPipe](https://x.com/emili_iv/status/2109388484569924030) — emili_iv · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2109388484569924030.md#prompt)
 - [Thermal Courier: Dawn Balloon Mail Run Canvas Game & Trailer](https://x.com/jeffbruchado/status/2108951077991362922) — jeffbruchado · Claude Opus 5.5 / Claude Sonnet 5.5 (directory reported) · [Prompt](../prompts/motion-2108951077991362922.md#prompt)
+- [Floor-plan editor with synchronized animated 2D-to-3D transition](https://x.com/akokoi1/status/2104520072014508316) — akokoi1 · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2104520072014508316.md#prompt)
+- [Walk through a house built to scale from its floor plan](https://x.com/everestchris6/status/2110036224320884998) — everestchris6 · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2110036224320884998.md#prompt)
+- [Citrus Jelly: a WebGPU soft-body material comparison](https://x.com/vib3coded/status/2109424502237016076) — vib3coded · Claude Opus 5.5 / Astra / Fable / Sonnet (versions not all specified) (directory reported) · [Prompt](../prompts/motion-2109424502237016076.md#prompt)
+- [Plush Octopus with soft tentacles and combable fur](https://x.com/vib3coded/status/2106809017850818679) — vib3coded · Claude Opus 5.5 / GPT-6.1 Sol (directory reported) · [Prompt](../prompts/motion-2106809017850818679.md#prompt)
+- [Living koi pond with waterfall and swimming fish](https://x.com/Haleeeemahh/status/2110442447495127067) — Haleeeemahh · Claude Opus 5.5 / Gemini 4 Argon (directory reported) · [Prompt](../prompts/motion-2110442447495127067.md#prompt)
+- [Whole Melon: stretch and slice a jelly watermelon](https://x.com/vib3coded/status/2106056420131029473) — vib3coded · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2106056420131029473.md#prompt)
+- [Waving mascot welcome screen with swipe-up interaction](https://x.com/jaimintf/status/2110454477027496395) — jaimintf · Claude Opus 5.5 / Argon 4 / Sol 6.1 (directory reported) · [Prompt](../prompts/motion-2110454477027496395.md#prompt)
+- [Mining operations explained as an isometric strategy game](https://x.com/tradphi/status/2107022944916709886) — tradphi · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2107022944916709886.md#prompt)
+- [Frostbay: an interactive Arctic jelly diorama](https://x.com/vib3coded/status/2107455583129313304) — vib3coded · Claude Opus 5.5 / ChatGPT-6 Astra (directory reported) · [Prompt](../prompts/motion-2107455583129313304.md#prompt)
+- [Jelly Press: stretch and crush soft 3D specimens](https://x.com/vib3coded/status/2105285992865272110) — vib3coded · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2105285992865272110.md#prompt)
+- [Interactive koi pond with animated caustics and fish](https://x.com/vib3coded/status/2108926847442378848) — vib3coded · Claude Opus 5.5 / GPT-6 Astra (directory reported) · [Prompt](../prompts/motion-2108926847442378848.md#prompt)
+- [Fable 5.5 interactive 3D Xbox controller](https://x.com/notjazii/status/2106050222828998967) — notjazii · Fable 5.5 (directory reported) · [Prompt](../prompts/motion-2106050222828998967.md#prompt)
+- [Peach Jelly: soft flesh and removable pit material study](https://x.com/vib3coded/status/2112240323560645092) — vib3coded · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2112240323560645092.md#prompt)
+- [Plush Watermelon with soft-body gait and cloth limbs](https://x.com/vib3coded/status/2111428909203866089) — vib3coded · Claude Opus 5.5 / Gemini 4 Argon (directory reported) · [Prompt](../prompts/motion-2111428909203866089.md#prompt)
