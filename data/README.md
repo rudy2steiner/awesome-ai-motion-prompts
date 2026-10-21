@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-684 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+693 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -151,6 +151,7 @@
 - [40-Second Distilbook Motion Graphics Showreel](https://x.com/ajith_io/status/2103800569584562538) — ajith_io · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103800569584562538.md#prompt)
 - [Flora Product Ad Video with Playwright and FFmpeg](https://x.com/andre_lucaxxs/status/2103292636945846347) — andre_lucaxxs · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103292636945846347.md#prompt)
 - [README hero video for an open-source project](https://x.com/hqmank/status/2103831140033241156) — hqmank · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103831140033241156.md#prompt)
+- [Opus 5.5 Forgefy Product Motion Graphics Showcase](https://x.com/0xPaulvibe/status/2104562535340884325) — 0xPaulvibe · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2104562535340884325.md#prompt)
 
 
 <a id="motion-studies"></a>
@@ -271,6 +272,7 @@
 - [Claude Opus 5.5 Chinese Calligraphy Dynamic Scroll Animation](https://x.com/feigaobox/status/2106042539744862690) — feigaobox · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2106042539744862690.md#prompt)
 - [Mona Lisa painting process replay with visible cursor movement](https://x.com/ehsanik/status/2102885216692162993) — ehsanik · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2102885216692162993.md#prompt)
 - [Cinematic thirty-second typography and 3D motion reel](https://x.com/essjaykay755/status/2103446726245847163) — essjaykay755 · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103446726245847163.md#prompt)
+- [Opus 5.5 Motion Designer Showreel](https://x.com/Ai9app/status/2104912803786375645) — Ai9app · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2104912803786375645.md#prompt)
 
 
 <a id="explainers-data"></a>
@@ -744,3 +746,10 @@
 - [Interactive AI Data Center Simulation in Three.js](https://x.com/IAenCrudo/status/2107591732561097013) — IAenCrudo · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2107591732561097013.md#prompt)
 - [Interactive MacBook Keyboard with Key Sounds and Split-Flap Animation](https://x.com/fedemas/status/2108400811411996801) — fedemas · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2108400811411996801.md#prompt)
 - [Heatwave: portrait police-chase arcade prototype](https://x.com/froessell/status/2103789415323562325) — froessell · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103789415323562325.md#prompt)
+- [WebGPU XPBD Pineapple Jelly Interactive Soft-Body Simulation](https://x.com/vib3coded/status/2110744617918304744) — vib3coded · Claude Opus 5.5 / ChatGPT-6 Astra (directory reported) · [Prompt](../prompts/motion-2110744617918304744.md#prompt)
+- [Interactive 3D Stained-Glass Hibiscus](https://x.com/ivanainai/status/2109788665899810947) — ivanainai · Claude Opus 5.5 / Muse Wonder (version unspecified) (directory reported) · [Prompt](../prompts/motion-2109788665899810947.md#prompt)
+- [Interactive WebGPU Plush Cow Material Study](https://x.com/vib3coded/status/2108572856044986846) — vib3coded · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2108572856044986846.md#prompt)
+- [Interactive 3D Jelly Koi Pond Simulation](https://x.com/vib3coded/status/2108256366879981677) — vib3coded · Claude Opus 5.5 / GPT-6 Astra (directory reported) · [Prompt](../prompts/motion-2108256366879981677.md#prompt)
+- [Interactive WebGPU Melon Jelly Simulation](https://x.com/esrhengwu/status/2104504957173153951) — esrhengwu · Claude Opus 5.5 / GPT-6 Astra (directory reported) · [Prompt](../prompts/motion-2104504957173153951.md#prompt)
+- [Interactive 3D Hand Gestures with Framer and MediaPipe](https://x.com/emili_iv/status/2109388484569924030) — emili_iv · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2109388484569924030.md#prompt)
+- [Thermal Courier: Dawn Balloon Mail Run Canvas Game & Trailer](https://x.com/jeffbruchado/status/2108951077991362922) — jeffbruchado · Claude Opus 5.5 / Claude Sonnet 5.5 (directory reported) · [Prompt](../prompts/motion-2108951077991362922.md#prompt)

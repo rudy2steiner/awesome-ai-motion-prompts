@@ -1,6 +1,6 @@
 # Awesome AI Motion Prompts
 
-**[684 Motions with Prompts](data/README.md)**
+**[693 Motions with Prompts](data/README.md)**
 
 English | [简体中文](README.zh-CN.md)
 
