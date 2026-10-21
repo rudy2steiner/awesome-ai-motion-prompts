@@ -1,6 +1,6 @@
 # Awesome AI Motion Prompts
 
-**[649 个含提示词的动效作品](data/README.md)**
+**[675 个含提示词的动效作品](data/README.md)**
 
 [English](README.md) | 简体中文
 
