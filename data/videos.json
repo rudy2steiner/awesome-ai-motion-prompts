@@ -30405,5 +30405,34 @@
       "visualQuality": "not_reviewed",
       "fullReview": false
     }
+  },
+  {
+    "id": "2107087191738662953",
+    "title": "Depth-aware particle video reconstruction with beat-driven impacts",
+    "author": "Pluvio9yte",
+    "sourceUrl": "https://x.com/Pluvio9yte/status/2107087191738662953",
+    "promptSourceUrl": "https://x.com/Pluvio9yte/status/2107087191738662953",
+    "prompt": "公开我的制作方案，发给Opus5.5就能用\n\n  1. 选素材\n\n  三个标准，直接决定成败：\n\n  - 主体完整：人物或物体全身入画。细节会在加工中丢失，观众靠轮廓认东西，特写会变成一团。\n  - 背景干净：纯色、雪地、天空都行，主体和背景容易分开。\n  - 有明确的动作瞬间：打击、起跳、落地、转身。这些是后面做特效的支点。\n\n  来源可以是自己拍的、视频模型生成的，或有授权的现成片段。\n\n  2. 拆素材\n\n  从每一帧提取三类信息：\n\n  - 颜色：原画面。\n  - 远近：每个位置离镜头多远，用现成的深度估计模型算。\n  - 主体范围：哪里是主体、哪里是背景。\n\n  另外找出镜头切换发生在哪些时刻。这一步的要点是保持稳定：远近和主体范围要在同一个镜头内统一处理，否则播放起来会抖。\n\n  3. 定\"粒子\"和\"样式\"\n\n  先决定用什么东西来重建画面：圆点、方块、文字、线条都可以。\n\n  然后设计几种样式。每种样式其实只是三条规则的不同组合：\n\n  - 放在哪：整个画面都放，还是只放在主体上。\n  - 多大：统一大小，还是跟着明暗、远近变化。\n  - 什么颜色：用原画的颜色，还是统一用一两种颜色。\n\n  再加一个开关：是平铺在一个面上，还是按远近推进三维空间。推进去之后镜头才能环绕。\n\n  准备四到六种差异明显的样式就够用。粒子的疏密需要自己看着调：太大认不出内容，太小又和原片没区别。\n\n  4. 找节奏\n\n  - 定速度：选定音乐的速度，把时间切成等长的小格。让一格正好是整数帧，后面所有切换都好对齐。\n  - 找动作瞬间：结合\"声音突然变响\"和\"画面突然变动\"两个信号，找出素材里的打击点。\n  - 准备音乐：可以用现成的曲子并分析出它的拍子，也可以按定好的速度合成一段，并在打击点上加重音。\n\n  5. 编排\n\n  做一张时间表，写明每一格用哪种样式、什么配色、镜头在哪。这张表单独存放，以后调节奏只改它。\n\n  编排的四条原则：\n\n  - 开头交代变化：先给原画面，再过渡到粒子，让观众看懂发生了什么。\n  - 快慢交替：一直快会麻木，中间要有一段明显慢下来的部分。\n  - 配色要撞：相邻两格的颜色和样式反差越大，切换越有力。\n  - 结尾要有收束：比如粒子越来越大直到变成色块，或者回到原画面。\n\n  6. 关键时刻的反馈\n\n  在打击点上叠加短促的反应，按轻重分级：\n\n  - 每一次都有的轻反馈：粒子变形一下、镜头顶一下。\n  - 较重时才有的中反馈：一部分粒子朝镜头弹开。\n  - 最重的一两次才用的大反馈：时间静止，镜头环绕。\n\n  原则是弱而短。只动一部分粒子，几帧内结束，否则画面炸成一片，观众就看不清主体在做什么了。\n\n  贯穿全程的工作方法\n\n  - 先小样后全片：每做完一个环节，先渲染几帧看效果，确认了再往下。全片只在最后渲染。\n  - 拿不准的参数一次出一排：比如疏密，让 AI 同时出五六个档位并排放，你来挑。\n  - 改哪里渲哪里：调整某一段时只重新渲染那一段。\n  - 让 AI 自己看图：每一步都要求它把渲染结果打开看一遍再汇报。\n  - 所有随机都固定：保证同样的设置每次渲染结果一致，否则没法逐步修改。",
+    "model": "Claude Opus 5.5",
+    "primaryCategory": "music-audiovisual",
+    "promptStatus": "published_workflow",
+    "promptCompleteness": "complete_published_workflow_not_original_generation_input",
+    "requiresReference": true,
+    "notes": "The creator explicitly publishes this production method as material that can be sent to Opus 5.5. It is a reusable retrospective workflow, NOT a verbatim original single-shot generation prompt. The original Chinese workflow is preserved in full, excluding only the opening reaction sentence. Requires source footage with a full subject, clean background and clear action moments; depth estimation, subject masks, beat analysis or synthesized music, deterministic particle styles and editing are part of the described process. The original post and native-video metadata were checked through Chrome MCP. Model attribution and audiovisual results are author claims; playback quality, depth stability, timing and reproducibility were not independently tested. One finished case is counted once, not per particle style or workflow step.",
+    "platform": "X",
+    "modelStatus": "author_claim",
+    "status": "collected",
+    "promptFile": "prompts/motion-2107087191738662953.md",
+    "discoveryUrl": "https://x.com/Pluvio9yte/status/2107087191738662953",
+    "verification": {
+      "method": "chrome_mcp_original_x_published_workflow_and_video_metadata",
+      "checkedAt": "2026-10-22",
+      "originalPostConfirmed": true,
+      "promptMatchedSource": true,
+      "authorClaimConfirmed": true,
+      "nativeVideoConfirmed": true,
+      "visualQuality": "not_reviewed",
+      "fullReview": false
+    }
   }
 ]

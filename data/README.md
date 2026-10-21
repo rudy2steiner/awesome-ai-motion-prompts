@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-914 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+915 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -763,6 +763,7 @@
 - [Jazz vinyl track card with beat-aligned needle drop and live FFT spectrum](https://x.com/tkz_aiart/status/2107799962037911786) — @tkz_aiart · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2107799962037911786.md#prompt)
 - [Founder perseverance song: Remotion narrative and beat-timed lyrics](https://x.com/YanivM79/status/2106720729265795579) — @YanivM79 · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2106720729265795579.md#prompt)
 - [Neon Drive: Midnight — synthwave title, chrome type and VHS finish](https://github.com/Vincentwei1021/mg-styles-15/blob/main/prompts/10-synthwave.md) — @Vincentwei1021 · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-mg-styles-10-synthwave.md#prompt)
+- [Depth-aware particle video reconstruction with beat-driven impacts](https://x.com/Pluvio9yte/status/2107087191738662953) — @Pluvio9yte · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2107087191738662953.md#prompt)
 
 
 <a id="interactive"></a>
