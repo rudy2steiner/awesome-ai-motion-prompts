@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-260 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+276 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -86,6 +86,9 @@
 - [Modern Startup Video](https://x.com/lepadev/status/2103101681806475414) — @lepadev · Claude Opus 5.5 · [Prompt](../prompts/motion-2103101681806475414.md#prompt)
 - [Three.js 3D Logo Intro Studio Generator](https://x.com/juancarlos17626/status/2108663864581558301) — @juancarlos17626 · Claude Opus 5.5 · [Prompt](../prompts/motion-2108663864581558301.md#prompt)
 - [Agency Promo Motion Design Video](https://x.com/motion_conquest/status/2105077715510714439) — @motion_conquest · Claude Opus 5.5 · [Prompt](../prompts/motion-2105077715510714439.md#prompt)
+- [Bragly Review Widgets Teaser Video](https://x.com/UtsavChopra30/status/2108478302625071205) — @UtsavChopra30 · Claude Opus 5.5 · [Prompt](../prompts/motion-2108478302625071205.md#prompt)
+- [Paper Planes Motion Design Showreel Comparison](https://x.com/_sslinNn/status/2105208251956830625) — @_sslinNn · Claude Opus 5.5 / Claude Sonnet 5.5 · [Prompt](../prompts/motion-2105208251956830625.md#prompt)
+- [Carvuk 30-Second Motion Graphics Explainer](https://x.com/nicovegam/status/2105064666904813711) — @nicovegam · Claude Opus 5.5 · [Prompt](../prompts/motion-2105064666904813711.md#prompt)
 
 
 <a id="motion-studies"></a>
@@ -148,6 +151,9 @@
 - [The Beauty of Three.js Showcase Video](https://x.com/yupengfei990919/status/2104788406656184436) — @yupengfei990919 · Claude Opus 5.5 · [Prompt](../prompts/motion-2104788406656184436.md#prompt)
 - [Beauty of Physics One-Shot Animation via Claude Code and Opus 5.5](https://x.com/akokoi1/status/2104200939095904322) — @akokoi1 · Claude Opus 5.5 · [Prompt](../prompts/motion-2104200939095904322.md#prompt)
 - [Ex Nihilo: Pure HTML/GLSL Demoscene Intro by Claude Opus 5.5](https://x.com/JustinPerea/status/2102893186330841502) — @JustinPerea · Claude Opus 5.5 · [Prompt](../prompts/motion-2102893186330841502.md#prompt)
+- [Anime Opening Video Edit via Python and FFmpeg](https://x.com/aimikoda/status/2110119492076404869) — @aimikoda · Claude Opus 5.5 · [Prompt](../prompts/motion-2110119492076404869.md#prompt)
+- [Claude Opus 5.5 Motion Graphics Dream Sequence](https://x.com/arsbond_/status/2108418928397500487) — @arsbond_ · Claude Opus 5.5 · [Prompt](../prompts/motion-2108418928397500487.md#prompt)
+- [Saitama Prefecture Motion Graphics Showreel](https://x.com/papaneco_life/status/2108184711206257149) — @papaneco_life · Claude Opus 5.5 · [Prompt](../prompts/motion-2108184711206257149.md#prompt)
 
 
 <a id="explainers-data"></a>
@@ -187,6 +193,12 @@
 - [Tesla-Style Electric Motor 3D Explainer Animation Comparison](https://x.com/Edenwoodfilm/status/2111959819301044536) — @Edenwoodfilm · Claude Opus 5.5 / DeepSeek V4.1 Flash 1017 · [Prompt](../prompts/motion-2111959819301044536.md#prompt)
 - [Interactive F135 Jet Engine Simulation](https://x.com/konstantinsaifo/status/2104516868182598079) — @konstantinsaifo · Claude Opus 5.5 · [Prompt](../prompts/motion-2104516868182598079.md#prompt)
 - [100 Years of Movie Genres Interactive Motion Visualization](https://x.com/gavinpurcell/status/2108932593911816392) — @gavinpurcell · Claude Opus 5.5 · [Prompt](../prompts/motion-2108932593911816392.md#prompt)
+- [Cinematic Differentiation Math Explainer Animation with Claude Opus 5.5](https://x.com/yoshtakisaka/status/2107757882561208410) — @yoshtakisaka · Claude Opus 5.5 · [Prompt](../prompts/motion-2107757882561208410.md#prompt)
+- [Interactive 3D AI Data Center Explainer in WebGL](https://x.com/konstantinsaifo/status/2104895018683044262) — @konstantinsaifo · Claude Opus 5.5 · [Prompt](../prompts/motion-2104895018683044262.md#prompt)
+- [PostgreSQL Animated Explainer with Mascot Animation](https://x.com/kokaneka/status/2104843907594875185) — @kokaneka · Claude Opus 5.5 · [Prompt](../prompts/motion-2104843907594875185.md#prompt)
+- [History of Space Exploration Animated Video](https://x.com/0xSarthak/status/2104543926644564036) — @0xSarthak · Claude Opus 5.5 · [Prompt](../prompts/motion-2104543926644564036.md#prompt)
+- [History of Internet Money Code Animation](https://x.com/cryptocatguru/status/2104525804604645802) — @cryptocatguru · Claude Opus 5.5 · [Prompt](../prompts/motion-2104525804604645802.md#prompt)
+- [Quantum Mechanics Motion Graphic Flash Video](https://x.com/YuanXi901019/status/2108569413746335887) — @YuanXi901019 · Claude Opus 5.5 · [Prompt](../prompts/motion-2108569413746335887.md#prompt)
 
 
 <a id="characters-stories"></a>
@@ -221,6 +233,9 @@
 - [Porco Rosso Sunset Dogfight Web3D](https://x.com/NFT_Chen/status/2103882415299350878) — @NFT_Chen · Claude Opus 5.5 · [Prompt](../prompts/motion-2103882415299350878.md#prompt)
 - [Glim - 3D Animated Short via Blender Python Scripts](https://x.com/Reena_Lin/status/2110705871755878728) — @Reena_Lin · Claude Opus 5.5 · [Prompt](../prompts/motion-2110705871755878728.md#prompt)
 - [Aliens Stop for Burgers Three.js Short Animation](https://x.com/shownotover/status/2110274182046953661) — @shownotover · Gemini Argon / Claude Opus 5.5 · [Prompt](../prompts/motion-2110274182046953661.md#prompt)
+- [13.8 Billion Years of Human Revelations Told Through Hands](https://x.com/nett0eth/status/2108729269681520726) — @nett0eth · Claude Opus 5.5 · [Prompt](../prompts/motion-2108729269681520726.md#prompt)
+- [Garden of Earthly Delights Film Trailer](https://x.com/mickeyxfriedman/status/2107230816871055641) — @mickeyxfriedman · Claude Opus 5.5 · [Prompt](../prompts/motion-2107230816871055641.md#prompt)
+- [Anime Cold Open: Westworld x Cowboy Bebop x Blade Runner 2049](https://x.com/gpbulkin/status/2108242769844310331) — @gpbulkin · Claude Opus 5.5 · [Prompt](../prompts/motion-2108242769844310331.md#prompt)
 
 
 <a id="3d-simulations"></a>
@@ -270,6 +285,7 @@
 - [Claude Code Mascot 3D Recreation in Three.js](https://x.com/yurshevv/status/2110478089478127834) — @yurshevv · Claude Opus 5.5 · [Prompt](../prompts/motion-2110478089478127834.md#prompt)
 - [Antlight: Glowing Colony Terrarium Simulation](https://x.com/jeffbruchado/status/2110491352311984308) — @jeffbruchado · Claude Opus 5.5 / Claude Sonnet 5.5 · [Prompt](../prompts/motion-2110491352311984308.md#prompt)
 - [3D Whale Breaching Scene Model Comparison](https://x.com/Bhavani_00007/status/2110078803297055212) — @Bhavani_00007 · Gemini 4 Argon / Claude Opus 5.5 / GPT-6 Astra / Kimi K3 · [Prompt](../prompts/motion-2110078803297055212.md#prompt)
+- [Orb Weaver Spider Spinning Web at Sunrise](https://x.com/jeffbruchado/status/2111125520788107511) — @jeffbruchado · Claude Opus 5.5 / Claude Sonnet 5.5 · [Prompt](../prompts/motion-2111125520788107511.md#prompt)
 
 
 <a id="music-audiovisual"></a>
