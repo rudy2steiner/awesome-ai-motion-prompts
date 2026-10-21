@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-722 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+724 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -276,6 +276,7 @@
 - [Mona Lisa painting process replay with visible cursor movement](https://x.com/ehsanik/status/2102885216692162993) — ehsanik · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2102885216692162993.md#prompt)
 - [Cinematic thirty-second typography and 3D motion reel](https://x.com/essjaykay755/status/2103446726245847163) — essjaykay755 · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103446726245847163.md#prompt)
 - [Opus 5.5 Motion Designer Showreel](https://x.com/Ai9app/status/2104912803786375645) — Ai9app · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2104912803786375645.md#prompt)
+- [Multiplane city timelapse with foreground occlusion](https://x.com/_davideast/status/2112932231270285730) — @_davideast · Gemini 4 Argon (author reported) · [Prompt](../prompts/motion-2112932231270285730.md#prompt)
 
 
 <a id="explainers-data"></a>
@@ -782,3 +783,4 @@
 - [Plush Watermelon with soft-body gait and cloth limbs](https://x.com/vib3coded/status/2111428909203866089) — vib3coded · Claude Opus 5.5 / Gemini 4 Argon (directory reported) · [Prompt](../prompts/motion-2111428909203866089.md#prompt)
 - [Courtyard House](https://developers.openai.com/showcase/courtyard-house) — Katia Gil Guzman (OpenAI) · GPT-6 Astra (directory reported) · [Prompt](../prompts/motion-courtyard-house.md#prompt)
 - [Tidal House](https://developers.openai.com/showcase/tidal-house) — Katia Gil Guzman (OpenAI) · GPT-6 Astra (directory reported) · [Prompt](../prompts/motion-tidal-house.md#prompt)
+- [Cozy Café Fluid Studio: interactive coffee and milk simulation](https://x.com/genevieve__h/status/2112646847454147003) — @genevieve__h · Argon (version unspecified) (author reported) · [Prompt](../prompts/motion-2112646847454147003.md#prompt)

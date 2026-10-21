@@ -24590,5 +24590,61 @@
       "upstreamDataReadThrough": "Chrome MCP"
     },
     "notes": "Selected from the upstream prompt collection for its concrete creative direction. Prompt text was read from the public upstream collection through Chrome MCP; completeness is not independently assessed and any referenced inputs may be required; this import does not independently confirm the original post, model attribution, result fidelity or visual quality. Referenced files, music, images and project context are not bundled. Original upstream source notes are retained below. Upstream notes: Prompt as published on hyper3d.ai/3d-prompts/single-file-webgl2-black-hole-raytracer-2079590483727442205 (mirrors tripo3d.ai, which cites the original X post); model per those pages. Poster image from that page. Preview clip: first 30 s of the creator's own video in the X post (re-encoded excerpt)."
+  },
+  {
+    "id": "2112646847454147003",
+    "title": "Cozy Café Fluid Studio: interactive coffee and milk simulation",
+    "author": "genevieve__h",
+    "sourceUrl": "https://x.com/genevieve__h/status/2112646847454147003",
+    "promptSourceUrl": "https://x.com/genevieve__h/status/2112646854512906272",
+    "prompt": "# Role & Objective\nAct as a Principal Graphics Engineer and Creative Technologist specializing in Three.js, WebGL2/WebGPU, 3D Volumetric Fluid Dynamics, and GLSL Raymarching. \n\nBuild a browser-based, photorealistic, interactive 3D coffee & milk physics sandbox (\"Cozy Café Fluid Studio\") designed to look like a viral macro-lens video on X. The user can orbit the camera freely (from 90° top-down to a 0° macro side-profile view), swap custom 3D glass vessels and ice cube shapes (with procedural fallbacks and a `.glb`/`.gltf` loader for Blender assets), and pour either Espresso or Heavy Cream directly from their cursor in any order.\n\n---\n\n# 1. Core Visual & Physics Architecture (True 3D Volumetric Fluid)\nBecause the camera can view the glass from the side, top, or any oblique angle, implement a **3D Eulerian Grid Fluid Solver** (e.g., `64x96x64` or `96x128x96` tiled 2D texture atlas or WebGL2 `sampler3D` / WebGPU 3D Storage Textures) confined to the bounding volume of the active glass mesh:\n\n1. **Two-Fluid Miscible Density & Filling System:**\n   - Track two separate scalar volume fields inside the glass: $\\rho_{\\text{coffee}}$ (dark absorbing fluid) and $\\rho_{\\text{milk}}$ (bright scattering fluid), plus a dynamic **Liquid Fill Height (\n$h\n_{\\text{fill}}$)** that rises smoothly as the user pours either liquid into the glass.\n   - Allow pouring in **any order**:\n     - *Coffee first, then Milk:* Pouring espresso fills the glass with dark amber-black liquid and generates a thin golden crema foam layer on the top meniscus ($y \\approx h_{\\text{fill}}$). Pouring cold milk next shoots a dense white plume downward that billows back up via buoyancy.\n     - *Milk first, then Coffee (Dirty Latte / Macchiato style):* Pouring cold milk fills the glass with opaque ivory liquid. Pouring hot espresso on top creates dark mahogany plumes that sink through the dense milk and stratify into layered gradients around the ice.\n\n2. **Rayleigh-Taylor & Kelvin-Helmholtz Instabilities:**\n   - Implement **MacCormack (or BFECC) Advection** so thin caramel ribbons do not smear out due to numerical dissipation.\n   - Inject **Baroclinic Vorticity** ($\\nabla \\rho \\times \\nabla P$) and **Vorticity Confinement** ($\\epsilon (\\mathbf{N} \\times \\boldsymbol{\\omega})$) along the interface between milk and coffee so sinking/rising plumes roll up into hyper-detailed mushroom caps and curling tendrils.\n\n3. **3D Volumetric Raymarching Shader (Beer-Lambert + Multiple Scattering Approximation):**\n   - Render the fluid volume inside the glass by raymarching through the 3D density texture (`sampler3D`).\n   - **Optical Physics:** Do NOT use simple RGB `mix()`. Compute physically based **Beer-Lambert Law extinction** ($\\sigma_a(\\lambda) = \\text{vec3}(1.6, 5.4, 13.5)$ for espresso so thin edges glow ruby/caramel-amber while thick regions are pitch black) combined with **isotropic + forward Henyey-Greenstein phase function scattering** for the milk fat globules (high albedo ivory-white).\n   - Add a **Dual-Lobe Subsurface Scattering (SSS)** look by sampling a lower-MIP (blurred) level of the milk density volume for ambient internal light transport, creating a soft, milky amber glow where coffee and cream meet.\n\n---\n\n# 2. Custom Blender Assets (Glasses & Ice) + Procedural SDF Dual-Representation\nSupport loading custom Blender `.glb` meshes via `GLTFLoader` while providing built-in procedural geometries (and matching Signed Distance Fields) so the app runs out-of-the-box:\n\n1. **Glass Shapes (Vessel Selector):**\n   - **Fluted Café Glass:** Ribbed vertical ridges that distort and refract the swirling fluid inside.\n   - **Double-Walled Borosilicate Mug:** Suspended inner rounded chamber showing floating liquid in mid-air.\n   - **Stemless Wine / Tulip Glass:** Curved tapered bowl that forces sinking milk plumes inward toward the center.\n   - **Classic Rocks Tumbler:** Heavy thick crystal base with sharp vertical walls.\n   - *Rendering:* Use Three.js `MeshPhysicalMaterial` with `transmission: 0.98`, `ior: 1.52`, `thickness`, dispersion/chromatic aberration, and crisp studio softbox environment reflections.\n   - *Physics Boundary:* Enforce a strict no-slip/no-penetration boundary condition against the inner wall SDF of the selected glass so fluid hugs the exact contour of the vessel.\n\n2. **Ice Cube Shapes (Ice Selector):**\n   - **Large Craft Sphere:** A single giant crystal-clear sphere in the center that splits the pour stream into a ring vortex.\n   - **Beveled Bistro Cubes (x3):** Stacked at angles inside the glass, creating narrow channels for cream tendrils to snake through.\n   - **Hollow Cylinder / Bullet Ice:** Allows fluid to pour through the center hole and billow out the bottom.\n   - **Crushed / Pebble Ice:** A porous top cluster that diffuses the pour into dozens of tiny trickling caramel fingers.\n   - *Rendering & Physics:* Render ice with `ior: 1.31`, internal frost fracture planes, and real-time refraction of the raymarched fluid behind it. Stamp the ice SDFs into the 3D fluid solver's obstacle buffer so plumes physically collide with, wrap around, and slide underneath the ice cubes. Include buoyant bobbing when liquid height rises.\n\n---\n\n# 3. Interactive Pouring & Camera Controls\n1. **Cursor-Driven Pour Stream:**\n   - Raycast the mouse cursor onto a horizontal plane above the glass rim.\n   - **Left-Click & Hold:** Pour a visible, glossy 3D parabolic liquid stream (rendered as a dynamic tube mesh or raymarched metaball stream) from the cursor into the glass.\n   - **Mouse Speed & Scroll Wheel:** Moving the mouse whips the stream across the surface; scrolling adjusts **Pour Height / Velocity** (a high pour punches deep to the bottom of the glass with high turbulence; a low pour gently floats layers on the surface).\n2. **Seamless Orbit Camera (`OrbitControls`):**\n   - Right-click drag (or two-finger drag) smoothly orbits from **Macro Side View** (watching plumes dive down the glass wall) to **Top-Down Latte Art View** (watching crema swirl around the ice).\n   - Include quick camera preset buttons: `[Side Profile]`, `[45° Café Angle]`, and `[Top-Down Macro]`.\n\n---\n\n# 4. Minimalist Cozy UI & Atmosphere\n- **Environment:** A warm, sunlit wooden tabletop with soft morning window blinds casting subtle gobos/caustics, warm beige/linen background tones, and a shallow depth-of-field (`BokehPass`) on the background.\n- **Minimalist Floating Dock (Bottom Center, frosted glass `backdrop-filter: blur(12px)`, rounded pill buttons, warm serif/sans typography):**\n  - **Liquid Toggle:** `[ ☕ Pour Espresso ]` | `[ 🥛 Pour Heavy Cream ]`\n  - **Vessel Picker:** `[ Fluted ]` `[ Rocks ]` `[ Tulip ]` `[ Double-Wall ]` `[ + Load .GLB ]`\n  - **Ice Picker:** `[ Sphere ]` `[ Bistro Cubes ]` `[ Crushed ]` `[ None ]`\n  - **Simulation Controls:** `Pour Speed` slider, `Time Scale` slider (`0.1x Slow-Mo` to `1.0x`), `[ Stir with Glass Straw ]` tool, and `[ Empty Glass ]` reset button.\n\n---\n\n# Deliverable Instructions\nProvide a complete, runnable HTML/JS/GLSL implementation (or clean modular Vite + Three.js setup) with zero missing placeholders. Prioritize the 3D raymarched Beer-Lambert coffee/milk shader, the 3D fluid advection/vorticity compute passes, and the refractive glass/ice boundary coupling so it runs at 60fps.",
+    "model": "Argon (version unspecified)",
+    "primaryCategory": "interactive",
+    "promptStatus": "source_transcribed",
+    "promptCompleteness": "initial_prompt",
+    "notes": "Discovered through X Latest. The author labels this the original initial prompt and explicitly says the approach changed during later iterations. It is not a guaranteed reproduction prompt for the final demo. The thread reports roughly 15–20 FPS for the final version, despite the initial prompt requesting 60 FPS. Model name Argon is the author’s claim; no version is inferred. Native video presence was confirmed; full playback and visual quality were not reviewed.",
+    "platform": "X",
+    "modelStatus": "author_claim",
+    "status": "collected",
+    "promptFile": "prompts/motion-2112646847454147003.md",
+    "discoveryUrl": "https://x.com/genevieve__h/status/2112646847454147003",
+    "verification": {
+      "method": "chrome_mcp_x_latest_original_thread",
+      "checkedAt": "2026-10-22",
+      "originalPostConfirmed": true,
+      "promptMatchedSource": true,
+      "authorClaimConfirmed": true,
+      "nativeVideoConfirmed": true,
+      "visualQuality": "not_reviewed",
+      "fullReview": false
+    }
+  },
+  {
+    "id": "2112932231270285730",
+    "title": "Multiplane city timelapse with foreground occlusion",
+    "author": "_davideast",
+    "sourceUrl": "https://x.com/_davideast/status/2112932231270285730",
+    "promptSourceUrl": "https://x.com/_davideast/status/2112932231270285730",
+    "prompt": "Multiplane occlusion. Use this technique to create an animation from a static image.\n\nSplit the image into depth plates:\n- Empty background stage. City w/ vehicles erased\n- Midground motion layer. Trains, ferry, water...\n- Foreground masks. Bridges that motion passes behind",
+    "model": "Gemini 4 Argon",
+    "primaryCategory": "motion-studies",
+    "promptStatus": "published_workflow",
+    "promptCompleteness": "published_method",
+    "notes": "Discovered through X Latest. This is the author’s published multiplane animation method, not a claim to reproduce the complete input conversation. The author credits Gemini 4 Argon with teaching the technique and building the demonstration. Source post and native video presence were confirmed; full playback and visual quality were not reviewed.",
+    "platform": "X",
+    "modelStatus": "author_claim",
+    "status": "collected",
+    "promptFile": "prompts/motion-2112932231270285730.md",
+    "discoveryUrl": "https://x.com/_davideast/status/2112932231270285730",
+    "verification": {
+      "method": "chrome_mcp_x_latest_original_thread",
+      "checkedAt": "2026-10-22",
+      "originalPostConfirmed": true,
+      "promptMatchedSource": true,
+      "authorClaimConfirmed": true,
+      "nativeVideoConfirmed": true,
+      "visualQuality": "not_reviewed",
+      "fullReview": false
+    }
   }
 ]
