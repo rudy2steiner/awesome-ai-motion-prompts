@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-915 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+921 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -344,6 +344,12 @@
 - [MotionVault: Background Beams](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/background.ts#L162) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-bg-beams.md#prompt)
 - [MotionVault: Bar Wave](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/loader.ts#L38) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-bar-wave.md#prompt)
 - [MotionVault: Uplink](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/loader.ts#L108) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-uplink.md#prompt)
+- [Motion Prompt: Anticipation](https://showheyohtaki.github.io/motion-prompt/#121) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-121.md#prompt)
+- [Motion Prompt: Follow-through](https://showheyohtaki.github.io/motion-prompt/#122) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-122.md#prompt)
+- [Motion Prompt: Motion path](https://showheyohtaki.github.io/motion-prompt/#126) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-126.md#prompt)
+- [Motion Prompt: Line boil](https://showheyohtaki.github.io/motion-prompt/#136) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-136.md#prompt)
+- [Motion Prompt: Page curl](https://showheyohtaki.github.io/motion-prompt/#140) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-140.md#prompt)
+- [Motion Prompt: Shatter](https://showheyohtaki.github.io/motion-prompt/#142) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-142.md#prompt)
 
 
 <a id="explainers-data"></a>
