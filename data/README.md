@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-883 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+889 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -170,6 +170,9 @@
 - [Soft Landing: pastel 3D product ident with cloner waves and soft-body impact](https://github.com/Vincentwei1021/mg-styles-15/blob/main/prompts/04-3d-render.md) — @Vincentwei1021 · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-mg-styles-04-3d-render.md#prompt)
 - [Atelier Linea: one continuous golden line from seed to skyline and monogram](https://github.com/Vincentwei1021/mg-styles-15/blob/main/prompts/02-line-art.md) — @Vincentwei1021 · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-mg-styles-02-line-art.md#prompt)
 - [Aurora: think in light — refractive glass lens and drifting color fields](https://github.com/Vincentwei1021/mg-styles-15/blob/main/prompts/12-aurora-glass.md) — @Vincentwei1021 · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-mg-styles-12-aurora-glass.md#prompt)
+- [motion-pack: Ad × Blueprint, 10 s 16:9](https://github.com/ANVEAI/motion-pack/blob/main/docs/prompts.md#L51) — @ANVEAI / motion-pack contributors · Claude Code / model-agnostic coding agent (motion-pack required) · [Prompt](../prompts/motion-motion-pack-ad.md#prompt)
+- [motion-pack: Launch film × Chrome Product, 35 s 16:9](https://github.com/ANVEAI/motion-pack/blob/main/docs/prompts.md#L127) — @ANVEAI / motion-pack contributors · Claude Code / model-agnostic coding agent (motion-pack required) · [Prompt](../prompts/motion-motion-pack-launch-film.md#prompt)
+- [motion-pack: SaaS feature drop × Swiss Grid, 20 s 16:9](https://github.com/ANVEAI/motion-pack/blob/main/docs/prompts.md#L171) — @ANVEAI / motion-pack contributors · Claude Code / model-agnostic coding agent (motion-pack required) · [Prompt](../prompts/motion-motion-pack-saas-feature-drop.md#prompt)
 
 
 <a id="motion-studies"></a>
@@ -461,6 +464,8 @@
 - [MotionVault: Dotted Map](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/svg.ts#L120) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-dotted-map.md#prompt)
 - [MotionVault: Ring Progress](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/svg.ts#L40) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-ring-progress.md#prompt)
 - [MotionVault: Scroll Timeline](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/scroll.ts#L62) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-timeline.md#prompt)
+- [motion-pack: Proof clip × Swiss Grid, 15 s 16:9](https://github.com/ANVEAI/motion-pack/blob/main/docs/prompts.md#L207) — @ANVEAI / motion-pack contributors · Claude Code / model-agnostic coding agent (motion-pack required) · [Prompt](../prompts/motion-motion-pack-proof-clip.md#prompt)
+- [motion-pack: Explainer × Blueprint, 45 s 16:9](https://github.com/ANVEAI/motion-pack/blob/main/docs/prompts.md#L235) — @ANVEAI / motion-pack contributors · Claude Code / model-agnostic coding agent (motion-pack required) · [Prompt](../prompts/motion-motion-pack-explainer.md#prompt)
 
 
 <a id="characters-stories"></a>
@@ -576,6 +581,7 @@
 - [Stickman versus time: clock-hand chase and rewind loop](https://x.com/koldo2k/status/2103951588729684360) — @koldo2k · Claude Opus 5.5 (Extra) (author reported) · [Prompt](../prompts/motion-2103951588729684360.md#prompt)
 - [NOGGIN: The Mind Is a Collage — surreal editorial cutout film](https://github.com/Vincentwei1021/mg-styles-15/blob/main/prompts/06-collage.md) — @Vincentwei1021 · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-mg-styles-06-collage.md#prompt)
 - [Pixel Quest: code-drawn pixel adventure title sequence](https://github.com/Vincentwei1021/mg-styles-15/blob/main/prompts/20-pixel.md) — @Vincentwei1021 · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-mg-styles-20-pixel.md#prompt)
+- [motion-pack: Character spot × Paper Cut (hero scene), 13.5 s 16:9](https://github.com/ANVEAI/motion-pack/blob/main/docs/prompts.md#L15) — @ANVEAI / motion-pack contributors · Claude Code / model-agnostic coding agent (motion-pack required) · [Prompt](../prompts/motion-motion-pack-character-spot.md#prompt)
 
 
 <a id="3d-simulations"></a>
