@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-921 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+934 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -350,6 +350,19 @@
 - [Motion Prompt: Line boil](https://showheyohtaki.github.io/motion-prompt/#136) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-136.md#prompt)
 - [Motion Prompt: Page curl](https://showheyohtaki.github.io/motion-prompt/#140) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-140.md#prompt)
 - [Motion Prompt: Shatter](https://showheyohtaki.github.io/motion-prompt/#142) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-142.md#prompt)
+- [Motion Prompt: Pan](https://showheyohtaki.github.io/motion-prompt/#025) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-025.md#prompt)
+- [Motion Prompt: Tilt](https://showheyohtaki.github.io/motion-prompt/#026) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-026.md#prompt)
+- [Motion Prompt: Dolly in](https://showheyohtaki.github.io/motion-prompt/#027) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-027.md#prompt)
+- [Motion Prompt: Tracking shot](https://showheyohtaki.github.io/motion-prompt/#029) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-029.md#prompt)
+- [Motion Prompt: Orbit (Arc shot)](https://showheyohtaki.github.io/motion-prompt/#030) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-030.md#prompt)
+- [Motion Prompt: Crane up](https://showheyohtaki.github.io/motion-prompt/#031) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-031.md#prompt)
+- [Motion Prompt: Dolly zoom (Vertigo)](https://showheyohtaki.github.io/motion-prompt/#032) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-032.md#prompt)
+- [Motion Prompt: Rack focus](https://showheyohtaki.github.io/motion-prompt/#033) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-033.md#prompt)
+- [Motion Prompt: FPV drone shot](https://showheyohtaki.github.io/motion-prompt/#035) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-035.md#prompt)
+- [Motion Prompt: Speed ramp](https://showheyohtaki.github.io/motion-prompt/#038) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-038.md#prompt)
+- [Motion Prompt: Time-lapse](https://showheyohtaki.github.io/motion-prompt/#039) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-039.md#prompt)
+- [Motion Prompt: Match cut](https://showheyohtaki.github.io/motion-prompt/#042) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-042.md#prompt)
+- [Motion Prompt: Whip pan](https://showheyohtaki.github.io/motion-prompt/#043) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-043.md#prompt)
 
 
 <a id="explainers-data"></a>
