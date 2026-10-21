@@ -25579,5 +25579,63 @@
       "visualQuality": "not_reviewed",
       "fullReview": false
     }
+  },
+  {
+    "id": "2102503027340988559",
+    "title": "Glass and gold-leaf mosaic: lifting, flipping and flocking tile animation",
+    "author": "LCSlates",
+    "sourceUrl": "https://x.com/LCSlates/status/2102503027340988559",
+    "promptSourceUrl": "https://x.com/LCSlates/status/2102503028859211905",
+    "prompt": "Make an 80 second square animated film as a single HTML file, using WebGL2 and plain JavaScript, with no libraries and no image, font or audio files. It should look like a glass and gold leaf wall mosaic whose tiles were never glued down, so they can lift, flip, fly and click back into place. Figures are flocks of tiles, so a fish swims by its tiles swimming",
+    "model": "Claude Opus 5.5",
+    "primaryCategory": "motion-studies",
+    "promptStatus": "source_fragment",
+    "promptCompleteness": "published_fragment",
+    "requiresReference": false,
+    "notes": "Older work found while reviewing uncollected upstream leads. Published prompt text was read directly from the author’s X reply and its relationship to the original native-video post confirmed. The author attributes the work to Opus 5.5. This is the available published prompt fragment, not a claim to contain the complete input conversation. Native video presence was confirmed; full playback, visual quality and requested output constraints were not independently reviewed. The visible text ends after “a fish swims by its tiles swimming”; no missing continuation is invented. The fragment specifies WebGL2, plain JavaScript and a no-external-assets tile motion concept.",
+    "platform": "X",
+    "modelStatus": "author_claim",
+    "status": "collected",
+    "promptFile": "prompts/motion-2102503027340988559.md",
+    "discoveryUrl": "https://x.com/LCSlates/status/2102503027340988559",
+    "verification": {
+      "method": "chrome_mcp_original_x_prompt_thread",
+      "checkedAt": "2026-10-22",
+      "originalPostConfirmed": true,
+      "promptMatchedSource": true,
+      "authorClaimConfirmed": true,
+      "nativeVideoConfirmed": true,
+      "visualQuality": "not_reviewed",
+      "fullReview": false
+    }
+  },
+  {
+    "id": "2111678979413598560",
+    "title": "HyperFrames editing effects with a HeyGen avatar",
+    "author": "liu8in",
+    "sourceUrl": "https://x.com/liu8in/status/2111678979413598560",
+    "promptSourceUrl": "https://x.com/liu8in/status/2111678980973863306",
+    "prompt": "use my HeyGen avatar n make a video about common editing effects in HyperFrames Studio:\nCrash zoom, \nwhip pan, \nzoom-through, \nvertigo, \nrack focus, \ntext behind you, \nkinetic type, \nglass captions, \nchart grow, \nsplit screen, \nglitch cut, \npull-back reveal\n\nuse Reference Any Video tool, learn from:",
+    "model": "Claude Opus 5.5",
+    "primaryCategory": "explainers-data",
+    "promptStatus": "source_fragment",
+    "promptCompleteness": "published_fragment",
+    "requiresReference": true,
+    "notes": "Older work found while reviewing uncollected upstream leads. Published prompt text was read directly from the author’s X reply and its relationship to the original native-video post confirmed. The author attributes the work to Opus 5.5. This is the available published prompt fragment, not a claim to contain the complete input conversation. Native video presence was confirmed; full playback, visual quality and requested output constraints were not independently reviewed. The main post credits HeyGen avatar / HeyGen Video 1 footage and HyperFrames Studio editing with Opus 5.5. The visible reply ends after “use Reference Any Video tool, learn from:”; the referenced video is not bundled or inferred. An existing HeyGen avatar and reference context are required.",
+    "platform": "X",
+    "modelStatus": "author_claim",
+    "status": "collected",
+    "promptFile": "prompts/motion-2111678979413598560.md",
+    "discoveryUrl": "https://x.com/liu8in/status/2111678979413598560",
+    "verification": {
+      "method": "chrome_mcp_original_x_prompt_thread",
+      "checkedAt": "2026-10-22",
+      "originalPostConfirmed": true,
+      "promptMatchedSource": true,
+      "authorClaimConfirmed": true,
+      "nativeVideoConfirmed": true,
+      "visualQuality": "not_reviewed",
+      "fullReview": false
+    }
   }
 ]

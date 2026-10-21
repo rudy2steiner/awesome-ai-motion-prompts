@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-756 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+758 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -285,6 +285,7 @@
 - [Multiplane city timelapse with foreground occlusion](https://x.com/_davideast/status/2112932231270285730) — @_davideast · Gemini 4 Argon (author reported) · [Prompt](../prompts/motion-2112932231270285730.md#prompt)
 - [Gemini 4 Carbon: thirty-second motion graphics demo](https://x.com/Genysis_Ai_26/status/2112909613788230013) — @Genysis_Ai_26 · Gemini 4 Carbon (author reported) · [Prompt](../prompts/motion-2112909613788230013.md#prompt)
 - [24 Hours Solo in Bangkok: fisheye travel montage and rhythmic match cuts](https://x.com/bmx_ai13/status/2097611216965497165) — @bmx_ai13 · Wan 3 (author reported) · [Prompt](../prompts/motion-2097611216965497165.md#prompt)
+- [Glass and gold-leaf mosaic: lifting, flipping and flocking tile animation](https://x.com/LCSlates/status/2102503027340988559) — @LCSlates · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2102503027340988559.md#prompt)
 
 
 <a id="explainers-data"></a>
@@ -403,6 +404,7 @@
 - [Measured Blue — Microscope Story](https://github.com/lemomo-ai/lemo-opuscar/blob/main/styles/microscope/STYLE.md) — @lemomo-ai · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-lemo-microscope.md#prompt)
 - [Aircraft wing lift: a Three.js explainer comparison](https://x.com/aGim_asf/status/2112872797319856446) — @aGim_asf · Claude Opus 5.5 / DeepSeek V4.1 Flash (author reported) · [Prompt](../prompts/motion-2112872797319856446.md#prompt)
 - [Whiteboard skill tutorial](https://x.com/lemomo_ai/status/2104070024575242622) — @lemomo_ai · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2104070024575242622.md#prompt)
+- [HyperFrames editing effects with a HeyGen avatar](https://x.com/liu8in/status/2111678979413598560) — @liu8in · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2111678979413598560.md#prompt)
 
 
 <a id="characters-stories"></a>
