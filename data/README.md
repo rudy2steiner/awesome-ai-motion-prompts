@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-889 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+894 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -335,6 +335,8 @@
 - [MotionVault: Meteors](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/particle.ts#L84) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-meteors.md#prompt)
 - [MotionVault: Typewriter](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/text.ts#L55) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-typewriter.md#prompt)
 - [MotionVault: Wave Text](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/text.ts#L112) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-wave-text.md#prompt)
+- [MotionVault: Pixel Snow](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/particle.ts#L159) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-pixel-snow.md#prompt)
+- [MotionVault: Word Rotate](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/text.ts#L98) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-word-rotate.md#prompt)
 
 
 <a id="explainers-data"></a>
@@ -949,3 +951,6 @@
 - [MotionVault: Infinite Moving Cards](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/layout.ts#L119) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-infinite-moving.md#prompt)
 - [MotionVault: Tracing Beam](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/scroll.ts#L102) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-tracing-beam.md#prompt)
 - [MotionVault: Spring Modal](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/spring.ts#L27) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-spring-modal.md#prompt)
+- [MotionVault: Pixel Trail](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/particle.ts#L190) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-pixel-trail.md#prompt)
+- [MotionVault: Letter Hover Bounce](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/text.ts#L146) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-letter-hover.md#prompt)
+- [MotionVault: Container Scroll](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/scroll.ts#L112) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-tilt-3d.md#prompt)
