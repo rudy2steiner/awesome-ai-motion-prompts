@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-746 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+747 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -806,3 +806,4 @@
 - [Tidal House](https://developers.openai.com/showcase/tidal-house) — Katia Gil Guzman (OpenAI) · GPT-6 Astra (directory reported) · [Prompt](../prompts/motion-tidal-house.md#prompt)
 - [Cozy Café Fluid Studio: interactive coffee and milk simulation](https://x.com/genevieve__h/status/2112646847454147003) — @genevieve__h · Argon (version unspecified) (author reported) · [Prompt](../prompts/motion-2112646847454147003.md#prompt)
 - [Plush Lobster: WebGPU tail flips, wired legs and combable fur](https://x.com/vib3coded/status/2112838135927263740) — @vib3coded · Claude Opus 5.5 / ChatGPT-6 Astra (author reported) · [Prompt](../prompts/motion-2112838135927263740.md#prompt)
+- [Hands 2.0: first-person rigging, layered animation and dynamic grip correction](https://x.com/maxt3chno/status/2108637690698633713) — @maxt3chno · Opus 5.5 / Astra (mentioned by author; exact demo model not established) (author reported) · [Prompt](../prompts/motion-2108637690698633713.md#prompt)
