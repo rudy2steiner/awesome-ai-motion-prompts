@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-844 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+855 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -322,6 +322,11 @@
 - [MotionVault: Rain Ripples](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/particle.ts#L138) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-rain-ripples.md#prompt)
 - [MotionVault: Beam Path](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/svg.ts#L80) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-beam-path.md#prompt)
 - [MotionVault: Emblem Draw](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/svg.ts#L150) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-emblem-draw.md#prompt)
+- [MotionVault: Line Reveal](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/text.ts#L136) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-line-reveal.md#prompt)
+- [MotionVault: Line Shadow](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/text.ts#L297) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-line-shadow.md#prompt)
+- [MotionVault: Matrix Rain](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/background.ts#L109) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-matrix-rain.md#prompt)
+- [MotionVault: Day Night Cycle](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/background.ts#L130) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-day-night.md#prompt)
+- [MotionVault: Circuit Pulse](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/background.ts#L193) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-circuit-pulse.md#prompt)
 
 
 <a id="explainers-data"></a>
@@ -904,3 +909,9 @@
 - [MotionVault: Hold To Confirm](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/button.ts#L152) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-hold-confirm.md#prompt)
 - [MotionVault: Liquid Metal](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/button.ts#L202) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-liquid-metal.md#prompt)
 - [MotionVault: Share Expand](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/button.ts#L222) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-share-expand.md#prompt)
+- [MotionVault: Glitch Text](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/text.ts#L186) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-glitch-text.md#prompt)
+- [MotionVault: Pinned Steps](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/scroll.ts#L42) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-pinned-steps.md#prompt)
+- [MotionVault: Scroll Velocity](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/scroll.ts#L72) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-scroll-velocity.md#prompt)
+- [MotionVault: Sticky Gallery](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/scroll.ts#L132) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-sticky-gallery.md#prompt)
+- [MotionVault: Drag Ball](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/spring.ts#L127) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-drag-ball.md#prompt)
+- [MotionVault: Topo Flow](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/background.ts#L172) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-topo-flow.md#prompt)
