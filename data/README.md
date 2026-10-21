@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-737 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+740 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -156,6 +156,7 @@
 - [Cominka recruiting film with Kansai-dialect narration](https://x.com/YoheiN2023/status/2103590367518171295) — YoheiN2023 · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103590367518171295.md#prompt)
 - [Tabi landing-page launch film with procedural animation](https://x.com/nikhilbhima/status/2109019765134213540) — nikhilbhima · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2109019765134213540.md#prompt)
 - [21 Keys, Opened — Exploded Teardown](https://github.com/lemomo-ai/lemo-opuscar/blob/main/styles/teardown/STYLE.md) — @lemomo-ai · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-lemo-teardown.md#prompt)
+- [Clawd Moves In — Living Screencast](https://github.com/lemomo-ai/lemo-opuscar/blob/main/styles/living-screencast/STYLE.md) — @lemomo-ai · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-lemo-living-screencast.md#prompt)
 
 
 <a id="motion-studies"></a>
@@ -394,6 +395,7 @@
 - [The Fields Under the Forest — LiDAR Survey](https://github.com/lemomo-ai/lemo-opuscar/blob/main/styles/lidar-survey/STYLE.md) — @lemomo-ai · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-lemo-lidar-survey.md#prompt)
 - [The Map Still Says Sea — Satellite Briefing](https://github.com/lemomo-ai/lemo-opuscar/blob/main/styles/satellite-briefing/STYLE.md) — @lemomo-ai · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-lemo-satellite-briefing.md#prompt)
 - [Hand-drawn educational video remake with layered GPT assets and Opus animation](https://x.com/wadezone/status/2112042940172570637) — @wadezone · Claude Opus 5.5 / GPT (image model unspecified) / Codex (model unspecified) (author reported) · [Prompt](../prompts/motion-2112042940172570637.md#prompt)
+- [Measured Blue — Microscope Story](https://github.com/lemomo-ai/lemo-opuscar/blob/main/styles/microscope/STYLE.md) — @lemomo-ai · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-lemo-microscope.md#prompt)
 
 
 <a id="characters-stories"></a>
@@ -495,6 +497,7 @@
 - [A toddler’s mall adventure in six cinematic scenes](https://x.com/Zarnab_with_Ai/status/2112502546770297161) — @Zarnab_with_Ai · Seedance 2.5 (author reported) · [Prompt](../prompts/motion-2112502546770297161.md#prompt)
 - [Grandmother’s babysitting surprise: a 3D family comedy](https://x.com/Zarnab_with_Ai/status/2112370323320619487) — @Zarnab_with_Ai · Seedance 2.5 (author reported) · [Prompt](../prompts/motion-2112370323320619487.md#prompt)
 - [Midnight at the Starlight Hotel — Art Deco](https://github.com/lemomo-ai/lemo-opuscar/blob/main/styles/art-deco/STYLE.md) — @lemomo-ai · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-lemo-art-deco.md#prompt)
+- [Meet Pip — Mid-century Cartoon](https://github.com/lemomo-ai/lemo-opuscar/blob/main/styles/midcentury-toon/STYLE.md) — @lemomo-ai · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-lemo-midcentury-toon.md#prompt)
 
 
 <a id="3d-simulations"></a>
