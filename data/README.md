@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-729 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+731 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -155,6 +155,7 @@
 - [Dump sticker-feature launch trailer in an Apple-style aesthetic](https://x.com/javiiarchive/status/2105283486487896448) — javiiarchive · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2105283486487896448.md#prompt)
 - [Cominka recruiting film with Kansai-dialect narration](https://x.com/YoheiN2023/status/2103590367518171295) — YoheiN2023 · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103590367518171295.md#prompt)
 - [Tabi landing-page launch film with procedural animation](https://x.com/nikhilbhima/status/2109019765134213540) — nikhilbhima · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2109019765134213540.md#prompt)
+- [21 Keys, Opened — Exploded Teardown](https://github.com/lemomo-ai/lemo-opuscar/blob/main/styles/teardown/STYLE.md) — @lemomo-ai · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-lemo-teardown.md#prompt)
 
 
 <a id="motion-studies"></a>
@@ -389,6 +390,7 @@
 - [GenLayer ELI5 Motion Design Explainer](https://x.com/RahilBuilds/status/2108505330066092060) — RahilBuilds · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2108505330066092060.md#prompt)
 - [Fourth Dimension Explainer in SNES Pokémon 16-Bit Style](https://x.com/camilodesan/status/2107648310714442230) — camilodesan · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2107648310714442230.md#prompt)
 - [Opus 5.5 Agentic Meme-Style Video Production Comparison](https://x.com/threeaus/status/2105152588991868936) — threeaus · Claude Opus 5.5 / Sol 6.1 (directory reported) · [Prompt](../prompts/motion-2105152588991868936.md#prompt)
+- [The Fields Under the Forest — LiDAR Survey](https://github.com/lemomo-ai/lemo-opuscar/blob/main/styles/lidar-survey/STYLE.md) — @lemomo-ai · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-lemo-lidar-survey.md#prompt)
 
 
 <a id="characters-stories"></a>
