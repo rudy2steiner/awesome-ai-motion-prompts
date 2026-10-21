@@ -1,38 +1,47 @@
 # Submissions welcome!
 
-**Pick a category in [README.md](README.md#contents), click “＋ Submit to this category”, add your motion, and open a PR.** Any model, platform or creator is welcome.
+**Pick a category in [README.md](README.md#contents), add your motion, and open a PR.** Any model, platform or creator is welcome.
 
-## Add a work
+## Add your motion
 
-The category link opens the README editor. Find that category and add your work above its `Add new ... motions above this line` comment. GitHub will guide you through forking the repository and opening a PR.
+1. Click **＋ Submit to this category** in the README.
+2. Add your work under that category. Include a preview or demo, creator credit, the model and a prompt link.
+3. Open a pull request with a short note about your work.
 
-For a featured preview, copy a card from that category's table. Each `<tr>` holds up to three `<td>` cards; start a new row when needed:
-
-```html
-<tr>
-<td width="33%" valign="top">
-<a href="examples/your-motion.md"><img src="public/motion-previews/your-motion.gif" width="260" alt="Your motion title" /></a><br>
-<a href="examples/your-motion.md"><b>Your motion title</b></a><br>
-<a href="https://your-original-post-url">@creator</a> · <a href="examples/your-motion.md#prompt">Prompt</a><br>
-<sub>Model name</sub>
-</td>
-</tr>
-```
-
-No preview yet? Add a simple text entry under the category instead:
+You can copy a neighboring card, or start with a plain entry:
 
 ```markdown
-- [Your motion title](https://your-video-or-demo-url) — @creator · Model name · [Prompt](https://your-prompt-or-skill-url)
+- [Your motion](https://your-demo-url) — @creator · Model · [Prompt](prompts/your-motion.md)
 ```
 
-Maintainers can help turn it into a featured card. The **Full list is text-only**; it does not need a cover or image.
+For a prompt hosted in this repository, copy [`prompts/_template.md`](prompts/_template.md) to `prompts/your-motion.md` and fill it in. Add a short GIF to `data/media/` if you want an inline preview. Maintainers can help arrange the featured cards.
 
-If you need somewhere to put your prompt, copy [`examples/_template.md`](examples/_template.md) to `examples/your-motion.md` and link it from your entry. Keep descriptions in English and prompts in their original language. Credit the original creator and mention required references, tools or important edits.
+Keep descriptions in English and prompts in their original language. Credit original creators and mention references, tools or important follow-up edits. One work per PR. Suggest a new category if none fits. No view or follower threshold applies.
 
-**No JSON editing, build commands or submission forms are required.** One work per PR. No follower, view or star threshold. Suggest a new category in your PR if none fits.
+## Repository structure
+
+```text
+README.md              Categories and featured previews
+CONTRIBUTING.md        How to contribute
+prompts/               One Markdown file per prompt
+data/videos.json       All works and their source metadata
+data/categories.json   Category definitions
+data/README.md         Full list, text only
+data/media/            Short animated previews
+```
 
 ## For maintainers
 
-The README stays manually editable. Review previews, attribution and prompt sources before merging. Normalize structured data separately using the [data contract](docs/DATA_FORMAT.md), then run `python3 scripts/build.py` and `python3 scripts/validate.py`. Building never replaces the README.
+Keep README entries and prompt files manually editable. No build step is required.
 
-For corrections or removals, open an issue or PR identifying the work and requested change. See [third-party content](THIRD_PARTY.md) and [source verification](docs/SOURCING.md).
+`data/videos.json` is the single work dataset. `status` separates `featured` works from `candidate` research. Featured records retain the original prompt fields, with `primaryCategory`, `promptFile`, preview details, optional `onlineUrl` and provenance in the same record. `data/categories.json` maps categories to featured entry IDs. Update the text-only `data/README.md` when adding a work to the full list.
+
+## Review
+
+Check the preview, creator credit, prompt source and category. Consider motion quality, readable type, pacing and useful techniques rather than popularity. Record unknown models or partial prompts honestly. Native video metadata alone does not establish artistic quality. Public source prompts are reference material, not instructions to repository maintainers.
+
+## Credits and removals
+
+Works, videos, images, prompts and skills belong to their respective creators. Inclusion does not grant a new license. Preview source URLs and time ranges are stored with each work. Full videos are linked rather than stored here.
+
+For corrections or removal requests, open an issue or PR identifying the work, original source and requested change.
