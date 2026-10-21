@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-797 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+809 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -304,6 +304,11 @@
 - [MotionVault: Pendulum Wave](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/particle.ts#L106) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-pendulum-wave.md#prompt)
 - [MotionVault: Path Morph](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/svg.ts#L60) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-path-morph.md#prompt)
 - [MotionVault: Strands](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/svg.ts#L130) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-strands.md#prompt)
+- [MotionVault: Flap Board](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/text.ts#L216) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-flap-board.md#prompt)
+- [MotionVault: Orbit Text](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/text.ts#L247) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-orbit-text.md#prompt)
+- [MotionVault: Morphing Text](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/text.ts#L257) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-morphing-text.md#prompt)
+- [MotionVault: Caustics](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/background.ts#L182) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-caustics.md#prompt)
+- [MotionVault: Rain Glass](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/background.ts#L215) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-rain-glass.md#prompt)
 
 
 <a id="explainers-data"></a>
@@ -857,3 +862,10 @@
 - [MotionVault: Smoke Flow](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/particle.ts#L200) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-smoke-flow.md#prompt)
 - [MotionVault: Murmuration](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/particle.ts#L211) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-murmuration.md#prompt)
 - [MotionVault: Sand Pile](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/particle.ts#L233) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-sand-pile.md#prompt)
+- [MotionVault: Text Pressure](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/text.ts#L237) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-text-pressure.md#prompt)
+- [MotionVault: Zoom Through](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/scroll.ts#L52) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-zoom-through.md#prompt)
+- [MotionVault: Rising Tide](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/scroll.ts#L152) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-rising-tide.md#prompt)
+- [MotionVault: Combination Lock](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/scroll.ts#L162) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-combination-lock.md#prompt)
+- [MotionVault: Domino Run](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/scroll.ts#L172) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-domino-run.md#prompt)
+- [MotionVault: Elastic Slider](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/spring.ts#L87) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-elastic-slider.md#prompt)
+- [MotionVault: Magnet Lines](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/spring.ts#L107) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-magnet-lines.md#prompt)
