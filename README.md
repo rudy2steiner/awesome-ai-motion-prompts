@@ -1,4 +1,6 @@
-[![Awesome AI Motion Prompts](public/hero.png)](https://www.open-prompts.com/motion-prompts)
+[![Featured motion by shneural](public/hero.gif)](https://www.open-prompts.com/motion-prompts)
+
+Featured motion: [@shneural](https://x.com/shneural/status/2103151003272962130) · [Prompt and details](examples/bold-type.md) · Click the preview to explore more motion.
 
 # Awesome AI Motion Prompts
 
