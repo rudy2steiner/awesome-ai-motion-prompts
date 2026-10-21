@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-133 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+150 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -94,6 +94,8 @@
 - [GravityDEX character motion edit](https://x.com/MicheleHarmonic/status/2103111448352244175) — @MicheleHarmonic · Claude Opus 5.5 · [Prompt](../prompts/micheleharmonic-244175.md#prompt)
 - [Dalí meets generative AI](https://x.com/Lalulu_create/status/2104719121783091362) — @Lalulu_create · Claude Opus 5.5 · [Prompt](../prompts/lalulu-create-091362.md#prompt)
 - [Fifteen-second motion craft showreel](https://x.com/RoundtableSpace/status/2104424611010232366) — @RoundtableSpace · Claude Opus 5.5 · [Prompt](../prompts/roundtablespace-232366.md#prompt)
+- [Ultra-high-speed sprint motion previs](https://x.com/Kashiko_AIart/status/2094182215894831283) — @Kashiko_AIart · GPT-6 Astra (directory-reported) · [Prompt](../prompts/ultra-high-speed-sprint-control-mp4.md#prompt)
+- [Side-scrolling parkour with exact frame timing](https://x.com/Kashiko_AIart/status/2093692302745383041) — @Kashiko_AIart · GPT-6 Astra (directory-reported) · [Prompt](../prompts/side-scrolling-chase-with-a-frame-table.md#prompt)
 
 
 <a id="explainers-data"></a>
@@ -124,6 +126,7 @@
 - [What is Git? A narrated Chinese explainer](https://x.com/Yunn260414/status/2104044910769016888) — @Yunn260414 · Claude Opus 5.5 · [Prompt](../prompts/yunn260414-016888.md#prompt)
 - [Pixel-art history of LLMs and recursive improvement](https://x.com/PluginPlay__/status/2103910844677472343) — @PluginPlay__ · Claude Opus 5.5 · [Prompt](../prompts/pluginplay-472343.md#prompt)
 - [Transformer and attention explained in JavaScript](https://x.com/dotey/status/2103683057689522564) — @dotey · Claude Opus 5.5 · [Prompt](../prompts/dotey-522564.md#prompt)
+- [T cells: a five-minute narrated explainer](https://x.com/DeryaTR_/status/2095659170661904804) — @DeryaTR_ · GPT-6 Astra · [Prompt](../prompts/t-cells-a-5-minute-explainer-from-one-line.md#prompt)
 
 
 <a id="characters-stories"></a>
@@ -149,6 +152,9 @@
 - [Illustrated character dance reel](https://x.com/_topi_003/status/2104088986969055288) — @_topi_003 · Claude Opus 5.5 · [Prompt](../prompts/topi-003-055288.md#prompt)
 - [Prometheus and the gift of fire](https://x.com/IliaReingold/status/2103988928621486492) — @IliaReingold · Claude Opus 5.5 · [Prompt](../prompts/iliareingold-486492.md#prompt)
 - [A five-minute story about time](https://x.com/RebutonePress/status/2103478369245688099) — @RebutonePress · Claude Opus 5.5 · [Prompt](../prompts/rebutonepress-688099.md#prompt)
+- [Pixel-art cheetah run: Opus and Astra comparison](https://x.com/HarshithLucky3/status/2103120423005425972) — @HarshithLucky3 · Claude Opus 5.5 / GPT-6 Astra · [Prompt](../prompts/pixel-art-cheetah-run-harshithlucky3.md#prompt)
+- [One treat button: wordless 3D cat short](https://x.com/boboga777/status/2097900087901106244) — @boboga777 · GPT-6 Astra · [Prompt](../prompts/wordless-3d-cat-short-one-treat-button-boboga777.md#prompt)
+- [Recursive pelican bicycle GIF](https://x.com/1littlecoder/status/2077880380900937865) — @1littlecoder · Kimi K3 · [Prompt](../prompts/recursive-pelican-bicycle-loop-1littlecoder.md#prompt)
 
 
 <a id="3d-simulations"></a>
@@ -165,6 +171,15 @@
 - [Blender mountain-road car chase previs](https://x.com/tonysurix/status/2108230699224596746) — @tonysurix · Claude Opus 5.5 · [Prompt](../prompts/tonysurix-596746.md#prompt)
 - [Warehouse loading-dock simulation](https://x.com/konstantinsaifo/status/2106855420237169107) — @konstantinsaifo · Claude Opus 5.5 · [Prompt](../prompts/konstantinsaifo-169107.md#prompt)
 - [Pelican riding a bicycle: a procedural film](https://x.com/AxtonLiu/status/2103119648271290566) — @AxtonLiu · Claude Opus 5.5 · [Prompt](../prompts/axtonliu-290566.md#prompt)
+- [Cracking aquarium: quantized Kimi comparison](https://x.com/UnslothAI/status/2082528683747873194) — @UnslothAI · Kimi K3 (1-bit) / Claude Opus 5 / GPT 5.6 · [Prompt](../prompts/cracking-aquarium-simulation-unslothai-k3.md#prompt)
+- [Jungle helicopter flight: Kimi and Fable comparison](https://x.com/kirillk_web3/status/2081200833656451322) — @kirillk_web3 · Kimi K3 / Claude Fable 5 · [Prompt](../prompts/cinematic-jungle-helicopter-flight-kirillk-web3-fable5.md#prompt)
+- [Vacuum-tube maglev: Gemini and Fable comparison](https://x.com/Pixel_Neuron/status/2080454415400493332) — @Pixel_Neuron · Gemini 3.5 Pro / Claude Fable 5 · [Prompt](../prompts/maglev-train-in-a-glass-vacuum-tube-pixel-neuron-fable5.md#prompt)
+- [Voxel pod-racer run](https://x.com/ivanfioravanti/status/2077763009657627055) — @ivanfioravanti · Kimi K3 · [Prompt](../prompts/voxel-pod-racer-ivanfioravanti.md#prompt)
+- [Nuclear blast over a procedural 3D city](https://x.com/ashishthakur___/status/2096562462674079868) — @ashishthakur___ · GPT-6 Astra · [Prompt](../prompts/nuclear-blast-over-a-3d-city-ashishthakur.md#prompt)
+- [Voxel soccer: Kimi K3 and GLM comparison](https://x.com/Zmthanh/status/2079553757302710442) — @Zmthanh · Kimi K3 / GLM-5.2 · [Prompt](../prompts/voxel-soccer-goal-animation-zmthanh-k3.md#prompt)
+- [Voxel soccer: Qwen and Fable comparison](https://x.com/Zmthanh/status/2079198084689723560) — @Zmthanh · Qwen3.8-Max-Preview / Claude Fable 5 · [Prompt](../prompts/voxel-soccer-goal-animation-zmthanh-fable5.md#prompt)
+- [Zen temple: a continuous 3D construction film](https://x.com/huoshan007/status/2098697876155076820) — @huoshan007 · GPT-6 Astra · [Prompt](../prompts/zen-temple-64-second-build-video-huoshan007.md#prompt)
+- [Tokyo Tower: daylight and night-time 3D film](https://x.com/wafffle_dev/status/2102276620124062065) — @wafffle_dev · GPT-6 Astra · [Prompt](../prompts/tokyo-tower-day-and-night-3d-film-wafffle-dev.md#prompt)
 
 
 <a id="music-audiovisual"></a>
@@ -193,3 +208,5 @@
 - [Five distinct scroll-driven sections](https://x.com/ercankeskinx/status/2102995443818897906) — @ercankeskinx · Claude Opus 5.5 · [Prompt](../prompts/ercankeskinx-897906.md#prompt)
 - [Touch-responsive ink painting](https://x.com/YouWareAI/status/2105656935622259061) — @YouWareAI · Claude Opus 5.5 · [Prompt](../prompts/youwareai-259061.md#prompt)
 - [Premium 3D badge unlock with cursor tilt](https://x.com/BThreeAgency/status/2103739079745827092) — @BThreeAgency · Claude Opus 5.5 · [Prompt](../prompts/bthreeagency-827092.md#prompt)
+- [Hand-drawn Japanese street: three-model comparison](https://x.com/gmi_cloud/status/2080834581247435102) — @gmi_cloud · Claude Opus 5 / Claude Fable 5 / GPT 5.6 Sol · [Prompt](../prompts/hand-drawn-japanese-suburban-street-gmi-cloud-fable5.md#prompt)
+- [Monica’s apartment: first-person Three.js scene](https://x.com/scottstts/status/2064464351906673029) — @scottstts · Claude Fable 5 · [Prompt](../prompts/friends-apartment-threejs-scottstts.md#prompt)

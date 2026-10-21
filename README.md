@@ -1,6 +1,6 @@
 # Awesome AI Motion Prompts
 
-**[133 Motions with Prompts](data/README.md)**
+**[150 Motions with Prompts](data/README.md)**
 
 English | [简体中文](README.zh-CN.md)
 
@@ -93,6 +93,7 @@ Featured: [@shneural](https://x.com/shneural/status/2103151003272962130) · [Pro
 <table>
 <tr>
 <td width="33%" valign="top"><a href="prompts/overthinking.md"><img src="data/media/overthinking.gif" width="260" alt="Overthinking showreel" /></a><br><a href="prompts/overthinking.md"><b>Overthinking showreel</b></a><br><a href="https://x.com/gizakdag/status/2103566030916239768">@gizakdag</a> · <a href="prompts/overthinking.md#prompt">Prompt</a><br><sub>Opus 5.5</sub></td>
+<td width="33%" valign="top"><a href="prompts/wordless-3d-cat-short-one-treat-button-boboga777.md"><img src="data/media/wordless-3d-cat-short-one-treat-button-boboga777.gif" width="260" alt="One treat button: wordless 3D cat short" /></a><br><a href="prompts/wordless-3d-cat-short-one-treat-button-boboga777.md"><b>One treat button: wordless 3D cat short</b></a><br><a href="https://x.com/boboga777/status/2097900087901106244">@boboga777</a> · <a href="prompts/wordless-3d-cat-short-one-treat-button-boboga777.md#prompt">Prompt</a><br><sub>GPT-6 Astra</sub></td>
 </tr>
 </table>
 
@@ -102,11 +103,12 @@ Featured: [@shneural](https://x.com/shneural/status/2103151003272962130) · [Pro
 
 ## 3D & Simulations
 
-[＋ Submit to this category](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L103) · [Full list](data/README.md#3d-simulations)
+[＋ Submit to this category](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L104) · [Full list](data/README.md#3d-simulations)
 
 <table>
 <tr>
 <td width="33%" valign="top"><a href="prompts/infinite-zoom.md"><img src="data/media/infinite-zoom.gif" width="260" alt="Infinite zoom" /></a><br><a href="prompts/infinite-zoom.md"><b>Infinite zoom</b></a><br><a href="https://x.com/koldo2k/status/2103129343253778767">@koldo2k</a> · <a href="prompts/infinite-zoom.md#prompt">Prompt</a><br><sub>Opus 5.5</sub></td>
+<td width="33%" valign="top"><a href="prompts/voxel-pod-racer-ivanfioravanti.md"><img src="data/media/voxel-pod-racer-ivanfioravanti.gif" width="260" alt="Voxel pod-racer run" /></a><br><a href="prompts/voxel-pod-racer-ivanfioravanti.md"><b>Voxel pod-racer run</b></a><br><a href="https://x.com/ivanfioravanti/status/2077763009657627055">@ivanfioravanti</a> · <a href="prompts/voxel-pod-racer-ivanfioravanti.md#prompt">Prompt</a><br><sub>Kimi K3</sub></td>
 </tr>
 </table>
 
@@ -116,7 +118,7 @@ Featured: [@shneural](https://x.com/shneural/status/2103151003272962130) · [Pro
 
 ## Music & Audiovisual
 
-[＋ Submit to this category](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L117) · [Full list](data/README.md#music-audiovisual)
+[＋ Submit to this category](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L119) · [Full list](data/README.md#music-audiovisual)
 
 <table>
 <tr>
@@ -131,7 +133,7 @@ Featured: [@shneural](https://x.com/shneural/status/2103151003272962130) · [Pro
 
 ## Interactive Experiences
 
-[＋ Submit to this category](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L132) · [Full list](data/README.md#interactive)
+[＋ Submit to this category](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L134) · [Full list](data/README.md#interactive)
 
 <table>
 <tr>
