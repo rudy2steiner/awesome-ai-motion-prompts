@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-973 works with prompt text saved in this repository. The collection includes published briefs, workflows and reusable animation templates. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+982 works with prompt text saved in this repository. The collection includes published briefs, workflows and reusable animation templates. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -387,6 +387,13 @@
 - [Motion Prompt: Liquid transition](https://showheyohtaki.github.io/motion-prompt/#019) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-019.md#prompt)
 - [Motion Prompt: Light sweep](https://showheyohtaki.github.io/motion-prompt/#022) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-022.md#prompt)
 - [Motion Prompt: Impact shake](https://showheyohtaki.github.io/motion-prompt/#024) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-024.md#prompt)
+- [Motion Prompt: Line draw](https://showheyohtaki.github.io/motion-prompt/#004) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-004.md#prompt)
+- [Motion Prompt: Typewriter](https://showheyohtaki.github.io/motion-prompt/#006) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-006.md#prompt)
+- [Motion Prompt: Shape morph](https://showheyohtaki.github.io/motion-prompt/#012) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-012.md#prompt)
+- [Motion Prompt: Zoom through](https://showheyohtaki.github.io/motion-prompt/#020) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-020.md#prompt)
+- [Motion Prompt: Glitch](https://showheyohtaki.github.io/motion-prompt/#023) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-023.md#prompt)
+- [Motion Prompt: Handheld](https://showheyohtaki.github.io/motion-prompt/#034) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-034.md#prompt)
+- [Motion Prompt: Freeze frame](https://showheyohtaki.github.io/motion-prompt/#040) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-040.md#prompt)
 
 
 <a id="explainers-data"></a>
@@ -807,6 +814,8 @@
 - [Founder perseverance song: Remotion narrative and beat-timed lyrics](https://x.com/YanivM79/status/2106720729265795579) — @YanivM79 · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2106720729265795579.md#prompt)
 - [Neon Drive: Midnight — synthwave title, chrome type and VHS finish](https://github.com/Vincentwei1021/mg-styles-15/blob/main/prompts/10-synthwave.md) — @Vincentwei1021 · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-mg-styles-10-synthwave.md#prompt)
 - [Depth-aware particle video reconstruction with beat-driven impacts](https://x.com/Pluvio9yte/status/2107087191738662953) — @Pluvio9yte · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2107087191738662953.md#prompt)
+- [Motion Prompt: J-cut](https://showheyohtaki.github.io/motion-prompt/#047) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-047.md#prompt)
+- [Motion Prompt: L-cut](https://showheyohtaki.github.io/motion-prompt/#048) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-048.md#prompt)
 
 
 <a id="interactive"></a>
