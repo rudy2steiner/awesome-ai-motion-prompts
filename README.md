@@ -4,7 +4,7 @@
 
 English | [简体中文](README.zh-CN.md)
 
-Motion worth watching. Prompts worth trying. Any model, any platform.
+Motion graphics created with Claude, ChatGPT, Codex and Kimi, with the prompts behind them.
 
 [<img src="data/media/hero.gif" width="640" height="360" alt="Featured motion by shneural" />](prompts/bold-type.md)
 

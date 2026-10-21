@@ -4,7 +4,7 @@
 
 [English](README.md) | 简体中文
 
-发现值得看的动效，尝试背后的提示词。不限模型与平台。
+精选 Claude、ChatGPT、Codex、Kimi 创作的动效与提示词。
 
 [<img src="data/media/hero.gif" width="640" height="360" alt="shneural 的精选动效" />](prompts/bold-type.md)
 
