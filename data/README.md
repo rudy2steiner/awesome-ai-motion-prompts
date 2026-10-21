@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-777 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+779 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -529,6 +529,7 @@
 - [Faroe Islands FPV sequence: hikers, gorge, waterfall and sea arch](https://x.com/socialwithaayan/status/2111448458079133856) — @socialwithaayan · Claude Opus 5.5 / video model unspecified (author reported) · [Prompt](../prompts/motion-2111448458079133856.md#prompt)
 - [Battery stickman: fighting the red drain line in a seamless loop](https://x.com/byaiden_vu/status/2104846047256469948) — @byaiden_vu · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2104846047256469948.md#prompt)
 - [Purpose of life: whimsical hand-drawn collage animation](https://x.com/hakimieiqbal/status/2103456326227496991) — @hakimieiqbal · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2103456326227496991.md#prompt)
+- [Stickman versus time: clock-hand chase and rewind loop](https://x.com/koldo2k/status/2103951588729684360) — @koldo2k · Claude Opus 5.5 (Extra) (author reported) · [Prompt](../prompts/motion-2103951588729684360.md#prompt)
 
 
 <a id="3d-simulations"></a>
@@ -640,6 +641,7 @@
 - [Living orbital garden station above a colorful gas giant](https://x.com/loktar00/status/2090926890445852970) — @loktar00 · Ox Alpha (author label; version unspecified) (author reported) · [Prompt](../prompts/motion-2090926890445852970.md#prompt)
 - [DeepSeek Halloween: asset planning, Krea-to-TRELLIS models and Three.js staging](https://x.com/loktar00/status/2099673110702109091) — @loktar00 · DeepSeek 4.1 Flash / Krea2 / TRELLIS.2 / YuE2 (author reported) · [Prompt](../prompts/motion-2099673110702109091.md#prompt)
 - [Ocean-platform rocket launch: staging, fairing separation and satellite deployment](https://x.com/Artless101/status/2103303303358534021) — @Artless101 · Claude Opus 5 / Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2103303303358534021.md#prompt)
+- [Floating token mine: isometric Blender workers, railway and waterfall loop](https://x.com/koldo2k/status/2105672081358876788) — @koldo2k · Claude Opus 5.5 (Extra) (author reported) · [Prompt](../prompts/motion-2105672081358876788.md#prompt)
 
 
 <a id="music-audiovisual"></a>
