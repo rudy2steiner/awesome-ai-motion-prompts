@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-976 works with prompt text saved in this repository. The collection includes published briefs, workflows and reusable animation templates. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+977 works with prompt text saved in this repository. The collection includes published briefs, workflows and reusable animation templates. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -633,6 +633,7 @@
 - [Mrs Bramble’s elevator armor reveal: six-model image-to-video comparison](https://x.com/KorpiAi/status/2112966594997481617) — @KorpiAi · Wan 3.0 / Veo 3.1 Fast / Kling v3 / Gemini Omni / Seedance 2.5 / LTX 2 (author reported) · [Prompt](../prompts/motion-2112966594997481617.md#prompt)
 - [Fitri’s Nature Escape: six identity-locked garden and lifestyle shots](https://x.com/rizq_digitalart/status/2112920792044339309) — @rizq_digitalart · WAN 3.0 / Picsart AI Playground (author reported) · [Prompt](../prompts/motion-2112920792044339309.md#prompt)
 - [The Clone Chaos: a magical mirror multiplies a fluffy creature](https://x.com/rizq_digitalart/status/2112063809745817852) — @rizq_digitalart · Generation model not specified; Picsart AI Playground (author reported) · [Prompt](../prompts/motion-2112063809745817852.md#prompt)
+- [Noodles: expressive hand-drawn anime slurping with synchronized sound](https://x.com/minuitIA/status/2112963655910264990) — @minuitIA · Kling 4.0 / Midjourney reference image (author reported) · [Prompt](../prompts/motion-2112963655910264990.md#prompt)
 
 
 <a id="3d-simulations"></a>

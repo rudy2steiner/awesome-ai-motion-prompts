@@ -32378,5 +32378,34 @@
       "visualQuality": "not_reviewed",
       "fullReview": false
     }
+  },
+  {
+    "id": "2112963655910264990",
+    "title": "Noodles: expressive hand-drawn anime slurping with synchronized sound",
+    "author": "minuitIA",
+    "sourceUrl": "https://x.com/minuitIA/status/2112963655910264990",
+    "promptSourceUrl": "https://x.com/minuitIA/status/2112963773568860421",
+    "prompt": "Use the provided image as the first frame and strict visual reference. Traditional hand-drawn 2D Japanese anime animation, warm colors, soft lighting. Faithfully preserve the character's face, hairstyle, clothing, noodle bowl, and surrounding environment.\nSingle continuous 10-second shot, square 1:1 format. Static frontal camera, identical framing to the reference image, no cuts, no camera angle changes.\nThe young woman enthusiastically slurps the long noodles hanging between her chopsticks and her mouth. The noodles gradually slide between her lips with natural, smooth movement. Her cheeks puff up slightly as she eats. She chews happily, gently closes her eyes for a moment, and displays an adorable expression of pure enjoyment, with rosy cheeks and a small, satisfied smile. She opens her eyes again, looks eagerly at her bowl, picks up another portion of noodles with her chopsticks, and joyfully starts slurping again.\nFluid, expressive, delicate animation with natural blinking, subtle head movements, and realistic hand gestures. Precise synchronization between the chopsticks, noodles, and mouth. Gentle noodle-slurping sounds, soft chewing sounds, and subtle chopstick sounds against the ceramic bowl. Cozy, heartwarming atmosphere. Maintain consistent anatomy, bowl shape, character proportions, and original anime art style throughout the entire sequence.\nno music, no subtitle",
+    "model": "Kling 4.0 / Midjourney reference image",
+    "primaryCategory": "characters-stories",
+    "promptStatus": "author_published_prompt",
+    "promptCompleteness": "complete_published_prompt_identity_reference_required",
+    "requiresReference": true,
+    "notes": "Discovered through X Latest public reply search. The complete video prompt is preserved from the author’s reply; public reply metadata links it to the native-video parent. The full parent identifies Midjourney and Kling 4.0 and the Noodles daily challenge. Requires the supplied anime still as first frame and visual reference. The prompt specifies a continuous ten-second square shot, coordinated chopstick/noodle/mouth movement, facial acting and diegetic eating sounds without music. Original reply, full parent model statement and native-video metadata were checked through Chrome MCP. Model attribution is the author’s claim; actual duration, lip/hand synchronization, anatomy consistency, sound and artistic quality were not independently playback-tested.",
+    "platform": "X",
+    "modelStatus": "author_claim",
+    "status": "collected",
+    "promptFile": "prompts/motion-2112963655910264990.md",
+    "discoveryUrl": "https://x.com/minuitIA/status/2112963655910264990",
+    "verification": {
+      "method": "chrome_mcp_x_original_post_and_native_video_metadata",
+      "checkedAt": "2026-10-22",
+      "originalPostConfirmed": true,
+      "promptMatchedSource": true,
+      "authorClaimConfirmed": true,
+      "nativeVideoConfirmed": true,
+      "visualQuality": "not_reviewed",
+      "fullReview": false
+    }
   }
 ]
