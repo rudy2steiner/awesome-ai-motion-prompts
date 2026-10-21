@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-758 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+761 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -286,6 +286,8 @@
 - [Gemini 4 Carbon: thirty-second motion graphics demo](https://x.com/Genysis_Ai_26/status/2112909613788230013) — @Genysis_Ai_26 · Gemini 4 Carbon (author reported) · [Prompt](../prompts/motion-2112909613788230013.md#prompt)
 - [24 Hours Solo in Bangkok: fisheye travel montage and rhythmic match cuts](https://x.com/bmx_ai13/status/2097611216965497165) — @bmx_ai13 · Wan 3 (author reported) · [Prompt](../prompts/motion-2097611216965497165.md#prompt)
 - [Glass and gold-leaf mosaic: lifting, flipping and flocking tile animation](https://x.com/LCSlates/status/2102503027340988559) — @LCSlates · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2102503027340988559.md#prompt)
+- [Build the Floor: magnetic-field kinetic spoken-word typography](https://x.com/Gdgtify/status/2105570411870130294) — @Gdgtify · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2105570411870130294.md#prompt)
+- [One pencil line: paper, blueprint and hologram showreel](https://x.com/heyiamnick/status/2109174851412119558) — @heyiamnick · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2109174851412119558.md#prompt)
 
 
 <a id="explainers-data"></a>
@@ -669,6 +671,7 @@
 - [Spoken Word Video: All Watched Over by Machines of Loving Grace](https://x.com/BretKerr/status/2104408032792990102) — BretKerr · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2104408032792990102.md#prompt)
 - [Pixel-art Halloween diorama for a long lofi loop](https://x.com/HugoDuprez/status/2102746041250705890) — HugoDuprez · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2102746041250705890.md#prompt)
 - [Nightjar Listening Room](https://developers.openai.com/showcase/nightjar-listening-room) — Katia Gil Guzman (OpenAI) · GPT-6 Astra (directory reported) · [Prompt](../prompts/motion-nightjar-listening-room.md#prompt)
+- [White Space: cathedral stained-glass light and falling typography blocks](https://x.com/AGIOyaZ/status/2103167623303397647) — @AGIOyaZ · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2103167623303397647.md#prompt)
 
 
 <a id="interactive"></a>
