@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-316 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+326 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -95,6 +95,9 @@
 - [Remotion Product Launch Film with Claude Opus 5.5](https://x.com/punit_io/status/2104467016719774112) — @punit_io · Claude Opus 5.5 · [Prompt](../prompts/motion-2104467016719774112.md#prompt)
 - [SaaS product launch film with real brand assets](https://x.com/moritzkremb/status/2103066071838466494) — @moritzkremb · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103066071838466494.md#prompt)
 - [Barber recruitment film with synthesized sound](https://x.com/egawa_AI_design/status/2103760245764092323) — @egawa_AI_design · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103760245764092323.md#prompt)
+- [TanStack AI: a feature-driven developer-tool launch film](https://x.com/HowDevelop/status/2103840883812733090) — @HowDevelop · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103840883812733090.md#prompt)
+- [Sprites: a continuous spring-driven product UI film](https://x.com/AnnaCher___/status/2103571096549433425) — @AnnaCher___ · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103571096549433425.md#prompt)
+- [Continuous-take launch film with liquid glass and iris transitions](https://x.com/thejohnnyhuy/status/2104149060588282154) — @thejohnnyhuy · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2104149060588282154.md#prompt)
 
 
 <a id="motion-studies"></a>
@@ -166,6 +169,9 @@
 - [One-shape UI story on a 120 BPM grid](https://x.com/verbove/status/2103483957266268381) — @verbove · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103483957266268381.md#prompt)
 - [A resume that proves every skill on the beat](https://x.com/_koushikde_/status/2105730717455937635) — @_koushikde_ · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2105730717455937635.md#prompt)
 - [Prompt-to-filmstrip bouncing-ball launch sequence](https://x.com/notdwd/status/2105031774904766641) — @notdwd · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2105031774904766641.md#prompt)
+- [Build the Floor: typography becomes architecture](https://x.com/Gdgtify/status/2103458245213929495) — @Gdgtify · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103458245213929495.md#prompt)
+- [One orange circle carries a studio motion reel](https://x.com/threeaus/status/2105152377057886343) — @threeaus · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2105152377057886343.md#prompt)
+- [Claude self-introduction with six motion techniques](https://x.com/tanabe_fragm/status/2103802156675706979) — @tanabe_fragm · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103802156675706979.md#prompt)
 
 
 <a id="explainers-data"></a>
@@ -216,6 +222,7 @@
 - [Claude Opus 5.5 Animated Explanation of Yun Tianming's Three Fairy Tales](https://x.com/imxishi/status/2104459910247235966) — @imxishi · Claude Opus 5.5 · [Prompt](../prompts/motion-2104459910247235966.md#prompt)
 - [Pythagorean Theorem Explainer Video in JavaScript](https://x.com/hyuki/status/2102832558602072560) — @hyuki · Claude Opus 5.5 · [Prompt](../prompts/motion-2102832558602072560.md#prompt)
 - [Earthquake explained through a tectonic sandbox](https://x.com/egeberkina/status/2105029713445949521) — @egeberkina · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2105029713445949521.md#prompt)
+- [The Broken Message: an interactive Type 1 diabetes system](https://x.com/CurieuxExplorer/status/2103373314354016717) — @CurieuxExplorer · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103373314354016717.md#prompt)
 
 
 <a id="characters-stories"></a>
@@ -310,6 +317,8 @@
 - [3D Whale Breaching Scene Model Comparison](https://x.com/Bhavani_00007/status/2110078803297055212) — @Bhavani_00007 · Gemini 4 Argon / Claude Opus 5.5 / GPT-6 Astra / Kimi K3 · [Prompt](../prompts/motion-2110078803297055212.md#prompt)
 - [Orb Weaver Spider Spinning Web at Sunrise](https://x.com/jeffbruchado/status/2111125520788107511) — @jeffbruchado · Claude Opus 5.5 / Claude Sonnet 5.5 · [Prompt](../prompts/motion-2111125520788107511.md#prompt)
 - [Market Street before the 1906 earthquake](https://x.com/alexalbert__/status/2102466523164274839) — @alexalbert__ · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2102466523164274839.md#prompt)
+- [Replayable cinematic fireworks and light-particle show](https://x.com/FornYapayZeka/status/2102888241443795431) — @FornYapayZeka · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2102888241443795431.md#prompt)
+- [Replayable explosion with visible force propagation](https://x.com/FornYapayZeka/status/2102971287224135914) — @FornYapayZeka · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2102971287224135914.md#prompt)
 
 
 <a id="music-audiovisual"></a>
@@ -328,6 +337,7 @@
 - [Psychedelic glitch character music video](https://x.com/pound75423/status/2103722556918464968) — @pound75423 · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103722556918464968.md#prompt)
 - [Make It Catchy: a silent build becomes a music machine](https://x.com/adrianduta96/status/2109187815195992248) — @adrianduta96 · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2109187815195992248.md#prompt)
 - [Crayon cat piano performance with synthesized music](https://x.com/0xCodez/status/2104257855142474136) — @0xCodez · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2104257855142474136.md#prompt)
+- [A film about its own prompt and synthesized score](https://x.com/ulyssexbt/status/2106383971093205279) — @ulyssexbt · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2106383971093205279.md#prompt)
 
 
 <a id="interactive"></a>
