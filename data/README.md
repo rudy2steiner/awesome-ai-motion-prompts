@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-735 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+737 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -393,6 +393,7 @@
 - [Opus 5.5 Agentic Meme-Style Video Production Comparison](https://x.com/threeaus/status/2105152588991868936) — threeaus · Claude Opus 5.5 / Sol 6.1 (directory reported) · [Prompt](../prompts/motion-2105152588991868936.md#prompt)
 - [The Fields Under the Forest — LiDAR Survey](https://github.com/lemomo-ai/lemo-opuscar/blob/main/styles/lidar-survey/STYLE.md) — @lemomo-ai · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-lemo-lidar-survey.md#prompt)
 - [The Map Still Says Sea — Satellite Briefing](https://github.com/lemomo-ai/lemo-opuscar/blob/main/styles/satellite-briefing/STYLE.md) — @lemomo-ai · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-lemo-satellite-briefing.md#prompt)
+- [Hand-drawn educational video remake with layered GPT assets and Opus animation](https://x.com/wadezone/status/2112042940172570637) — @wadezone · Claude Opus 5.5 / GPT (image model unspecified) / Codex (model unspecified) (author reported) · [Prompt](../prompts/motion-2112042940172570637.md#prompt)
 
 
 <a id="characters-stories"></a>
@@ -795,3 +796,4 @@
 - [Courtyard House](https://developers.openai.com/showcase/courtyard-house) — Katia Gil Guzman (OpenAI) · GPT-6 Astra (directory reported) · [Prompt](../prompts/motion-courtyard-house.md#prompt)
 - [Tidal House](https://developers.openai.com/showcase/tidal-house) — Katia Gil Guzman (OpenAI) · GPT-6 Astra (directory reported) · [Prompt](../prompts/motion-tidal-house.md#prompt)
 - [Cozy Café Fluid Studio: interactive coffee and milk simulation](https://x.com/genevieve__h/status/2112646847454147003) — @genevieve__h · Argon (version unspecified) (author reported) · [Prompt](../prompts/motion-2112646847454147003.md#prompt)
+- [Plush Lobster: WebGPU tail flips, wired legs and combable fur](https://x.com/vib3coded/status/2112838135927263740) — @vib3coded · Claude Opus 5.5 / ChatGPT-6 Astra (author reported) · [Prompt](../prompts/motion-2112838135927263740.md#prompt)

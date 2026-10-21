@@ -24969,5 +24969,61 @@
       "visualQuality": "not_reviewed",
       "fullReview": false
     }
+  },
+  {
+    "id": "2112838135927263740",
+    "title": "Plush Lobster: WebGPU tail flips, wired legs and combable fur",
+    "author": "vib3coded",
+    "sourceUrl": "https://x.com/vib3coded/status/2112838135927263740",
+    "promptSourceUrl": "https://x.com/vib3coded/status/2112838288104972598",
+    "prompt": "Build a real-time WebGPU plush-toy study of a cute stuffed lobster, in the same engine and editorial \"Material Studies\" page style as my Plush Crab (shell-rendered minky fur, XPBD soft body, wired legs).\n\nBody: one signed distance field — a long domed carapace with a rounder face and a small horn, two short eye stalks with big glossy safety eyes on white felt discs, an embroidered smile and rosy cheeks, then a tail of six smooth-unioned segments that get smaller toward the back, with a crease between each, ending in a flat five-paddle tail fan. Fill it with a hex lattice of cells and tetrahedra, solved with co-rotational cell shape matching plus volume constraints on a fixed 60 Hz step; Coulomb friction on the table. The shell breathes. Only the shell keeps its footing and posture, so the tail stays free.\n\nTail muscle: along the tail's centre line, lengthen the cells' rest shapes above the line and shorten them below, so the stuffing itself curls the tail. At rest the tail gently lifts and settles. \"Tail flip\": snap the tail under hard in about 0.1 s with extra cell stiffness, throw the body back and up, and straighten the tail again mid-air so it lands stretched out well behind where it started. A finger poke on the shell triggers the same flip.\n\nChains (XPBD rods with a plastic wire, posed in the body frame, blended poses lie/stand/tuck/wave/hang):\n- eight thin walking legs with pale knitted joint bands;\n- two arms ending in a big padded palm with two plush claw fingers (dark felt tips) that open and close by one angle;\n- two long thin striped feelers that sweep up and back and always twitch slightly.\n\nBehaviours:\n- walking: head first, an alternating gait with footholds on the table;\n- \"Snip snip\": both claws open and shut out of step;\n- \"Wave claws\": claws raised and waving;\n- Finger tool: the lobster walks to the finger, faces it and pinches it gently;\n- held up, its legs dangle;\n- pulling a limb past its reach tows the whole body.\n\nRendering: fur shells with Kajiya–Kay highlights, a velvet lie the Comb tool can brush, and pile that sways on springs. Draw the tail seams as stitched short-pile creases and give the fan pale edges. Soft shadows, contact AO, a studio backdrop, PBR Neutral tone mapping.\n\nVarieties: Red, Blue, Golden. Tools: Hand, Finger, Comb. Sliders: stuffing, pile length, wire. Buttons: Walk, Snip snip, Tail flip, Wave claws, Straighten, Smooth fur, Reset, ¼ speed, Mesh, Pause. Readouts: mass, volume, steps, flips, snips. Add an \"Inside the experiment\" notes drawer. English UI, mobile-friendly.",
+    "model": "Claude Opus 5.5 / ChatGPT-6 Astra",
+    "primaryCategory": "interactive",
+    "promptStatus": "source_transcribed",
+    "promptCompleteness": "complete_as_published_requires_prior_engine",
+    "notes": "Found through X Latest. The original post compares Claude Opus 5.5 and ChatGPT-6 Astra; the author publishes the full lobster task in its reply. Parent/reply linkage and native video presence were confirmed using the public X syndication response, and prompt wording was read directly from the author’s X page through Chrome MCP. The prompt explicitly depends on the creator’s earlier Plush Crab engine and Material Studies layout; those assets and code are not bundled. Comparison counted once. Full playback, physical correctness, performance, visual quality and exact prompt-to-output fidelity were not independently reviewed.",
+    "platform": "X",
+    "modelStatus": "author_claim",
+    "status": "collected",
+    "promptFile": "prompts/motion-2112838135927263740.md",
+    "discoveryUrl": "https://x.com/vib3coded/status/2112838135927263740",
+    "verification": {
+      "method": "chrome_mcp_x_latest_original_thread",
+      "checkedAt": "2026-10-22",
+      "originalPostConfirmed": true,
+      "promptMatchedSource": true,
+      "authorClaimConfirmed": true,
+      "nativeVideoConfirmed": true,
+      "visualQuality": "not_reviewed",
+      "fullReview": false
+    }
+  },
+  {
+    "id": "2112042940172570637",
+    "title": "Hand-drawn educational video remake with layered GPT assets and Opus animation",
+    "author": "wadezone",
+    "sourceUrl": "https://x.com/wadezone/status/2112042940172570637",
+    "promptSourceUrl": "https://x.com/wadezone/status/2112044463585702365",
+    "prompt": "补一下这条 5 分 4 秒视频的制作流程，方便想试的朋友参考。\n\n1）先拆原片\n抽帧，对照时间轴整理构图、角色、字幕、动作和切点。这次整理成 51 个场景、6 个章节，字幕也做了改写。每个镜头都要说明“谁在干什么、什么时候动、什么时候停”。\n\n2）用 GPT 生成手绘素材\n第一版直接用代码画人物，线条和造型太规整，手绘感不够。后来改成让 GPT 生成透明 PNG：人物、器官、道具分别准备，需要躺下、握拳、惊吓等动作，就补对应的姿态和表情图。文字留到组装时单独排版。\n\n3）先做 15 秒样片\n先把几个镜头拼起来，检查人物比例、笔触、字体、遮挡和动作节奏。样片看着顺了，再扩展到全片。这一步能早点发现风格问题。\n\n4）把风格写进工程\n把确认过的样片作为参考，固定角色素材、裁切位置、图层顺序、颜色、字体、字号和标题栏位置。\n这次标题用站酷快乐体，字幕用 Noto Sans SC 真粗体。它们是接近原片的选型，原片的具体字体还没确认。后面新增素材和镜头，都按这套参数检查。\n\n5）让 Opus 5.5 组装完整视频\n让 Opus 写 HTML/GSAP 动画，用 HyperFrames 渲染。代码负责位置、遮挡、姿态切换、呼吸、点头、碰撞和字幕时序。\n例如床铺、人物、前景被子分层，脸和手要露出来；人物躺下用真正的躺姿素材。按拆好的时间轴逐镜头完成，再导出完整无声版。Codex 负责串起素材准备、比对检查、渲染和必要的修正。\n\n6）加自己的声音和原片音效\n用 ElevenLabs 已有的本人克隆音色分段配音，这次生成 40 个单元。通过重录和调整停顿对齐画面。\n原片只有混合音轨，用本地 HDemucs 分离非人声底轨，再和新旁白混音。讲话时压低背景，动作空隙保留音效。分离后的底轨可能带着背景音乐和细微残影，并非作者提供的纯音效文件。\n\n7）对照检查，再导出\n检查关键帧、切点、字体、字幕、素材边缘和声音时序，用 FFmpeg 合成最终 MP4。配音版保留已经确认的画面，再做解码、时长、响度和同步检查。\n\n这次最有用的经验：先把美术素材和样片定下来，再扩展完整时间轴。GPT 负责手绘素材，Opus 负责动效组装，分开后更容易控制画风。\n\n补充：rev 这次主要用于早期版本代码的静态分析。画面是重新制作的，过程中没有恢复出原作者的 AE 工程。原作作者是画渣花小烙，原片链接在主推文。",
+    "model": "Claude Opus 5.5 / GPT (image model unspecified) / Codex (model unspecified)",
+    "primaryCategory": "explainers-data",
+    "promptStatus": "published_workflow",
+    "promptCompleteness": "complete_published_workflow_not_input_conversation",
+    "notes": "Discovered via a recent X-shared prompt catalogue, then read directly from the original creator’s X post and workflow reply through Chrome MCP. This is the creator’s published seven-step making-of workflow, not a verbatim one-shot input prompt. The main post includes the AI remake and the original reference; the original educational video is credited to 画渣花小烙, with its source link retained in the creator’s main post. Author-reported tools include GPT image assets, Opus 5.5 HTML/GSAP animation, HyperFrames rendering, Codex orchestration/checking, the author’s own ElevenLabs voice clone, and extracted reference audio. Reference assets, source audio and original project are not bundled or relicensed here. Main post, workflow wording and video presence were confirmed; full playback, fidelity and visual quality were not independently reviewed.",
+    "platform": "X",
+    "modelStatus": "author_claim",
+    "status": "collected",
+    "promptFile": "prompts/motion-2112042940172570637.md",
+    "discoveryUrl": "https://x.com/wadezone/status/2112042940172570637",
+    "verification": {
+      "method": "chrome_mcp_x_latest_original_thread",
+      "checkedAt": "2026-10-22",
+      "originalPostConfirmed": true,
+      "promptMatchedSource": true,
+      "authorClaimConfirmed": true,
+      "nativeVideoConfirmed": true,
+      "visualQuality": "not_reviewed",
+      "fullReview": false
+    }
   }
 ]
