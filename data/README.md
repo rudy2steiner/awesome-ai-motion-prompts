@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-775 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+777 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -295,6 +295,7 @@
 - [Endless neon tunnel: polar-coordinate GLSL shader comparison](https://x.com/loktar00/status/2057499174568923566) — @loktar00 · Qwen 3.7 Max / GPT 5.5 / Opus (version unspecified) / GLM 5.1 (author reported) · [Prompt](../prompts/motion-2057499174568923566.md#prompt)
 - [Japanese fantasy-city pixel animation: GPT, Sonnet, Opus and Astra comparison](https://x.com/notjazii/status/2105033612093698466) — @notjazii · GPT 6.1 Sol / Sonnet 5.5 / Opus 5.5 / Astra (version unspecified) (author reported) · [Prompt](../prompts/motion-2105033612093698466.md#prompt)
 - [Dot to search bar: five-second typography and matte loop](https://x.com/cgclick/status/2107906341243081068) — @cgclick · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2107906341243081068.md#prompt)
+- [Fear Itself: Art Deco recursive typography and reversed infinite zoom](https://x.com/Gdgtify/status/2110706003058536747) — @Gdgtify · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2110706003058536747.md#prompt)
 
 
 <a id="explainers-data"></a>
@@ -415,6 +416,7 @@
 - [Whiteboard skill tutorial](https://x.com/lemomo_ai/status/2104070024575242622) — @lemomo_ai · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2104070024575242622.md#prompt)
 - [HyperFrames editing effects with a HeyGen avatar](https://x.com/liu8in/status/2111678979413598560) — @liu8in · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2111678979413598560.md#prompt)
 - [Sphere Las Vegas: GSAP venue-history motion explainer](https://x.com/RetropunkAI/status/2103237989065277590) — @RetropunkAI · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2103237989065277590.md#prompt)
+- [Eight color harmonies: spinning wheel and palette-world transitions](https://x.com/koldo2k/status/2104114329322704965) — @koldo2k · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2104114329322704965.md#prompt)
 
 
 <a id="characters-stories"></a>
