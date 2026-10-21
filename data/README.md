@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-481 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+516 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -119,6 +119,7 @@
 - [A typing-game commercial developed through three prompt stages](https://x.com/Typingmusou/status/2103452241848160705) — @Typingmusou · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103452241848160705.md#prompt)
 - [TypingMind product intro motion video](https://x.com/tdinh_me/status/2103703135902740699) — tdinh_me · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103703135902740699.md#prompt)
 - [Beat-synced showreel from real clips](https://x.com/twoclipping/status/2102554209166000267) — twoclipping · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2102554209166000267.md#prompt)
+- [Looping product launch motion template](https://x.com/twoclipping/status/2105927781678747965) — twoclipping · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2105927781678747965.md#prompt)
 
 
 <a id="motion-studies"></a>
@@ -208,6 +209,7 @@
 - [Interactive Glitter Sticker Effect with Peel Animation Comparison](https://x.com/ann_nnng/status/2104159923886244176) — @ann_nnng · Claude Opus 5.5 / GPT-6 Sol · [Prompt](../prompts/motion-2104159923886244176.md#prompt)
 - [Animated welcome screen for the Nova crypto wallet](https://x.com/vvarrdi/status/2102681647720395115) — vvarrdi · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2102681647720395115.md#prompt)
 - [Talking-head video edited into a motion-graphics cut](https://x.com/condzxyz/status/2109454493415023080) — condzxyz · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2109454493415023080.md#prompt)
+- [Talking-head video converted to line-art B-roll](https://x.com/AxtonLiu/status/2102827887732932956) — AxtonLiu · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2102827887732932956.md#prompt)
 
 
 <a id="explainers-data"></a>
@@ -294,6 +296,8 @@
 - [Mongol conquest data visualization comparison](https://x.com/YanqingCheng/status/2102566466121797767) — YanqingCheng · Claude Opus 5.5 / GPT-6 Sol (directory reported) · [Prompt](../prompts/motion-2102566466121797767.md#prompt)
 - [Zoom journey from a cell to quantum fields](https://x.com/paraschopra/status/2103099756167991347) — paraschopra · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103099756167991347.md#prompt)
 - [Animated pelican explains a shell command](https://x.com/goodside/status/2103149526244618682) — goodside · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103149526244618682.md#prompt)
+- [Nobel Prize science explainer video](https://x.com/KeWai386772/status/2108143447496679553) — KeWai386772 · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2108143447496679553.md#prompt)
+- [History of Indonesia animated documentary](https://x.com/sonnylazuardi/status/2103511590884815282) — sonnylazuardi · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103511590884815282.md#prompt)
 
 
 <a id="characters-stories"></a>
@@ -356,6 +360,14 @@
 - [Four-minute 2D animation made with up to 15 agents](https://x.com/ALSK_ai/status/2103135536634630632) — ALSK_ai · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103135536634630632.md#prompt)
 - [Animated episode drawn entirely in code](https://x.com/shfred0/status/2102879301876031808) — shfred0 · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2102879301876031808.md#prompt)
 - ['The First Spark' procedural hand-drawn short](https://x.com/morpheusdv/status/2102910531560731063) — morpheusdv · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2102910531560731063.md#prompt)
+- [Red panda Koda and the giant peach](https://x.com/HeyAbhishek/status/2109993586951663626) — HeyAbhishek · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2109993586951663626.md#prompt)
+- [Articulated Lamp Animation in Blender](https://x.com/zavrenn/status/2103181133198639614) — zavrenn · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103181133198639614.md#prompt)
+- [Alien explores the Library of Babel](https://x.com/jackclarkSF/status/2103569043836027339) — jackclarkSF · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103569043836027339.md#prompt)
+- [AI capability growth training montage](https://x.com/ishuagra02/status/2102788371114246177) — ishuagra02 · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2102788371114246177.md#prompt)
+- [Halloween trick-or-treat animated video](https://x.com/alexgreensh/status/2110404428691808308) — alexgreensh · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2110404428691808308.md#prompt)
+- [Code-generated pixel art life story film](https://x.com/twoclipping/status/2107822293653041659) — twoclipping · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2107822293653041659.md#prompt)
+- [Low-poly 3D horse animation comparison](https://x.com/aGim_asf/status/2112103012638277944) — aGim_asf · Claude Opus 5.5 / DeepSeek V4.1 1017 · [Prompt](../prompts/motion-2112103012638277944.md#prompt)
+- [Paper collage Momotaro animation](https://x.com/tanabe_fragm/status/2110931024469540979) — tanabe_fragm · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2110931024469540979.md#prompt)
 
 
 <a id="3d-simulations"></a>
@@ -436,6 +448,15 @@
 - [Three.js Newton's cradle: Opus vs Astra 6](https://x.com/ivanainai/status/2108625335122026542) — ivanainai · Claude Opus 5.5 / GPT-6 Astra (directory reported) · [Prompt](../prompts/motion-2108625335122026542.md#prompt)
 - [Golden hour Japanese temple 3D scene](https://x.com/LexnLin/status/2110657641831956870) — LexnLin · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2110657641831956870.md#prompt)
 - [Storm in a bottle Blender comparison](https://x.com/MrTacticalX/status/2112184796419883354) — MrTacticalX · GPT-6 Astra / Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2112184796419883354.md#prompt)
+- [Cartoon-style 3D planet in Three.js](https://x.com/Tim_LB/status/2102481848911679989) — Tim_LB · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2102481848911679989.md#prompt)
+- [Voxel Japanese garden in Three.js](https://x.com/vikktorrrre/status/2105955048018588084) — vikktorrrre · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2105955048018588084.md#prompt)
+- [Golden Pavilion CAD-to-3D animation](https://x.com/Ayu_AI_0912/status/2103243328041132100) — Ayu_AI_0912 · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103243328041132100.md#prompt)
+- [Self-building mech comparison](https://x.com/MrTacticalX/status/2112393665209303177) — MrTacticalX · Claude Opus 5.5 / Claude Sonnet 5.5 · [Prompt](../prompts/motion-2112393665209303177.md#prompt)
+- [Pirate ship 3D scene comparison](https://x.com/vib3coded/status/2102533729746882985) — vib3coded · Claude Opus 5.5 / GPT-6 Astra · [Prompt](../prompts/motion-2102533729746882985.md#prompt)
+- [Nested spinning hexagon ball physics simulation](https://x.com/blueemi99/status/2112189854234652746) — blueemi99 · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2112189854234652746.md#prompt)
+- [Fictional rocket CAD drawings and launch animation](https://x.com/Ayu_AI_0912/status/2109515393220083912) — Ayu_AI_0912 · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2109515393220083912.md#prompt)
+- [Blender campfire scene: Opus vs GPT-6](https://x.com/MrTacticalX/status/2111633479599272435) — MrTacticalX · Claude Opus 5.5 / GPT-6 Astra · [Prompt](../prompts/motion-2111633479599272435.md#prompt)
+- [Low-poly Japanese railway station diorama](https://x.com/vib3coded/status/2111965632338292943) — vib3coded · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2111965632338292943.md#prompt)
 
 
 <a id="music-audiovisual"></a>
@@ -465,6 +486,9 @@
 - [AI self-introduction song and video](https://x.com/johnknopf/status/2103698854399099057) — johnknopf · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103698854399099057.md#prompt)
 - [Linear algebra fear music video](https://x.com/doubleunplussed/status/2103697580421181894) — doubleunplussed · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103697580421181894.md#prompt)
 - [Music-driven Blender visual scene](https://x.com/kloss_xyz/status/2107696042053431360) — kloss_xyz · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2107696042053431360.md#prompt)
+- [Beat-synced K-pop motion graphics music video](https://x.com/minchoi/status/2110001964402831512) — minchoi · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2110001964402831512.md#prompt)
+- [Code-generated music video](https://x.com/kloss_xyz/status/2112006151885705553) — kloss_xyz · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2112006151885705553.md#prompt)
+- [One-shot music video from song and lyrics](https://x.com/ParanoidAmerica/status/2103570879619686717) — ParanoidAmerica · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103570879619686717.md#prompt)
 
 
 <a id="interactive"></a>
@@ -541,3 +565,14 @@
 - [Interactive 3D dystopian city diorama](https://x.com/akakuma0219/status/2103820733159981151) — akakuma0219 · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103820733159981151.md#prompt)
 - [Post-Biological Consciousness Experience](https://x.com/SimonasLTU1/status/2107110129363472474) — SimonasLTU1 · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2107110129363472474.md#prompt)
 - [Interactive weather world in a glass box](https://x.com/LexnLin/status/2108159248148611292) — LexnLin · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2108159248148611292.md#prompt)
+- [Galerie Nocturne CSS 3D museum walkthrough](https://x.com/MiaAI_lab/status/2110385278246654052) — MiaAI_lab · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2110385278246654052.md#prompt)
+- [Endless procedurally generated exploration world](https://x.com/argofowl/status/2102529695908806728) — argofowl · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2102529695908806728.md#prompt)
+- [Interactive 3D jelly orange in browser](https://x.com/vib3coded/status/2110665495221268915) — vib3coded · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2110665495221268915.md#prompt)
+- [Interactive 3D gummy jellyfish, two-model build](https://x.com/vib3coded/status/2104651061336117614) — vib3coded · Claude Sonnet 5.5 / GPT-6 Astra · [Prompt](../prompts/motion-2104651061336117614.md#prompt)
+- [Soft-body jelly kiwi wedge simulation](https://x.com/vib3coded/status/2109932661204517203) — vib3coded · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2109932661204517203.md#prompt)
+- [Plush spider physics comparison](https://x.com/vib3coded/status/2107127712871505976) — vib3coded · Claude Opus 5.5 / GPT-6 Astra · [Prompt](../prompts/motion-2107127712871505976.md#prompt)
+- [Arctic jelly iceberg diorama comparison](https://x.com/vib3coded/status/2110517313413796092) — vib3coded · Claude Opus 5.5 / GPT-6 Astra · [Prompt](../prompts/motion-2110517313413796092.md#prompt)
+- [Harbor jelly water physics comparison](https://x.com/vib3coded/status/2109794326574227823) — vib3coded · Claude Opus 5.5 / GPT-6 Astra · [Prompt](../prompts/motion-2109794326574227823.md#prompt)
+- [Tidepool Jelly 3D coastal ecosystem comparison](https://x.com/vib3coded/status/2109015574177075610) — vib3coded · Claude Opus 5.5 / GPT-6 Astra · [Prompt](../prompts/motion-2109015574177075610.md#prompt)
+- [Plush pigeon soft-body squish toy](https://x.com/vib3coded/status/2111106285126971770) — vib3coded · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2111106285126971770.md#prompt)
+- [Interactive plush penguin model comparison](https://x.com/vib3coded/status/2109288662319919127) — vib3coded · GPT-6 Astra / Claude Opus 5.5 · [Prompt](../prompts/motion-2109288662319919127.md#prompt)
