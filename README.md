@@ -8,9 +8,9 @@ Discover remarkable motion. Find the prompt behind it.
 
 A multi-model, web-wide collection of AI motion graphics, animation and interactive references, with original prompts, creator credits and production context. English is the primary documentation language; prompts stay in their original language.
 
-**Submissions welcome!** Made your own motion? [Submit your motion prompt](https://github.com/rudy2steiner/awesome-ai-motion-prompts/issues/new?template=submit-motion.yml) — all models, platforms and creators are welcome. Share a playable preview, your prompt or skill, and creator credit. No coding or pull request required. [Contribution guide](CONTRIBUTING.md).
+**Submissions welcome!** Made your own motion? [Submit your motion prompt](https://github.com/rudy2steiner/awesome-ai-motion-prompts/blob/main/CONTRIBUTING.md) — all models, platforms and creators are welcome. Share a playable preview, your prompt or skill, and creator credit. Add your work to the collection and open a pull request. [Contribution guide](CONTRIBUTING.md).
 
-[Browse prompts](#prompt-library) · [Candidate queue](docs/CANDIDATES.md) · [Data format](docs/DATA_FORMAT.md) · [Submit your motion](https://github.com/rudy2steiner/awesome-ai-motion-prompts/issues/new?template=submit-motion.yml)
+[Browse prompts](#prompt-library) · [Candidate queue](docs/CANDIDATES.md) · [Data format](docs/DATA_FORMAT.md) · [Submit your motion](https://github.com/rudy2steiner/awesome-ai-motion-prompts/blob/main/CONTRIBUTING.md)
 
 **16 importable records · 339 research candidates**
 
@@ -34,7 +34,7 @@ Choose by what you want to create. Models and effect tags are separate, so a wor
 | [Music & Audiovisual](docs/CATEGORIES.md#music-audiovisual) | Music videos, audio-reactive visuals and sound-led motion. Including a soundtrack alone does not make a work a music video. | 0 |
 | [Interactive Experiences](docs/CATEGORIES.md#interactive) | Responsive motion, interactive art, playful interfaces and animated game demonstrations. | 1 |
 
-Have a work that does not fit? [Suggest a new category in your submission](https://github.com/rudy2steiner/awesome-ai-motion-prompts/issues/new?template=submit-motion.yml).
+Have a work that does not fit? [Suggest a new category in your submission](https://github.com/rudy2steiner/awesome-ai-motion-prompts/blob/main/CONTRIBUTING.md).
 
 ## Prompt library
 

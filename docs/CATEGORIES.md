@@ -2,7 +2,7 @@
 
 Browse by purpose. Each work has one primary category here and may have multiple effect tags in its prompt card. Any model or platform can appear in any category.
 
-[Submit your motion prompt](https://github.com/rudy2steiner/awesome-ai-motion-prompts/issues/new?template=submit-motion.yml) · [Contribution guide](../CONTRIBUTING.md)
+[Submit your motion prompt](https://github.com/rudy2steiner/awesome-ai-motion-prompts/blob/main/CONTRIBUTING.md) · [Contribution guide](../CONTRIBUTING.md)
 
 <a id="product-brand"></a>
 ## Product & Brand
@@ -54,7 +54,7 @@ Character animation, narrative shorts and concept-driven stories.
 
 Music videos, audio-reactive visuals and sound-led motion. Including a soundtrack alone does not make a work a music video.
 
-Be the first to [submit a motion prompt in this category](https://github.com/rudy2steiner/awesome-ai-motion-prompts/issues/new?template=submit-motion.yml).
+Be the first to [submit a motion prompt in this category](https://github.com/rudy2steiner/awesome-ai-motion-prompts/blob/main/CONTRIBUTING.md).
 
 <a id="interactive"></a>
 ## Interactive Experiences
@@ -65,4 +65,4 @@ Responsive motion, interactive art, playful interfaces and animated game demonst
 
 ## Suggest a category
 
-Choose “Suggest a new category” in the form and explain the use case. Maintainers review category changes to keep browsing useful without creating overlapping sections.
+Propose a new category in your pull request and explain the use case. Maintainers review category changes to keep browsing useful without creating overlapping sections.

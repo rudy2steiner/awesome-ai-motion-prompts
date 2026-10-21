@@ -1,39 +1,28 @@
 # Submissions welcome!
 
-Made something worth moving? **[Submit your motion prompt](https://github.com/rudy2steiner/awesome-ai-motion-prompts/issues/new?template=submit-motion.yml)**.
+**Share your motion prompt by opening a pull request.** Your own work and recommendations are welcome, from any model or platform.
 
-Your own work and recommendations are both welcome, from any model or public platform. New creators are welcome: there is no follower, view or star threshold. Use one submission per work. Keep descriptions in English and published prompts in their original language.
+## Add your motion
 
-## Submit without editing code
+1. Fork this repository and copy [`examples/_template.md`](examples/_template.md) to `examples/your-motion-name.md`.
+2. Add a preview, your prompt, the model you used and creator credit. Pick a [category](docs/CATEGORIES.md), or suggest a new one.
+3. Open a pull request with a short note about what you made and why it is worth sharing.
 
-Open the submission form and share:
+You can do this entirely in GitHub's web editor. One work per PR keeps discussion focused. Keep descriptions in English and prompts in their original language. There is no follower, view or star threshold.
 
-- A short title and primary [category](docs/CATEGORIES.md).
-- Creator credit, the original source and a playable video or GIF. You can attach a preview in the GitHub editor.
-- The model and working environment, if known.
-- The prompt you used, or a published prompt/skill link. State clearly when the full prompt is unavailable.
+Include required references, skills, tools and important follow-up prompts when relevant. For someone else's work, credit the original creator and link their published prompt. Say clearly if the full prompt is unavailable.
 
-References, required assets, dependencies, follow-up prompts and manual edits help others reproduce the result. Include them when applicable. Sharing a work does not promise identical output from the same prompt.
+A Markdown card is enough to start a PR. Maintainers will help with category placement, structured metadata and preview assets during review. Respond and update the same PR if changes are requested.
 
-Choose the closest category, or suggest a new one in the form. The existing effect tags are separate from the main category. Models and platforms are metadata, not the main browsing hierarchy.
+## Updating structured data
 
-## Prefer a pull request?
+If you want to include the complete importable record too:
 
-Add complete records to `data/motion-prompts.json`, a prompt card to `examples/`, and evidence to `data/provenance.json`. Add the entry ID to the appropriate group in `data/categories.json`. Use existing entries as examples. Do not edit generated indexes directly.
+- Add it to `data/motion-prompts.json` and record its sources in `data/provenance.json`.
+- Add the entry ID to its primary category in `data/categories.json`.
+- Put incomplete research in `data/candidates.json`; do not invent missing details.
+- Run `python3 scripts/build.py` and `python3 scripts/validate.py`.
 
-Incomplete but useful research belongs in `data/candidates.json`. Never invent missing prompts or model claims. See the [data contract](docs/DATA_FORMAT.md) and [verification rules](docs/SOURCING.md).
+See the [data contract](docs/DATA_FORMAT.md) and [verification rules](docs/SOURCING.md). Generated indexes are rebuilt from data; edit the source records rather than those indexes.
 
-Run:
-
-```sh
-python3 scripts/build.py
-python3 scripts/validate.py
-```
-
-## How review works
-
-A maintainer checks for duplicates, a working preview, clear creator credit, traceable instructions and motion quality. We look for composition, readable typography, coherent choreography, storytelling or a useful technique. Popularity is not an admission requirement.
-
-Submitting is open; publication is reviewed. Maintainers may request missing details, place an incomplete record in the research queue, or decline work outside the collection's scope. Continue in the same issue when revising a submission. A new category can be discussed before changing the taxonomy.
-
-For corrections or removals, open a regular issue with the record ID, original source and requested change. Third-party works retain their creators' rights; see [third-party content](THIRD_PARTY.md).
+For corrections or removals, open an issue or PR identifying the work and requested change. Third-party works retain their creators' rights; see [third-party content](THIRD_PARTY.md).
