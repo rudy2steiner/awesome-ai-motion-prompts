@@ -29847,5 +29847,34 @@
       "visualQuality": "not_reviewed",
       "fullReview": false
     }
+  },
+  {
+    "id": "2104818940467945542",
+    "title": "A single photon: a code-drawn journey from the Sun to the eye",
+    "author": "apoorvjain25",
+    "sourceUrl": "https://x.com/apoorvjain25/status/2104818940467945542",
+    "promptSourceUrl": "https://x.com/apoorvjain25/status/2104818940467945542",
+    "prompt": "make a 20-second video about anything, your call; make it crazy.",
+    "model": "Claude Opus 5.5 / Remotion",
+    "primaryCategory": "explainers-data",
+    "promptStatus": "author_published_short_brief",
+    "promptCompleteness": "complete_brief_as_quoted_by_author_not_full_transcript",
+    "requiresReference": false,
+    "notes": "The author explicitly introduces this sentence as the one prompt given to Claude Opus 5.5. The model selected the photon story; the subsequent account of the Sun, planets, eye and soundtrack is a description of the generated result, not additional input, and is excluded from the saved prompt. The author reports Remotion, code-drawn visuals without stock footage or images, and a Node-synthesized soundtrack driven by animation bounce data. Original post text and public native-video metadata were checked through Chrome MCP. Production method, scientific accuracy, audiovisual synchronization and quality were not independently tested. This is an open-ended short brief, not a reproducible specification for the precise displayed film or a complete execution transcript.",
+    "platform": "X",
+    "modelStatus": "author_claim",
+    "status": "collected",
+    "promptFile": "prompts/motion-2104818940467945542.md",
+    "discoveryUrl": "https://x.com/apoorvjain25/status/2104818940467945542",
+    "verification": {
+      "method": "chrome_mcp_x_original_post_and_native_video_metadata",
+      "checkedAt": "2026-10-22",
+      "originalPostConfirmed": true,
+      "promptMatchedSource": true,
+      "authorClaimConfirmed": true,
+      "nativeVideoConfirmed": true,
+      "visualQuality": "not_reviewed",
+      "fullReview": false
+    }
   }
 ]

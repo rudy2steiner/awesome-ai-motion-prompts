@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-896 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+897 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -470,6 +470,7 @@
 - [motion-pack: Proof clip × Swiss Grid, 15 s 16:9](https://github.com/ANVEAI/motion-pack/blob/main/docs/prompts.md#L207) — @ANVEAI / motion-pack contributors · Claude Code / model-agnostic coding agent (motion-pack required) · [Prompt](../prompts/motion-motion-pack-proof-clip.md#prompt)
 - [motion-pack: Explainer × Blueprint, 45 s 16:9](https://github.com/ANVEAI/motion-pack/blob/main/docs/prompts.md#L235) — @ANVEAI / motion-pack contributors · Claude Code / model-agnostic coding agent (motion-pack required) · [Prompt](../prompts/motion-motion-pack-explainer.md#prompt)
 - [Context Tax: narrated motion explainer for an engineering team](https://x.com/mablesjoseph/status/2105472483054735781) — @mablesjoseph · Claude Opus 5.5 (Max effort) / Remotion / ElevenLabs (author reported) · [Prompt](../prompts/motion-2105472483054735781.md#prompt)
+- [A single photon: a code-drawn journey from the Sun to the eye](https://x.com/apoorvjain25/status/2104818940467945542) — @apoorvjain25 · Claude Opus 5.5 / Remotion (author reported) · [Prompt](../prompts/motion-2104818940467945542.md#prompt)
 
 
 <a id="characters-stories"></a>
