@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-745 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+746 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -611,6 +611,7 @@
 - [Cider Pond: autumn ducks, falling leaves and a looping miniature camera](https://x.com/loktar00/status/2112295977461699019) — @loktar00 · DeepSeek 1017 (author reported) · [Prompt](../prompts/motion-2112295977461699019.md#prompt)
 - [Toy-brick island and erupting volcano: Claude versus DeepSeek](https://x.com/genuenci/status/2112300216233980324) — @genuenci · Claude / DeepSeek (versions unspecified in this post) (author reported) · [Prompt](../prompts/motion-2112300216233980324.md#prompt)
 - [Geese at twilight: a continuous thirty-second marsh camera loop](https://x.com/loktar00/status/2112753491970310402) — @loktar00 · DeepSeek 1017 (author reported) · [Prompt](../prompts/motion-2112753491970310402.md#prompt)
+- [Living orbital garden station above a colorful gas giant](https://x.com/loktar00/status/2090926890445852970) — @loktar00 · Ox Alpha (author label; version unspecified) (author reported) · [Prompt](../prompts/motion-2090926890445852970.md#prompt)
 
 
 <a id="music-audiovisual"></a>

@@ -25268,5 +25268,33 @@
       "visualQuality": "not_reviewed",
       "fullReview": false
     }
+  },
+  {
+    "id": "2090926890445852970",
+    "title": "Living orbital garden station above a colorful gas giant",
+    "author": "loktar00",
+    "sourceUrl": "https://x.com/loktar00/status/2090926890445852970",
+    "promptSourceUrl": "https://x.com/loktar00/status/2090926923316916648",
+    "prompt": "Design and create a highly detailed, creative, and visually spectacular 3D scene of a living orbital garden station floating above the sunlit atmosphere of a massive colorful gas giant.\n\nThe station should feel enormous, luxurious, and alive, like a bustling space metropolis and paradise habitat in orbit. Build it from bright white ceramic panels, gold structural supports, glass observation domes, rotating habitat rings, solar arrays, docking platforms, antennas, bridges, transit tubes, and interconnected modules. The architecture should feel layered, elegant, and grand, with a mix of futuristic engineering and lush natural spaces.\n\nFill the station with signs of active life and movement. Show many ships and traffic lanes around the station, including arriving shuttles, departing passenger craft, cargo vessels, maintenance drones, and small service ships moving between docking bays. Include blinking navigation lights, docking guidance beacons, illuminated landing pads, moving transit pods, animated windows, and visible activity throughout the structure so the station feels inhabited and operational.\n\nNature should be integrated into the station as a central feature. Include greenhouse domes, open terraces, hanging gardens, trees, flowers, vines, water features, and landscaped walkways. Let some areas feature waterfalls, reflective pools, and lush vegetation beneath glass canopies, giving the station the feel of an orbital city-park or floating utopia.\n\nAvoid making the scene predominantly dark. The enormous gas giant should fill much of the background with swirling bands of turquoise, coral, cream, gold, lavender, and pale blue clouds. Place the station near the planets sunrise line so brilliant warm sunlight creates long shadows, glowing edges, reflections on glass and metal, and dramatic shafts of light. Add a bright nebula, distant moons, sparkling ice particles, softly lit asteroid fragments, and faint faraway stations or ships to make the surrounding space rich, colorful, and full of wonder.\n\nUse an impressive three-quarter camera angle that clearly shows the stations scale, depth, traffic flow, habitat rings, gardens, and the planet below. The composition should make it easy to appreciate both the station itself and the lively space around it.\n\nInclude subtle animation throughout the scene such as slowly rotating station sections, ships moving along traffic lanes, docking and undocking sequences, blinking lights, drifting drones, moving clouds on the gas giant, swaying vegetation, flowing waterfalls, and gentle camera motion. The scene should feel active, cinematic, and full of life without becoming chaotic.\n\nUse strong silhouettes, varied architecture, rich environmental storytelling, atmospheric depth, bloom-like lighting, soft shadows, and layered foreground, middle-ground, and background elements. The result should feel like a bright science-fiction diorama combining an orbital paradise, a futuristic city, and a monumental space megastructure.\n\nUse whatever JavaScript libraries are helpful, but produce one complete, self-contained HTML file that can be pasted into a single file and opened directly in Chrome. Do not require build tools, separate assets, downloaded models, or additional files.",
+    "model": "Ox Alpha (author label; version unspecified)",
+    "primaryCategory": "3d-simulations",
+    "promptStatus": "source_transcribed",
+    "promptCompleteness": "published_initial_prompt",
+    "notes": "Found by following an author’s X prompt thread during current collection. This is an older work, not a newly published post. Full prompt text was read directly from the author’s reply and connected to the original video through public reply metadata. The author labels the model Ox Alpha and reports fixing three lines before the demo worked; no vendor or released-model equivalence is inferred. Native video presence was confirmed. Full playback and visual quality were not independently reviewed.",
+    "platform": "X",
+    "modelStatus": "author_claim",
+    "status": "collected",
+    "promptFile": "prompts/motion-2090926890445852970.md",
+    "discoveryUrl": "https://x.com/loktar00/status/2090926890445852970",
+    "verification": {
+      "method": "chrome_mcp_original_x_prompt_thread",
+      "checkedAt": "2026-10-22",
+      "originalPostConfirmed": true,
+      "promptMatchedSource": true,
+      "authorClaimConfirmed": true,
+      "nativeVideoConfirmed": true,
+      "visualQuality": "not_reviewed",
+      "fullReview": false
+    }
   }
 ]
