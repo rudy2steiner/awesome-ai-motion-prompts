@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-820 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+824 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -167,6 +167,7 @@
 - [own.page cinematic product film with medieval atmosphere and animated UI components](https://x.com/ElitzaVasileva/status/2107187734414582139) — @ElitzaVasileva · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2107187734414582139.md#prompt)
 - [Personal portfolio film with iterative motion and sound-design review](https://x.com/heyiammallik/status/2103837803587293397) — @heyiammallik · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2103837803587293397.md#prompt)
 - [Opus advertisement inspired by Apple’s 1984 commercial](https://x.com/1littlecoder/status/2103746736980378066) — @1littlecoder · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2103746736980378066.md#prompt)
+- [Soft Landing: pastel 3D product ident with cloner waves and soft-body impact](https://github.com/Vincentwei1021/mg-styles-15/blob/main/prompts/04-3d-render.md) — @Vincentwei1021 · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-mg-styles-04-3d-render.md#prompt)
 
 
 <a id="motion-studies"></a>
@@ -312,6 +313,7 @@
 - [MotionVault: Shape Shift](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/loader.ts#L48) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-shape-shift.md#prompt)
 - [MotionVault: Orbit](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/loader.ts#L58) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-orbit-loader.md#prompt)
 - [MotionVault: Hourglass](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/loader.ts#L118) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-hourglass.md#prompt)
+- [drop.: liquid logo genesis with metaball fusion and a flooding transition](https://github.com/Vincentwei1021/mg-styles-15/blob/main/prompts/07-liquid.md) — @Vincentwei1021 · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-mg-styles-07-liquid.md#prompt)
 
 
 <a id="explainers-data"></a>
@@ -549,6 +551,8 @@
 - [Battery stickman: fighting the red drain line in a seamless loop](https://x.com/byaiden_vu/status/2104846047256469948) — @byaiden_vu · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2104846047256469948.md#prompt)
 - [Purpose of life: whimsical hand-drawn collage animation](https://x.com/hakimieiqbal/status/2103456326227496991) — @hakimieiqbal · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2103456326227496991.md#prompt)
 - [Stickman versus time: clock-hand chase and rewind loop](https://x.com/koldo2k/status/2103951588729684360) — @koldo2k · Claude Opus 5.5 (Extra) (author reported) · [Prompt](../prompts/motion-2103951588729684360.md#prompt)
+- [NOGGIN: The Mind Is a Collage — surreal editorial cutout film](https://github.com/Vincentwei1021/mg-styles-15/blob/main/prompts/06-collage.md) — @Vincentwei1021 · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-mg-styles-06-collage.md#prompt)
+- [Pixel Quest: code-drawn pixel adventure title sequence](https://github.com/Vincentwei1021/mg-styles-15/blob/main/prompts/20-pixel.md) — @Vincentwei1021 · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-mg-styles-20-pixel.md#prompt)
 
 
 <a id="3d-simulations"></a>
