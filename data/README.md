@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-386 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+418 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -104,6 +104,19 @@
 - [Datagran: an ad campaign becomes an agent workflow](https://x.com/charlesmendez/status/2102847039415476517) — @charlesmendez · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2102847039415476517.md#prompt)
 - [Times Square launch film with 605 beat-lit billboards](https://x.com/riyadbkhsh/status/2106467130963300736) — @riyadbkhsh · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2106467130963300736.md#prompt)
 - [A two-step product-use film with a deterministic timeline](https://x.com/qianqiongge/status/2105902139902246969) — @qianqiongge · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2105902139902246969.md#prompt)
+- [An inbox-connected AI product ad with a logo finish](https://x.com/FedericoAltepo1/status/2107883128610312496) — @FedericoAltepo1 · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2107883128610312496.md#prompt)
+- [Ajoflow: a fictional brand promo built entirely in code](https://x.com/Thegawdstiles/status/2107481252785738178) — @Thegawdstiles · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2107481252785738178.md#prompt)
+- [An Obsidian plugin introduction with real operation animation](https://x.com/yatudou14/status/2107092673005822057) — @yatudou14 · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2107092673005822057.md#prompt)
+- [Meta VR Glasses: multiple promotional video directions](https://x.com/mouri45/status/2107036053949575311) — @mouri45 · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2107036053949575311.md#prompt)
+- [Launch-film revisions for movement, readability and beat accents](https://x.com/elkrispis/status/2106701208647872980) — @elkrispis · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2106701208647872980.md#prompt)
+- [SportyBlocks launch with real sports UI components](https://x.com/sportyblocks/status/2104905279515320796) — @sportyblocks · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2104905279515320796.md#prompt)
+- [AccelaStudy AI Test Prep launch film](https://x.com/charlessieg/status/2104688668405370949) — @charlessieg · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2104688668405370949.md#prompt)
+- [Site Optimization explained from a real product codebase](https://x.com/andrewmichaelsa/status/2104490962139385936) — @andrewmichaelsa · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2104490962139385936.md#prompt)
+- [Hoplite: laptop-to-cloud agent handoff launch film](https://x.com/ryan_morr/status/2104249941136666741) — @ryan_morr · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2104249941136666741.md#prompt)
+- [SuperLaunch: a black-and-neon-green brand story](https://x.com/CharuMitraDubey/status/2103956360803328233) — @CharuMitraDubey · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103956360803328233.md#prompt)
+- [TeleBoost: a 16-second Canvas promo with synthesized sound](https://x.com/TELEBOOST_app/status/2103944590491521507) — @TELEBOOST_app · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103944590491521507.md#prompt)
+- [Reactive Resume: a launch reel informed by the codebase](https://x.com/KingOKings/status/2103874455973835071) — @KingOKings · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103874455973835071.md#prompt)
+- [A typing-game commercial developed through three prompt stages](https://x.com/Typingmusou/status/2103452241848160705) — @Typingmusou · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103452241848160705.md#prompt)
 
 
 <a id="motion-studies"></a>
@@ -186,6 +199,9 @@
 - [A dashboard card assembles around a drawing graph](https://x.com/Khlaseek_dsgner/status/2108167809997877659) — @Khlaseek_dsgner · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2108167809997877659.md#prompt)
 - [Claymation desk loop animated on twos in Blender](https://x.com/wikiwayne/status/2107951058584486055) — @wikiwayne · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2107951058584486055.md#prompt)
 - [An endless code-drawn zoom that returns to its first shape](https://x.com/AiDinzeo/status/2107126979841708182) — @AiDinzeo · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2107126979841708182.md#prompt)
+- [A code-rendered chaotic portrait from an LLM’s point of view](https://x.com/kloss_xyz/status/2103664956482941143) — @kloss_xyz · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103664956482941143.md#prompt)
+- [Golden ratios, fractals and cymatics as an animated cartoon](https://x.com/generussai/status/2105921281673904308) — @generussai · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2105921281673904308.md#prompt)
+- [Shishi-odoshi: a 2D motion film built around the bamboo knock](https://x.com/mizugame_22/status/2103679243196719199) — @mizugame_22 · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103679243196719199.md#prompt)
 
 
 <a id="explainers-data"></a>
@@ -252,6 +268,13 @@
 - [Colored-pencil article explainer with synthesized music](https://x.com/woojinrad/status/2106083299462455731) — @woojinrad · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2106083299462455731.md#prompt)
 - [Galileo’s fastest descent question animated on Canvas](https://x.com/AIMevzulari/status/2106052083040256293) — @AIMevzulari · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2106052083040256293.md#prompt)
 - [An AI question travels from phone to fiber to transistor](https://x.com/adomicael/status/2104977482818707503) — @adomicael · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2104977482818707503.md#prompt)
+- [Apple’s evolution from vintage aesthetics to futuristic motion](https://x.com/aiRobertDaily/status/2108596616756416945) — @aiRobertDaily · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2108596616756416945.md#prompt)
+- [Loop transformers explained through a visual curiosity gap](https://x.com/michaelraspuzzi/status/2106083592820740595) — @michaelraspuzzi · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2106083592820740595.md#prompt)
+- [A handbook becomes a code-drawn and code-scored explainer](https://x.com/dhanrajdc/status/2104841826318602284) — @dhanrajdc · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2104841826318602284.md#prompt)
+- [Steam releases presented as a one-minute gamer news animation](https://x.com/gigabit_million/status/2104068536041959719) — @gigabit_million · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2104068536041959719.md#prompt)
+- [Chinese civilization chronicle with an evolving pentatonic score](https://x.com/dotey/status/2103964025683927166) — @dotey · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103964025683927166.md#prompt)
+- [P(doom) risk debate as a cinematic explainer](https://x.com/Ldataengineer/status/2103945508972823010) — @Ldataengineer · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103945508972823010.md#prompt)
+- [World populations as collision-synchronized marbles](https://x.com/rneayan/status/2103400657856417829) — @rneayan · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103400657856417829.md#prompt)
 
 
 <a id="characters-stories"></a>
@@ -303,6 +326,11 @@
 - [Felt blob character with breathing, blinking and a lagging beret](https://x.com/JakubAntowski/status/2105245285916020905) — @JakubAntowski · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2105245285916020905.md#prompt)
 - [Painting the Night: a generative short with felt piano](https://x.com/obydulme/status/2104802322518052905) — @obydulme · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2104802322518052905.md#prompt)
 - [A life timeline becomes a scene-by-scene motion film](https://x.com/niirajrshah/status/2104551261270163739) — @niirajrshah · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2104551261270163739.md#prompt)
+- [A story-led animated short for Grid Genius](https://x.com/Anilraok/status/2103087766662009118) — @Anilraok · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103087766662009118.md#prompt)
+- [Anime opening teaser with code-driven cameras and shaders](https://x.com/rafiroutes/status/2107465888622596199) — @rafiroutes · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2107465888622596199.md#prompt)
+- [Moonwalk character animation with an original synthesized score](https://x.com/otatechie/status/2103257988895035448) — @otatechie · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103257988895035448.md#prompt)
+- [The Trojan Horse story unfolds around a rotating Greek vase](https://x.com/perezalexa23/status/2103027565703414045) — @perezalexa23 · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103027565703414045.md#prompt)
+- [Claude and OpenAI mascots in a retro game-style battle intro](https://x.com/Fanfulladev/status/2102479018784063524) — @Fanfulladev · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2102479018784063524.md#prompt)
 
 
 <a id="3d-simulations"></a>
@@ -368,6 +396,8 @@
 - [Minecraft-style demolition composited into a street view](https://x.com/0xverdao/status/2108188411844776363) — @0xverdao · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2108188411844776363.md#prompt)
 - [Marble-to-domino Rube Goldberg chain at growing scales](https://x.com/techartist_/status/2107514291213697078) — @techartist_ · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2107514291213697078.md#prompt)
 - [House construction from foundation to an X-ray systems view](https://x.com/techartist_/status/2105350783416021472) — @techartist_ · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2105350783416021472.md#prompt)
+- [Middle-earth: a procedural cinematic journey with original score](https://x.com/mdaman010/status/2107888264904610173) — @mdaman010 · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2107888264904610173.md#prompt)
+- [Room-to-quark scale journey through a MacBook and chip](https://x.com/VictorTaelin/status/2103299766473875778) — @VictorTaelin · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103299766473875778.md#prompt)
 
 
 <a id="music-audiovisual"></a>
@@ -391,6 +421,8 @@
 - [Functional-frame motion reel on a 128 BPM grid](https://x.com/BuildFastWithAI/status/2108403445304844291) — @BuildFastWithAI · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2108403445304844291.md#prompt)
 - [Live-restylable JavaScript music video with vector manga](https://x.com/abhinavflac/status/2104881648886251740) — @abhinavflac · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2104881648886251740.md#prompt)
 - [Another World-style compressed animation player and music video](https://x.com/gandamu_ml/status/2104402167906124280) — @gandamu_ml · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2104402167906124280.md#prompt)
+- [One-line sketch animation with pastel rain and a supplied score](https://x.com/dan_riverbendai/status/2103985505302163640) — @dan_riverbendai · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103985505302163640.md#prompt)
+- [Vertical lyric video with title-card typography](https://x.com/kurahu_capten/status/2103742110747054506) — @kurahu_capten · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103742110747054506.md#prompt)
 
 
 <a id="interactive"></a>
