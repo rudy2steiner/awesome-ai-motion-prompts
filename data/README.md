@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-752 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+754 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -508,6 +508,8 @@
 - [One-shot maglev journey through titans, dinosaurs and an artificial sun world](https://x.com/HeyAbhishek/status/2106710882567037394) — @HeyAbhishek · Seedance 2.5 / Claude Opus 5.5 (author reported) (author reported) · [Prompt](../prompts/motion-2106710882567037394.md#prompt)
 - [Zombie and alien donut-shop comedy with a time-freeze fight](https://x.com/bmx_ai13/status/2112946391878393917) — @bmx_ai13 · Seedance 2.5 (author reported) · [Prompt](../prompts/motion-2112946391878393917.md#prompt)
 - [Something in the Tea: a tiny dragon café comedy](https://x.com/bmx_ai13/status/2108899939816439877) — @bmx_ai13 · Seedance 2.5 (author reported) · [Prompt](../prompts/motion-2108899939816439877.md#prompt)
+- [The 9PM Ramyeon Run: continuous MiniDV-style convenience-store scene](https://x.com/bmx_ai13/status/2094391472573571241) — @bmx_ai13 · Wan 3.0 Prime (author reported) · [Prompt](../prompts/motion-2094391472573571241.md#prompt)
+- [Arcade boxing mishap: continuous phone-camera physical comedy](https://x.com/bmx_ai13/status/2098375251423891526) — @bmx_ai13 · Wan (version unspecified) (author reported) · [Prompt](../prompts/motion-2098375251423891526.md#prompt)
 
 
 <a id="3d-simulations"></a>
