@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-857 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+865 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -328,6 +328,7 @@
 - [MotionVault: Day Night Cycle](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/background.ts#L130) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-day-night.md#prompt)
 - [MotionVault: Circuit Pulse](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/background.ts#L193) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-circuit-pulse.md#prompt)
 - [Portfolio loading sequence: rotating words, timed counter and page reveal](https://github.com/XiesRay/motionsites-prompt-collection/blob/main/prompts/Loader_Animation.md) — @Nomaan Khan / MotionSites.ai contributors · Model-agnostic (React / Framer Motion / GSAP) · [Prompt](../prompts/motion-motionsites-loader-animation.md#prompt)
+- [MotionVault: Noise Waves](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/background.ts#L64) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-noise-waves.md#prompt)
 
 
 <a id="explainers-data"></a>
@@ -917,3 +918,10 @@
 - [MotionVault: Drag Ball](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/spring.ts#L127) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-drag-ball.md#prompt)
 - [MotionVault: Topo Flow](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/background.ts#L172) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-topo-flow.md#prompt)
 - [MotionZ: cinematic video switching, scroll masks and magnetic depth](https://github.com/XiesRay/motionsites-prompt-collection/blob/main/prompts/MotionZ_Premium.md) — @Nomaan Khan / MotionSites.ai contributors · Model-agnostic (React / Framer Motion / GSAP) · [Prompt](../prompts/motion-motionsites-motionz-premium.md#prompt)
+- [MotionVault: Card Fan](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/layout.ts#L29) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-card-fan.md#prompt)
+- [MotionVault: Grid Expand](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/layout.ts#L39) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-grid-expand.md#prompt)
+- [MotionVault: Notification Stack](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/layout.ts#L49) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-notification-stack.md#prompt)
+- [MotionVault: Dock Magnification](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/layout.ts#L79) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-dock-bar.md#prompt)
+- [MotionVault: Wobble Input](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/spring.ts#L57) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-wobble-input.md#prompt)
+- [MotionVault: Elastic Toggle](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/spring.ts#L67) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-elastic-toggle.md#prompt)
+- [MotionVault: Lamp](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/background.ts#L151) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-lamp.md#prompt)
