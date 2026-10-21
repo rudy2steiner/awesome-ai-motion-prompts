@@ -26008,5 +26008,61 @@
       "visualQuality": "not_reviewed",
       "fullReview": false
     }
+  },
+  {
+    "id": "2104846047256469948",
+    "title": "Battery stickman: fighting the red drain line in a seamless loop",
+    "author": "byaiden_vu",
+    "sourceUrl": "https://x.com/byaiden_vu/status/2104846047256469948",
+    "promptSourceUrl": "https://x.com/byaiden_vu/status/2104846080722755862",
+    "prompt": "Make a 15-second looping animation, cinematic 16:9, 1920×1080. A stickman lives inside a phone battery icon and fights against power loss. The red battery-drain line is the villain. Style: minimal black ink on cream paper, monoline stick figure and interface lines, slight hand-drawn line wobble. The only color is red, reserved for power and danger: the draining battery line, warning flashes, the low-battery alert, and the impacts. Story: he's asleep on top of the fully charged battery bars and dodges the red drain line at the last moment. The battery starts draining faster, and on each cycle he survives it a different way: he jumps over the descending red level, rides the drain line like a rodeo bull as it drops, and ducks flat inside one battery bar as it sweeps past him. Finally he pries the charging bolt symbol off the center of the battery and jams the drain line with it. Power loss stops, and he takes a nap… until the low-battery alarm goes off, the screen flashes red, the battery instantly rewinds back to full, and he ends up asleep on top again, so it loops. Sound: fully synthesized in code and synced to the action (electronic ticks, warning beeps, impact hits, a metallic clank, low-battery alarm, and a digital rewind).",
+    "model": "Claude Opus 5.5",
+    "primaryCategory": "characters-stories",
+    "promptStatus": "source_transcribed",
+    "promptCompleteness": "complete_published_prompt",
+    "notes": "Older work found while checking upstream leads. Complete prompt was read directly from the author’s reply; public reply metadata connects it to the original native-video post. The author credits Opus 5.5. Native video presence was confirmed; full playback, visual quality, exact duration and loop continuity were not independently reviewed. The author credits @koldo2k as inspiration. Synthesized, action-synchronized audio is requested in the prompt, not independently verified as the final production method.",
+    "platform": "X",
+    "modelStatus": "author_claim",
+    "status": "collected",
+    "promptFile": "prompts/motion-2104846047256469948.md",
+    "discoveryUrl": "https://x.com/byaiden_vu/status/2104846047256469948",
+    "verification": {
+      "method": "chrome_mcp_original_x_prompt_thread",
+      "checkedAt": "2026-10-22",
+      "originalPostConfirmed": true,
+      "promptMatchedSource": true,
+      "authorClaimConfirmed": true,
+      "nativeVideoConfirmed": true,
+      "visualQuality": "not_reviewed",
+      "fullReview": false
+    }
+  },
+  {
+    "id": "2107906341243081068",
+    "title": "Dot to search bar: five-second typography and matte loop",
+    "author": "cgclick",
+    "sourceUrl": "https://x.com/cgclick/status/2107906341243081068",
+    "promptSourceUrl": "https://x.com/cgclick/status/2107907343912497325",
+    "prompt": "Create a 5 sec motion graphics animation of a simple dot, bouncing into the center of the screen, it expands to a search bar and then text fills the box: \"I'm a motion designer, what should my next career be?\"  The animation should be be fluid, ease keyframes in and out, transition the search bar into a full white frame. a matte will open inside to the start of the animation and create a loop",
+    "model": "Claude Opus 5.5",
+    "primaryCategory": "motion-studies",
+    "promptStatus": "source_transcribed",
+    "promptCompleteness": "complete_published_prompt",
+    "notes": "Older work found while checking upstream leads. Complete prompt was read directly from the author’s reply; public reply metadata connects it to the original native-video post. The author credits Opus 5.5. Native video presence was confirmed; full playback, visual quality, exact duration and loop continuity were not independently reviewed. The author says the intentionally vague prompt produced an imperfect animation. The reported generation time is not independently measured or a general performance claim.",
+    "platform": "X",
+    "modelStatus": "author_claim",
+    "status": "collected",
+    "promptFile": "prompts/motion-2107906341243081068.md",
+    "discoveryUrl": "https://x.com/cgclick/status/2107906341243081068",
+    "verification": {
+      "method": "chrome_mcp_original_x_prompt_thread",
+      "checkedAt": "2026-10-22",
+      "originalPostConfirmed": true,
+      "promptMatchedSource": true,
+      "authorClaimConfirmed": true,
+      "nativeVideoConfirmed": true,
+      "visualQuality": "not_reviewed",
+      "fullReview": false
+    }
   }
 ]
