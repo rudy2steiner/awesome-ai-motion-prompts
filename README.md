@@ -1,5 +1,7 @@
 # Awesome AI Motion Prompts
 
+**[355 motion references](data/README.md)** · **[16 featured](#prompt-library)** · **[339 research candidates](data/README.md#research-candidates)**
+
 English | [简体中文](README.zh-CN.md)
 
 Motion worth watching. Prompts worth trying. Any model, any platform.
@@ -30,7 +32,7 @@ Featured: [@shneural](https://x.com/shneural/status/2103151003272962130) · [Pro
 
 ## Product & Brand
 
-[＋ Submit to this category](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L31) · [Full list](data/README.md#product-brand)
+[＋ Submit to this category](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L33) · [Full list](data/README.md#product-brand)
 
 <table>
 <tr>
@@ -51,7 +53,7 @@ Featured: [@shneural](https://x.com/shneural/status/2103151003272962130) · [Pro
 
 ## Typography & Motion Studies
 
-[＋ Submit to this category](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L52) · [Full list](data/README.md#motion-studies)
+[＋ Submit to this category](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L54) · [Full list](data/README.md#motion-studies)
 
 <table>
 <tr>
@@ -71,7 +73,7 @@ Featured: [@shneural](https://x.com/shneural/status/2103151003272962130) · [Pro
 
 ## Explainers & Data
 
-[＋ Submit to this category](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L72) · [Full list](data/README.md#explainers-data)
+[＋ Submit to this category](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L74) · [Full list](data/README.md#explainers-data)
 
 <table>
 <tr>
@@ -86,7 +88,7 @@ Featured: [@shneural](https://x.com/shneural/status/2103151003272962130) · [Pro
 
 ## Characters & Stories
 
-[＋ Submit to this category](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L87) · [Full list](data/README.md#characters-stories)
+[＋ Submit to this category](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L89) · [Full list](data/README.md#characters-stories)
 
 <table>
 <tr>
@@ -100,7 +102,7 @@ Featured: [@shneural](https://x.com/shneural/status/2103151003272962130) · [Pro
 
 ## 3D & Simulations
 
-[＋ Submit to this category](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L101) · [Full list](data/README.md#3d-simulations)
+[＋ Submit to this category](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L103) · [Full list](data/README.md#3d-simulations)
 
 <table>
 <tr>
@@ -114,7 +116,7 @@ Featured: [@shneural](https://x.com/shneural/status/2103151003272962130) · [Pro
 
 ## Music & Audiovisual
 
-[＋ Submit to this category](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L115) · [Full list](data/README.md#music-audiovisual)
+[＋ Submit to this category](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L117) · [Full list](data/README.md#music-audiovisual)
 
 Be the first to share a motion in this category.
 
@@ -124,7 +126,7 @@ Be the first to share a motion in this category.
 
 ## Interactive Experiences
 
-[＋ Submit to this category](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L125) · [Full list](data/README.md#interactive)
+[＋ Submit to this category](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L127) · [Full list](data/README.md#interactive)
 
 <table>
 <tr>

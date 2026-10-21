@@ -1,5 +1,7 @@
 # Awesome AI Motion Prompts
 
+**[355 个 Motion 案例](data/README.md)** · **[16 个精选](#prompt-library)** · **[339 个研究候选](data/README.md#research-candidates)**
+
 [English](README.md) | 简体中文
 
 发现值得看的动效，尝试背后的提示词。不限模型与平台。
@@ -32,7 +34,7 @@
 
 ## 产品与品牌
 
-[＋ 向此分类投稿](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L31) · [完整清单](data/README.md#product-brand)
+[＋ 向此分类投稿](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L33) · [完整清单](data/README.md#product-brand)
 
 <table>
 <tr>
@@ -53,7 +55,7 @@
 
 ## 字排与动效实验
 
-[＋ 向此分类投稿](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L52) · [完整清单](data/README.md#motion-studies)
+[＋ 向此分类投稿](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L54) · [完整清单](data/README.md#motion-studies)
 
 <table>
 <tr>
@@ -73,7 +75,7 @@
 
 ## 知识讲解与数据
 
-[＋ 向此分类投稿](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L72) · [完整清单](data/README.md#explainers-data)
+[＋ 向此分类投稿](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L74) · [完整清单](data/README.md#explainers-data)
 
 <table>
 <tr>
@@ -88,7 +90,7 @@
 
 ## 角色与叙事
 
-[＋ 向此分类投稿](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L87) · [完整清单](data/README.md#characters-stories)
+[＋ 向此分类投稿](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L89) · [完整清单](data/README.md#characters-stories)
 
 <table>
 <tr>
@@ -102,7 +104,7 @@
 
 ## 3D 场景与模拟
 
-[＋ 向此分类投稿](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L101) · [完整清单](data/README.md#3d-simulations)
+[＋ 向此分类投稿](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L103) · [完整清单](data/README.md#3d-simulations)
 
 <table>
 <tr>
@@ -116,7 +118,7 @@
 
 ## 音乐与视听
 
-[＋ 向此分类投稿](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L115) · [完整清单](data/README.md#music-audiovisual)
+[＋ 向此分类投稿](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L117) · [完整清单](data/README.md#music-audiovisual)
 
 这个分类还在等待第一位创作者，欢迎分享你的作品。
 
@@ -126,7 +128,7 @@
 
 ## 交互体验
 
-[＋ 向此分类投稿](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L125) · [完整清单](data/README.md#interactive)
+[＋ 向此分类投稿](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L127) · [完整清单](data/README.md#interactive)
 
 <table>
 <tr>
