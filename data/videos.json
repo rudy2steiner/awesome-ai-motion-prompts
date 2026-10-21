@@ -26263,5 +26263,34 @@
       "visualQuality": "not_reviewed",
       "fullReview": false
     }
+  },
+  {
+    "id": "2103837803587293397",
+    "title": "Personal portfolio film with iterative motion and sound-design review",
+    "author": "heyiammallik",
+    "sourceUrl": "https://x.com/heyiammallik/status/2103837803587293397",
+    "promptSourceUrl": "https://x.com/heyiammallik/status/2103837803587293397",
+    "prompt": "you are a pro motion designer. analyze my portfolio and make a ~30 second video from it. check what are the recent trending techniques used for motion and sound design. question your strategy and plan, if it doesn't feel like done by a pro designer, start over. every frame matters from the first frame to the final frame. go crazy",
+    "model": "Claude Opus 5.5",
+    "primaryCategory": "product-brand",
+    "promptStatus": "source_transcribed",
+    "promptCompleteness": "published_brief_requires_portfolio_context",
+    "requiresReference": true,
+    "notes": "Older work found while checking upstream leads. The complete short brief was read directly from the original author post, which contains native video and the Opus 5.5 attribution. It requires the author’s portfolio; no portfolio files or full prior conversation are bundled. The author calls it one prompt, but the amount of pre-existing project context is not established. The brief asks for a roughly 30-second film and self-review of motion and sound design; actual duration, production process, full playback and visual quality were not independently reviewed. Native video presence was confirmed.",
+    "platform": "X",
+    "modelStatus": "author_claim",
+    "status": "collected",
+    "promptFile": "prompts/motion-2103837803587293397.md",
+    "discoveryUrl": "https://x.com/heyiammallik/status/2103837803587293397",
+    "verification": {
+      "method": "chrome_mcp_original_x_prompt_thread",
+      "checkedAt": "2026-10-22",
+      "originalPostConfirmed": true,
+      "promptMatchedSource": true,
+      "authorClaimConfirmed": true,
+      "nativeVideoConfirmed": true,
+      "visualQuality": "not_reviewed",
+      "fullReview": false
+    }
   }
 ]
