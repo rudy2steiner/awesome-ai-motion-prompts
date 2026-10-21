@@ -1,6 +1,6 @@
 # 15-second flat-color motion showreel
 
-![15-second flat-color motion showreel](../public/motion-posters/2103449416325890146.webp)
+![15-second flat-color motion showreel](../public/motion-previews/ajith-showreel.gif)
 
 [View original video](https://x.com/ajith_io/status/2103449416325890146) · [Original post](https://x.com/ajith_io/status/2103449416325890146)
 

@@ -1,8 +1,8 @@
 # Kinetic type
 
-![Kinetic type](../public/motion-posters/kinetic-type.webp)
+![Kinetic type](../public/motion-previews/kinetic-type.gif)
 
-[▶ Play online](https://www.open-prompts.com/motion-prompts/kinetic-type) · [Original post](https://x.com/techhalla/status/2103411244468498547)
+[Full video online (optional)](https://www.open-prompts.com/motion-prompts/kinetic-type) · [Original post](https://x.com/techhalla/status/2103411244468498547)
 
 - **Creator:** techhalla
 - **Model:** Opus 5.5

@@ -27,6 +27,10 @@ def main():
   for key in c['entryIds']:require(key in seen,f'unknown category entry: {key}');assigned.append(key)
  require(len(assigned)==len(set(assigned)),'entries assigned to multiple primary categories')
  require(set(assigned)==seen,'every importable record needs a primary category')
+ for preview in read('data/previews.json'):
+  require(preview['id'] in seen,'preview has unknown entry ID')
+  asset=ROOT/preview['asset'];require(asset.is_file(),f'missing preview: {asset.name}')
+  require(asset.read_bytes()[:6] in (b'GIF89a',b'GIF87a'),f'invalid GIF: {asset.name}')
  ts=(ROOT/'src/data/promptMotion.ts').read_text();mark='export const MOTION_ENTRIES: MotionEntry[] = ';encoded=ts.split(mark,1)[1].split(';\nexport const MOTION_RESOURCES',1)[0];require(json.loads(encoded)==entries,'TypeScript export is stale')
  # Check Markdown file references, excluding remote URLs, fragments and root-level asset paths.
  for path in [ROOT/'README.md',*list((ROOT/'examples').glob('*.md')),*list((ROOT/'docs').glob('*.md'))]:

@@ -1,8 +1,8 @@
 # Cinetic skill launch film
 
-![Cinetic skill launch film](../public/motion-posters/cinetic.webp)
+![Cinetic skill launch film](../public/motion-previews/cinetic.gif)
 
-[▶ Play online](https://www.open-prompts.com/motion-prompts/cinetic) · [Original post](https://x.com/LexnLin/status/2106891315371737480)
+[Full video online (optional)](https://www.open-prompts.com/motion-prompts/cinetic) · [Original post](https://x.com/LexnLin/status/2106891315371737480)
 
 - **Creator:** LexnLin
 - **Model:** Opus 5.5

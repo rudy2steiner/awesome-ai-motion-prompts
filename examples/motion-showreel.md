@@ -1,8 +1,8 @@
 # Motion showreel
 
-![Motion showreel](../public/motion-posters/motion-showreel.webp)
+![Motion showreel](../public/motion-previews/motion-showreel.gif)
 
-[▶ Play online](https://www.open-prompts.com/motion-prompts/motion-showreel) · [Original post](https://x.com/prasenx/status/2103538744695693512)
+[Full video online (optional)](https://www.open-prompts.com/motion-prompts/motion-showreel) · [Original post](https://x.com/prasenx/status/2103538744695693512)
 
 - **Creator:** prasenx
 - **Model:** Opus 5.5

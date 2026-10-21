@@ -1,8 +1,8 @@
 # Overthinking showreel
 
-![Overthinking showreel](../public/motion-posters/overthinking.webp)
+![Overthinking showreel](../public/motion-previews/overthinking.gif)
 
-[▶ Play online](https://www.open-prompts.com/motion-prompts/overthinking) · [Original post](https://x.com/gizakdag/status/2103566030916239768)
+[Full video online (optional)](https://www.open-prompts.com/motion-prompts/overthinking) · [Original post](https://x.com/gizakdag/status/2103566030916239768)
 
 - **Creator:** gizakdag
 - **Model:** Opus 5.5

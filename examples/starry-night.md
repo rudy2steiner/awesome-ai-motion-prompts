@@ -1,8 +1,8 @@
 # Starry Night cat-spotting game
 
-![Starry Night cat-spotting game](../public/motion-posters/starry-night.webp)
+![Starry Night cat-spotting game](../public/motion-previews/starry-night.gif)
 
-[▶ Play online](https://www.open-prompts.com/motion-prompts/starry-night) · [Original post](https://x.com/MandelDuck/status/2103802923465768972)
+[Full video online (optional)](https://www.open-prompts.com/motion-prompts/starry-night) · [Original post](https://x.com/MandelDuck/status/2103802923465768972)
 
 - **Creator:** MandelDuck
 - **Model:** Opus 5.5

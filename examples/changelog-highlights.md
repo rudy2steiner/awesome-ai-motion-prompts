@@ -1,6 +1,6 @@
 # Changelog highlight video (no skill installed)
 
-![Changelog highlight video (no skill installed)](../public/motion-posters/2096844989900914865.webp)
+![Changelog highlight video (no skill installed)](../public/motion-previews/changelog-highlights.gif)
 
 [View original video](https://x.com/leon7hao/status/2096844989900914865) · [Original post](https://x.com/leon7hao/status/2096844989900914865)
 

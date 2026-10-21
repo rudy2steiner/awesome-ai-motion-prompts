@@ -1,8 +1,8 @@
 # Bold kinetic type showreel
 
-![Bold kinetic type showreel](../public/motion-posters/bold-type.webp)
+![Bold kinetic type showreel](../public/motion-previews/bold-type.gif)
 
-[▶ Play online](https://www.open-prompts.com/motion-prompts/bold-type) · [Original post](https://x.com/shneural/status/2103151003272962130)
+[Full video online (optional)](https://www.open-prompts.com/motion-prompts/bold-type) · [Original post](https://x.com/shneural/status/2103151003272962130)
 
 - **Creator:** shneural
 - **Model:** Claude Opus 5.5 / GPT-6 Astra

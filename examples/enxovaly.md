@@ -1,8 +1,8 @@
 # Enxovaly baby app promo
 
-![Enxovaly baby app promo](../public/motion-posters/enxovaly.webp)
+![Enxovaly baby app promo](../public/motion-previews/enxovaly.gif)
 
-[▶ Play online](https://www.open-prompts.com/motion-prompts/enxovaly) · [Original post](https://x.com/gabrielbuzziv/status/2103589440258187408)
+[Full video online (optional)](https://www.open-prompts.com/motion-prompts/enxovaly) · [Original post](https://x.com/gabrielbuzziv/status/2103589440258187408)
 
 - **Creator:** gabrielbuzziv
 - **Model:** Opus 5.5

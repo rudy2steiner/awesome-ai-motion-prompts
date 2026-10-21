@@ -1,8 +1,8 @@
 # Infinite zoom
 
-![Infinite zoom](../public/motion-posters/infinite-zoom.webp)
+![Infinite zoom](../public/motion-previews/infinite-zoom.gif)
 
-[▶ Play online](https://www.open-prompts.com/motion-prompts/infinite-zoom) · [Original post](https://x.com/koldo2k/status/2103129343253778767)
+[Full video online (optional)](https://www.open-prompts.com/motion-prompts/infinite-zoom) · [Original post](https://x.com/koldo2k/status/2103129343253778767)
 
 - **Creator:** koldo2k
 - **Model:** Opus 5.5

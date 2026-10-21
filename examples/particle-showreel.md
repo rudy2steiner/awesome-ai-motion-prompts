@@ -1,8 +1,8 @@
 # Motion designer showreel
 
-![Motion designer showreel](../public/motion-posters/particle-showreel.webp)
+![Motion designer showreel](../public/motion-previews/particle-showreel.gif)
 
-[▶ Play online](https://www.open-prompts.com/motion-prompts/particle-showreel) · [Original post](https://x.com/himanshutwtxs/status/2103495232637882858)
+[Full video online (optional)](https://www.open-prompts.com/motion-prompts/particle-showreel) · [Original post](https://x.com/himanshutwtxs/status/2103495232637882858)
 
 - **Creator:** himanshutwtxs
 - **Model:** Opus 5.5

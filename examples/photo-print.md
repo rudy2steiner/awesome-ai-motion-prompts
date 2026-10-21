@@ -1,8 +1,8 @@
 # Photo print app launch film
 
-![Photo print app launch film](../public/motion-posters/photo-print.webp)
+![Photo print app launch film](../public/motion-previews/photo-print.gif)
 
-[▶ Play online](https://www.open-prompts.com/motion-prompts/photo-print) · [Original post](https://x.com/twoclipping/status/2103835273813496100)
+[Full video online (optional)](https://www.open-prompts.com/motion-prompts/photo-print) · [Original post](https://x.com/twoclipping/status/2103835273813496100)
 
 - **Creator:** twoclipping
 - **Model:** Opus 5.5

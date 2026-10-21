@@ -1,8 +1,8 @@
 # Mathematics motion showreel
 
-![Mathematics motion showreel](../public/motion-posters/mathematics.webp)
+![Mathematics motion showreel](../public/motion-previews/mathematics.gif)
 
-[▶ Play online](https://www.open-prompts.com/motion-prompts/mathematics) · [Original post](https://x.com/Math_files/status/2104486181853610052)
+[Full video online (optional)](https://www.open-prompts.com/motion-prompts/mathematics) · [Original post](https://x.com/Math_files/status/2104486181853610052)
 
 - **Creator:** Math_files
 - **Model:** Opus 5.5

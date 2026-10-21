@@ -1,0 +1,162 @@
+[
+  {
+    "id": "kinetic-type",
+    "asset": "public/motion-previews/kinetic-type.gif",
+    "video": "https://video.twimg.com/amplify_video/2103409564657885184/vid/avc1/720x720/sRUCrID2I-a6mKxe.mp4",
+    "sourceUrl": "https://x.com/techhalla/status/2103411244468498547",
+    "startSeconds": 3,
+    "durationSeconds": 3,
+    "fps": 10,
+    "checkedAt": "2026-10-21"
+  },
+  {
+    "id": "infinite-zoom",
+    "asset": "public/motion-previews/infinite-zoom.gif",
+    "video": "https://video.twimg.com/amplify_video/2103123431558348801/vid/avc1/1280x720/5HkHcQH3RIq33O0m.mp4",
+    "sourceUrl": "https://x.com/koldo2k/status/2103129343253778767",
+    "startSeconds": 5,
+    "durationSeconds": 3,
+    "fps": 10,
+    "checkedAt": "2026-10-21"
+  },
+  {
+    "id": "overthinking",
+    "asset": "public/motion-previews/overthinking.gif",
+    "video": "https://video.twimg.com/amplify_video/2103565216839602176/vid/avc1/720x1280/BVaEtJ4epEF6k7sv.mp4",
+    "sourceUrl": "https://x.com/gizakdag/status/2103566030916239768",
+    "startSeconds": 4,
+    "durationSeconds": 3,
+    "fps": 10,
+    "checkedAt": "2026-10-21"
+  },
+  {
+    "id": "motion-showreel",
+    "asset": "public/motion-previews/motion-showreel.gif",
+    "video": "https://video.twimg.com/amplify_video/2103537567853666304/vid/avc1/1280x720/1__01sgChnfv1K8u.mp4",
+    "sourceUrl": "https://x.com/prasenx/status/2103538744695693512",
+    "startSeconds": 6,
+    "durationSeconds": 3,
+    "fps": 10,
+    "checkedAt": "2026-10-21"
+  },
+  {
+    "id": "ui-morph",
+    "asset": "public/motion-previews/ui-morph.gif",
+    "video": "https://video.twimg.com/amplify_video/2103272964967804928/vid/avc1/720x720/18beFxJGrO4tjaDQ.mp4",
+    "sourceUrl": "https://x.com/twoclipping/status/2103273003555402193",
+    "startSeconds": 2,
+    "durationSeconds": 3,
+    "fps": 10,
+    "checkedAt": "2026-10-21"
+  },
+  {
+    "id": "photo-print",
+    "asset": "public/motion-previews/photo-print.gif",
+    "video": "https://video.twimg.com/amplify_video/2103830256347910144/vid/avc1/720x720/5ECca-LUMDVtwt7a.mp4",
+    "sourceUrl": "https://x.com/twoclipping/status/2103835273813496100",
+    "startSeconds": 5,
+    "durationSeconds": 3,
+    "fps": 10,
+    "checkedAt": "2026-10-21"
+  },
+  {
+    "id": "mathematics",
+    "asset": "public/motion-previews/mathematics.gif",
+    "video": "https://video.twimg.com/amplify_video/2104485588590280704/vid/avc1/1280x720/UN0_vD9WEQKmJB1H.mp4",
+    "sourceUrl": "https://x.com/Math_files/status/2104486181853610052",
+    "startSeconds": 11,
+    "durationSeconds": 3,
+    "fps": 10,
+    "checkedAt": "2026-10-21"
+  },
+  {
+    "id": "recursion",
+    "asset": "public/motion-previews/recursion.gif",
+    "video": "https://video.twimg.com/amplify_video/2103687838420131840/vid/avc1/1280x720/t4wbzHKUlltQRbjh.mp4",
+    "sourceUrl": "https://x.com/emollick/status/2103688362960019567",
+    "startSeconds": 3,
+    "durationSeconds": 3,
+    "fps": 10,
+    "checkedAt": "2026-10-21"
+  },
+  {
+    "id": "cinetic",
+    "asset": "public/motion-previews/cinetic.gif",
+    "video": "https://video.twimg.com/amplify_video/2106887230614573056/vid/avc1/1280x720/dRWhX8JMghv5hJEt.mp4",
+    "sourceUrl": "https://x.com/LexnLin/status/2106891315371737480",
+    "startSeconds": 3,
+    "durationSeconds": 3,
+    "fps": 10,
+    "checkedAt": "2026-10-21"
+  },
+  {
+    "id": "typingmind",
+    "asset": "public/motion-previews/typingmind.gif",
+    "video": "https://video.twimg.com/amplify_video/2103703848015835136/vid/avc1/1280x720/GlBriVishnQMcY9g.mp4",
+    "sourceUrl": "https://x.com/tdinh_me/status/2103704250329301409",
+    "startSeconds": 15,
+    "durationSeconds": 3,
+    "fps": 10,
+    "checkedAt": "2026-10-21"
+  },
+  {
+    "id": "starry-night",
+    "asset": "public/motion-previews/starry-night.gif",
+    "video": "https://video.twimg.com/amplify_video/2103802857933721600/vid/avc1/1280x708/mDjEpSSAAjiu_m8j.mp4",
+    "sourceUrl": "https://x.com/MandelDuck/status/2103802923465768972",
+    "startSeconds": 5,
+    "durationSeconds": 3,
+    "fps": 10,
+    "checkedAt": "2026-10-21"
+  },
+  {
+    "id": "enxovaly",
+    "asset": "public/motion-previews/enxovaly.gif",
+    "video": "https://video.twimg.com/amplify_video/2103589369307127808/vid/avc1/1280x720/ru94M24D1mbIZMhM.mp4",
+    "sourceUrl": "https://x.com/gabrielbuzziv/status/2103589440258187408",
+    "startSeconds": 6,
+    "durationSeconds": 3,
+    "fps": 10,
+    "checkedAt": "2026-10-21"
+  },
+  {
+    "id": "bold-type",
+    "asset": "public/motion-previews/bold-type.gif",
+    "video": "https://video.twimg.com/amplify_video/2103149570440024064/vid/avc1/1280x720/mlmcQzB4C3BEWPQS.mp4",
+    "sourceUrl": "https://x.com/shneural/status/2103151003272962130",
+    "startSeconds": 7,
+    "durationSeconds": 3,
+    "fps": 10,
+    "checkedAt": "2026-10-21"
+  },
+  {
+    "id": "particle-showreel",
+    "asset": "public/motion-previews/particle-showreel.gif",
+    "video": "https://video.twimg.com/amplify_video/2103494828042670081/vid/avc1/1280x720/YvTsYCqOKw5N-ECI.mp4",
+    "sourceUrl": "https://x.com/himanshutwtxs/status/2103495232637882858",
+    "startSeconds": 2,
+    "durationSeconds": 3,
+    "fps": 10,
+    "checkedAt": "2026-10-21"
+  },
+  {
+    "id": "changelog-highlights",
+    "asset": "public/motion-previews/changelog-highlights.gif",
+    "video": "https://video.twimg.com/amplify_video/2096844380707721216/vid/avc1/1280x720/GY2ozLchKiQv8O-L.mp4",
+    "sourceUrl": "https://x.com/leon7hao/status/2096844989900914865",
+    "startSeconds": 3,
+    "durationSeconds": 3,
+    "fps": 10,
+    "checkedAt": "2026-10-21"
+  },
+  {
+    "id": "ajith-showreel",
+    "asset": "public/motion-previews/ajith-showreel.gif",
+    "video": "https://video.twimg.com/amplify_video/2103449259869863936/vid/avc1/1280x720/JPFTTGgTObPSPXKM.mp4",
+    "sourceUrl": "https://x.com/ajith_io/status/2103449416325890146",
+    "startSeconds": 7,
+    "durationSeconds": 3,
+    "fps": 10,
+    "checkedAt": "2026-10-21"
+  }
+]

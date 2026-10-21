@@ -14,7 +14,7 @@ Copy this format and replace the placeholders:
 - **[Your motion title](https://your-video-or-demo-url)** — by [@creator](https://creator-or-original-post-url) · Model name · [Prompt](https://your-prompt-or-skill-url)
 ```
 
-You can optionally add an image or GIF preview below your entry:
+Add a short GIF preview below your entry so readers can see the motion without leaving GitHub. Link the preview to your in-repository prompt card when you have one:
 
 ```markdown
   [<img src="https://your-preview-image-url" width="280" alt="Your motion title" />](https://your-video-or-demo-url)

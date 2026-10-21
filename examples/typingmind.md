@@ -1,8 +1,8 @@
 # TypingMind logo reveal
 
-![TypingMind logo reveal](../public/motion-posters/typingmind.webp)
+![TypingMind logo reveal](../public/motion-previews/typingmind.gif)
 
-[▶ Play online](https://www.open-prompts.com/motion-prompts/typingmind) · [Original post](https://x.com/tdinh_me/status/2103704250329301409)
+[Full video online (optional)](https://www.open-prompts.com/motion-prompts/typingmind) · [Original post](https://x.com/tdinh_me/status/2103704250329301409)
 
 - **Creator:** tdinh_me
 - **Model:** Opus 5.5
