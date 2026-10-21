@@ -1,6 +1,6 @@
 # Full list
 
-[▶ Play online](https://www.open-prompts.com/motion-prompts) · [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
+[Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
 ## Contents
 
@@ -17,41 +17,41 @@
 
 ## Product & Brand
 
-- [UI morph showreel](../prompts/ui-morph.md) — @twoclipping · Opus 5.5 · [Watch](https://www.open-prompts.com/motion-prompts/ui-morph) · [Prompt](../prompts/ui-morph.md#prompt)
-- [Photo print app launch film](../prompts/photo-print.md) — @twoclipping · Opus 5.5 · [Watch](https://www.open-prompts.com/motion-prompts/photo-print) · [Prompt](../prompts/photo-print.md#prompt)
-- [Cinetic skill launch film](../prompts/cinetic.md) — @LexnLin · Opus 5.5 · [Watch](https://www.open-prompts.com/motion-prompts/cinetic) · [Prompt](../prompts/cinetic.md#prompt)
-- [TypingMind logo reveal](../prompts/typingmind.md) — @tdinh_me · Opus 5.5 · [Watch](https://www.open-prompts.com/motion-prompts/typingmind) · [Prompt](../prompts/typingmind.md#prompt)
-- [Enxovaly baby app promo](../prompts/enxovaly.md) — @gabrielbuzziv · Opus 5.5 · [Watch](https://www.open-prompts.com/motion-prompts/enxovaly) · [Prompt](../prompts/enxovaly.md#prompt)
-- [Changelog highlight video (no skill installed)](../prompts/changelog-highlights.md) — @leon7hao · GPT-6 Astra · [Watch](https://x.com/leon7hao/status/2096844989900914865) · [Prompt](../prompts/changelog-highlights.md#prompt)
+- [UI morph showreel](https://x.com/twoclipping/status/2103273003555402193) — @twoclipping · Opus 5.5 · [Prompt](../prompts/ui-morph.md#prompt)
+- [Photo print app launch film](https://x.com/twoclipping/status/2103835273813496100) — @twoclipping · Opus 5.5 · [Prompt](../prompts/photo-print.md#prompt)
+- [Cinetic skill launch film](https://x.com/LexnLin/status/2106891315371737480) — @LexnLin · Opus 5.5 · [Prompt](../prompts/cinetic.md#prompt)
+- [TypingMind logo reveal](https://x.com/tdinh_me/status/2103704250329301409) — @tdinh_me · Opus 5.5 · [Prompt](../prompts/typingmind.md#prompt)
+- [Enxovaly baby app promo](https://x.com/gabrielbuzziv/status/2103589440258187408) — @gabrielbuzziv · Opus 5.5 · [Prompt](../prompts/enxovaly.md#prompt)
+- [Changelog highlight video (no skill installed)](https://x.com/leon7hao/status/2096844989900914865) — @leon7hao · GPT-6 Astra · [Prompt](../prompts/changelog-highlights.md#prompt)
 
 <a id="motion-studies"></a>
 
 ## Typography & Motion Studies
 
-- [Kinetic type](../prompts/kinetic-type.md) — @techhalla · Opus 5.5 · [Watch](https://www.open-prompts.com/motion-prompts/kinetic-type) · [Prompt](../prompts/kinetic-type.md#prompt)
-- [Motion showreel](../prompts/motion-showreel.md) — @prasenx · Opus 5.5 · [Watch](https://www.open-prompts.com/motion-prompts/motion-showreel) · [Prompt](../prompts/motion-showreel.md#prompt)
-- [Bold kinetic type showreel](../prompts/bold-type.md) — @shneural · Claude Opus 5.5 / GPT-6 Astra · [Watch](https://www.open-prompts.com/motion-prompts/bold-type) · [Prompt](../prompts/bold-type.md#prompt)
-- [Motion designer showreel](../prompts/particle-showreel.md) — @himanshutwtxs · Opus 5.5 · [Watch](https://www.open-prompts.com/motion-prompts/particle-showreel) · [Prompt](../prompts/particle-showreel.md#prompt)
-- [15-second flat-color motion showreel](../prompts/ajith-showreel.md) — @ajith_io · Claude Opus 5.5 · [Watch](https://x.com/ajith_io/status/2103449416325890146) · [Prompt](../prompts/ajith-showreel.md#prompt)
+- [Kinetic type](https://x.com/techhalla/status/2103411244468498547) — @techhalla · Opus 5.5 · [Prompt](../prompts/kinetic-type.md#prompt)
+- [Motion showreel](https://x.com/prasenx/status/2103538744695693512) — @prasenx · Opus 5.5 · [Prompt](../prompts/motion-showreel.md#prompt)
+- [Bold kinetic type showreel](https://x.com/shneural/status/2103151003272962130) — @shneural · Claude Opus 5.5 / GPT-6 Astra · [Prompt](../prompts/bold-type.md#prompt)
+- [Motion designer showreel](https://x.com/himanshutwtxs/status/2103495232637882858) — @himanshutwtxs · Opus 5.5 · [Prompt](../prompts/particle-showreel.md#prompt)
+- [15-second flat-color motion showreel](https://x.com/ajith_io/status/2103449416325890146) — @ajith_io · Claude Opus 5.5 · [Prompt](../prompts/ajith-showreel.md#prompt)
 
 <a id="explainers-data"></a>
 
 ## Explainers & Data
 
-- [Mathematics motion showreel](../prompts/mathematics.md) — @Math_files · Opus 5.5 · [Watch](https://www.open-prompts.com/motion-prompts/mathematics) · [Prompt](../prompts/mathematics.md#prompt)
-- [Recursion explained in genres](../prompts/recursion.md) — @emollick · Opus 5.5 · [Watch](https://www.open-prompts.com/motion-prompts/recursion) · [Prompt](../prompts/recursion.md#prompt)
+- [Mathematics motion showreel](https://x.com/Math_files/status/2104486181853610052) — @Math_files · Opus 5.5 · [Prompt](../prompts/mathematics.md#prompt)
+- [Recursion explained in genres](https://x.com/emollick/status/2103688362960019567) — @emollick · Opus 5.5 · [Prompt](../prompts/recursion.md#prompt)
 
 <a id="characters-stories"></a>
 
 ## Characters & Stories
 
-- [Overthinking showreel](../prompts/overthinking.md) — @gizakdag · Opus 5.5 · [Watch](https://www.open-prompts.com/motion-prompts/overthinking) · [Prompt](../prompts/overthinking.md#prompt)
+- [Overthinking showreel](https://x.com/gizakdag/status/2103566030916239768) — @gizakdag · Opus 5.5 · [Prompt](../prompts/overthinking.md#prompt)
 
 <a id="3d-simulations"></a>
 
 ## 3D & Simulations
 
-- [Infinite zoom](../prompts/infinite-zoom.md) — @koldo2k · Opus 5.5 · [Watch](https://www.open-prompts.com/motion-prompts/infinite-zoom) · [Prompt](../prompts/infinite-zoom.md#prompt)
+- [Infinite zoom](https://x.com/koldo2k/status/2103129343253778767) — @koldo2k · Opus 5.5 · [Prompt](../prompts/infinite-zoom.md#prompt)
 
 <a id="music-audiovisual"></a>
 
@@ -63,7 +63,7 @@ No collected prompts yet.
 
 ## Interactive Experiences
 
-- [Starry Night cat-spotting game](../prompts/starry-night.md) — @MandelDuck · Opus 5.5 · [Watch](https://www.open-prompts.com/motion-prompts/starry-night) · [Prompt](../prompts/starry-night.md#prompt)
+- [Starry Night cat-spotting game](https://x.com/MandelDuck/status/2103802923465768972) — @MandelDuck · Opus 5.5 · [Prompt](../prompts/starry-night.md#prompt)
 
 ## Research candidates
 
