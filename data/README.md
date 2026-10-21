@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-789 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+797 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -301,6 +301,9 @@
 - [Fear Itself: Art Deco recursive typography and reversed infinite zoom](https://x.com/Gdgtify/status/2110706003058536747) — @Gdgtify · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2110706003058536747.md#prompt)
 - [3D pixel-art pelican cycling over a city bridge: three-model comparison](https://x.com/SadAlbert10/status/2106789700807856416) — @SadAlbert10 · Gemini 3.1 Pro (high) / Claude Sonnet 5.5 (high) / Claude Opus 5.5 (medium) (author reported) · [Prompt](../prompts/motion-2106789700807856416.md#prompt)
 - [Looping SVG pelican: six-model self-contained HTML comparison](https://x.com/GodsBoy7777/status/2104179308101005594) — @GodsBoy7777 · GPT-6 Astra / GPT-6 Sol / GPT-6 Luna / GPT-5.6 Sol / GPT-5.6 Luna / Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2104179308101005594.md#prompt)
+- [MotionVault: Pendulum Wave](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/particle.ts#L106) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-pendulum-wave.md#prompt)
+- [MotionVault: Path Morph](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/svg.ts#L60) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-path-morph.md#prompt)
+- [MotionVault: Strands](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/svg.ts#L130) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-strands.md#prompt)
 
 
 <a id="explainers-data"></a>
@@ -849,3 +852,8 @@
 - [Plush Lobster: WebGPU tail flips, wired legs and combable fur](https://x.com/vib3coded/status/2112838135927263740) — @vib3coded · Claude Opus 5.5 / ChatGPT-6 Astra (author reported) · [Prompt](../prompts/motion-2112838135927263740.md#prompt)
 - [Hands 2.0: first-person rigging, layered animation and dynamic grip correction](https://x.com/maxt3chno/status/2108637690698633713) — @maxt3chno · Opus 5.5 / Astra (mentioned by author; exact demo model not established) (author reported) · [Prompt](../prompts/motion-2108637690698633713.md#prompt)
 - [Jelly Dice: XPBD soft-body candy dice with refraction and interactive grabs](https://x.com/SpacyApps/status/2105832839023415521) — @SpacyApps · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2105832839023415521.md#prompt)
+- [MotionVault: Particle Text](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/particle.ts#L50) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-particle-text.md#prompt)
+- [MotionVault: Gravity Well](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/particle.ts#L117) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-gravity-well.md#prompt)
+- [MotionVault: Smoke Flow](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/particle.ts#L200) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-smoke-flow.md#prompt)
+- [MotionVault: Murmuration](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/particle.ts#L211) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-murmuration.md#prompt)
+- [MotionVault: Sand Pile](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/particle.ts#L233) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-sand-pile.md#prompt)
