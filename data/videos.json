@@ -32457,5 +32457,64 @@
       "visualQuality": "not_reviewed",
       "fullReview": false
     }
+  },
+  {
+    "id": "2112975313043116064",
+    "title": "Fluid: a person liquefies, travels and reconstructs in new poses",
+    "author": "magnific",
+    "sourceUrl": "https://x.com/magnific/status/2112975313043116064",
+    "promptSourceUrl": "https://x.com/magnific/status/2112975313043116064",
+    "prompt": "In a dark subway corridor, the reference man’s body and clothing liquefy into connected, flowing ribbons, preserving his silver jacket, black trousers and natural skin tones. He flows left and reforms leaning against the wall, crosses right and reforms crouching, then streams farther down the corridor and reforms standing. Show slow liquefaction, rapid fluid travel and smooth reconstruction, with gentle camera follow. No instant disappearance, particles, fragmentation or uniform chrome.",
+    "model": "Kling (version not specified)",
+    "primaryCategory": "motion-studies",
+    "promptStatus": "author_published_prompt",
+    "promptCompleteness": "complete_published_prompt_reference_image_required",
+    "requiresReference": true,
+    "notes": "Found through X Latest research on 2026-10-22. The original post publishes this complete prompt and has a separate native video. Its reply chain reaches Magnific’s root post identifying Kling, without a version. Supply a reference man image. Unlike the separately collected Melt environment effect, the moving subject here liquefies, travels and reforms in three poses while retaining clothing and skin colors. Original text, native video and thread relationship confirmed through Chrome MCP. Requested material continuity, reconstruction and playback quality were not independently tested; no full generation conversation is available.",
+    "parentSourceUrl": "https://x.com/magnific/status/2112975230637621512",
+    "platform": "X",
+    "modelStatus": "author_claim",
+    "status": "collected",
+    "promptFile": "prompts/motion-2112975313043116064.md",
+    "discoveryUrl": "https://x.com/magnific/status/2112975313043116064",
+    "verification": {
+      "method": "chrome_mcp_x_original_post_and_native_video_metadata",
+      "checkedAt": "2026-10-22",
+      "originalPostConfirmed": true,
+      "promptMatchedSource": true,
+      "authorClaimConfirmed": true,
+      "nativeVideoConfirmed": true,
+      "visualQuality": "not_reviewed",
+      "fullReview": false
+    }
+  },
+  {
+    "id": "2112966594997481617",
+    "title": "Mrs Bramble’s elevator armor reveal: six-model image-to-video comparison",
+    "author": "KorpiAi",
+    "sourceUrl": "https://x.com/KorpiAi/status/2112966594997481617",
+    "promptSourceUrl": "https://x.com/KorpiAi/status/2112966594997481617",
+    "prompt": "she stands alone in a cramped brass hotel elevator staring up at the floor numbers, the lights flicker off for one second, when they come back she is suddenly wearing a full suit of shiny medieval knight armor and calmly pretends nothing happened, snap zoom onto her face as she slowly raises one eyebrow at the camera, eerie elevator music",
+    "model": "Wan 3.0 / Veo 3.1 Fast / Kling v3 / Gemini Omni / Seedance 2.5 / LTX 2",
+    "primaryCategory": "characters-stories",
+    "promptStatus": "author_published_prompt",
+    "promptCompleteness": "complete_published_prompt_character_sheet_required",
+    "requiresReference": true,
+    "notes": "Found in X Latest search on 2026-10-22. The creator publishes the full quoted prompt, names six models and reports the same character sheet as first frame, one run per model without re-rolls. Requested settings are 8 seconds, 16:9, 720p and native audio. Supply the Mrs Bramble reference or your own authorized character sheet. This comparison is counted once across all six models. Full original post and native video metadata were checked through Chrome MCP. The reported model rankings, identity consistency, lighting behavior, first-frame delays and exact render settings were not independently tested. Prompt capitalization preserved. The demo is an image-to-video narrative reveal, not code-only motion graphics.",
+    "platform": "X",
+    "modelStatus": "author_claim",
+    "status": "collected",
+    "promptFile": "prompts/motion-2112966594997481617.md",
+    "discoveryUrl": "https://x.com/KorpiAi/status/2112966594997481617",
+    "verification": {
+      "method": "chrome_mcp_x_original_post_and_native_video_metadata",
+      "checkedAt": "2026-10-22",
+      "originalPostConfirmed": true,
+      "promptMatchedSource": true,
+      "authorClaimConfirmed": true,
+      "nativeVideoConfirmed": true,
+      "visualQuality": "not_reviewed",
+      "fullReview": false
+    }
   }
 ]

@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-978 works with prompt text saved in this repository. The collection includes published briefs, workflows and reusable animation templates. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+980 works with prompt text saved in this repository. The collection includes published briefs, workflows and reusable animation templates. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -379,6 +379,7 @@
 - [Echo: a slow-motion singer inside a fast-moving street crowd](https://x.com/magnific/status/2112975271108481172) — @magnific · Kling (version not specified) (author reported) · [Prompt](../prompts/motion-2112975271108481172.md#prompt)
 - [Melt: a solid character surrounded by a liquefying environment](https://x.com/magnific/status/2112975398363676721) — @magnific · Kling (version not specified) (author reported) · [Prompt](../prompts/motion-2112975398363676721.md#prompt)
 - [Multiverse: a fixed face across rapid reality switches](https://x.com/magnific/status/2112975356558999740) — @magnific · Kling (version not specified) (author reported) · [Prompt](../prompts/motion-2112975356558999740.md#prompt)
+- [Fluid: a person liquefies, travels and reconstructs in new poses](https://x.com/magnific/status/2112975313043116064) — @magnific · Kling (version not specified) (author reported) · [Prompt](../prompts/motion-2112975313043116064.md#prompt)
 
 
 <a id="explainers-data"></a>
@@ -635,6 +636,7 @@
 - [motion-pack: Character spot × Paper Cut (hero scene), 13.5 s 16:9](https://github.com/ANVEAI/motion-pack/blob/main/docs/prompts.md#L15) — @ANVEAI / motion-pack contributors · Claude Code / model-agnostic coding agent (motion-pack required) · [Prompt](../prompts/motion-motion-pack-character-spot.md#prompt)
 - [Stickman Video Director: Stop Letting Overthinking Ruin Your Life](https://github.com/kaomei/stickman-video-director/blob/main/skills/directing-stickman-videos/references/examples.md#phase-b--omni-flash-production-package) — @kaomei / stickman-video-director contributors · Gemini Omni Flash (published target; generation not independently confirmed) · [Prompt](../prompts/motion-stickman-director-overthinking.md#prompt)
 - [Stickman Video Director: Zeke: glass ceiling, light bridge and vault](https://github.com/kaomei/stickman-video-director/blob/main/skills/directing-stickman-videos/references/examples.md#example-2-style-2a-modern-beanie-zeke--modern-studio-tech) — @kaomei / stickman-video-director contributors · Gemini Omni Flash (published target; generation not independently confirmed) · [Prompt](../prompts/motion-stickman-director-invisible-boundaries.md#prompt)
+- [Mrs Bramble’s elevator armor reveal: six-model image-to-video comparison](https://x.com/KorpiAi/status/2112966594997481617) — @KorpiAi · Wan 3.0 / Veo 3.1 Fast / Kling v3 / Gemini Omni / Seedance 2.5 / LTX 2 (author reported) · [Prompt](../prompts/motion-2112966594997481617.md#prompt)
 
 
 <a id="3d-simulations"></a>
