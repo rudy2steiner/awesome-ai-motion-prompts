@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-989 works with prompt text saved in this repository. The collection includes published briefs, workflows and reusable animation templates. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+1001 works with prompt text saved in this repository. The collection includes published briefs, workflows and reusable animation templates. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -397,6 +397,9 @@
 - [MotionVault: Card Swap](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/card.ts#L180) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-card-swap.md#prompt)
 - [MotionVault: Border Trail](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/svg.ts#L100) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-border-trail.md#prompt)
 - [MotionVault: Draw Arrow](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/svg.ts#L140) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-draw-arrow.md#prompt)
+- [MotionVault: Gradient Mesh](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/background.ts#L24) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-gradient-mesh.md#prompt)
+- [MotionVault: Skeleton](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/loader.ts#L78) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-skeleton.md#prompt)
+- [MotionVault: Chase Ring](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/loader.ts#L128) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-chase-ring.md#prompt)
 
 
 <a id="explainers-data"></a>
@@ -1049,3 +1052,12 @@
 - [MotionVault: Liquid Fill](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/button.ts#L77) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-liquid-fill.md#prompt)
 - [MotionVault: Stroke Hover](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/svg.ts#L110) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-stroke-hover.md#prompt)
 - [MotionVault: Confetti Burst](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/particle.ts#L67) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-confetti-burst.md#prompt)
+- [MotionVault: Dot Grid](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/background.ts#L38) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-dot-grid.md#prompt)
+- [MotionVault: Ripple Circles](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/background.ts#L226) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-ripple-circles.md#prompt)
+- [Motion Prompt: Drawer (Off-canvas)](https://showheyohtaki.github.io/motion-prompt/#050) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-050.md#prompt)
+- [Motion Prompt: Bottom sheet](https://showheyohtaki.github.io/motion-prompt/#051) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-051.md#prompt)
+- [Motion Prompt: Accordion](https://showheyohtaki.github.io/motion-prompt/#052) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-052.md#prompt)
+- [Motion Prompt: Toast notification](https://showheyohtaki.github.io/motion-prompt/#056) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-056.md#prompt)
+- [Motion Prompt: Tabs](https://showheyohtaki.github.io/motion-prompt/#057) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-057.md#prompt)
+- [Motion Prompt: Segmented control](https://showheyohtaki.github.io/motion-prompt/#060) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-060.md#prompt)
+- [Motion Prompt: Hamburger menu](https://showheyohtaki.github.io/motion-prompt/#065) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-065.md#prompt)
