@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-902 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+904 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -476,6 +476,8 @@
 - [AI_Animation: Animated microservice architecture](https://github.com/Unclecheng-li/AI_Animation/blob/master/skills/dynamic-archify/README.md#使用方式) — @Unclecheng-li / AI_Animation contributors · Model-agnostic coding agent (AI_Animation skill required) · [Prompt](../prompts/motion-ai-animation-dynamic-archify.md#prompt)
 - [AI_Animation: TLS handshake in a narrated 3D card theater](https://github.com/Unclecheng-li/AI_Animation/blob/master/skills/card-theater/README.md#使用方式) — @Unclecheng-li / AI_Animation contributors · Model-agnostic coding agent (AI_Animation skill required) · [Prompt](../prompts/motion-ai-animation-card-theater.md#prompt)
 - [AI_Animation: Shot-by-shot cinematic HTML explainer](https://github.com/Unclecheng-li/AI_Animation/blob/master/skills/video-shot-demos/README.md#使用方式) — @Unclecheng-li / AI_Animation contributors · Model-agnostic coding agent (AI_Animation skill required) · [Prompt](../prompts/motion-ai-animation-video-shot-demos.md#prompt)
+- [AI_Animation: Animated packet-field structure](https://github.com/Unclecheng-li/AI_Animation/blob/master/skills/network-protocol-viz/references/prompts.md#数据包帧结构展示) — @Unclecheng-li / AI_Animation contributors · Model-agnostic coding agent · [Prompt](../prompts/motion-ai-animation-packet-fields.md#prompt)
+- [AI_Animation: Interactive packet routing and table decisions](https://github.com/Unclecheng-li/AI_Animation/blob/master/skills/network-protocol-viz/references/prompts.md#路由转发演示) — @Unclecheng-li / AI_Animation contributors · Model-agnostic coding agent · [Prompt](../prompts/motion-ai-animation-route-decision.md#prompt)
 
 
 <a id="characters-stories"></a>
