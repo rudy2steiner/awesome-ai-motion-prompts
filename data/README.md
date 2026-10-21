@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-766 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+768 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -162,6 +162,7 @@
 - [BMX Juice: slapstick commercial with an aerial dive and slow-motion stunt](https://x.com/bmx_ai13/status/2108306440855101555) — @bmx_ai13 · Wan 3.0 (author reported) · [Prompt](../prompts/motion-2108306440855101555.md#prompt)
 - [Sonnet self-launch film: cinematic typography and capability visualization](https://x.com/AbhinavXJ/status/2104805179401068964) — @AbhinavXJ · Claude Sonnet 5.5 (author reported) · [Prompt](../prompts/motion-2104805179401068964.md#prompt)
 - [Continuous product UI loop: chat, music player, rubber-band slider and chart](https://x.com/twoclipping/status/2104674464868762046) — @twoclipping · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2104674464868762046.md#prompt)
+- [LaunchBuddy product film with animated screenshot components](https://x.com/FloWritesCode/status/2105268326381625845) — @FloWritesCode · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2105268326381625845.md#prompt)
 
 
 <a id="motion-studies"></a>
@@ -520,6 +521,7 @@
 - [The 9PM Ramyeon Run: continuous MiniDV-style convenience-store scene](https://x.com/bmx_ai13/status/2094391472573571241) — @bmx_ai13 · Wan 3.0 Prime (author reported) · [Prompt](../prompts/motion-2094391472573571241.md#prompt)
 - [Arcade boxing mishap: continuous phone-camera physical comedy](https://x.com/bmx_ai13/status/2098375251423891526) — @bmx_ai13 · Wan (version unspecified) (author reported) · [Prompt](../prompts/motion-2098375251423891526.md#prompt)
 - [Opus delegates to Haiku: watercolour character motion short](https://x.com/kelanoo/status/2108199183983497433) — @kelanoo · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2108199183983497433.md#prompt)
+- [Faroe Islands FPV sequence: hikers, gorge, waterfall and sea arch](https://x.com/socialwithaayan/status/2111448458079133856) — @socialwithaayan · Claude Opus 5.5 / video model unspecified (author reported) · [Prompt](../prompts/motion-2111448458079133856.md#prompt)
 
 
 <a id="3d-simulations"></a>

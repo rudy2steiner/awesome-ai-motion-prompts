@@ -25866,5 +25866,63 @@
       "visualQuality": "not_reviewed",
       "fullReview": false
     }
+  },
+  {
+    "id": "2105268326381625845",
+    "title": "LaunchBuddy product film with animated screenshot components",
+    "author": "FloWritesCode",
+    "sourceUrl": "https://x.com/FloWritesCode/status/2105268326381625845",
+    "promptSourceUrl": "https://x.com/FloWritesCode/status/2105288758316716277",
+    "prompt": "Make a dynamic 30-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\nMake it a video to introduce LaunchBuddy (\nhttp://\nlaunchbuddy.app / launchbuddy in the app store). Use actual product screenshot/logo/assets Must have music and motion must match the music Do it like a real professional production video, not like a demo or prototype. Add more animation and motion design; avoid using screenshots as raw; instead, break them down into components/ icons so we can animate those too. Make the motions more juicy. Use the best motion design techniques you can.",
+    "model": "Claude Opus 5.5",
+    "primaryCategory": "product-brand",
+    "promptStatus": "source_transcribed",
+    "promptCompleteness": "published_initial_brief_requires_context",
+    "requiresReference": true,
+    "notes": "Older work found while reviewing uncollected upstream leads. Complete published brief was read directly from the author’s reply. Public reply metadata connects it through one intermediate reply to the original native-video post. Opus 5.5 attribution is author-reported. Native video presence was confirmed; full playback, visual quality and requested output constraints were not independently reviewed. The author credits @tdinh_me for the base prompt and states that the run worked inside the LaunchBuddy repository with codebase context; no separate images were supplied. This is not a self-contained reproduction prompt. Keep source-rendered product URL text as published.",
+    "platform": "X",
+    "modelStatus": "author_claim",
+    "status": "collected",
+    "promptFile": "prompts/motion-2105268326381625845.md",
+    "discoveryUrl": "https://x.com/FloWritesCode/status/2105268326381625845",
+    "verification": {
+      "method": "chrome_mcp_original_x_prompt_thread",
+      "checkedAt": "2026-10-22",
+      "originalPostConfirmed": true,
+      "promptMatchedSource": true,
+      "authorClaimConfirmed": true,
+      "nativeVideoConfirmed": true,
+      "visualQuality": "not_reviewed",
+      "fullReview": false
+    }
+  },
+  {
+    "id": "2111448458079133856",
+    "title": "Faroe Islands FPV sequence: hikers, gorge, waterfall and sea arch",
+    "author": "socialwithaayan",
+    "sourceUrl": "https://x.com/socialwithaayan/status/2111448458079133856",
+    "promptSourceUrl": "https://x.com/socialwithaayan/status/2111448482162901092",
+    "prompt": "Use the Fish Audio tools to make a realistic FPV drone video, vertical, no text.\n\nIdea: two hikers sprint to a cliff edge in the Faroe Islands. The camera chases them, drops over the edge, and flies through a gorge, up a waterfall, and through a sea arch. Camera POV only; never show the drone. Write the full shot list first, show me, and wait for my approval. Then make the video.",
+    "model": "Claude Opus 5.5 / video model unspecified",
+    "primaryCategory": "characters-stories",
+    "promptStatus": "source_transcribed",
+    "promptCompleteness": "published_initial_brief_requires_context",
+    "requiresReference": true,
+    "notes": "Older work found while reviewing uncollected upstream leads. Complete published brief was read directly from the author’s reply. Public reply metadata connects it through one intermediate reply to the original native-video post. Opus 5.5 attribution is author-reported. Native video presence was confirmed; full playback, visual quality and requested output constraints were not independently reviewed. The original post identifies Fish Creative MCP, while the literal prompt says Fish Audio tools. Preserve that wording difference. This is tool-generated video coordinated by Claude, not proof of a code-rendered film. The underlying video-generation model is unspecified. Connector access and a subsequent approved shot list are required; the latter is not included.",
+    "platform": "X",
+    "modelStatus": "author_claim",
+    "status": "collected",
+    "promptFile": "prompts/motion-2111448458079133856.md",
+    "discoveryUrl": "https://x.com/socialwithaayan/status/2111448458079133856",
+    "verification": {
+      "method": "chrome_mcp_original_x_prompt_thread",
+      "checkedAt": "2026-10-22",
+      "originalPostConfirmed": true,
+      "promptMatchedSource": true,
+      "authorClaimConfirmed": true,
+      "nativeVideoConfirmed": true,
+      "visualQuality": "not_reviewed",
+      "fullReview": false
+    }
   }
 ]
