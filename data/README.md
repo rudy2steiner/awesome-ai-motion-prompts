@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-831 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+844 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -319,6 +319,9 @@
 - [One Shape, Every Story: beat-synchronized icon morph chain](https://github.com/Vincentwei1021/mg-styles-15/blob/main/prompts/08-morph.md) — @Vincentwei1021 · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-mg-styles-08-morph.md#prompt)
 - [Daily Joy: variety-show kinetic captions over a pet vlog](https://github.com/Vincentwei1021/mg-styles-15/blob/main/prompts/18-hanazi.md) — @Vincentwei1021 · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-mg-styles-18-hanazi.md#prompt)
 - [Kestrel-9 Target Acquired: layered cyberpunk fictional interface](https://github.com/Vincentwei1021/mg-styles-15/blob/main/prompts/22-hud.md) — @Vincentwei1021 · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-mg-styles-22-hud.md#prompt)
+- [MotionVault: Rain Ripples](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/particle.ts#L138) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-rain-ripples.md#prompt)
+- [MotionVault: Beam Path](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/svg.ts#L80) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-beam-path.md#prompt)
+- [MotionVault: Emblem Draw](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/svg.ts#L150) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-emblem-draw.md#prompt)
 
 
 <a id="explainers-data"></a>
@@ -444,6 +447,8 @@
 - [What is Claude Code? Hand-drawn paper-collage explainer with Japanese narration](https://x.com/so_ainsight/status/2103117547776163845) — @so_ainsight · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2103117547776163845.md#prompt)
 - [Brain death explainer: bold hand-drawn motion for a young audience](https://x.com/tonka1981jp/status/2103442781096288376) — @tonka1981jp · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2103442781096288376.md#prompt)
 - [70/118: smartphone elements in a continuous-canvas sticker explainer](https://github.com/Vincentwei1021/mg-styles-15/blob/main/prompts/19-paperclip.md) — @Vincentwei1021 · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-mg-styles-19-paperclip.md#prompt)
+- [MotionVault: Line Chart Grow](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/svg.ts#L70) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-line-chart.md#prompt)
+- [MotionVault: Dotted Map](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/svg.ts#L120) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-dotted-map.md#prompt)
 
 
 <a id="characters-stories"></a>
@@ -891,3 +896,11 @@
 - [MotionVault: Depth Carousel](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/layout.ts#L89) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-depth-carousel.md#prompt)
 - [MotionVault: Morph Slider](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/layout.ts#L99) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-morph-slider.md#prompt)
 - [MotionVault: Inertia Drag Stack](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/layout.ts#L109) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-inertia-drag-stack.md#prompt)
+- [MotionVault: Fireworks](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/particle.ts#L95) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-fireworks.md#prompt)
+- [MotionVault: Bubble Pop](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/particle.ts#L128) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-bubble-pop.md#prompt)
+- [MotionVault: Image Trail](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/particle.ts#L170) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-image-trail.md#prompt)
+- [MotionVault: Electric Arc](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/particle.ts#L222) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-electric-arc.md#prompt)
+- [MotionVault: Download Morph](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/button.ts#L142) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-download-button.md#prompt)
+- [MotionVault: Hold To Confirm](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/button.ts#L152) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-hold-confirm.md#prompt)
+- [MotionVault: Liquid Metal](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/button.ts#L202) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-liquid-metal.md#prompt)
+- [MotionVault: Share Expand](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/button.ts#L222) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-share-expand.md#prompt)

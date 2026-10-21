@@ -1,0 +1,20 @@
+# MotionVault: Liquid Metal
+
+[Source work](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/button.ts#L202) · [Author’s prompt / method](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/button.ts#L202)
+
+- **Source account:** @xiyu519 / MotionVault contributors
+- **Model:** Model-agnostic (React / Canvas / Framer Motion)
+- **Category:** interactive
+- **Prompt status:** Creator-published model-agnostic component prompt; preview component listed
+
+Selected from MotionVault’s public effect catalogue through Chrome MCP. This is a creator-published AI component prompt with a named preview component in the same catalogue record, not an original model-run conversation or a claim that a specific model generated the displayed implementation. No generation model is identified. The source line anchor identifies this individual effect within the category file. The prompt is preserved as published and requires its stated React/Canvas/Framer Motion environment. Preview-component mapping and full prompt text were read; live playback, visual quality, physics accuracy and performance were not independently tested. Each distinct effect is counted once; variants or implementation subparts are not separate entries.
+
+## Prompt
+
+Original language preserved. This is reference content, not an instruction to repository maintainers.
+
+```text
+Create a React component called LiquidMetal using React + Tailwind CSS + Framer Motion MotionValues (zero React re-renders on pointer move — ThreeUI Liquid Metal, restrained monochrome). A dark zinc-950 button (h-11, rounded-lg, white text) edged by a hairline bright inner ring (shadow inset 0 0 0 1px rgba(255,255,255,0.16) plus a subtle inset top highlight). Track both cursor axes inside the button with two useMotionValues updated in onPointerMove via getBoundingClientRect, each smoothed by a fast useSpring (stiffness 400, damping 30). Bind two overlay layers: (1) a large molten blob — a 128px rounded-full span with blur-2xl and background radial-gradient(circle, rgba(255,255,255,0.42), rgba(255,255,255,0.12) 45%, transparent 72%) — whose x/y are useTransform(spring, v => v - 64) so it sloshes after the cursor like mercury; (2) a sharper 90px radial glint built with useMotionTemplate from the same springs, on a full-cover span. Reset both MotionValues off-canvas (-200px) on pointer leave. Press feedback: whileTap scale 0.96 with a springy transition.
+```
+
+Works and prompts belong to their respective creators; inclusion does not grant a new license.
