@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-294 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+316 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -93,6 +93,8 @@
 - [Smartwatch ORBIT Cinematic 3D Product Reveal Film in Three.js](https://x.com/maker_evan/status/2108438685184401904) — @maker_evan · Claude Opus 5.5 / GPT-6 Astra / Grok 4.7 / DeepSeek V4.1 Flash · [Prompt](../prompts/motion-2108438685184401904.md#prompt)
 - [SuperX Feature Teaser Motion Graphics](https://x.com/robj3d3/status/2107040421989994822) — @robj3d3 · Claude Opus 5.5 · [Prompt](../prompts/motion-2107040421989994822.md#prompt)
 - [Remotion Product Launch Film with Claude Opus 5.5](https://x.com/punit_io/status/2104467016719774112) — @punit_io · Claude Opus 5.5 · [Prompt](../prompts/motion-2104467016719774112.md#prompt)
+- [SaaS product launch film with real brand assets](https://x.com/moritzkremb/status/2103066071838466494) — @moritzkremb · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103066071838466494.md#prompt)
+- [Barber recruitment film with synthesized sound](https://x.com/egawa_AI_design/status/2103760245764092323) — @egawa_AI_design · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103760245764092323.md#prompt)
 
 
 <a id="motion-studies"></a>
@@ -161,6 +163,9 @@
 - [Isometric Environment Verification Animation](https://x.com/itsnotryan/status/2108228989063991575) — @itsnotryan · Claude Opus 5.5 · [Prompt](../prompts/motion-2108228989063991575.md#prompt)
 - [Autonomous Projection Mapping Animation with Opus 5.5](https://x.com/antipdoom/status/2105102530049175928) — @antipdoom · Claude Opus 5.5 · [Prompt](../prompts/motion-2105102530049175928.md#prompt)
 - [Video as Code Kinetic Typography Promo](https://x.com/YuanXi901019/status/2108570435575222596) — @YuanXi901019 · Claude Opus 5.5 · [Prompt](../prompts/motion-2108570435575222596.md#prompt)
+- [One-shape UI story on a 120 BPM grid](https://x.com/verbove/status/2103483957266268381) — @verbove · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103483957266268381.md#prompt)
+- [A resume that proves every skill on the beat](https://x.com/_koushikde_/status/2105730717455937635) — @_koushikde_ · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2105730717455937635.md#prompt)
+- [Prompt-to-filmstrip bouncing-ball launch sequence](https://x.com/notdwd/status/2105031774904766641) — @notdwd · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2105031774904766641.md#prompt)
 
 
 <a id="explainers-data"></a>
@@ -210,6 +215,7 @@
 - [Opus 5.5 Hand-Drawn P(Doom) Educational Video](https://x.com/itnavi2022/status/2104468704490909880) — @itnavi2022 · Claude Opus 5.5 · [Prompt](../prompts/motion-2104468704490909880.md#prompt)
 - [Claude Opus 5.5 Animated Explanation of Yun Tianming's Three Fairy Tales](https://x.com/imxishi/status/2104459910247235966) — @imxishi · Claude Opus 5.5 · [Prompt](../prompts/motion-2104459910247235966.md#prompt)
 - [Pythagorean Theorem Explainer Video in JavaScript](https://x.com/hyuki/status/2102832558602072560) — @hyuki · Claude Opus 5.5 · [Prompt](../prompts/motion-2102832558602072560.md#prompt)
+- [Earthquake explained through a tectonic sandbox](https://x.com/egeberkina/status/2105029713445949521) — @egeberkina · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2105029713445949521.md#prompt)
 
 
 <a id="characters-stories"></a>
@@ -248,6 +254,11 @@
 - [Garden of Earthly Delights Film Trailer](https://x.com/mickeyxfriedman/status/2107230816871055641) — @mickeyxfriedman · Claude Opus 5.5 · [Prompt](../prompts/motion-2107230816871055641.md#prompt)
 - [Anime Cold Open: Westworld x Cowboy Bebop x Blade Runner 2049](https://x.com/gpbulkin/status/2108242769844310331) — @gpbulkin · Claude Opus 5.5 · [Prompt](../prompts/motion-2108242769844310331.md#prompt)
 - [Visualization of What Happens When We Die](https://x.com/twoclipping/status/2106216524465729626) — @twoclipping · Claude Opus 5.5 · [Prompt](../prompts/motion-2106216524465729626.md#prompt)
+- [Pixel wizard spell-casting loop](https://x.com/zacxbt/status/2103808699466944604) — @zacxbt · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103808699466944604.md#prompt)
+- [Taiwan black bear Mid-Autumn adventure](https://x.com/eric_khun/status/2103112385380667455) — @eric_khun · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103112385380667455.md#prompt)
+- [Star-strike character animation with a synthesized score](https://x.com/AYi_AInotes/status/2106784005911933194) — @AYi_AInotes · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2106784005911933194.md#prompt)
+- [The Last Piano: a robot relights the city](https://x.com/kopert0x/status/2104961082880098349) — @kopert0x · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2104961082880098349.md#prompt)
+- [Rain Station: a cinematic code-composited animatic](https://x.com/zhu185178/status/2103757767727255661) — @zhu185178 · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103757767727255661.md#prompt)
 
 
 <a id="3d-simulations"></a>
@@ -298,6 +309,7 @@
 - [Antlight: Glowing Colony Terrarium Simulation](https://x.com/jeffbruchado/status/2110491352311984308) — @jeffbruchado · Claude Opus 5.5 / Claude Sonnet 5.5 · [Prompt](../prompts/motion-2110491352311984308.md#prompt)
 - [3D Whale Breaching Scene Model Comparison](https://x.com/Bhavani_00007/status/2110078803297055212) — @Bhavani_00007 · Gemini 4 Argon / Claude Opus 5.5 / GPT-6 Astra / Kimi K3 · [Prompt](../prompts/motion-2110078803297055212.md#prompt)
 - [Orb Weaver Spider Spinning Web at Sunrise](https://x.com/jeffbruchado/status/2111125520788107511) — @jeffbruchado · Claude Opus 5.5 / Claude Sonnet 5.5 · [Prompt](../prompts/motion-2111125520788107511.md#prompt)
+- [Market Street before the 1906 earthquake](https://x.com/alexalbert__/status/2102466523164274839) — @alexalbert__ · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2102466523164274839.md#prompt)
 
 
 <a id="music-audiovisual"></a>
@@ -312,6 +324,10 @@
 - [Anime Maid vs Shoggoth 15-Second Animated MV](https://x.com/itnavi2022/status/2104509397535961220) — @itnavi2022 · Claude Opus 5.5 · [Prompt](../prompts/motion-2104509397535961220.md#prompt)
 - [Programmatic Breakbeat Audio and Music Video Generation with Opus 5.5](https://x.com/_3912657840/status/2109646277592175006) — @_3912657840 · Claude Opus 5.5 · [Prompt](../prompts/motion-2109646277592175006.md#prompt)
 - [Claude Opus 5.5 Self-Reflective Music Video via Procedural Text Code](https://x.com/buskerrrrrr/status/2104518643723764131) — @buskerrrrrr · Claude Opus 5.5 · [Prompt](../prompts/motion-2104518643723764131.md#prompt)
+- [1990s demoscene synchronized to an S3M track](https://x.com/gandamu_ml/status/2102919394775220530) — @gandamu_ml · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2102919394775220530.md#prompt)
+- [Psychedelic glitch character music video](https://x.com/pound75423/status/2103722556918464968) — @pound75423 · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103722556918464968.md#prompt)
+- [Make It Catchy: a silent build becomes a music machine](https://x.com/adrianduta96/status/2109187815195992248) — @adrianduta96 · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2109187815195992248.md#prompt)
+- [Crayon cat piano performance with synthesized music](https://x.com/0xCodez/status/2104257855142474136) — @0xCodez · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2104257855142474136.md#prompt)
 
 
 <a id="interactive"></a>
@@ -354,3 +370,9 @@
 - [Umbral: Procedural Canvas Game & Animation](https://x.com/kikollan/status/2103578336018505763) — @kikollan · Claude Opus 5.5 · [Prompt](../prompts/motion-2103578336018505763.md#prompt)
 - [Interactive Honey Keyboard Simulation](https://x.com/keydol123/status/2108501256067285443) — @keydol123 · GPT-6 Astra / Claude Opus 5.5 · [Prompt](../prompts/motion-2108501256067285443.md#prompt)
 - [Interactive Bubble Genre Selection UI in App Development](https://x.com/asakarifa/status/2104463774862446760) — @asakarifa · Claude Opus 5.5 · [Prompt](../prompts/motion-2104463774862446760.md#prompt)
+- [Interactive camera lens cutaway and exploded view](https://x.com/aichrislee/status/2108709764817408244) — @aichrislee · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2108709764817408244.md#prompt)
+- [Beating heart with an interactive exploded view](https://x.com/aichrislee/status/2107985027254378670) — @aichrislee · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2107985027254378670.md#prompt)
+- [Mechanical watch movement and exploded view](https://x.com/aichrislee/status/2107622585307476025) — @aichrislee · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2107622585307476025.md#prompt)
+- [Rakeable zen garden with golden-hour shadows](https://x.com/arixxbt/status/2108541814718292438) — @arixxbt · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2108541814718292438.md#prompt)
+- [V8 engine firing sequence and exploded view](https://x.com/aichrislee/status/2107260223907922082) — @aichrislee · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2107260223907922082.md#prompt)
+- [A working marble computer built from mechanical toggles](https://x.com/GodsBoy7777/status/2103117450854150194) — @GodsBoy7777 · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103117450854150194.md#prompt)
