@@ -1,3 +1,429 @@
 {
-  "entries": {}
+  "updatedAt": "2026-10-21",
+  "baselineRepository": "https://github.com/rudy2steiner/open-prompts",
+  "baselineCommit": "81b697a9599bf9665d8975e544f66277a9ed8a02",
+  "entries": {
+    "kinetic-type": {
+      "models": [
+        "Opus 5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "platform": "X",
+      "selectionStatus": "inherited_curated",
+      "modelStatus": "inherited_reported",
+      "promptStatus": "inherited_full_text",
+      "verification": {
+        "method": "local_migration",
+        "checkedAt": null,
+        "visualQuality": "inherited_not_reassessed"
+      },
+      "provenance": {
+        "localFile": "src/data/promptMotion.ts",
+        "repository": "https://github.com/rudy2steiner/open-prompts",
+        "commit": "81b697a9599bf9665d8975e544f66277a9ed8a02"
+      },
+      "notes": "Migrated from the existing open-prompts collection. Prompt text and original attribution are preserved; playback quality and model claims have not been independently reassessed.",
+      "posterSourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103409564657885184/img/yzB3EAzZHx4veQ_X.jpg",
+      "scope": "motion"
+    },
+    "infinite-zoom": {
+      "models": [
+        "Opus 5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "platform": "X",
+      "selectionStatus": "inherited_curated",
+      "modelStatus": "inherited_reported",
+      "promptStatus": "inherited_full_text",
+      "verification": {
+        "method": "local_migration",
+        "checkedAt": null,
+        "visualQuality": "inherited_not_reassessed"
+      },
+      "provenance": {
+        "localFile": "src/data/promptMotion.ts",
+        "repository": "https://github.com/rudy2steiner/open-prompts",
+        "commit": "81b697a9599bf9665d8975e544f66277a9ed8a02"
+      },
+      "notes": "Migrated from the existing open-prompts collection. Prompt text and original attribution are preserved; playback quality and model claims have not been independently reassessed.",
+      "posterSourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103123431558348801/img/Y0JXLfCRvHmqUs6I.jpg",
+      "scope": "motion"
+    },
+    "overthinking": {
+      "models": [
+        "Opus 5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "platform": "X",
+      "selectionStatus": "inherited_curated",
+      "modelStatus": "inherited_reported",
+      "promptStatus": "inherited_full_text",
+      "verification": {
+        "method": "local_migration",
+        "checkedAt": null,
+        "visualQuality": "inherited_not_reassessed"
+      },
+      "provenance": {
+        "localFile": "src/data/promptMotion.ts",
+        "repository": "https://github.com/rudy2steiner/open-prompts",
+        "commit": "81b697a9599bf9665d8975e544f66277a9ed8a02"
+      },
+      "notes": "Migrated from the existing open-prompts collection. Prompt text and original attribution are preserved; playback quality and model claims have not been independently reassessed.",
+      "posterSourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103565216839602176/img/57KPQXjy3tJoHg0n.jpg",
+      "scope": "motion"
+    },
+    "motion-showreel": {
+      "models": [
+        "Opus 5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "platform": "X",
+      "selectionStatus": "inherited_curated",
+      "modelStatus": "author_reported",
+      "promptStatus": "author_text_checked",
+      "verification": {
+        "method": "chrome-mcp",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_playback_reviewed"
+      },
+      "provenance": {
+        "localFile": "src/data/promptMotion.ts",
+        "repository": "https://github.com/rudy2steiner/open-prompts",
+        "commit": "81b697a9599bf9665d8975e544f66277a9ed8a02"
+      },
+      "notes": "The author explicitly describes Cursor, Opus 5.5 and code-synthesized music in the prompt reply.",
+      "posterSourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103537567853666304/img/0aV5KGQ8E6aPmgLx.jpg",
+      "scope": "motion",
+      "agent": "Cursor"
+    },
+    "ui-morph": {
+      "models": [
+        "Opus 5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "platform": "X",
+      "selectionStatus": "inherited_curated",
+      "modelStatus": "inherited_reported",
+      "promptStatus": "inherited_full_text",
+      "verification": {
+        "method": "local_migration",
+        "checkedAt": null,
+        "visualQuality": "inherited_not_reassessed"
+      },
+      "provenance": {
+        "localFile": "src/data/promptMotion.ts",
+        "repository": "https://github.com/rudy2steiner/open-prompts",
+        "commit": "81b697a9599bf9665d8975e544f66277a9ed8a02"
+      },
+      "notes": "Migrated from the existing open-prompts collection. Prompt text and original attribution are preserved; playback quality and model claims have not been independently reassessed.",
+      "posterSourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103272964967804928/img/DTuQzS4NOGKMbTDA.jpg",
+      "scope": "motion"
+    },
+    "photo-print": {
+      "models": [
+        "Opus 5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "platform": "X",
+      "selectionStatus": "inherited_curated",
+      "modelStatus": "inherited_reported",
+      "promptStatus": "inherited_full_text",
+      "verification": {
+        "method": "local_migration",
+        "checkedAt": null,
+        "visualQuality": "inherited_not_reassessed"
+      },
+      "provenance": {
+        "localFile": "src/data/promptMotion.ts",
+        "repository": "https://github.com/rudy2steiner/open-prompts",
+        "commit": "81b697a9599bf9665d8975e544f66277a9ed8a02"
+      },
+      "notes": "Migrated from the existing open-prompts collection. Prompt text and original attribution are preserved; playback quality and model claims have not been independently reassessed.",
+      "posterSourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103830256347910144/img/YsUzKmE5XqGD9NZR.jpg",
+      "scope": "motion"
+    },
+    "mathematics": {
+      "models": [
+        "Opus 5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "platform": "X",
+      "selectionStatus": "inherited_curated",
+      "modelStatus": "inherited_reported",
+      "promptStatus": "inherited_full_text",
+      "verification": {
+        "method": "local_migration",
+        "checkedAt": null,
+        "visualQuality": "inherited_not_reassessed"
+      },
+      "provenance": {
+        "localFile": "src/data/promptMotion.ts",
+        "repository": "https://github.com/rudy2steiner/open-prompts",
+        "commit": "81b697a9599bf9665d8975e544f66277a9ed8a02"
+      },
+      "notes": "Migrated from the existing open-prompts collection. Prompt text and original attribution are preserved; playback quality and model claims have not been independently reassessed.",
+      "posterSourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2104485588590280704/img/l16Si8KQjjtmHjaS.jpg",
+      "scope": "motion"
+    },
+    "recursion": {
+      "models": [
+        "Opus 5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "platform": "X",
+      "selectionStatus": "inherited_curated",
+      "modelStatus": "inherited_reported",
+      "promptStatus": "inherited_full_text",
+      "verification": {
+        "method": "local_migration",
+        "checkedAt": null,
+        "visualQuality": "inherited_not_reassessed"
+      },
+      "provenance": {
+        "localFile": "src/data/promptMotion.ts",
+        "repository": "https://github.com/rudy2steiner/open-prompts",
+        "commit": "81b697a9599bf9665d8975e544f66277a9ed8a02"
+      },
+      "notes": "Migrated from the existing open-prompts collection. Prompt text and original attribution are preserved; playback quality and model claims have not been independently reassessed.",
+      "posterSourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103687838420131840/img/HC_R1rLMlIn0SvvN.jpg",
+      "scope": "motion"
+    },
+    "cinetic": {
+      "models": [
+        "Opus 5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "platform": "X",
+      "selectionStatus": "inherited_curated",
+      "modelStatus": "inherited_reported",
+      "promptStatus": "inherited_full_text",
+      "verification": {
+        "method": "local_migration",
+        "checkedAt": null,
+        "visualQuality": "inherited_not_reassessed"
+      },
+      "provenance": {
+        "localFile": "src/data/promptMotion.ts",
+        "repository": "https://github.com/rudy2steiner/open-prompts",
+        "commit": "81b697a9599bf9665d8975e544f66277a9ed8a02"
+      },
+      "notes": "Migrated from the existing open-prompts collection. Prompt text and original attribution are preserved; playback quality and model claims have not been independently reassessed.",
+      "posterSourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2106887230614573056/img/_Gyeqv9wZ1e65At1.jpg",
+      "scope": "motion"
+    },
+    "typingmind": {
+      "models": [
+        "Opus 5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "platform": "X",
+      "selectionStatus": "inherited_curated",
+      "modelStatus": "inherited_reported",
+      "promptStatus": "inherited_full_text",
+      "verification": {
+        "method": "local_migration",
+        "checkedAt": null,
+        "visualQuality": "inherited_not_reassessed"
+      },
+      "provenance": {
+        "localFile": "src/data/promptMotion.ts",
+        "repository": "https://github.com/rudy2steiner/open-prompts",
+        "commit": "81b697a9599bf9665d8975e544f66277a9ed8a02"
+      },
+      "notes": "Migrated from the existing open-prompts collection. Prompt text and original attribution are preserved; playback quality and model claims have not been independently reassessed.",
+      "posterSourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103703848015835136/img/Qy7eZ-z5vGDrSR1U.jpg",
+      "scope": "motion"
+    },
+    "starry-night": {
+      "models": [
+        "Opus 5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "platform": "X",
+      "selectionStatus": "inherited_curated",
+      "modelStatus": "inherited_reported",
+      "promptStatus": "inherited_full_text",
+      "verification": {
+        "method": "local_migration",
+        "checkedAt": null,
+        "visualQuality": "inherited_not_reassessed"
+      },
+      "provenance": {
+        "localFile": "src/data/promptMotion.ts",
+        "repository": "https://github.com/rudy2steiner/open-prompts",
+        "commit": "81b697a9599bf9665d8975e544f66277a9ed8a02"
+      },
+      "notes": "Interactive game demonstration retained as a related animation reference, rather than a motion-design film.",
+      "posterSourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103802857933721600/img/5eB4dSCdmilj9D1o.jpg",
+      "scope": "related_interactive"
+    },
+    "enxovaly": {
+      "models": [
+        "Opus 5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "platform": "X",
+      "selectionStatus": "inherited_curated",
+      "modelStatus": "inherited_reported",
+      "promptStatus": "inherited_full_text",
+      "verification": {
+        "method": "local_migration",
+        "checkedAt": null,
+        "visualQuality": "inherited_not_reassessed"
+      },
+      "provenance": {
+        "localFile": "src/data/promptMotion.ts",
+        "repository": "https://github.com/rudy2steiner/open-prompts",
+        "commit": "81b697a9599bf9665d8975e544f66277a9ed8a02"
+      },
+      "notes": "Migrated from the existing open-prompts collection. Prompt text and original attribution are preserved; playback quality and model claims have not been independently reassessed.",
+      "posterSourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103589369307127808/img/Jc5YPX6S9hq4N3kr.jpg",
+      "scope": "motion"
+    },
+    "bold-type": {
+      "models": [
+        "Claude Opus 5.5",
+        "GPT-6 Astra"
+      ],
+      "modelFamilies": [
+        "Anthropic",
+        "OpenAI"
+      ],
+      "platform": "X",
+      "selectionStatus": "inherited_curated",
+      "modelStatus": "author_reported",
+      "promptStatus": "author_text_checked",
+      "verification": {
+        "method": "chrome-mcp",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_playback_reviewed"
+      },
+      "provenance": {
+        "localFile": "src/data/promptMotion.ts",
+        "repository": "https://github.com/rudy2steiner/open-prompts",
+        "commit": "81b697a9599bf9665d8975e544f66277a9ed8a02"
+      },
+      "notes": "The original post compares Opus 5.5 and GPT-6 Astra using the same prompt. Do not attribute the entire comparison to Claude alone.",
+      "posterSourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103149570440024064/img/QKgvRP_unggJVH6M.jpg",
+      "scope": "motion",
+      "agent": "Claude Code / Codex (secondary-source attribution; not independently checked)"
+    },
+    "particle-showreel": {
+      "models": [
+        "Opus 5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "platform": "X",
+      "selectionStatus": "inherited_curated",
+      "modelStatus": "inherited_reported",
+      "promptStatus": "inherited_full_text",
+      "verification": {
+        "method": "local_migration",
+        "checkedAt": null,
+        "visualQuality": "inherited_not_reassessed"
+      },
+      "provenance": {
+        "localFile": "src/data/promptMotion.ts",
+        "repository": "https://github.com/rudy2steiner/open-prompts",
+        "commit": "81b697a9599bf9665d8975e544f66277a9ed8a02"
+      },
+      "notes": "Migrated from the existing open-prompts collection. Prompt text and original attribution are preserved; playback quality and model claims have not been independently reassessed.",
+      "posterSourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103494828042670081/img/udYQG9z20oKvfkp5.jpg",
+      "scope": "motion"
+    },
+    "changelog-highlights": {
+      "aspectRatio": [
+        16,
+        9
+      ],
+      "durationMs": 16100,
+      "modelStatus": "author_reported",
+      "classificationStatus": "needs_review",
+      "promptStatus": "author_text_checked",
+      "discoveryUrl": "https://github.com/mikenevermiss/motionpromptgallery/blob/main/data/items.json",
+      "discoveredPostUrl": "https://x.com/leon7hao/status/2096844989900914865",
+      "verification": {
+        "authorAndNativeVideo": "verified",
+        "visualQuality": "not_playback_reviewed",
+        "endpoint": "https://cdn.syndication.twimg.com/tweet-result?id=2096844989900914865&token=0",
+        "checkedAt": "2026-10-21",
+        "method": "chrome-mcp"
+      },
+      "typeStatus": "needs_review",
+      "models": [
+        "GPT-6 Astra"
+      ],
+      "modelFamilies": [
+        "OpenAI"
+      ],
+      "platform": "X",
+      "selectionStatus": "source_checked",
+      "provenance": {
+        "localFile": "src/data/imports/motion-prompts-candidates.json",
+        "collectedAt": "2026-10-20T17:25:04.908154+00:00"
+      },
+      "scope": "motion",
+      "notes": "Author reports GPT-6 Astra medium, no installed skill, and a short changelog-based instruction."
+    },
+    "ajith-showreel": {
+      "aspectRatio": [
+        16,
+        9
+      ],
+      "durationMs": 15000,
+      "modelStatus": "author_reported",
+      "classificationStatus": "needs_review",
+      "promptStatus": "author_text_checked",
+      "discoveryUrl": "https://raw.githubusercontent.com/zhuyansen/awesome-opus-5.5-video/main/cases.json",
+      "discoveredPostUrl": "https://x.com/ajith_io/status/2103449416325890146",
+      "verification": {
+        "authorAndNativeVideo": "verified",
+        "visualQuality": "not_playback_reviewed",
+        "endpoint": "https://cdn.syndication.twimg.com/tweet-result?id=2103449416325890146&token=0",
+        "checkedAt": "2026-10-21",
+        "method": "chrome-mcp"
+      },
+      "typeStatus": "needs_review",
+      "models": [
+        "Claude Opus 5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "platform": "X",
+      "selectionStatus": "source_checked",
+      "provenance": {
+        "localFile": "src/data/imports/motion-prompts-candidates.json",
+        "collectedAt": "2026-10-20T17:25:04.908154+00:00"
+      },
+      "scope": "motion",
+      "notes": "The post names Claude Opus 5.5 and publishes the prompt. The author does not name the renderer; the old candidate title mentioning Remotion was corrected."
+    }
+  }
 }

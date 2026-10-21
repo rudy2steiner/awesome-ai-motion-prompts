@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "title": "Awesome AI Motion — guanmo-ai",
+    "author": "guanmo-ai",
+    "url": "https://github.com/guanmo-ai/awesome-ai-motion"
+  },
+  {
+    "title": "Awesome AI Motion — gongnyang",
+    "author": "gongnyang",
+    "url": "https://github.com/gongnyang/awesome-ai-motion"
+  },
+  {
+    "title": "Reference",
+    "author": "TensorTest",
+    "url": "https://meetreference.com/"
+  },
+  {
+    "title": "HyperFrames",
+    "author": "heygen-com",
+    "url": "https://github.com/heygen-com/hyperframes"
+  },
+  {
+    "title": "Remotion",
+    "author": "remotion-dev",
+    "url": "https://github.com/remotion-dev/remotion"
+  },
+  {
+    "title": "Cinetic",
+    "author": "Leonxlnx",
+    "url": "https://github.com/Leonxlnx/cinetic"
+  },
+  {
+    "title": "awesome-opus-5.5-video",
+    "author": "zhuyansen",
+    "url": "https://github.com/zhuyansen/awesome-opus-5.5-video"
+  },
+  {
+    "title": "awesome-opus5-5-videos",
+    "author": "yihui-dev",
+    "url": "https://github.com/yihui-dev/awesome-opus5-5-videos"
+  }
+]
