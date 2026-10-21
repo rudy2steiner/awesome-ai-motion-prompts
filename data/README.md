@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-983 works with prompt text saved in this repository. The collection includes published briefs, workflows and reusable animation templates. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+1000 works with prompt text saved in this repository. The collection includes published briefs, workflows and reusable animation templates. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -377,6 +377,17 @@
 - [Melt: a solid character surrounded by a liquefying environment](https://x.com/magnific/status/2112975398363676721) — @magnific · Kling (version not specified) (author reported) · [Prompt](../prompts/motion-2112975398363676721.md#prompt)
 - [Multiverse: a fixed face across rapid reality switches](https://x.com/magnific/status/2112975356558999740) — @magnific · Kling (version not specified) (author reported) · [Prompt](../prompts/motion-2112975356558999740.md#prompt)
 - [Fluid: a person liquefies, travels and reconstructs in new poses](https://x.com/magnific/status/2112975313043116064) — @magnific · Kling (version not specified) (author reported) · [Prompt](../prompts/motion-2112975313043116064.md#prompt)
+- [Motion Prompt: Zoom in](https://showheyohtaki.github.io/motion-prompt/#028) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-028.md#prompt)
+- [Motion Prompt: Slow motion](https://showheyohtaki.github.io/motion-prompt/#037) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-037.md#prompt)
+- [Motion Prompt: Jump cut](https://showheyohtaki.github.io/motion-prompt/#041) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-041.md#prompt)
+- [Motion Prompt: Cross dissolve](https://showheyohtaki.github.io/motion-prompt/#044) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-044.md#prompt)
+- [Motion Prompt: Wipe](https://showheyohtaki.github.io/motion-prompt/#045) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-045.md#prompt)
+- [Motion Prompt: Smash cut](https://showheyohtaki.github.io/motion-prompt/#046) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-046.md#prompt)
+- [Motion Prompt: Bounce](https://showheyohtaki.github.io/motion-prompt/#123) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-123.md#prompt)
+- [Motion Prompt: Wiggle](https://showheyohtaki.github.io/motion-prompt/#124) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-124.md#prompt)
+- [Motion Prompt: Pulse](https://showheyohtaki.github.io/motion-prompt/#125) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-125.md#prompt)
+- [Motion Prompt: Ping-pong loop](https://showheyohtaki.github.io/motion-prompt/#127) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-127.md#prompt)
+- [Motion Prompt: Push transition](https://showheyohtaki.github.io/motion-prompt/#137) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-137.md#prompt)
 
 
 <a id="explainers-data"></a>
@@ -1043,3 +1054,9 @@
 - [Motion Prompt: Filter chips](https://showheyohtaki.github.io/motion-prompt/#061) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-061.md#prompt)
 - [Motion Prompt: Range slider](https://showheyohtaki.github.io/motion-prompt/#062) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-062.md#prompt)
 - [Motion Prompt: Pagination](https://showheyohtaki.github.io/motion-prompt/#064) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-064.md#prompt)
+- [Motion Prompt: Fade-in on scroll](https://showheyohtaki.github.io/motion-prompt/#074) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-074.md#prompt)
+- [Motion Prompt: Image zoom on hover](https://showheyohtaki.github.io/motion-prompt/#082) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-082.md#prompt)
+- [Motion Prompt: Ripple effect](https://showheyohtaki.github.io/motion-prompt/#085) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-085.md#prompt)
+- [Motion Prompt: Preloader](https://showheyohtaki.github.io/motion-prompt/#089) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-089.md#prompt)
+- [Motion Prompt: Marquee](https://showheyohtaki.github.io/motion-prompt/#094) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-094.md#prompt)
+- [Motion Prompt: Animated gradient](https://showheyohtaki.github.io/motion-prompt/#095) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-095.md#prompt)
