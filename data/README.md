@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-974 works with prompt text saved in this repository. The collection includes published briefs, workflows and reusable animation templates. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+976 works with prompt text saved in this repository. The collection includes published briefs, workflows and reusable animation templates. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -631,6 +631,8 @@
 - [NOGGIN: The Mind Is a Collage — surreal editorial cutout film](https://github.com/Vincentwei1021/mg-styles-15/blob/main/prompts/06-collage.md) — @Vincentwei1021 · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-mg-styles-06-collage.md#prompt)
 - [Pixel Quest: code-drawn pixel adventure title sequence](https://github.com/Vincentwei1021/mg-styles-15/blob/main/prompts/20-pixel.md) — @Vincentwei1021 · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-mg-styles-20-pixel.md#prompt)
 - [Mrs Bramble’s elevator armor reveal: six-model image-to-video comparison](https://x.com/KorpiAi/status/2112966594997481617) — @KorpiAi · Wan 3.0 / Veo 3.1 Fast / Kling v3 / Gemini Omni / Seedance 2.5 / LTX 2 (author reported) · [Prompt](../prompts/motion-2112966594997481617.md#prompt)
+- [Fitri’s Nature Escape: six identity-locked garden and lifestyle shots](https://x.com/rizq_digitalart/status/2112920792044339309) — @rizq_digitalart · WAN 3.0 / Picsart AI Playground (author reported) · [Prompt](../prompts/motion-2112920792044339309.md#prompt)
+- [The Clone Chaos: a magical mirror multiplies a fluffy creature](https://x.com/rizq_digitalart/status/2112063809745817852) — @rizq_digitalart · Generation model not specified; Picsart AI Playground (author reported) · [Prompt](../prompts/motion-2112063809745817852.md#prompt)
 
 
 <a id="3d-simulations"></a>
