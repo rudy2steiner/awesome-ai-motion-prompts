@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-934 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+945 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -363,6 +363,17 @@
 - [Motion Prompt: Time-lapse](https://showheyohtaki.github.io/motion-prompt/#039) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-039.md#prompt)
 - [Motion Prompt: Match cut](https://showheyohtaki.github.io/motion-prompt/#042) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-042.md#prompt)
 - [Motion Prompt: Whip pan](https://showheyohtaki.github.io/motion-prompt/#043) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-043.md#prompt)
+- [Motion Prompt: Stop-motion style](https://showheyohtaki.github.io/motion-prompt/#128) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-128.md#prompt)
+- [Motion Prompt: Text on a path](https://showheyohtaki.github.io/motion-prompt/#131) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-131.md#prompt)
+- [Motion Prompt: Variable font animation](https://showheyohtaki.github.io/motion-prompt/#132) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-132.md#prompt)
+- [Motion Prompt: Text mask](https://showheyohtaki.github.io/motion-prompt/#133) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-133.md#prompt)
+- [Motion Prompt: Repeater](https://showheyohtaki.github.io/motion-prompt/#134) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-134.md#prompt)
+- [Motion Prompt: Kaleidoscope](https://showheyohtaki.github.io/motion-prompt/#135) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-135.md#prompt)
+- [Motion Prompt: Blinds transition](https://showheyohtaki.github.io/motion-prompt/#138) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-138.md#prompt)
+- [Motion Prompt: Cube transition](https://showheyohtaki.github.io/motion-prompt/#139) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-139.md#prompt)
+- [Motion Prompt: Pixelate](https://showheyohtaki.github.io/motion-prompt/#141) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-141.md#prompt)
+- [Motion Prompt: Exploded view](https://showheyohtaki.github.io/motion-prompt/#143) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-143.md#prompt)
+- [Motion Prompt: Split screen](https://showheyohtaki.github.io/motion-prompt/#144) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-144.md#prompt)
 
 
 <a id="explainers-data"></a>
