@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-897 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+902 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -174,6 +174,7 @@
 - [motion-pack: Launch film × Chrome Product, 35 s 16:9](https://github.com/ANVEAI/motion-pack/blob/main/docs/prompts.md#L127) — @ANVEAI / motion-pack contributors · Claude Code / model-agnostic coding agent (motion-pack required) · [Prompt](../prompts/motion-motion-pack-launch-film.md#prompt)
 - [motion-pack: SaaS feature drop × Swiss Grid, 20 s 16:9](https://github.com/ANVEAI/motion-pack/blob/main/docs/prompts.md#L171) — @ANVEAI / motion-pack contributors · Claude Code / model-agnostic coding agent (motion-pack required) · [Prompt](../prompts/motion-motion-pack-saas-feature-drop.md#prompt)
 - [X Vision: on-brand startup launch film with a beat-synced score](https://x.com/meetarno/status/2102934732203782464) — @meetarno · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2102934732203782464.md#prompt)
+- [AI_Animation: Cinematic phone UI product walkthrough](https://github.com/Unclecheng-li/AI_Animation/blob/master/skills/phone-ui-demos/README.md#使用方式) — @Unclecheng-li / AI_Animation contributors · Model-agnostic coding agent (AI_Animation skill required) · [Prompt](../prompts/motion-ai-animation-phone-ui-demos.md#prompt)
 
 
 <a id="motion-studies"></a>
@@ -471,6 +472,10 @@
 - [motion-pack: Explainer × Blueprint, 45 s 16:9](https://github.com/ANVEAI/motion-pack/blob/main/docs/prompts.md#L235) — @ANVEAI / motion-pack contributors · Claude Code / model-agnostic coding agent (motion-pack required) · [Prompt](../prompts/motion-motion-pack-explainer.md#prompt)
 - [Context Tax: narrated motion explainer for an engineering team](https://x.com/mablesjoseph/status/2105472483054735781) — @mablesjoseph · Claude Opus 5.5 (Max effort) / Remotion / ElevenLabs (author reported) · [Prompt](../prompts/motion-2105472483054735781.md#prompt)
 - [A single photon: a code-drawn journey from the Sun to the eye](https://x.com/apoorvjain25/status/2104818940467945542) — @apoorvjain25 · Claude Opus 5.5 / Remotion (author reported) · [Prompt](../prompts/motion-2104818940467945542.md#prompt)
+- [AI_Animation: TCP handshake visualization](https://github.com/Unclecheng-li/AI_Animation/blob/master/skills/network-protocol-viz/README.md#使用方式) — @Unclecheng-li / AI_Animation contributors · Model-agnostic coding agent (AI_Animation skill required) · [Prompt](../prompts/motion-ai-animation-network-protocol-viz.md#prompt)
+- [AI_Animation: Animated microservice architecture](https://github.com/Unclecheng-li/AI_Animation/blob/master/skills/dynamic-archify/README.md#使用方式) — @Unclecheng-li / AI_Animation contributors · Model-agnostic coding agent (AI_Animation skill required) · [Prompt](../prompts/motion-ai-animation-dynamic-archify.md#prompt)
+- [AI_Animation: TLS handshake in a narrated 3D card theater](https://github.com/Unclecheng-li/AI_Animation/blob/master/skills/card-theater/README.md#使用方式) — @Unclecheng-li / AI_Animation contributors · Model-agnostic coding agent (AI_Animation skill required) · [Prompt](../prompts/motion-ai-animation-card-theater.md#prompt)
+- [AI_Animation: Shot-by-shot cinematic HTML explainer](https://github.com/Unclecheng-li/AI_Animation/blob/master/skills/video-shot-demos/README.md#使用方式) — @Unclecheng-li / AI_Animation contributors · Model-agnostic coding agent (AI_Animation skill required) · [Prompt](../prompts/motion-ai-animation-video-shot-demos.md#prompt)
 
 
 <a id="characters-stories"></a>
