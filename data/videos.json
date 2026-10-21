@@ -25808,5 +25808,63 @@
       "visualQuality": "not_reviewed",
       "fullReview": false
     }
+  },
+  {
+    "id": "2057499174568923566",
+    "title": "Endless neon tunnel: polar-coordinate GLSL shader comparison",
+    "author": "loktar00",
+    "sourceUrl": "https://x.com/loktar00/status/2057499174568923566",
+    "promptSourceUrl": "https://x.com/loktar00/status/2057499322275504410",
+    "prompt": "Provide a single self-contained HTML file using only HTML, CSS, JavaScript, Three.js from a CDN, and one GLSL fragment shader.\n\nCreate a full-screen animated shader that looks like flying forward through an endless glowing tunnel. Keep the implementation simple: render one full-screen plane with a fragment shader. Do not use raymarching, 3D geometry, physics, particles, or complex scene objects.\n\nIn the fragment shader, convert the pixel coordinates to polar coordinates using angle and distance from the center of the screen. Use the angle to create repeating radial bands around the tunnel, and use distance plus time to make the bands scroll toward the viewer. Add layered sine waves and simple fractal-style repetition so the tunnel wall appears detailed, but keep it stable and readable. The center should look like a dark vanishing point, while the outer area shows glowing tunnel walls moving outward.\n\nUse deep blue, violet, magenta, and cyan colors with bright highlights. Add a soft vignette, slight glow, and smooth animation. The result should feel like an endless neon fractal tunnel screensaver, but the code should stay simple and robust. There should be no text, no UI, and no controls. It should run automatically forever.",
+    "model": "Qwen 3.7 Max / GPT 5.5 / Opus (version unspecified) / GLM 5.1",
+    "primaryCategory": "motion-studies",
+    "promptStatus": "source_transcribed",
+    "promptCompleteness": "complete_published_prompt",
+    "requiresReference": false,
+    "notes": "Older work found by following an author’s X prompt threads. Complete public text was read directly from the author’s reply and connected to the original native-video post through public reply metadata. Model labels above are author-reported; no unpublished version equivalence is inferred. Native video presence was confirmed; full playback and visual quality were not reviewed. The multi-model comparison is counted once. The prompt specifies a full-screen plane, one fragment shader and polar-coordinate bands without raymarching. The author’s model preference and requested visual/technical properties were not independently evaluated.",
+    "platform": "X",
+    "modelStatus": "author_claim",
+    "status": "collected",
+    "promptFile": "prompts/motion-2057499174568923566.md",
+    "discoveryUrl": "https://x.com/loktar00/status/2057499174568923566",
+    "verification": {
+      "method": "chrome_mcp_original_x_prompt_thread",
+      "checkedAt": "2026-10-22",
+      "originalPostConfirmed": true,
+      "promptMatchedSource": true,
+      "authorClaimConfirmed": true,
+      "nativeVideoConfirmed": true,
+      "visualQuality": "not_reviewed",
+      "fullReview": false
+    }
+  },
+  {
+    "id": "2099673110702109091",
+    "title": "DeepSeek Halloween: asset planning, Krea-to-TRELLIS models and Three.js staging",
+    "author": "loktar00",
+    "sourceUrl": "https://x.com/loktar00/status/2099673110702109091",
+    "promptSourceUrl": "https://x.com/loktar00/status/2099673113726501213",
+    "prompt": "1. I write a short prompt file for the scene the setting, what has to happen, one fixed style sentence every asset must end with, any previously generated models to reuse (sometimes I love the model style but the overal scene is meh), the scene rules, and the print post process. At this point we don't lists the assets.\n\n2. Model Stage A - DeepSeek designs the asset list. It gets the brief and returns JSON only a scene name and 6 to 13 assets (configurable), each with a name, role, instance count, and an image prompt in its own words. This is super quick takes maybe 10-20 seconds.\n\n3. The asset service builds the assets. For each entry, a runner posts DeepSeeks image prompt to a service running on my 5090 rig. It appends the framing rules (single object, plain background, three-quarter view), generates a concept image with Krea2 on ComfyUI, sends that to TRELLIS.2, and drops the textured GLB into the gallery's assets folder. This takes around a minute per asset.\n\n4. Analysis. A Python script measures every GLB: forward axis, bow and stern, top, any action points, plus a rotation that puts forward on +Z. All of it goes into the asset manifest.\n\n5. Model Stage B - DeepSeek writes the page in a single turn. I give it the original brief, the asset manifest (paths, sizes, counts), each assets concept image so it can see what it's placing (I skip this for non vision models), and the standing page rules (three.js with the GLTF loader, terrain or starfield built in code, lighting, camera, particles, loading overlay, the post shader). This is what generates the single page.\n\nThe last part is obviously my QA and determining if I should start from scratch or prompt a fix or 2.",
+    "model": "DeepSeek 4.1 Flash / Krea2 / TRELLIS.2 / YuE2",
+    "primaryCategory": "3d-simulations",
+    "promptStatus": "published_workflow",
+    "promptCompleteness": "published_method_requires_custom_pipeline",
+    "requiresReference": true,
+    "notes": "Older work found by following an author’s X prompt threads. Complete public text was read directly from the author’s reply and connected to the original native-video post through public reply metadata. Model labels above are author-reported; no unpublished version equivalence is inferred. Native video presence was confirmed; full playback and visual quality were not reviewed. This is the author’s five-stage production method, not the original scene brief or complete input prompts. It requires custom asset services, ComfyUI, a GLB gallery, analysis scripts and page rules that are not bundled. The author describes manual QA and possible fixes; runtime, speed and hardware claims were not independently verified. YuE2 is credited in the demo post, not described in the five-step method.",
+    "platform": "X",
+    "modelStatus": "author_claim",
+    "status": "collected",
+    "promptFile": "prompts/motion-2099673110702109091.md",
+    "discoveryUrl": "https://x.com/loktar00/status/2099673110702109091",
+    "verification": {
+      "method": "chrome_mcp_original_x_prompt_thread",
+      "checkedAt": "2026-10-22",
+      "originalPostConfirmed": true,
+      "promptMatchedSource": true,
+      "authorClaimConfirmed": true,
+      "nativeVideoConfirmed": true,
+      "visualQuality": "not_reviewed",
+      "fullReview": false
+    }
   }
 ]
