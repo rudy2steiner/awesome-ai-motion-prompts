@@ -26,4 +26,4 @@ The model field is not the agent or renderer. For example, GPT can run in ChatGP
 
 Incomplete records belong in `data/candidates.json` under `cases`, with a matching `count`. Keep missing prompts as null or absent there; do not invent a prompt to satisfy the import interface. Model claims marked `directory_reported` remain unconfirmed.
 
-`python3 scripts/build.py` generates the TypeScript export and navigation indexes. `python3 scripts/validate.py` checks schema compatibility, unique sources, public assets, prompt cards and generated-export consistency. These are local integrity checks, not external link or visual-quality verification.
+`python3 scripts/build.py` generates the TypeScript export and candidate index; README.md is edited directly and is never regenerated. `python3 scripts/validate.py` checks schema compatibility, unique sources, public assets, prompt cards and generated-export consistency. These are local integrity checks, not external link or visual-quality verification.

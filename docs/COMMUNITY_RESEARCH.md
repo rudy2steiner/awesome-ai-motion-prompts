@@ -9,6 +9,6 @@ Reviewed through chrome-mcp on 2026-10-21. Activity dates below are the latest c
 | [prompts.chat](https://github.com/f/prompts.chat) | 2026-10-21 | Website submission with automatic repository synchronization | A visible, low-friction submission entry point; no requirement to edit data files |
 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 2026-09-02 | Broad topic hierarchy and contributor guidance; repository description currently says new PRs are temporarily disabled | Clear instructions and reviewed publication; do not claim this source currently accepts new PRs |
 
-Our contribution path is direct pull requests: contributors add a Markdown prompt card, and maintainers help normalize structured metadata during review. There is no engagement threshold. Category suggestions can be included in the same PR.
+Our contribution path is direct pull requests: contributors add an entry directly under a category in README.md, with an optional Markdown prompt card; maintainers help normalize structured metadata during review. There is no engagement threshold. Category suggestions can be included in the same PR.
 
 These sources informed the workflow; their repository-specific instructions were not executed or adopted as instructions for this repository. We do not copy their project-age restrictions, software-specific criteria or submission closures.
