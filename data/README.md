@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-779 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+780 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -164,6 +164,7 @@
 - [Continuous product UI loop: chat, music player, rubber-band slider and chart](https://x.com/twoclipping/status/2104674464868762046) — @twoclipping · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2104674464868762046.md#prompt)
 - [LaunchBuddy product film with animated screenshot components](https://x.com/FloWritesCode/status/2105268326381625845) — @FloWritesCode · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2105268326381625845.md#prompt)
 - [Perceptron Mk1.5: typography, shape and camera-driven release reel](https://x.com/Subraiz24/status/2104089865537331298) — @Subraiz24 · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2104089865537331298.md#prompt)
+- [own.page cinematic product film with medieval atmosphere and animated UI components](https://x.com/ElitzaVasileva/status/2107187734414582139) — @ElitzaVasileva · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2107187734414582139.md#prompt)
 
 
 <a id="motion-studies"></a>

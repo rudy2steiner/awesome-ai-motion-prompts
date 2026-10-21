@@ -26234,5 +26234,34 @@
       "visualQuality": "not_reviewed",
       "fullReview": false
     }
+  },
+  {
+    "id": "2107187734414582139",
+    "title": "own.page cinematic product film with medieval atmosphere and animated UI components",
+    "author": "ElitzaVasileva",
+    "sourceUrl": "https://x.com/ElitzaVasileva/status/2107187734414582139",
+    "promptSourceUrl": "https://x.com/ElitzaVasileva/status/2107189860968591465",
+    "prompt": "Create a 45-second promotional video for \nhttps://\nown.page with the cinematic world, typography, mystery, music, and epicness of [your favourite movie].\n\nYou’re the movie director - decide the story and creative direction. Use real product screenshots, logo, and assets. Break screenshots into components and animate them with rich, juicy motion tightly synchronized to the music.\n\nMake it feel like an epic medieval film. Deliver a finished video with music and professional production quality, not a demo or prototype.",
+    "model": "Claude Opus 5.5",
+    "primaryCategory": "product-brand",
+    "promptStatus": "source_transcribed",
+    "promptCompleteness": "published_brief_requires_product_assets",
+    "requiresReference": true,
+    "notes": "Older work found while reviewing upstream leads. The complete public brief was read directly from the author’s reply; public reply metadata connects it to the original native-video post. The author credits Opus 5.5. The brief requires real own.page screenshots, logo and assets and contains a favourite-movie placeholder; the exact reference film and complete prior context are not established. It requests an epic medieval cinematic treatment and music-synchronized component animation. Native video presence was confirmed; actual duration, asset provenance, music rights, full playback and visual quality were not independently reviewed. Keep source-rendered product URL text as published.",
+    "platform": "X",
+    "modelStatus": "author_claim",
+    "status": "collected",
+    "promptFile": "prompts/motion-2107187734414582139.md",
+    "discoveryUrl": "https://x.com/ElitzaVasileva/status/2107187734414582139",
+    "verification": {
+      "method": "chrome_mcp_original_x_prompt_thread",
+      "checkedAt": "2026-10-22",
+      "originalPostConfirmed": true,
+      "promptMatchedSource": true,
+      "authorClaimConfirmed": true,
+      "nativeVideoConfirmed": true,
+      "visualQuality": "not_reviewed",
+      "fullReview": false
+    }
   }
 ]
