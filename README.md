@@ -1,3 +1,5 @@
+[![Awesome AI Motion Prompts](public/hero.png)](https://www.open-prompts.com/motion-prompts)
+
 # Awesome AI Motion Prompts
 
 Discover remarkable motion. Find the prompt behind it.
@@ -35,7 +37,7 @@ The current collection is a starting point, not a claim of complete coverage. Im
 | [<img src="public/motion-posters/2096844989900914865.webp" width="220" alt="Changelog highlight video (no skill installed)" />](https://video.twimg.com/amplify_video/2096844380707721216/vid/avc1/1280x720/GY2ozLchKiQv8O-L.mp4) | **[Changelog highlight video (no skill installed)](examples/changelog-highlights.md)**<br>by [leon7hao](https://x.com/leon7hao/status/2096844989900914865) | GPT-6 Astra | Prompt<br> |
 | [<img src="public/motion-posters/2103449416325890146.webp" width="220" alt="15-second flat-color motion showreel" />](https://video.twimg.com/amplify_video/2103449259869863936/vid/avc1/1280x720/JPFTTGgTObPSPXKM.mp4) | **[15-second flat-color motion showreel](examples/ajith-showreel.md)**<br>by [ajith_io](https://x.com/ajith_io/status/2103449416325890146) | Claude Opus 5.5 | Prompt<br>Product UI |
 
-Maintained by [open-prompts.com](https://www.open-prompts.com).
+Maintained by [open-prompts.com](https://www.open-prompts.com/motion-prompts).
 
 ## Repository layout
 
