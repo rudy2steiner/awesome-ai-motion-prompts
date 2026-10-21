@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-632 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+649 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -138,6 +138,13 @@
 - [Fictional Fashion Commercial Direction with Claude Opus 5.5 and MiniMax H3](https://x.com/ito1217yo/status/2104560073217597459) — ito1217yo · Claude Opus 5.5 / MiniMax H3 (directory reported) · [Prompt](../prompts/motion-2104560073217597459.md#prompt)
 - [Abstract Tech MG Brand Short For H3](https://static.atlascloud.ai/model/example/minimax-h3/TzPub7XD1o9u3kxFUfNc7zz0nce.mp4) — MiniMax (credited by Atlas Cloud) · MiniMax H3 (directory reported) · [Prompt](../prompts/motion-minimax-h3-mmh3_014.md#prompt)
 - [High-End Motion Graphics Brand Film](https://static.atlascloud.ai/model/example/minimax-h3/CgaIbUb5yo9wCQxEKLdcbBISnbr.mp4) — MiniMax (credited by Atlas Cloud) · MiniMax H3 (directory reported) · [Prompt](../prompts/motion-minimax-h3-mmh3_015.md#prompt)
+- [Nine-beat product film shown as wireframe and final render](https://x.com/ArchiveExplorer/status/2106732275685560622) — @ArchiveExplorer · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2106732275685560622.md#prompt)
+- [Reflex brand reel with type, shapes and camera movement](https://x.com/reflex_cloud/status/2103552840027304046) — @reflex_cloud · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103552840027304046.md#prompt)
+- [Personal account intro built from a logo and cover image](https://x.com/fire_ozgur/status/2103459971174130104) — @fire_ozgur · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103459971174130104.md#prompt)
+- [Slideforge launch film using real product assets](https://x.com/techtactician/status/2103219463508144474) — @techtactician · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103219463508144474.md#prompt)
+- [Easy-Peasy AI launch film sourced from the live product](https://x.com/dimoff2000/status/2103372924753260969) — @dimoff2000 · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103372924753260969.md#prompt)
+- [Mackenzie Club fox-chase event hype film](https://x.com/DaveRogenmoser/status/2103249424075899271) — @DaveRogenmoser · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103249424075899271.md#prompt)
+- [Hedy product promotion with real UI and feature assets](https://x.com/JulianPscheid/status/2103197385283494027) — @JulianPscheid · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103197385283494027.md#prompt)
 
 
 <a id="motion-studies"></a>
@@ -252,6 +259,8 @@
 - [Shape Morph Canvas Animation with Color and Radius Inputs](https://x.com/flxrnc/status/2108242454105251921) — flxrnc · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2108242454105251921.md#prompt)
 - [Tile-Made 30-Second Ad Video Reveal with Three.js](https://x.com/tanabe_fragm/status/2107644501372322001) — tanabe_fragm · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2107644501372322001.md#prompt)
 - [Canvas-Drawn Video with Web Audio Synthesized Music (Chinese)](https://x.com/oxpsats/status/2104462072344182908) — oxpsats · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2104462072344182908.md#prompt)
+- [Audio-measured UI morph film with four-subframe motion blur](https://x.com/diamai_/status/2104195085508157697) — @diamai_ · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2104195085508157697.md#prompt)
+- [Bold-type HTML showreel rendered frame by frame](https://x.com/aichrislee/status/2103878567540961335) — @aichrislee · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103878567540961335.md#prompt)
 
 
 <a id="explainers-data"></a>
@@ -357,6 +366,8 @@
 - [Napoleon Hill Drifting Mind Insight 2D Explainer](https://x.com/bitfish/status/2103670987879539054) — bitfish · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103670987879539054.md#prompt)
 - [Paul Graham How to Do Great Work Video Essay](https://x.com/rohanpaul_ai/status/2104352205176500542) — rohanpaul_ai · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2104352205176500542.md#prompt)
 - [Portland Bus Transit System Data Visualization Animation](https://x.com/milos_gis/status/2103751211040317580) — milos_gis · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103751211040317580.md#prompt)
+- [White Russian cocktail recipe assembled in thirty seconds](https://x.com/Sarut0biSasuke/status/2103418429248069973) — @Sarut0biSasuke · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103418429248069973.md#prompt)
+- [Building the Brain: a code-rendered AI history trailer](https://x.com/linke1427832/status/2104099543839343079) — @linke1427832 · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2104099543839343079.md#prompt)
 
 
 <a id="characters-stories"></a>
@@ -441,6 +452,7 @@
 - [Fateful Xianxia Character Sequence](https://static.atlascloud.ai/model/example/minimax-h3/GmMNbhZ23oTJwPxeqcpcxJP7nxb.mp4) — MiniMax (credited by Atlas Cloud) · MiniMax H3 (directory reported) · [Prompt](../prompts/motion-minimax-h3-mmh3_031.md#prompt)
 - [First-Person FPS Gameplay Simulation](https://static.atlascloud.ai/model/example/minimax-h3/S92lbUnUtol4VKxnJnIcXHcAnvg.mp4) — MiniMax (credited by Atlas Cloud) · MiniMax H3 (directory reported) · [Prompt](../prompts/motion-minimax-h3-mmh3_033.md#prompt)
 - [Evening Tram Hand-Drawn Light Animation](https://static.atlascloud.ai/model/example/minimax-h3/MiTub4mPgocHttxgdp0cVvbxnee.mp4) — MiniMax (credited by Atlas Cloud) · MiniMax H3 (directory reported) · [Prompt](../prompts/motion-minimax-h3-mmh3_052.md#prompt)
+- [Playful JavaScript film using supplied hand-drawn images](https://x.com/abderrahmen_g/status/2103103836541899031) — @abderrahmen_g · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103103836541899031.md#prompt)
 
 
 <a id="3d-simulations"></a>
@@ -538,6 +550,7 @@
 - [Tesla Roadster Collapsing Bridge Escape 3D Simulation](https://x.com/daveeyyy_/status/2111184182307434810) — daveeyyy_ · Claude Opus 5.5 / GLM (version unspecified) (directory reported) · [Prompt](../prompts/motion-2111184182307434810.md#prompt)
 - [Night Tokyo: Rainy Vending Machine 3D Diorama](https://x.com/sprinntt/status/2110107260751884639) — sprinntt · Claude Opus 5.5 / Codex (model unspecified) (directory reported) · [Prompt](../prompts/motion-2110107260751884639.md#prompt)
 - [Propane Tank Crush and Explosion WebGPU Simulation](https://x.com/theparuchh/status/2108249888571916688) — theparuchh · Claude Opus 5.5 / GPT-6 Astra (directory reported) · [Prompt](../prompts/motion-2108249888571916688.md#prompt)
+- [Doctor Doom brick-model assembly in 850 animated steps](https://x.com/SammmAing/status/2103280356371702076) — @SammmAing · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103280356371702076.md#prompt)
 
 
 <a id="music-audiovisual"></a>
@@ -692,3 +705,7 @@
 - [Interactive WebGPU Plush Hammerhead Shark](https://x.com/vib3coded/status/2108486895344767283) — vib3coded · Claude Opus 5.5 / GPT-6 Astra (directory reported) · [Prompt](../prompts/motion-2108486895344767283.md#prompt)
 - [One-Tap Flying Mobile Game in HTML5 Canvas](https://x.com/bytwize/status/2110233825007845872) — bytwize · Gemini 4 (variant unspecified) / Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2110233825007845872.md#prompt)
 - [Pirate Jelly Interactive WebGPU Diorama](https://x.com/vib3coded/status/2108336208891801999) — vib3coded · Claude Opus 5.5 / GPT-6 Astra (directory reported) · [Prompt](../prompts/motion-2108336208891801999.md#prompt)
+- [Original low-poly arcade racer with boost and ice physics](https://x.com/_nieGRAMotny_/status/2103128800909197521) — @_nieGRAMotny_ · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103128800909197521.md#prompt)
+- [Five-stage mobile-game reward reveal with synthesized sound](https://x.com/op7418/status/2103724883301814408) — @op7418 · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103724883301814408.md#prompt)
+- [Saturn V rocket with interactive exploded stages](https://x.com/aichrislee/status/2108347412636938609) — @aichrislee · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2108347412636938609.md#prompt)
+- [Interactive jet-engine cutaway with labeled exploded parts](https://x.com/aichrislee/status/2106535528149479847) — @aichrislee · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2106535528149479847.md#prompt)
