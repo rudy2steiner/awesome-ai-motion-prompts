@@ -25721,5 +25721,63 @@
       "visualQuality": "not_reviewed",
       "fullReview": false
     }
+  },
+  {
+    "id": "2104674464868762046",
+    "title": "Continuous product UI loop: chat, music player, rubber-band slider and chart",
+    "author": "twoclipping",
+    "sourceUrl": "https://x.com/twoclipping/status/2104674464868762046",
+    "promptSourceUrl": "https://x.com/twoclipping/status/2104674464868762046",
+    "prompt": "<inputs>\nAsk me for: the one question a user asks my product and its one-line answer, two album covers, a royalty-free song around 110 BPM with a quiet intro and a hard drop (Mixkit, free for commercial use), and my logo for the ending. If I skip any, use the defaults: \"is this all code?\" / \"yes. every frame.\", two atmospheric photos, Mixkit \"Head Bang\".\n</inputs>\n\n<direction>\nA 22 second square loop, 1440x1440 at 60fps, 2D only, one continuous take. Nothing ever cuts: every scene grows out of the last, and every gesture physically carries the camera into the next world. Every morph glides for 0.8s on cubic-bezier(.45,0,.15,1) and the camera zoom rides the same curve, so shapes change so smoothly you barely notice. Content dissolves in the back half of each glide. One gesture per scene.\nLook: a warm light stage (#f3f3f0 to #e3e3de), black UI, the app world dark (#121212) tinted from the current album cover, one green accent (#1ed760). Geist for UI, the real macOS pointer, soft layered shadows that grow with the shape's height.\nBanned: hard cuts, bouncy springs, particles, glows, zooming in and straight back out, holds longer than 1s, anything that looks like a template.\n</direction>\n\n<structure>\nBeats are the song's, and the press lands on its drop.\nGenerate: the cursor clicks, the pill glides into a spinner, then a check.\nChat: the check splits into three typing dots (goo). The left dot flies up into the question bubble and types it, the right one flies down into the reply. Both contract back into dots while gliding in and pour into the middle one.\nPlay: the middle dot bends into a play triangle, point by point. The cursor presses it on the drop: a white button pops in under the click and the dark app floods out around it, so the leftover white becomes the play button. The camera pulls back to reveal the full now-playing screen: big cover, title, heart (liked, fills green), progress, controls, volume.\nSwipe: the cursor drags the cover sideways, the next track slides in, and the whole app retints from the new cover.\nDrag: the camera glides to the volume. The cursor drags it to max and keeps pulling: the bar rubber-bands and drags the camera sideways out of the app, tracking the knob across a dark dotted canvas.\nChart: the line lands and bends up into a green chart while the number counts up. The volume knob becomes its last point.\nDive: the cursor clicks that point and the camera dives into it until the light stage fills the frame.\nEnding: an \"Ask [my product]\" button grows out of the light, thins into a line, and the line fans out into my logo (default: the Claude spark, six copies rotating into twelve rays in Claude orange). It folds back into the line, which thickens into Generate. Last frame = first frame.\n</structure>\n\n<build>\n1. One HTML canvas. Everything is a pure function of time inside seek(t): no timers, no state between frames.\n2. A camera with position and log-space zoom. Scenes live side by side in one world, so a pan really travels.\n3. Goo: blur + alpha threshold on an offscreen layer for the split and the merges.\n4. Floods are circles that grow from whatever caused them to the farthest corner in about 0.4s, and the colour switch happens underneath them.\n5. Sound: before the press the song plays through a low-pass filter, like it's in the next room, and opens up to full on the drop. A downloaded Mixkit SFX for every event, each placed by its measured peak. Loudnorm to -14 LUFS.\n6. Render with Playwright at 60fps with 4 motion-blur subframes, 12 on the fast pan. Then scan every frame for single-frame jumps and fix each one.\n</build>\n\n<gotchas>\nA handoff between two drawings only works once the first one has fully landed, or it pops. The cursor must stay on whatever it drags, even while it stretches. A counter or tooltip that changes every frame smears under motion blur, so swap whole values.\n</gotchas>\n\n<start>\nAsk me for the inputs, then show me the beat map and 6 stills (chat, play, app, drag, chart, logo) before you render.\n</start>",
+    "model": "Claude Opus 5.5",
+    "primaryCategory": "product-brand",
+    "promptStatus": "source_transcribed",
+    "promptCompleteness": "published_prompt_requires_assets",
+    "requiresReference": true,
+    "notes": "Older work found while reviewing upstream leads. Complete published prompt was read directly on X and connected to the original native-video post. The author attributes the work to Opus 5.5. Native video presence was confirmed; full playback, visual quality and requested output constraints were not independently reviewed. The template requires user product information, covers, logo and music; defaults are supplied. References to Mixkit licensing are the author’s prompt text, not an independent license check. External asset rights remain with their owners.",
+    "platform": "X",
+    "modelStatus": "author_claim",
+    "status": "collected",
+    "promptFile": "prompts/motion-2104674464868762046.md",
+    "discoveryUrl": "https://x.com/twoclipping/status/2104674464868762046",
+    "verification": {
+      "method": "chrome_mcp_original_x_prompt_thread",
+      "checkedAt": "2026-10-22",
+      "originalPostConfirmed": true,
+      "promptMatchedSource": true,
+      "authorClaimConfirmed": true,
+      "nativeVideoConfirmed": true,
+      "visualQuality": "not_reviewed",
+      "fullReview": false
+    }
+  },
+  {
+    "id": "2103237989065277590",
+    "title": "Sphere Las Vegas: GSAP venue-history motion explainer",
+    "author": "RetropunkAI",
+    "sourceUrl": "https://x.com/RetropunkAI/status/2103237989065277590",
+    "promptSourceUrl": "https://x.com/RetropunkAI/status/2103237991091060898",
+    "prompt": "Render a fun motion graphic animation using the GSAP animation platform (see below) to show a brief history of The Sphere in Las Vegas from start to today (start with a minimal architecture to completed venue) - Explainer video style - Talk about how bands now play there, The Wizard of Oz film and next how on Oct 1 2026 Metallica will make their debut - and guess who is attending? We are! Should be a 30-60s video depending on the info. Use the images in the folder.\n\nSphere History:\n\nhttps://\nen.wikipedia.org/wiki/Sphere_(v\nenue)\n…\n\nAnimation Platforms:\n\nhttps://\ngsap.com\n\nAsk me any questions if you need, but if you feel confident please have fun and make something awesome that will go super viral!",
+    "model": "Claude Opus 5.5",
+    "primaryCategory": "explainers-data",
+    "promptStatus": "source_transcribed",
+    "promptCompleteness": "published_prompt_requires_assets",
+    "requiresReference": true,
+    "notes": "Older work found while reviewing upstream leads. Complete published prompt was read directly on X and connected to the original native-video post. The author attributes the work to Opus 5.5. Native video presence was confirmed; full playback, visual quality and requested output constraints were not independently reviewed. The author specifies three reference images in a local folder; they are not bundled. The post describes an HTML animation exported to MP4 and calls the model run Medium. Historical and event-date claims inside the prompt were not independently fact-checked. Keep source-rendered reference link text as published.",
+    "platform": "X",
+    "modelStatus": "author_claim",
+    "status": "collected",
+    "promptFile": "prompts/motion-2103237989065277590.md",
+    "discoveryUrl": "https://x.com/RetropunkAI/status/2103237989065277590",
+    "verification": {
+      "method": "chrome_mcp_original_x_prompt_thread",
+      "checkedAt": "2026-10-22",
+      "originalPostConfirmed": true,
+      "promptMatchedSource": true,
+      "authorClaimConfirmed": true,
+      "nativeVideoConfirmed": true,
+      "visualQuality": "not_reviewed",
+      "fullReview": false
+    }
   }
 ]

@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-761 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+763 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -161,6 +161,7 @@
 - [Ren app: a 30-second launch motion and sound design brief](https://x.com/macrohou/status/2103545787875733862) — @macrohou · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2103545787875733862.md#prompt)
 - [BMX Juice: slapstick commercial with an aerial dive and slow-motion stunt](https://x.com/bmx_ai13/status/2108306440855101555) — @bmx_ai13 · Wan 3.0 (author reported) · [Prompt](../prompts/motion-2108306440855101555.md#prompt)
 - [Sonnet self-launch film: cinematic typography and capability visualization](https://x.com/AbhinavXJ/status/2104805179401068964) — @AbhinavXJ · Claude Sonnet 5.5 (author reported) · [Prompt](../prompts/motion-2104805179401068964.md#prompt)
+- [Continuous product UI loop: chat, music player, rubber-band slider and chart](https://x.com/twoclipping/status/2104674464868762046) — @twoclipping · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2104674464868762046.md#prompt)
 
 
 <a id="motion-studies"></a>
@@ -407,6 +408,7 @@
 - [Aircraft wing lift: a Three.js explainer comparison](https://x.com/aGim_asf/status/2112872797319856446) — @aGim_asf · Claude Opus 5.5 / DeepSeek V4.1 Flash (author reported) · [Prompt](../prompts/motion-2112872797319856446.md#prompt)
 - [Whiteboard skill tutorial](https://x.com/lemomo_ai/status/2104070024575242622) — @lemomo_ai · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2104070024575242622.md#prompt)
 - [HyperFrames editing effects with a HeyGen avatar](https://x.com/liu8in/status/2111678979413598560) — @liu8in · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2111678979413598560.md#prompt)
+- [Sphere Las Vegas: GSAP venue-history motion explainer](https://x.com/RetropunkAI/status/2103237989065277590) — @RetropunkAI · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2103237989065277590.md#prompt)
 
 
 <a id="characters-stories"></a>
