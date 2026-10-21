@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-824 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+831 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -168,6 +168,8 @@
 - [Personal portfolio film with iterative motion and sound-design review](https://x.com/heyiammallik/status/2103837803587293397) — @heyiammallik · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2103837803587293397.md#prompt)
 - [Opus advertisement inspired by Apple’s 1984 commercial](https://x.com/1littlecoder/status/2103746736980378066) — @1littlecoder · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2103746736980378066.md#prompt)
 - [Soft Landing: pastel 3D product ident with cloner waves and soft-body impact](https://github.com/Vincentwei1021/mg-styles-15/blob/main/prompts/04-3d-render.md) — @Vincentwei1021 · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-mg-styles-04-3d-render.md#prompt)
+- [Atelier Linea: one continuous golden line from seed to skyline and monogram](https://github.com/Vincentwei1021/mg-styles-15/blob/main/prompts/02-line-art.md) — @Vincentwei1021 · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-mg-styles-02-line-art.md#prompt)
+- [Aurora: think in light — refractive glass lens and drifting color fields](https://github.com/Vincentwei1021/mg-styles-15/blob/main/prompts/12-aurora-glass.md) — @Vincentwei1021 · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-mg-styles-12-aurora-glass.md#prompt)
 
 
 <a id="motion-studies"></a>
@@ -314,6 +316,9 @@
 - [MotionVault: Orbit](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/loader.ts#L58) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-orbit-loader.md#prompt)
 - [MotionVault: Hourglass](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/loader.ts#L118) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-hourglass.md#prompt)
 - [drop.: liquid logo genesis with metaball fusion and a flooding transition](https://github.com/Vincentwei1021/mg-styles-15/blob/main/prompts/07-liquid.md) — @Vincentwei1021 · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-mg-styles-07-liquid.md#prompt)
+- [One Shape, Every Story: beat-synchronized icon morph chain](https://github.com/Vincentwei1021/mg-styles-15/blob/main/prompts/08-morph.md) — @Vincentwei1021 · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-mg-styles-08-morph.md#prompt)
+- [Daily Joy: variety-show kinetic captions over a pet vlog](https://github.com/Vincentwei1021/mg-styles-15/blob/main/prompts/18-hanazi.md) — @Vincentwei1021 · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-mg-styles-18-hanazi.md#prompt)
+- [Kestrel-9 Target Acquired: layered cyberpunk fictional interface](https://github.com/Vincentwei1021/mg-styles-15/blob/main/prompts/22-hud.md) — @Vincentwei1021 · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-mg-styles-22-hud.md#prompt)
 
 
 <a id="explainers-data"></a>
@@ -438,6 +443,7 @@
 - [Spending your effort: Claude Code effort-level explainer with a readability revision](https://github.com/whaleyxbt/claude-motion/tree/main/examples/01-effort) — @whaleyxbt · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-whaley-spending-effort.md#prompt)
 - [What is Claude Code? Hand-drawn paper-collage explainer with Japanese narration](https://x.com/so_ainsight/status/2103117547776163845) — @so_ainsight · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2103117547776163845.md#prompt)
 - [Brain death explainer: bold hand-drawn motion for a young audience](https://x.com/tonka1981jp/status/2103442781096288376) — @tonka1981jp · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2103442781096288376.md#prompt)
+- [70/118: smartphone elements in a continuous-canvas sticker explainer](https://github.com/Vincentwei1021/mg-styles-15/blob/main/prompts/19-paperclip.md) — @Vincentwei1021 · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-mg-styles-19-paperclip.md#prompt)
 
 
 <a id="characters-stories"></a>
@@ -714,6 +720,7 @@
 - [White Space: cathedral stained-glass light and falling typography blocks](https://x.com/AGIOyaZ/status/2103167623303397647) — @AGIOyaZ · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2103167623303397647.md#prompt)
 - [Jazz vinyl track card with beat-aligned needle drop and live FFT spectrum](https://x.com/tkz_aiart/status/2107799962037911786) — @tkz_aiart · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2107799962037911786.md#prompt)
 - [Founder perseverance song: Remotion narrative and beat-timed lyrics](https://x.com/YanivM79/status/2106720729265795579) — @YanivM79 · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2106720729265795579.md#prompt)
+- [Neon Drive: Midnight — synthwave title, chrome type and VHS finish](https://github.com/Vincentwei1021/mg-styles-15/blob/main/prompts/10-synthwave.md) — @Vincentwei1021 · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-mg-styles-10-synthwave.md#prompt)
 
 
 <a id="interactive"></a>
