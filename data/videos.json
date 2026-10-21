@@ -31364,5 +31364,34 @@
       "visualQuality": "not_reviewed",
       "fullReview": false
     }
+  },
+  {
+    "id": "2106632895989526896",
+    "title": "Why black holes are black: bilingual narrated science explainer",
+    "author": "Cryptoxorz",
+    "sourceUrl": "https://x.com/Cryptoxorz/status/2106632895989526896",
+    "promptSourceUrl": "https://x.com/Cryptoxorz/status/2106632900049359201",
+    "prompt": "帮我做一条科普视频，话题：{话题}（补充素材：{论文/链接/截图，可选}；目标观众：{零基础大众 / 有一定基础，可选}）\n\n- 内容：讲清楚一个核心问题，有好奇心钩子、有反直觉的点、有生活化的类比，但事实必须准确、有来源。\n  - 优先引用原始论文、权威机构和教科书，不用营销号二手说法。\n  - 区分\"已有共识\"\"尚有争议\"\"个人推测\"，不夸大结论。\n  - 开头 3 秒抛出最反常识的问题或现象，中间按\"现象 → 原理 → 证据 → 意义\"层层推进，结尾总结一句话结论，并抛一个开放问题引导评论。\n  - 专业术语第一次出现时用一句大白话解释。\n- 素材：从 NASA、Wikimedia Commons、YouTube 科普频道、B 站、论文配图、机构官网、新闻等广泛搜集，需要我协助就说。\n  - 以视频片段为主（实验实拍、显微/天文影像、纪录片镜头），每句文案配合适的画面。\n  - 抽象原理找不到实拍时，用代码生成示意动画或图解，不硬凑无关画面。\n  - 图片和截图只偶尔点缀。不重复使用同一画面。裁掉原视频的字幕和台标。\n  - 优先用公有领域 / CC 授权素材，标注来源。（可以借助 yt-dlp 下载素材）\n- 规格：\n  - 9:16 竖版，4–6 分钟，中、英两个版本。\n  - Gemini 3.8 Flash TTS 配音，旁白清晰、语速适中。BGM 随旁白自动压低。\n  - 全程右上角水印 Snail。\n- 画面：\n  - 第一帧做封面：最有冲击力的主体画面 + 大字标题（提问式或反常识式），越醒目越好。\n  - 引用论文或数据时叠加原文卡片：英文原文高亮关键句，附中文翻译，注明期刊、年份、作者。\n  - 关键数字、公式、对比用大字或简洁图表单独呈现，一屏只讲一个信息点。\n  - 字幕每条说完一整句，可以 2–3 行，不截断单词。\n- 交付前：\n  - 逐条核对文案里的事实、数字、单位和引用出处，列出来源清单。\n  - 用 STT 回听旁白（重点检查术语、人名、数字的读音），抽帧检查，检查重复镜头，确认画面与旁白内容对应。\n  - 然后发我成片、720p 预览、封面和来源清单。",
+    "model": "Claude Opus 5.5 / local TTS",
+    "primaryCategory": "explainers-data",
+    "promptStatus": "author_published_prompt",
+    "promptCompleteness": "complete_published_reusable_template_topic_required",
+    "requiresReference": true,
+    "notes": "The parent post identifies Why black holes are black, credits adaptation of @dotey prompting, and identifies Opus 5.5 with local TTS. The full original Chinese template is preserved from its reply. It requests Gemini 3.8 Flash TTS, whereas the actual output used local TTS according to the author. Fill topic and optional source/audience placeholders. Primarily sourced footage with code-generated diagrams for abstract mechanisms. Parent, full prompt reply and native-video metadata checked through Chrome MCP. Chinese and English versions count as one case. Scientific accuracy, footage rights, production time, crop quality and playback quality were not independently reviewed.",
+    "platform": "X",
+    "modelStatus": "author_claim",
+    "status": "collected",
+    "promptFile": "prompts/motion-2106632895989526896.md",
+    "discoveryUrl": "https://x.com/Cryptoxorz/status/2106632895989526896",
+    "verification": {
+      "method": "chrome_mcp_x_original_post_and_native_video_metadata",
+      "checkedAt": "2026-10-22",
+      "originalPostConfirmed": true,
+      "promptMatchedSource": true,
+      "authorClaimConfirmed": true,
+      "nativeVideoConfirmed": true,
+      "visualQuality": "not_reviewed",
+      "fullReview": false
+    }
   }
 ]
