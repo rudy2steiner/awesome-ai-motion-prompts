@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-952 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+959 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -1012,3 +1012,10 @@
 - [Motion Prompt: Before/after slider](https://showheyohtaki.github.io/motion-prompt/#087) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-087.md#prompt)
 - [Motion Prompt: Page transition](https://showheyohtaki.github.io/motion-prompt/#092) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-092.md#prompt)
 - [Motion Prompt: Floating animation](https://showheyohtaki.github.io/motion-prompt/#096) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-096.md#prompt)
+- [MotionVault: Scroll Stack](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/card.ts#L100) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-stacking-cards.md#prompt)
+- [MotionVault: Encrypted Matrix](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/card.ts#L252) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-evervault-card.md#prompt)
+- [MotionVault: Focus Cards](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/card.ts#L304) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-focus-cards.md#prompt)
+- [MotionVault: Jelly Checkbox](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/spring.ts#L37) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-jelly-checkbox.md#prompt)
+- [MotionVault: Sliding Number](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/spring.ts#L77) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-sliding-number.md#prompt)
+- [MotionVault: Like Burst](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/button.ts#L132) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-like-button.md#prompt)
+- [MotionVault: Stateful Button](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/button.ts#L182) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-stateful-button.md#prompt)
