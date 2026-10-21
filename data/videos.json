@@ -29786,5 +29786,34 @@
       "visualQuality": "not_reviewed",
       "fullReview": false
     }
+  },
+  {
+    "id": "2102934732203782464",
+    "title": "X Vision: on-brand startup launch film with a beat-synced score",
+    "author": "meetarno",
+    "sourceUrl": "https://x.com/meetarno/status/2102934732203782464",
+    "promptSourceUrl": "https://x.com/meetarno/status/2102934732203782464",
+    "prompt": "make a modern slick and punchy video for a modern startup that works on enabling people to grow on X, use our X Vision theme and website purpose.",
+    "model": "Claude Opus 5.5",
+    "primaryCategory": "product-brand",
+    "promptStatus": "author_published_prompt",
+    "promptCompleteness": "complete_published_brief_project_context_required",
+    "requiresReference": true,
+    "notes": "The original X post explicitly labels this sentence as its Prompt. The author reports a 23-second 1080p launch promo using the real X Vision logo, brand theme, product UI mockups and a code-composed soundtrack with cuts on the beat. The quoted input depends on existing project context: supply the brand theme, logo, website purpose and product facts before reuse. The full original post and public native-video metadata were read through Chrome MCP. The model, production time, soundtrack process and output specifications are author claims; playback quality, beat alignment and render specifications were not independently measured. This published brief is not a complete execution transcript.",
+    "platform": "X",
+    "modelStatus": "author_claim",
+    "status": "collected",
+    "promptFile": "prompts/motion-2102934732203782464.md",
+    "discoveryUrl": "https://x.com/meetarno/status/2102934732203782464",
+    "verification": {
+      "method": "chrome_mcp_x_original_post_and_native_video_metadata",
+      "checkedAt": "2026-10-22",
+      "originalPostConfirmed": true,
+      "promptMatchedSource": true,
+      "authorClaimConfirmed": true,
+      "nativeVideoConfirmed": true,
+      "visualQuality": "not_reviewed",
+      "fullReview": false
+    }
   }
 ]

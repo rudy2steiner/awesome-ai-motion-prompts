@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-894 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+895 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -173,6 +173,7 @@
 - [motion-pack: Ad × Blueprint, 10 s 16:9](https://github.com/ANVEAI/motion-pack/blob/main/docs/prompts.md#L51) — @ANVEAI / motion-pack contributors · Claude Code / model-agnostic coding agent (motion-pack required) · [Prompt](../prompts/motion-motion-pack-ad.md#prompt)
 - [motion-pack: Launch film × Chrome Product, 35 s 16:9](https://github.com/ANVEAI/motion-pack/blob/main/docs/prompts.md#L127) — @ANVEAI / motion-pack contributors · Claude Code / model-agnostic coding agent (motion-pack required) · [Prompt](../prompts/motion-motion-pack-launch-film.md#prompt)
 - [motion-pack: SaaS feature drop × Swiss Grid, 20 s 16:9](https://github.com/ANVEAI/motion-pack/blob/main/docs/prompts.md#L171) — @ANVEAI / motion-pack contributors · Claude Code / model-agnostic coding agent (motion-pack required) · [Prompt](../prompts/motion-motion-pack-saas-feature-drop.md#prompt)
+- [X Vision: on-brand startup launch film with a beat-synced score](https://x.com/meetarno/status/2102934732203782464) — @meetarno · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2102934732203782464.md#prompt)
 
 
 <a id="motion-studies"></a>
