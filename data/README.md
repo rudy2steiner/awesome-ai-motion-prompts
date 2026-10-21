@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-599 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+632 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -136,6 +136,8 @@
 - [A speculative brand future told through a recurring hero button](https://x.com/notdwd/status/2103995183255998633) — @notdwd · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103995183255998633.md#prompt)
 - [Gouo Canvas UI Product Promo Video](https://x.com/xgouoo/status/2111475108514849068) — xgouoo · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2111475108514849068.md#prompt)
 - [Fictional Fashion Commercial Direction with Claude Opus 5.5 and MiniMax H3](https://x.com/ito1217yo/status/2104560073217597459) — ito1217yo · Claude Opus 5.5 / MiniMax H3 (directory reported) · [Prompt](../prompts/motion-2104560073217597459.md#prompt)
+- [Abstract Tech MG Brand Short For H3](https://static.atlascloud.ai/model/example/minimax-h3/TzPub7XD1o9u3kxFUfNc7zz0nce.mp4) — MiniMax (credited by Atlas Cloud) · MiniMax H3 (directory reported) · [Prompt](../prompts/motion-minimax-h3-mmh3_014.md#prompt)
+- [High-End Motion Graphics Brand Film](https://static.atlascloud.ai/model/example/minimax-h3/CgaIbUb5yo9wCQxEKLdcbBISnbr.mp4) — MiniMax (credited by Atlas Cloud) · MiniMax H3 (directory reported) · [Prompt](../prompts/motion-minimax-h3-mmh3_015.md#prompt)
 
 
 <a id="motion-studies"></a>
@@ -236,6 +238,20 @@
 - [Escape the Orbit: a tracked phrase becomes a kinetic speech](https://x.com/Gdgtify/status/2105669567036989608) — @Gdgtify · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2105669567036989608.md#prompt)
 - [Inside the Mind of Claude AI Three.js ASCII Animation](https://x.com/trikcode/status/2106599643014414696) — trikcode · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2106599643014414696.md#prompt)
 - [Seamless Morphing UI Motion Design](https://x.com/finnardley/status/2108432616558879016) — finnardley · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2108432616558879016.md#prompt)
+- [Retro Anime-Style Crime Movie Title Sequence](https://static.atlascloud.ai/model/example/minimax-h3/Zn97bxtj2onC0yxHbq6cUNIYnYZ.mp4) — MiniMax (credited by Atlas Cloud) · MiniMax H3 (directory reported) · [Prompt](../prompts/motion-minimax-h3-mmh3_006.md#prompt)
+- [Dynamic Poster Video With Sound](https://static.atlascloud.ai/model/example/minimax-h3/PvdzbKzuqovEAkxwBjncrR6HnBf.mp4) — MiniMax (credited by Atlas Cloud) · MiniMax H3 (directory reported) · [Prompt](../prompts/motion-minimax-h3-mmh3_011.md#prompt)
+- [Seaside Market With Animated Highlights](https://static.atlascloud.ai/model/example/minimax-h3/LyHxbXmOWomFA1x94HRcl0lonWg.mp4) — MiniMax (credited by Atlas Cloud) · MiniMax H3 (directory reported) · [Prompt](../prompts/motion-minimax-h3-mmh3_012.md#prompt)
+- [Character Interaction In Graphic Spaces](https://static.atlascloud.ai/model/example/minimax-h3/XWwnbKQMHo5vmkx3sa8c78Wbnfb.mp4) — MiniMax (credited by Atlas Cloud) · MiniMax H3 (directory reported) · [Prompt](../prompts/motion-minimax-h3-mmh3_013.md#prompt)
+- [Chinese Dynamic Typography Experimental Video](https://static.atlascloud.ai/model/example/minimax-h3/JuTJbsEbpo68VNxn2wGcR6kUnvh.mp4) — MiniMax (credited by Atlas Cloud) · MiniMax H3 (directory reported) · [Prompt](../prompts/motion-minimax-h3-mmh3_016.md#prompt)
+- [Cyberpunk Character UI Customization](https://static.atlascloud.ai/model/example/minimax-h3/UedObkGVbofIHRxLMpdcmUSvnbe.mp4) — MiniMax (credited by Atlas Cloud) · MiniMax H3 (directory reported) · [Prompt](../prompts/motion-minimax-h3-mmh3_023.md#prompt)
+- [Dynamic Product Landing Page Scrolling](https://static.atlascloud.ai/model/example/minimax-h3/Ri9cbB4RSoBcSExMkrCcDuKbnqd.mp4) — MiniMax (credited by Atlas Cloud) · MiniMax H3 (directory reported) · [Prompt](../prompts/motion-minimax-h3-mmh3_024.md#prompt)
+- [Website UI Simulation With Car Light](https://static.atlascloud.ai/model/example/minimax-h3/DubDbB9rronz5SxqzFJcTTKonye.mp4) — MiniMax (credited by Atlas Cloud) · MiniMax H3 (directory reported) · [Prompt](../prompts/motion-minimax-h3-mmh3_025.md#prompt)
+- [Digital Pet Compendium Interface Animation](https://static.atlascloud.ai/model/example/minimax-h3/Ab5KbftOqotKvExixVhcXZyYn6e.mp4) — MiniMax (credited by Atlas Cloud) · MiniMax H3 (directory reported) · [Prompt](../prompts/motion-minimax-h3-mmh3_027.md#prompt)
+- [Otome Visual Novel Interface Transition](https://static.atlascloud.ai/model/example/minimax-h3/ZqlFbCd8roUE2UxVLH1cCzBjnbd.mp4) — MiniMax (credited by Atlas Cloud) · MiniMax H3 (directory reported) · [Prompt](../prompts/motion-minimax-h3-mmh3_034.md#prompt)
+- [UI Component Shape Morph Motion Design (Japanese)](https://x.com/okapi_fukugyo/status/2103586082336166351) — okapi_fukugyo · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103586082336166351.md#prompt)
+- [Shape Morph Canvas Animation with Color and Radius Inputs](https://x.com/flxrnc/status/2108242454105251921) — flxrnc · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2108242454105251921.md#prompt)
+- [Tile-Made 30-Second Ad Video Reveal with Three.js](https://x.com/tanabe_fragm/status/2107644501372322001) — tanabe_fragm · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2107644501372322001.md#prompt)
+- [Canvas-Drawn Video with Web Audio Synthesized Music (Chinese)](https://x.com/oxpsats/status/2104462072344182908) — oxpsats · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2104462072344182908.md#prompt)
 
 
 <a id="explainers-data"></a>
@@ -337,6 +353,10 @@
 - [Hiking documentary: a narrated 3D route](https://x.com/shengtang135754/status/2109132993617125532) — shengtang135754 · Claude Opus 5.5 / Claude Haiku 5.5 (directory reported) · [Prompt](../prompts/motion-2109132993617125532.md#prompt)
 - [Nobel Prize Neutrino Astronomy Scientific Explainer Motion Graphics](https://x.com/beebidao/status/2108567783789515051) — beebidao · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2108567783789515051.md#prompt)
 - [Polymarket Election Odds Explainer Video via HyperFrames](https://x.com/condzxyz/status/2107594959666728991) — condzxyz · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2107594959666728991.md#prompt)
+- [Chinese Classics Multi-Style Animation Collection](https://x.com/NFT_Chen/status/2107653056771068069) — NFT_Chen · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2107653056771068069.md#prompt)
+- [Napoleon Hill Drifting Mind Insight 2D Explainer](https://x.com/bitfish/status/2103670987879539054) — bitfish · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103670987879539054.md#prompt)
+- [Paul Graham How to Do Great Work Video Essay](https://x.com/rohanpaul_ai/status/2104352205176500542) — rohanpaul_ai · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2104352205176500542.md#prompt)
+- [Portland Bus Transit System Data Visualization Animation](https://x.com/milos_gis/status/2103751211040317580) — milos_gis · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103751211040317580.md#prompt)
 
 
 <a id="characters-stories"></a>
@@ -414,6 +434,13 @@
 - [Skit about overseas AI attitudes toward Chinese users](https://x.com/Gorden_Sun/status/2111111416120053953) — Gorden_Sun · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2111111416120053953.md#prompt)
 - [Meteor Time-Freeze Cinematic Sequence Prompt Orchestrated by Opus 5.5](https://x.com/MadMax_Series/status/2108577475752054868) — MadMax_Series · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2108577475752054868.md#prompt)
 - [Little Agent Island: Cozy Interactive AI Agent World](https://x.com/kinderlayer/status/2108936150681305270) — kinderlayer · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2108936150681305270.md#prompt)
+- [Evening Kitchen Glow Animation Fusion](https://static.atlascloud.ai/model/example/minimax-h3/YVLnb4hFSoMrBHxQXpPcGHRcnLg.mp4) — MiniMax (credited by Atlas Cloud) · MiniMax H3 (directory reported) · [Prompt](../prompts/motion-minimax-h3-mmh3_007.md#prompt)
+- [Late-Night Laundromat Glow Animation Mix](https://static.atlascloud.ai/model/example/minimax-h3/YM89bFxw3oRB37xzw8TcG9H1nCg.mp4) — MiniMax (credited by Atlas Cloud) · MiniMax H3 (directory reported) · [Prompt](../prompts/motion-minimax-h3-mmh3_008.md#prompt)
+- [2D Hand-Drawn Dog Reaction Game](https://static.atlascloud.ai/model/example/minimax-h3/XZIwbDc96oKOWnx04TlcBLP0nXf.mp4) — MiniMax (credited by Atlas Cloud) · MiniMax H3 (directory reported) · [Prompt](../prompts/motion-minimax-h3-mmh3_026.md#prompt)
+- [Claymation Fox's Heroic Leap](https://static.atlascloud.ai/model/example/minimax-h3/ChE5bUd3Ront1UxW47vcBT9ensc.mp4) — MiniMax (credited by Atlas Cloud) · MiniMax H3 (directory reported) · [Prompt](../prompts/motion-minimax-h3-mmh3_030.md#prompt)
+- [Fateful Xianxia Character Sequence](https://static.atlascloud.ai/model/example/minimax-h3/GmMNbhZ23oTJwPxeqcpcxJP7nxb.mp4) — MiniMax (credited by Atlas Cloud) · MiniMax H3 (directory reported) · [Prompt](../prompts/motion-minimax-h3-mmh3_031.md#prompt)
+- [First-Person FPS Gameplay Simulation](https://static.atlascloud.ai/model/example/minimax-h3/S92lbUnUtol4VKxnJnIcXHcAnvg.mp4) — MiniMax (credited by Atlas Cloud) · MiniMax H3 (directory reported) · [Prompt](../prompts/motion-minimax-h3-mmh3_033.md#prompt)
+- [Evening Tram Hand-Drawn Light Animation](https://static.atlascloud.ai/model/example/minimax-h3/MiTub4mPgocHttxgdp0cVvbxnee.mp4) — MiniMax (credited by Atlas Cloud) · MiniMax H3 (directory reported) · [Prompt](../prompts/motion-minimax-h3-mmh3_052.md#prompt)
 
 
 <a id="3d-simulations"></a>
@@ -547,6 +574,12 @@
 - [A handmade JavaScript music video covering the entire song](https://x.com/thewevr/status/2106774417732681887) — @thewevr · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2106774417732681887.md#prompt)
 - [Beat-driven Mandelbox demoscene in one continuous camera shot](https://x.com/Xanares/status/2105770390924738984) — @Xanares · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2105770390924738984.md#prompt)
 - [Turn It Up Now Kinetic Lyric Music Video](https://x.com/kloss_xyz/status/2109087249572749553) — kloss_xyz · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2109087249572749553.md#prompt)
+- [Dark-Pop Cyber-Grunge Rap Music Video](https://static.atlascloud.ai/model/example/minimax-h3/D0SHbWNTMoXZZrxxocdcpzw5nuc.mp4) — MiniMax (credited by Atlas Cloud) · MiniMax H3 (directory reported) · [Prompt](../prompts/motion-minimax-h3-mmh3_009.md#prompt)
+- [Style Presets](https://static.atlascloud.ai/model/example/minimax-h3/C2g0bppfBoCuTMxGjaTcGJK6nLb.mp4) — MiniMax (credited by Atlas Cloud) · MiniMax H3 (directory reported) · [Prompt](../prompts/motion-minimax-h3-mmh3_051.md#prompt)
+- [Perler Bead Pixel Art MV with Karaoke Subtitles (Chinese)](https://x.com/hahazwei/status/2104809910152425483) — hahazwei · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2104809910152425483.md#prompt)
+- [20-Second Story-Led Music Video with Two Protagonists](https://x.com/anjmaxx/status/2103173729656459455) — anjmaxx · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103173729656459455.md#prompt)
+- [50-Second Vertical Three.js Music Video with Suno Audio](https://x.com/okazaky/status/2107826563786084783) — okazaky · Claude Opus 5.5 / Suno (music; version unspecified) (directory reported) · [Prompt](../prompts/motion-2107826563786084783.md#prompt)
+- [Psychedelic Pop Punk VJ Motion Graphics with Techno Sync](https://x.com/yama_kiyo/status/2103740786177134910) — yama_kiyo · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103740786177134910.md#prompt)
 
 
 <a id="interactive"></a>
