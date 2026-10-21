@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-975 works with prompt text saved in this repository. The collection includes published briefs, workflows and reusable animation templates. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+978 works with prompt text saved in this repository. The collection includes published briefs, workflows and reusable animation templates. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -376,6 +376,9 @@
 - [MotionVault: Gradient Mesh](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/background.ts#L24) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-gradient-mesh.md#prompt)
 - [MotionVault: Skeleton](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/loader.ts#L78) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-skeleton.md#prompt)
 - [MotionVault: Chase Ring](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/loader.ts#L128) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-chase-ring.md#prompt)
+- [Echo: a slow-motion singer inside a fast-moving street crowd](https://x.com/magnific/status/2112975271108481172) — @magnific · Kling (version not specified) (author reported) · [Prompt](../prompts/motion-2112975271108481172.md#prompt)
+- [Melt: a solid character surrounded by a liquefying environment](https://x.com/magnific/status/2112975398363676721) — @magnific · Kling (version not specified) (author reported) · [Prompt](../prompts/motion-2112975398363676721.md#prompt)
+- [Multiverse: a fixed face across rapid reality switches](https://x.com/magnific/status/2112975356558999740) — @magnific · Kling (version not specified) (author reported) · [Prompt](../prompts/motion-2112975356558999740.md#prompt)
 
 
 <a id="explainers-data"></a>
