@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-781 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+782 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -419,6 +419,7 @@
 - [HyperFrames editing effects with a HeyGen avatar](https://x.com/liu8in/status/2111678979413598560) — @liu8in · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2111678979413598560.md#prompt)
 - [Sphere Las Vegas: GSAP venue-history motion explainer](https://x.com/RetropunkAI/status/2103237989065277590) — @RetropunkAI · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2103237989065277590.md#prompt)
 - [Eight color harmonies: spinning wheel and palette-world transitions](https://x.com/koldo2k/status/2104114329322704965) — @koldo2k · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2104114329322704965.md#prompt)
+- [Spending your effort: Claude Code effort-level explainer with a readability revision](https://github.com/whaleyxbt/claude-motion/tree/main/examples/01-effort) — @whaleyxbt · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-whaley-spending-effort.md#prompt)
 
 
 <a id="characters-stories"></a>
