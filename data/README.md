@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-982 works with prompt text saved in this repository. The collection includes published briefs, workflows and reusable animation templates. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+989 works with prompt text saved in this repository. The collection includes published briefs, workflows and reusable animation templates. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -394,6 +394,9 @@
 - [Motion Prompt: Glitch](https://showheyohtaki.github.io/motion-prompt/#023) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-023.md#prompt)
 - [Motion Prompt: Handheld](https://showheyohtaki.github.io/motion-prompt/#034) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-034.md#prompt)
 - [Motion Prompt: Freeze frame](https://showheyohtaki.github.io/motion-prompt/#040) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-040.md#prompt)
+- [MotionVault: Card Swap](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/card.ts#L180) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-card-swap.md#prompt)
+- [MotionVault: Border Trail](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/svg.ts#L100) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-border-trail.md#prompt)
+- [MotionVault: Draw Arrow](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/svg.ts#L140) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-draw-arrow.md#prompt)
 
 
 <a id="explainers-data"></a>
@@ -1042,3 +1045,7 @@
 - [MotionVault: Sliding Number](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/spring.ts#L77) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-sliding-number.md#prompt)
 - [MotionVault: Like Burst](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/button.ts#L132) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-like-button.md#prompt)
 - [MotionVault: Stateful Button](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/button.ts#L182) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-stateful-button.md#prompt)
+- [MotionVault: Magnetic](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/card.ts#L71) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-magnetic-card.md#prompt)
+- [MotionVault: Liquid Fill](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/button.ts#L77) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-liquid-fill.md#prompt)
+- [MotionVault: Stroke Hover](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/svg.ts#L110) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-stroke-hover.md#prompt)
+- [MotionVault: Confetti Burst](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/particle.ts#L67) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-confetti-burst.md#prompt)
