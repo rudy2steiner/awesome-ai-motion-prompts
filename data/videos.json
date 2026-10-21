@@ -19609,27 +19609,29 @@
     "sourceUrl": "https://x.com/zigapoto/status/2103746671591256286",
     "platform": "X",
     "model": "Claude Opus 5.5",
-    "modelStatus": "directory_reported",
+    "modelStatus": "author_claim",
     "primaryCategory": "product-brand",
     "prompt": "make a modern slick and punchy video for a startup that works on agentic analytics, just javascript, playwright and ffmpeg, code the animation and take a video of it, download assets from the site or use playwright for screenshots, include music aligned with the video.",
     "promptFile": "prompts/motion-2103746671591256286.md",
     "promptSourceUrl": "https://x.com/zigapoto/status/2103746698660942208",
-    "promptStatus": "upstream_transcribed",
-    "promptCompleteness": "not_independently_assessed",
+    "promptStatus": "source_transcribed",
+    "promptCompleteness": "complete_published_initial_prompt",
     "status": "collected",
     "discoveryUrl": "https://github.com/guanmo-ai/awesome-ai-motion/blob/6e2c040/data/cases.json",
     "verification": {
-      "method": "upstream_collection_reuse",
+      "method": "chrome_mcp_original_x_prompt_thread",
       "importedAt": "2026-10-21",
-      "originalPostConfirmed": false,
-      "promptMatchedSource": false,
-      "authorClaimConfirmed": false,
+      "originalPostConfirmed": true,
+      "promptMatchedSource": true,
+      "authorClaimConfirmed": true,
       "visualQuality": "not_reviewed",
       "fullReview": false,
       "upstreamCommit": "6e2c040",
-      "upstreamDataReadThrough": "Chrome MCP"
+      "upstreamDataReadThrough": "Chrome MCP",
+      "checkedAt": "2026-10-22",
+      "nativeVideoConfirmed": true
     },
-    "notes": "Selected from the upstream prompt collection for its concrete creative direction. Prompt text was read from the public upstream collection through Chrome MCP; completeness is not independently assessed and any referenced inputs may be required; this import does not independently confirm the original post, model attribution, result fidelity or visual quality. Referenced files, music, images and project context are not bundled. Original upstream source notes are retained below. Upstream notes: Upstream prompt label: original. "
+    "notes": "Complete prompt was independently read from the author’s original X reply on 2026-10-22, and public reply metadata connects it to the native-video post. The author identifies Opus 5.5 in Claude Code and says it began in an empty folder, obtained real product screenshots and composed music. The author explicitly reports one subsequent correction: this is not a guaranteed one-shot reproduction of the final result. Product website/context and any fetched assets are not bundled. Native video presence and prompt wording were confirmed; full playback, music provenance, asset rights and visual quality were not independently reviewed. Original upstream discovery is retained."
   },
   {
     "id": "2103166575071330778",
