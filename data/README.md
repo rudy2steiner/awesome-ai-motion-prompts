@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-977 works with prompt text saved in this repository. The collection includes published briefs, workflows and reusable animation templates. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+983 works with prompt text saved in this repository. The collection includes published briefs, workflows and reusable animation templates. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -1037,3 +1037,9 @@
 - [Motion Prompt: Tabs](https://showheyohtaki.github.io/motion-prompt/#057) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-057.md#prompt)
 - [Motion Prompt: Segmented control](https://showheyohtaki.github.io/motion-prompt/#060) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-060.md#prompt)
 - [Motion Prompt: Hamburger menu](https://showheyohtaki.github.io/motion-prompt/#065) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-065.md#prompt)
+- [Motion Prompt: Dropdown (select)](https://showheyohtaki.github.io/motion-prompt/#053) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-053.md#prompt)
+- [Motion Prompt: Carousel](https://showheyohtaki.github.io/motion-prompt/#058) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-058.md#prompt)
+- [Motion Prompt: Toggle switch](https://showheyohtaki.github.io/motion-prompt/#059) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-059.md#prompt)
+- [Motion Prompt: Filter chips](https://showheyohtaki.github.io/motion-prompt/#061) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-061.md#prompt)
+- [Motion Prompt: Range slider](https://showheyohtaki.github.io/motion-prompt/#062) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-062.md#prompt)
+- [Motion Prompt: Pagination](https://showheyohtaki.github.io/motion-prompt/#064) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-064.md#prompt)
