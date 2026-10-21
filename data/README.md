@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-326 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+347 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -98,6 +98,7 @@
 - [TanStack AI: a feature-driven developer-tool launch film](https://x.com/HowDevelop/status/2103840883812733090) — @HowDevelop · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103840883812733090.md#prompt)
 - [Sprites: a continuous spring-driven product UI film](https://x.com/AnnaCher___/status/2103571096549433425) — @AnnaCher___ · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103571096549433425.md#prompt)
 - [Continuous-take launch film with liquid glass and iris transitions](https://x.com/thejohnnyhuy/status/2104149060588282154) — @thejohnnyhuy · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2104149060588282154.md#prompt)
+- [The Perfect Hamburger: slow-motion commercial assembly](https://hamburger-assembly.k3.demos.sulat.com/) — Sulat · Kimi K3 (directory reported) · [Prompt](../prompts/motion-hamburger-assembly.k3.demos.sulat.com.md#prompt)
 
 
 <a id="motion-studies"></a>
@@ -172,6 +173,9 @@
 - [Build the Floor: typography becomes architecture](https://x.com/Gdgtify/status/2103458245213929495) — @Gdgtify · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103458245213929495.md#prompt)
 - [One orange circle carries a studio motion reel](https://x.com/threeaus/status/2105152377057886343) — @threeaus · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2105152377057886343.md#prompt)
 - [Claude self-introduction with six motion techniques](https://x.com/tanabe_fragm/status/2103802156675706979) — @tanabe_fragm · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103802156675706979.md#prompt)
+- [Type Field](https://developers.openai.com/showcase/type-field) — Katia Gil Guzman (OpenAI) · GPT-6 Astra (directory reported) · [Prompt](../prompts/motion-type-field.md#prompt)
+- ["Enter the K": Kimi K3 launch site as a scroll-driven type film](https://x.com/jumperz/status/2077841331037094042) — JUMPERZ · Kimi K3 (directory reported) · [Prompt](../prompts/motion-2077841331037094042.md#prompt)
+- [EM DASH: kinetic typography journal](https://kinetic-typography-journal.k3.demos.sulat.com/) — Sulat · Kimi K3 (directory reported) · [Prompt](../prompts/motion-kinetic-typography-journal.k3.demos.sulat.com.md#prompt)
 
 
 <a id="explainers-data"></a>
@@ -223,6 +227,10 @@
 - [Pythagorean Theorem Explainer Video in JavaScript](https://x.com/hyuki/status/2102832558602072560) — @hyuki · Claude Opus 5.5 · [Prompt](../prompts/motion-2102832558602072560.md#prompt)
 - [Earthquake explained through a tectonic sandbox](https://x.com/egeberkina/status/2105029713445949521) — @egeberkina · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2105029713445949521.md#prompt)
 - [The Broken Message: an interactive Type 1 diabetes system](https://x.com/CurieuxExplorer/status/2103373314354016717) — @CurieuxExplorer · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103373314354016717.md#prompt)
+- [Below the Surface](https://developers.openai.com/showcase/below-the-surface) — Katia Gil Guzman (OpenAI) · GPT-6 Astra (directory reported) · [Prompt](../prompts/motion-below-the-surface.md#prompt)
+- [Living Cell](https://developers.openai.com/showcase/living-cell-cross-section) — VB Srivastav (OpenAI) · GPT-6 Astra (directory reported) · [Prompt](../prompts/motion-living-cell-cross-section.md#prompt)
+- [Physics museum](https://developers.openai.com/showcase/physics-museum) — Katia Gil Guzman (OpenAI) · GPT-6 Astra (directory reported) · [Prompt](../prompts/motion-physics-museum.md#prompt)
+- [Rolling the obelisk: 3D Egyptology physics explainer](https://generative-ai.review/2026/07/kimi-k3-rush-test-vs-claude-fable/) — Terry Lurie · Kimi K3 / Claude Fable 5 (directory reported) · [Prompt](../prompts/motion-kimi-k3-rush-test-vs-claude-fable.md#prompt)
 
 
 <a id="characters-stories"></a>
@@ -266,6 +274,8 @@
 - [Star-strike character animation with a synthesized score](https://x.com/AYi_AInotes/status/2106784005911933194) — @AYi_AInotes · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2106784005911933194.md#prompt)
 - [The Last Piano: a robot relights the city](https://x.com/kopert0x/status/2104961082880098349) — @kopert0x · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2104961082880098349.md#prompt)
 - [Rain Station: a cinematic code-composited animatic](https://x.com/zhu185178/status/2103757767727255661) — @zhu185178 · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103757767727255661.md#prompt)
+- [Element Bender: 30-second cinematic elemental VFX animation](https://element-bender.k3.demos.sulat.com/) — Sulat · Kimi K3 (directory reported) · [Prompt](../prompts/motion-element-bender.k3.demos.sulat.com.md#prompt)
+- [PERIHELION: scroll-driven solar-sail story](https://motion-scroll-story.k3.demos.sulat.com/) — Sulat · Kimi K3 (directory reported) · [Prompt](../prompts/motion-motion-scroll-story.k3.demos.sulat.com.md#prompt)
 
 
 <a id="3d-simulations"></a>
@@ -319,6 +329,12 @@
 - [Market Street before the 1906 earthquake](https://x.com/alexalbert__/status/2102466523164274839) — @alexalbert__ · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2102466523164274839.md#prompt)
 - [Replayable cinematic fireworks and light-particle show](https://x.com/FornYapayZeka/status/2102888241443795431) — @FornYapayZeka · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2102888241443795431.md#prompt)
 - [Replayable explosion with visible force propagation](https://x.com/FornYapayZeka/status/2102971287224135914) — @FornYapayZeka · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2102971287224135914.md#prompt)
+- [Abyssal](https://developers.openai.com/showcase/abyssal-bioluminescent-ecosystem) — VB Srivastav (OpenAI) · GPT-6 Astra (directory reported) · [Prompt](../prompts/motion-abyssal-bioluminescent-ecosystem.md#prompt)
+- [Clockwork Observatory](https://developers.openai.com/showcase/impossible-kinetic-architecture) — VB Srivastav (OpenAI) · GPT-6 Astra (directory reported) · [Prompt](../prompts/motion-impossible-kinetic-architecture.md#prompt)
+- [Exploded-view animation of a Japanese flower shop](https://x.com/KanaWorks_AI/status/2097153139795468365) — KANA｜東京AI映像 · GPT-6 Astra (directory reported) · [Prompt](../prompts/motion-2097153139795468365.md#prompt)
+- [Abiogenesis to multicellular life in raw WebGL](https://x.com/yume_arasaki/status/2096040448477515874) — Yume_X · GPT-6 Astra (directory reported) · [Prompt](../prompts/motion-2096040448477515874.md#prompt)
+- [Meteor City Impact: cinematic procedural meteor strike](https://meteor-city-impact.k3.demos.sulat.com/) — Sulat · Kimi K3 (directory reported) · [Prompt](../prompts/motion-meteor-city-impact.k3.demos.sulat.com.md#prompt)
+- [Voxel cherry-blossom diorama with drifting petals](https://3d-cherry-blossom.k3.demos.sulat.com/) — Sulat · Kimi K3 (directory reported) · [Prompt](../prompts/motion-3d-cherry-blossom.k3.demos.sulat.com.md#prompt)
 
 
 <a id="music-audiovisual"></a>
@@ -338,6 +354,7 @@
 - [Make It Catchy: a silent build becomes a music machine](https://x.com/adrianduta96/status/2109187815195992248) — @adrianduta96 · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2109187815195992248.md#prompt)
 - [Crayon cat piano performance with synthesized music](https://x.com/0xCodez/status/2104257855142474136) — @0xCodez · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2104257855142474136.md#prompt)
 - [A film about its own prompt and synthesized score](https://x.com/ulyssexbt/status/2106383971093205279) — @ulyssexbt · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2106383971093205279.md#prompt)
+- [SINGULARITY: black-hole audio visualizer with code-generated EDM](https://singularity-audio-visualizer.k3.demos.sulat.com/) — Sulat · Kimi K3 (directory reported) · [Prompt](../prompts/motion-singularity-audio-visualizer.k3.demos.sulat.com.md#prompt)
 
 
 <a id="interactive"></a>
@@ -386,3 +403,7 @@
 - [Rakeable zen garden with golden-hour shadows](https://x.com/arixxbt/status/2108541814718292438) — @arixxbt · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2108541814718292438.md#prompt)
 - [V8 engine firing sequence and exploded view](https://x.com/aichrislee/status/2107260223907922082) — @aichrislee · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2107260223907922082.md#prompt)
 - [A working marble computer built from mechanical toggles](https://x.com/GodsBoy7777/status/2103117450854150194) — @GodsBoy7777 · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103117450854150194.md#prompt)
+- [“Crafting Worlds in Motion” 3D designer portfolio](https://github.com/CommandCodeAI/slash-design-showcase/tree/main/kimi-k3-design/3d-portfolio) — Command Code · Kimi K3 (directory reported) · [Prompt](../prompts/motion-3d-portfolio.md#prompt)
+- [Cinematic 3D human scalp explorer](https://x.com/MiaAI_lab/status/2078508824752017757) — Mia · Kimi K3 (directory reported) · [Prompt](../prompts/motion-2078508824752017757.md#prompt)
+- [Ciudad de las Artes y las Ciencias: navigable 3D scene with day/night](https://edunavajas.com/blog/kimi-k3) — Eduardo Navajas · Kimi K3 (directory reported) · [Prompt](../prompts/motion-kimi-k3.md#prompt)
+- [Da Vinci's ornithopter: working mechanism in a living manuscript](https://da-vinci-ornithopter.k3.demos.sulat.com/) — Sulat · Kimi K3 (directory reported) · [Prompt](../prompts/motion-da-vinci-ornithopter.k3.demos.sulat.com.md#prompt)
