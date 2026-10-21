@@ -1,6 +1,6 @@
 # Awesome AI Motion Prompts
 
-**[355+ 动效提示词与灵感](data/README.md)**
+**[382+ 动效提示词与灵感](data/README.md)**
 
 [English](README.md) | 简体中文
 
@@ -120,7 +120,8 @@
 
 [＋ 向此分类投稿](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L117) · [完整清单](data/README.md#music-audiovisual)
 
-这个分类还在等待第一位创作者，欢迎分享你的作品。
+- [跟随人声与节拍的歌词动效](https://x.com/samaote/status/2103510974796124569) — @samaote · Claude Opus 5.5 · [提示词](prompts/samaote-124569.md#prompt)
+- [复古流行音乐短片与原创歌曲](https://x.com/DavidShulmanFL/status/2103336310089842921) — @DavidShulmanFL · Claude Opus 5.5 · [提示词](prompts/davidshulmanfl-842921.md#prompt)
 
 <!-- 在此行上方添加音乐与视听作品。 -->
 
@@ -128,7 +129,7 @@
 
 ## 交互体验
 
-[＋ 向此分类投稿](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L127) · [完整清单](data/README.md#interactive)
+[＋ 向此分类投稿](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L128) · [完整清单](data/README.md#interactive)
 
 <table>
 <tr>

@@ -1,6 +1,6 @@
 # Awesome AI Motion Prompts
 
-**[355+ Motion Prompts & Ideas](data/README.md)**
+**[382+ Motion Prompts & Ideas](data/README.md)**
 
 English | [简体中文](README.zh-CN.md)
 
@@ -118,7 +118,8 @@ Featured: [@shneural](https://x.com/shneural/status/2103151003272962130) · [Pro
 
 [＋ Submit to this category](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L117) · [Full list](data/README.md#music-audiovisual)
 
-Be the first to share a motion in this category.
+- [Lyrics synchronized to vocals and beats](https://x.com/samaote/status/2103510974796124569) — @samaote · Claude Opus 5.5 · [Prompt](prompts/samaote-124569.md#prompt)
+- [Retro pop music video with an original song](https://x.com/DavidShulmanFL/status/2103336310089842921) — @DavidShulmanFL · Claude Opus 5.5 · [Prompt](prompts/davidshulmanfl-842921.md#prompt)
 
 <!-- Add new Music & Audiovisual motions above this line. -->
 
@@ -126,7 +127,7 @@ Be the first to share a motion in this category.
 
 ## Interactive Experiences
 
-[＋ Submit to this category](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L127) · [Full list](data/README.md#interactive)
+[＋ Submit to this category](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L128) · [Full list](data/README.md#interactive)
 
 <table>
 <tr>
