@@ -1,6 +1,6 @@
 # Awesome AI Motion Prompts
 
-**[990 Motions with Prompts](data/README.md)**
+**[973 Motions with Prompts](data/README.md)**
 
 English | [简体中文](README.zh-CN.md)
 
@@ -160,6 +160,8 @@ Featured: [@shneural](https://x.com/shneural/status/2103151003272962130) · [Pro
 </table>
 
 <!-- Add new Interactive Experiences motions above this line. -->
+
+Prompt-writing resources: [OSideMedia](https://github.com/OSideMedia/higgsfield-ai-prompt-skill), [motion-pack](https://github.com/ANVEAI/motion-pack) and [Stickman Video Director](https://github.com/kaomei/stickman-video-director). Templates without a corresponding rendered example are not counted as motions.
 
 ## Credits
 

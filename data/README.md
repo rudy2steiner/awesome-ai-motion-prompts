@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-990 works with prompt text saved in this repository. The collection includes published briefs, workflows and reusable animation templates. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+973 works with prompt text saved in this repository. The collection includes published briefs, workflows and reusable animation templates. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -170,13 +170,8 @@
 - [Soft Landing: pastel 3D product ident with cloner waves and soft-body impact](https://github.com/Vincentwei1021/mg-styles-15/blob/main/prompts/04-3d-render.md) — @Vincentwei1021 · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-mg-styles-04-3d-render.md#prompt)
 - [Atelier Linea: one continuous golden line from seed to skyline and monogram](https://github.com/Vincentwei1021/mg-styles-15/blob/main/prompts/02-line-art.md) — @Vincentwei1021 · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-mg-styles-02-line-art.md#prompt)
 - [Aurora: think in light — refractive glass lens and drifting color fields](https://github.com/Vincentwei1021/mg-styles-15/blob/main/prompts/12-aurora-glass.md) — @Vincentwei1021 · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-mg-styles-12-aurora-glass.md#prompt)
-- [motion-pack: Ad × Blueprint, 10 s 16:9](https://github.com/ANVEAI/motion-pack/blob/main/docs/prompts.md#L51) — @ANVEAI / motion-pack contributors · Claude Code / model-agnostic coding agent (motion-pack required) · [Prompt](../prompts/motion-motion-pack-ad.md#prompt)
-- [motion-pack: Launch film × Chrome Product, 35 s 16:9](https://github.com/ANVEAI/motion-pack/blob/main/docs/prompts.md#L127) — @ANVEAI / motion-pack contributors · Claude Code / model-agnostic coding agent (motion-pack required) · [Prompt](../prompts/motion-motion-pack-launch-film.md#prompt)
-- [motion-pack: SaaS feature drop × Swiss Grid, 20 s 16:9](https://github.com/ANVEAI/motion-pack/blob/main/docs/prompts.md#L171) — @ANVEAI / motion-pack contributors · Claude Code / model-agnostic coding agent (motion-pack required) · [Prompt](../prompts/motion-motion-pack-saas-feature-drop.md#prompt)
 - [X Vision: on-brand startup launch film with a beat-synced score](https://x.com/meetarno/status/2102934732203782464) — @meetarno · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2102934732203782464.md#prompt)
 - [AI_Animation: Cinematic phone UI product walkthrough](https://github.com/Unclecheng-li/AI_Animation/blob/master/skills/phone-ui-demos/README.md#使用方式) — @Unclecheng-li / AI_Animation contributors · Model-agnostic coding agent (AI_Animation skill required) · [Prompt](../prompts/motion-ai-animation-phone-ui-demos.md#prompt)
-- [OSideMedia: Robot-arm travel mug reveal with a macro pour](https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/main/templates/02-product-ugc-showcase.md#example-prompt) — @OSideMedia / higgsfield-ai-prompt-skill contributors · Kling 3.0 (video) / Nano Banana Pro (image) (template target; generation not confirmed) · [Prompt](../prompts/motion-osidemedia-02-product-ugc-showcase.md#prompt)
-- [OSideMedia: Fashion walk with a retreating camera and hard shadows](https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/main/templates/04-fashion-editorial.md#example-prompt) — @OSideMedia / higgsfield-ai-prompt-skill contributors · Kling 3.0 (template target; generation not confirmed) · [Prompt](../prompts/motion-osidemedia-04-fashion-editorial.md#prompt)
 
 
 <a id="motion-studies"></a>
@@ -382,7 +377,6 @@
 - [Melt: a solid character surrounded by a liquefying environment](https://x.com/magnific/status/2112975398363676721) — @magnific · Kling (version not specified) (author reported) · [Prompt](../prompts/motion-2112975398363676721.md#prompt)
 - [Multiverse: a fixed face across rapid reality switches](https://x.com/magnific/status/2112975356558999740) — @magnific · Kling (version not specified) (author reported) · [Prompt](../prompts/motion-2112975356558999740.md#prompt)
 - [Fluid: a person liquefies, travels and reconstructs in new poses](https://x.com/magnific/status/2112975313043116064) — @magnific · Kling (version not specified) (author reported) · [Prompt](../prompts/motion-2112975313043116064.md#prompt)
-- [OSideMedia: Storm front accelerates across an open ocean](https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/main/templates/07-landscape-establishing-shot.md#example-prompt) — @OSideMedia / higgsfield-ai-prompt-skill contributors · Veo 3.1 (template target; generation not confirmed) · [Prompt](../prompts/motion-osidemedia-07-landscape-establishing-shot.md#prompt)
 
 
 <a id="explainers-data"></a>
@@ -510,8 +504,6 @@
 - [MotionVault: Dotted Map](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/svg.ts#L120) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-dotted-map.md#prompt)
 - [MotionVault: Ring Progress](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/svg.ts#L40) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-ring-progress.md#prompt)
 - [MotionVault: Scroll Timeline](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/scroll.ts#L62) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-timeline.md#prompt)
-- [motion-pack: Proof clip × Swiss Grid, 15 s 16:9](https://github.com/ANVEAI/motion-pack/blob/main/docs/prompts.md#L207) — @ANVEAI / motion-pack contributors · Claude Code / model-agnostic coding agent (motion-pack required) · [Prompt](../prompts/motion-motion-pack-proof-clip.md#prompt)
-- [motion-pack: Explainer × Blueprint, 45 s 16:9](https://github.com/ANVEAI/motion-pack/blob/main/docs/prompts.md#L235) — @ANVEAI / motion-pack contributors · Claude Code / model-agnostic coding agent (motion-pack required) · [Prompt](../prompts/motion-motion-pack-explainer.md#prompt)
 - [Context Tax: narrated motion explainer for an engineering team](https://x.com/mablesjoseph/status/2105472483054735781) — @mablesjoseph · Claude Opus 5.5 (Max effort) / Remotion / ElevenLabs (author reported) · [Prompt](../prompts/motion-2105472483054735781.md#prompt)
 - [A single photon: a code-drawn journey from the Sun to the eye](https://x.com/apoorvjain25/status/2104818940467945542) — @apoorvjain25 · Claude Opus 5.5 / Remotion (author reported) · [Prompt](../prompts/motion-2104818940467945542.md#prompt)
 - [AI_Animation: TCP handshake visualization](https://github.com/Unclecheng-li/AI_Animation/blob/master/skills/network-protocol-viz/README.md#使用方式) — @Unclecheng-li / AI_Animation contributors · Model-agnostic coding agent (AI_Animation skill required) · [Prompt](../prompts/motion-ai-animation-network-protocol-viz.md#prompt)
@@ -522,7 +514,6 @@
 - [AI_Animation: Interactive packet routing and table decisions](https://github.com/Unclecheng-li/AI_Animation/blob/master/skills/network-protocol-viz/references/prompts.md#路由转发演示) — @Unclecheng-li / AI_Animation contributors · Model-agnostic coding agent · [Prompt](../prompts/motion-ai-animation-route-decision.md#prompt)
 - [Why black holes are black: bilingual narrated science explainer](https://x.com/Cryptoxorz/status/2106632895989526896) — @Cryptoxorz · Claude Opus 5.5 / local TTS (author reported) · [Prompt](../prompts/motion-2106632895989526896.md#prompt)
 - [Artisanal croissant: macro lamination, oven rise and crumb reveal](https://x.com/Fujimoto_hina/status/2112921424575005081) — @Fujimoto_hina · Veo 3.1 (author reported) · [Prompt](../prompts/motion-2112921424575005081.md#prompt)
-- [OSideMedia: A florist trims, wraps and transfers one bouquet across three stages](https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/main/templates/seedance/omni-reference-2-5.md#filled-example) — @OSideMedia / higgsfield-ai-prompt-skill contributors · Seedance 2.5 (template target; generation not confirmed) · [Prompt](../prompts/motion-osidemedia-florist-omni-reference.md#prompt)
 
 
 <a id="characters-stories"></a>
@@ -638,14 +629,7 @@
 - [Stickman versus time: clock-hand chase and rewind loop](https://x.com/koldo2k/status/2103951588729684360) — @koldo2k · Claude Opus 5.5 (Extra) (author reported) · [Prompt](../prompts/motion-2103951588729684360.md#prompt)
 - [NOGGIN: The Mind Is a Collage — surreal editorial cutout film](https://github.com/Vincentwei1021/mg-styles-15/blob/main/prompts/06-collage.md) — @Vincentwei1021 · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-mg-styles-06-collage.md#prompt)
 - [Pixel Quest: code-drawn pixel adventure title sequence](https://github.com/Vincentwei1021/mg-styles-15/blob/main/prompts/20-pixel.md) — @Vincentwei1021 · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-mg-styles-20-pixel.md#prompt)
-- [motion-pack: Character spot × Paper Cut (hero scene), 13.5 s 16:9](https://github.com/ANVEAI/motion-pack/blob/main/docs/prompts.md#L15) — @ANVEAI / motion-pack contributors · Claude Code / model-agnostic coding agent (motion-pack required) · [Prompt](../prompts/motion-motion-pack-character-spot.md#prompt)
-- [Stickman Video Director: Stop Letting Overthinking Ruin Your Life](https://github.com/kaomei/stickman-video-director/blob/main/skills/directing-stickman-videos/references/examples.md#phase-b--omni-flash-production-package) — @kaomei / stickman-video-director contributors · Gemini Omni Flash (published target; generation not independently confirmed) · [Prompt](../prompts/motion-stickman-director-overthinking.md#prompt)
-- [Stickman Video Director: Zeke: glass ceiling, light bridge and vault](https://github.com/kaomei/stickman-video-director/blob/main/skills/directing-stickman-videos/references/examples.md#example-2-style-2a-modern-beanie-zeke--modern-studio-tech) — @kaomei / stickman-video-director contributors · Gemini Omni Flash (published target; generation not independently confirmed) · [Prompt](../prompts/motion-stickman-director-invisible-boundaries.md#prompt)
 - [Mrs Bramble’s elevator armor reveal: six-model image-to-video comparison](https://x.com/KorpiAi/status/2112966594997481617) — @KorpiAi · Wan 3.0 / Veo 3.1 Fast / Kling v3 / Gemini Omni / Seedance 2.5 / LTX 2 (author reported) · [Prompt](../prompts/motion-2112966594997481617.md#prompt)
-- [OSideMedia: Rainy night-market pursuit with a sliding gate escape](https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/main/templates/01-cinematic-action-chase.md#example-prompt) — @OSideMedia / higgsfield-ai-prompt-skill contributors · Kling 3.0 (template target; generation not confirmed) · [Prompt](../prompts/motion-osidemedia-01-cinematic-action-chase.md#prompt)
-- [OSideMedia: A hallway mirror changes while its owner stays still](https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/main/templates/03-horror-atmosphere.md#example-prompt) — @OSideMedia / higgsfield-ai-prompt-skill contributors · Kling 3.0 (template target; generation not confirmed) · [Prompt](../prompts/motion-osidemedia-03-horror-atmosphere.md#prompt)
-- [OSideMedia: Deadpan office coffee against a chaotic background](https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/main/templates/08-comedy-social-media.md#example-prompt) — @OSideMedia / higgsfield-ai-prompt-skill contributors · Kling 3.0 (template target; generation not confirmed) · [Prompt](../prompts/motion-osidemedia-08-comedy-social-media.md#prompt)
-- [OSideMedia: Facial expression changes on a continuous close-up beat schedule](https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/main/templates/seedance/facs-expression-beats.md#prompt-template) — @OSideMedia / higgsfield-ai-prompt-skill contributors · Seedance 2.0 (template target; generation not confirmed) · [Prompt](../prompts/motion-osidemedia-facs-expression-beats.md#prompt)
 
 
 <a id="3d-simulations"></a>
@@ -810,7 +794,6 @@
 - [Depth-aware particle video reconstruction with beat-driven impacts](https://x.com/Pluvio9yte/status/2107087191738662953) — @Pluvio9yte · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2107087191738662953.md#prompt)
 - [Motion Prompt: J-cut](https://showheyohtaki.github.io/motion-prompt/#047) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-047.md#prompt)
 - [Motion Prompt: L-cut](https://showheyohtaki.github.io/motion-prompt/#048) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-048.md#prompt)
-- [OSideMedia: Contemporary dancer with orbiting camera and glow trails](https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/main/templates/10-dance-music-performance.md#example-prompt) — @OSideMedia / higgsfield-ai-prompt-skill contributors · Minimax Hailuo 2.3 (template target; generation not confirmed) · [Prompt](../prompts/motion-osidemedia-10-dance-music-performance.md#prompt)
 
 
 <a id="interactive"></a>

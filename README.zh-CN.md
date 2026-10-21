@@ -1,6 +1,6 @@
 # Awesome AI Motion Prompts
 
-**[990 个含提示词的动效作品](data/README.md)**
+**[973 个含提示词的动效作品](data/README.md)**
 
 [English](README.md) | 简体中文
 
@@ -162,6 +162,8 @@
 </table>
 
 <!-- 在此行上方添加交互体验作品。 -->
+
+提示词编写参考：[OSideMedia](https://github.com/OSideMedia/higgsfield-ai-prompt-skill), [motion-pack](https://github.com/ANVEAI/motion-pack) and [Stickman Video Director](https://github.com/kaomei/stickman-video-director)。没有对应动效输出的纯制作模板不计入作品数量。
 
 ## 致谢
 
