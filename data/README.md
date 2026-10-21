@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-724 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+727 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -486,6 +486,9 @@
 - [Cute Oktoberfest character animation](https://x.com/cherry_mx_reds/status/2102493303388475855) — cherry_mx_reds · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2102493303388475855.md#prompt)
 - [Sci-fi morning routine reveals a vast city](https://x.com/AIWarper/status/2105370568178479476) — AIWarper · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2105370568178479476.md#prompt)
 - [High-speed parkour motion previz](https://x.com/Kashiko_AIart/status/2096096560690209130) — かし子🍩 · GPT-6 Astra (directory reported) · [Prompt](../prompts/motion-2096096560690209130.md#prompt)
+- [A toddler’s playful family day: expressive 3D character animation](https://x.com/Zarnab_with_Ai/status/2112874414232756629) — @Zarnab_with_Ai · Seedance 2.5 (author reported) · [Prompt](../prompts/motion-2112874414232756629.md#prompt)
+- [A toddler’s mall adventure in six cinematic scenes](https://x.com/Zarnab_with_Ai/status/2112502546770297161) — @Zarnab_with_Ai · Seedance 2.5 (author reported) · [Prompt](../prompts/motion-2112502546770297161.md#prompt)
+- [Grandmother’s babysitting surprise: a 3D family comedy](https://x.com/Zarnab_with_Ai/status/2112370323320619487) — @Zarnab_with_Ai · Seedance 2.5 (author reported) · [Prompt](../prompts/motion-2112370323320619487.md#prompt)
 
 
 <a id="3d-simulations"></a>
