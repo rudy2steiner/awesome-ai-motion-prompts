@@ -6,7 +6,7 @@
 
 ## 添加作品
 
-1. 点击 README 中的 **＋ 向此分类投稿**，进入英文 README 编辑页。
+1. [编辑英文 README](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md)，找到对应分类。
 2. 在对应分类下添加作品，附上预览或演示、作者署名、模型名称和提示词链接。
 3. 提交 PR，简单介绍作品和你希望分享的设计或技巧。
 

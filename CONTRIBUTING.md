@@ -6,7 +6,7 @@ English | [简体中文](CONTRIBUTING.zh-CN.md)
 
 ## Add your motion
 
-1. Click **＋ Submit to this category** in the README.
+1. Open [README.md for editing](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md) and find the matching category.
 2. Add your work under that category. Include a preview or demo, creator credit, the model and a prompt link.
 3. Open a pull request with a short note about your work.
 
