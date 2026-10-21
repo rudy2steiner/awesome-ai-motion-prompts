@@ -1,5 +1,7 @@
 # Submissions welcome!
 
+English | [简体中文](CONTRIBUTING.zh-CN.md)
+
 **Pick a category in [README.md](README.md#contents), add your motion, and open a PR.** Any model, platform or creator is welcome.
 
 ## Add your motion
@@ -16,7 +18,7 @@ You can copy a neighboring card, or start with a plain entry:
 
 For a prompt hosted in this repository, copy [`prompts/_template.md`](prompts/_template.md) to `prompts/your-motion.md` and fill it in. Add a short GIF to `data/media/` if you want an inline preview. Maintainers can help arrange the featured cards.
 
-Keep descriptions in English and prompts in their original language. Credit original creators and mention references, tools or important follow-up edits. One work per PR. Suggest a new category if none fits. No view or follower threshold applies.
+English is the primary documentation language. Add new works to the English README first; matching Chinese updates are welcome, and maintainers can help translate them. Keep prompts in their original language. Credit original creators and mention references, tools or important follow-up edits. One work per PR. Suggest a new category if none fits. No view or follower threshold applies.
 
 ## Repository structure
 
