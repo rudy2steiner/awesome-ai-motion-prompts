@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-763 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+764 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -289,6 +289,7 @@
 - [Glass and gold-leaf mosaic: lifting, flipping and flocking tile animation](https://x.com/LCSlates/status/2102503027340988559) — @LCSlates · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2102503027340988559.md#prompt)
 - [Build the Floor: magnetic-field kinetic spoken-word typography](https://x.com/Gdgtify/status/2105570411870130294) — @Gdgtify · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2105570411870130294.md#prompt)
 - [One pencil line: paper, blueprint and hologram showreel](https://x.com/heyiamnick/status/2109174851412119558) — @heyiamnick · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2109174851412119558.md#prompt)
+- [GSAP and Three.js motion-video production template with continuous object handoffs](https://x.com/everestchris6/status/2104965415164399895) — @everestchris6 · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2104965415164399895.md#prompt)
 
 
 <a id="explainers-data"></a>
