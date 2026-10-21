@@ -2,7 +2,7 @@
 
 ![Kinetic type](../public/motion-posters/kinetic-type.webp)
 
-[Watch video](https://video.twimg.com/amplify_video/2103409564657885184/vid/avc1/720x720/sRUCrID2I-a6mKxe.mp4) · [Original post](https://x.com/techhalla/status/2103411244468498547)
+[▶ Play online](https://www.open-prompts.com/motion-prompts/kinetic-type) · [Original post](https://x.com/techhalla/status/2103411244468498547)
 
 - **Creator:** techhalla
 - **Model:** Opus 5.5

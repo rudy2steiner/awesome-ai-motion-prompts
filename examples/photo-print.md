@@ -2,7 +2,7 @@
 
 ![Photo print app launch film](../public/motion-posters/photo-print.webp)
 
-[Watch video](https://video.twimg.com/amplify_video/2103830256347910144/vid/avc1/720x720/5ECca-LUMDVtwt7a.mp4) · [Original post](https://x.com/twoclipping/status/2103835273813496100)
+[▶ Play online](https://www.open-prompts.com/motion-prompts/photo-print) · [Original post](https://x.com/twoclipping/status/2103835273813496100)
 
 - **Creator:** twoclipping
 - **Model:** Opus 5.5

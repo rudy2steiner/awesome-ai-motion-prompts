@@ -2,7 +2,7 @@
 
 ![UI morph showreel](../public/motion-posters/ui-morph.webp)
 
-[Watch video](https://video.twimg.com/amplify_video/2103272964967804928/vid/avc1/720x720/18beFxJGrO4tjaDQ.mp4) · [Original post](https://x.com/twoclipping/status/2103273003555402193)
+[▶ Play online](https://www.open-prompts.com/motion-prompts/ui-morph) · [Original post](https://x.com/twoclipping/status/2103273003555402193)
 
 - **Creator:** twoclipping
 - **Model:** Opus 5.5

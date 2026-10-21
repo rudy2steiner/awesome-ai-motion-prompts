@@ -2,7 +2,7 @@
 
 ![Infinite zoom](../public/motion-posters/infinite-zoom.webp)
 
-[Watch video](https://video.twimg.com/amplify_video/2103123431558348801/vid/avc1/1280x720/5HkHcQH3RIq33O0m.mp4) · [Original post](https://x.com/koldo2k/status/2103129343253778767)
+[▶ Play online](https://www.open-prompts.com/motion-prompts/infinite-zoom) · [Original post](https://x.com/koldo2k/status/2103129343253778767)
 
 - **Creator:** koldo2k
 - **Model:** Opus 5.5

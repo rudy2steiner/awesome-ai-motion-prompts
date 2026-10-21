@@ -2,7 +2,7 @@
 
 ![Changelog highlight video (no skill installed)](../public/motion-posters/2096844989900914865.webp)
 
-[Watch video](https://video.twimg.com/amplify_video/2096844380707721216/vid/avc1/1280x720/GY2ozLchKiQv8O-L.mp4) · [Original post](https://x.com/leon7hao/status/2096844989900914865)
+[View original video](https://x.com/leon7hao/status/2096844989900914865) · [Original post](https://x.com/leon7hao/status/2096844989900914865)
 
 - **Creator:** leon7hao
 - **Model:** GPT-6 Astra

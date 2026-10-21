@@ -2,7 +2,7 @@
 
 ![TypingMind logo reveal](../public/motion-posters/typingmind.webp)
 
-[Watch video](https://video.twimg.com/amplify_video/2103703848015835136/vid/avc1/1280x720/GlBriVishnQMcY9g.mp4) · [Original post](https://x.com/tdinh_me/status/2103704250329301409)
+[▶ Play online](https://www.open-prompts.com/motion-prompts/typingmind) · [Original post](https://x.com/tdinh_me/status/2103704250329301409)
 
 - **Creator:** tdinh_me
 - **Model:** Opus 5.5

@@ -2,7 +2,7 @@
 
 ![Overthinking showreel](../public/motion-posters/overthinking.webp)
 
-[Watch video](https://video.twimg.com/amplify_video/2103565216839602176/vid/avc1/720x1280/BVaEtJ4epEF6k7sv.mp4) · [Original post](https://x.com/gizakdag/status/2103566030916239768)
+[▶ Play online](https://www.open-prompts.com/motion-prompts/overthinking) · [Original post](https://x.com/gizakdag/status/2103566030916239768)
 
 - **Creator:** gizakdag
 - **Model:** Opus 5.5

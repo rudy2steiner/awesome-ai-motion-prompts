@@ -2,7 +2,7 @@
 
 ![15-second flat-color motion showreel](../public/motion-posters/2103449416325890146.webp)
 
-[Watch video](https://video.twimg.com/amplify_video/2103449259869863936/vid/avc1/1280x720/JPFTTGgTObPSPXKM.mp4) · [Original post](https://x.com/ajith_io/status/2103449416325890146)
+[View original video](https://x.com/ajith_io/status/2103449416325890146) · [Original post](https://x.com/ajith_io/status/2103449416325890146)
 
 - **Creator:** ajith_io
 - **Model:** Claude Opus 5.5

@@ -2,7 +2,7 @@
 
 ![Motion showreel](../public/motion-posters/motion-showreel.webp)
 
-[Watch video](https://video.twimg.com/amplify_video/2103537567853666304/vid/avc1/1280x720/1__01sgChnfv1K8u.mp4) · [Original post](https://x.com/prasenx/status/2103538744695693512)
+[▶ Play online](https://www.open-prompts.com/motion-prompts/motion-showreel) · [Original post](https://x.com/prasenx/status/2103538744695693512)
 
 - **Creator:** prasenx
 - **Model:** Opus 5.5

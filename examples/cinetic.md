@@ -2,7 +2,7 @@
 
 ![Cinetic skill launch film](../public/motion-posters/cinetic.webp)
 
-[Watch video](https://video.twimg.com/amplify_video/2106887230614573056/vid/avc1/1280x720/dRWhX8JMghv5hJEt.mp4) · [Original post](https://x.com/LexnLin/status/2106891315371737480)
+[▶ Play online](https://www.open-prompts.com/motion-prompts/cinetic) · [Original post](https://x.com/LexnLin/status/2106891315371737480)
 
 - **Creator:** LexnLin
 - **Model:** Opus 5.5

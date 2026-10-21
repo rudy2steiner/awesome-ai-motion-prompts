@@ -2,7 +2,7 @@
 
 ![Bold kinetic type showreel](../public/motion-posters/bold-type.webp)
 
-[Watch video](https://video.twimg.com/amplify_video/2103149570440024064/vid/avc1/1280x720/mlmcQzB4C3BEWPQS.mp4) · [Original post](https://x.com/shneural/status/2103151003272962130)
+[▶ Play online](https://www.open-prompts.com/motion-prompts/bold-type) · [Original post](https://x.com/shneural/status/2103151003272962130)
 
 - **Creator:** shneural
 - **Model:** Claude Opus 5.5 / GPT-6 Astra

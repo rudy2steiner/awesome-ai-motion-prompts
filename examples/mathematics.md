@@ -2,7 +2,7 @@
 
 ![Mathematics motion showreel](../public/motion-posters/mathematics.webp)
 
-[Watch video](https://video.twimg.com/amplify_video/2104485588590280704/vid/avc1/1280x720/UN0_vD9WEQKmJB1H.mp4) · [Original post](https://x.com/Math_files/status/2104486181853610052)
+[▶ Play online](https://www.open-prompts.com/motion-prompts/mathematics) · [Original post](https://x.com/Math_files/status/2104486181853610052)
 
 - **Creator:** Math_files
 - **Model:** Opus 5.5

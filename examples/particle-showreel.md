@@ -2,7 +2,7 @@
 
 ![Motion designer showreel](../public/motion-posters/particle-showreel.webp)
 
-[Watch video](https://video.twimg.com/amplify_video/2103494828042670081/vid/avc1/1280x720/YvTsYCqOKw5N-ECI.mp4) · [Original post](https://x.com/himanshutwtxs/status/2103495232637882858)
+[▶ Play online](https://www.open-prompts.com/motion-prompts/particle-showreel) · [Original post](https://x.com/himanshutwtxs/status/2103495232637882858)
 
 - **Creator:** himanshutwtxs
 - **Model:** Opus 5.5
