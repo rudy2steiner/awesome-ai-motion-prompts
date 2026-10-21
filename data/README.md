@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-731 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+734 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -278,6 +278,7 @@
 - [Cinematic thirty-second typography and 3D motion reel](https://x.com/essjaykay755/status/2103446726245847163) — essjaykay755 · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2103446726245847163.md#prompt)
 - [Opus 5.5 Motion Designer Showreel](https://x.com/Ai9app/status/2104912803786375645) — Ai9app · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2104912803786375645.md#prompt)
 - [Multiplane city timelapse with foreground occlusion](https://x.com/_davideast/status/2112932231270285730) — @_davideast · Gemini 4 Argon (author reported) · [Prompt](../prompts/motion-2112932231270285730.md#prompt)
+- [Gemini 4 Carbon: thirty-second motion graphics demo](https://x.com/Genysis_Ai_26/status/2112909613788230013) — @Genysis_Ai_26 · Gemini 4 Carbon (author reported) · [Prompt](../prompts/motion-2112909613788230013.md#prompt)
 
 
 <a id="explainers-data"></a>
@@ -391,6 +392,7 @@
 - [Fourth Dimension Explainer in SNES Pokémon 16-Bit Style](https://x.com/camilodesan/status/2107648310714442230) — camilodesan · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2107648310714442230.md#prompt)
 - [Opus 5.5 Agentic Meme-Style Video Production Comparison](https://x.com/threeaus/status/2105152588991868936) — threeaus · Claude Opus 5.5 / Sol 6.1 (directory reported) · [Prompt](../prompts/motion-2105152588991868936.md#prompt)
 - [The Fields Under the Forest — LiDAR Survey](https://github.com/lemomo-ai/lemo-opuscar/blob/main/styles/lidar-survey/STYLE.md) — @lemomo-ai · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-lemo-lidar-survey.md#prompt)
+- [The Map Still Says Sea — Satellite Briefing](https://github.com/lemomo-ai/lemo-opuscar/blob/main/styles/satellite-briefing/STYLE.md) — @lemomo-ai · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-lemo-satellite-briefing.md#prompt)
 
 
 <a id="characters-stories"></a>
@@ -491,6 +493,7 @@
 - [A toddler’s playful family day: expressive 3D character animation](https://x.com/Zarnab_with_Ai/status/2112874414232756629) — @Zarnab_with_Ai · Seedance 2.5 (author reported) · [Prompt](../prompts/motion-2112874414232756629.md#prompt)
 - [A toddler’s mall adventure in six cinematic scenes](https://x.com/Zarnab_with_Ai/status/2112502546770297161) — @Zarnab_with_Ai · Seedance 2.5 (author reported) · [Prompt](../prompts/motion-2112502546770297161.md#prompt)
 - [Grandmother’s babysitting surprise: a 3D family comedy](https://x.com/Zarnab_with_Ai/status/2112370323320619487) — @Zarnab_with_Ai · Seedance 2.5 (author reported) · [Prompt](../prompts/motion-2112370323320619487.md#prompt)
+- [Midnight at the Starlight Hotel — Art Deco](https://github.com/lemomo-ai/lemo-opuscar/blob/main/styles/art-deco/STYLE.md) — @lemomo-ai · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-lemo-art-deco.md#prompt)
 
 
 <a id="3d-simulations"></a>
