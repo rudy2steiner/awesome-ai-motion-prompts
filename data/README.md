@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-988 works with prompt text saved in this repository. The collection includes published briefs, workflows and reusable animation templates. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+990 works with prompt text saved in this repository. The collection includes published briefs, workflows and reusable animation templates. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -522,6 +522,7 @@
 - [AI_Animation: Interactive packet routing and table decisions](https://github.com/Unclecheng-li/AI_Animation/blob/master/skills/network-protocol-viz/references/prompts.md#路由转发演示) — @Unclecheng-li / AI_Animation contributors · Model-agnostic coding agent · [Prompt](../prompts/motion-ai-animation-route-decision.md#prompt)
 - [Why black holes are black: bilingual narrated science explainer](https://x.com/Cryptoxorz/status/2106632895989526896) — @Cryptoxorz · Claude Opus 5.5 / local TTS (author reported) · [Prompt](../prompts/motion-2106632895989526896.md#prompt)
 - [Artisanal croissant: macro lamination, oven rise and crumb reveal](https://x.com/Fujimoto_hina/status/2112921424575005081) — @Fujimoto_hina · Veo 3.1 (author reported) · [Prompt](../prompts/motion-2112921424575005081.md#prompt)
+- [OSideMedia: A florist trims, wraps and transfers one bouquet across three stages](https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/main/templates/seedance/omni-reference-2-5.md#filled-example) — @OSideMedia / higgsfield-ai-prompt-skill contributors · Seedance 2.5 (template target; generation not confirmed) · [Prompt](../prompts/motion-osidemedia-florist-omni-reference.md#prompt)
 
 
 <a id="characters-stories"></a>
@@ -644,6 +645,7 @@
 - [OSideMedia: Rainy night-market pursuit with a sliding gate escape](https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/main/templates/01-cinematic-action-chase.md#example-prompt) — @OSideMedia / higgsfield-ai-prompt-skill contributors · Kling 3.0 (template target; generation not confirmed) · [Prompt](../prompts/motion-osidemedia-01-cinematic-action-chase.md#prompt)
 - [OSideMedia: A hallway mirror changes while its owner stays still](https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/main/templates/03-horror-atmosphere.md#example-prompt) — @OSideMedia / higgsfield-ai-prompt-skill contributors · Kling 3.0 (template target; generation not confirmed) · [Prompt](../prompts/motion-osidemedia-03-horror-atmosphere.md#prompt)
 - [OSideMedia: Deadpan office coffee against a chaotic background](https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/main/templates/08-comedy-social-media.md#example-prompt) — @OSideMedia / higgsfield-ai-prompt-skill contributors · Kling 3.0 (template target; generation not confirmed) · [Prompt](../prompts/motion-osidemedia-08-comedy-social-media.md#prompt)
+- [OSideMedia: Facial expression changes on a continuous close-up beat schedule](https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/main/templates/seedance/facs-expression-beats.md#prompt-template) — @OSideMedia / higgsfield-ai-prompt-skill contributors · Seedance 2.0 (template target; generation not confirmed) · [Prompt](../prompts/motion-osidemedia-facs-expression-beats.md#prompt)
 
 
 <a id="3d-simulations"></a>

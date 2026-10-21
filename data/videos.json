@@ -32762,5 +32762,67 @@
       "visualQuality": "not_reviewed",
       "fullReview": false
     }
+  },
+  {
+    "id": "osidemedia-facs-expression-beats",
+    "title": "OSideMedia: Facial expression changes on a continuous close-up beat schedule",
+    "author": "OSideMedia / higgsfield-ai-prompt-skill contributors",
+    "sourceUrl": "https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/main/templates/seedance/facs-expression-beats.md#prompt-template",
+    "promptSourceUrl": "https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/main/templates/seedance/facs-expression-beats.md#prompt-template",
+    "prompt": "**Model:** Seedance 2.0\n**Aspect ratio:** [1:1 / 16:9 / 9:16]   **Duration:** [Ns]\n\n[Use the provided character @Image1 as the fixed identity reference. — optional,\n only for identity consistency; codes work without an image]\n\n**Style & Mood:** [framing — tight close-up, face + shoulders], [lighting],\n[background], shallow depth of field, [mood].\n\n[Optional dialogue — generates speech + automatic lip-sync, see higgsfield-audio\n § Audio as a Conditioning Input:\n [AUDIO: 0s] \"[the spoken line]\"]\n\nBeat 1 ([0-Xs]): [AU codes] ([optional short anatomical description]) [— delivers \"<line>\"]\nBeat 2 ([X-Ys]): [AU codes] (...) [— delivers \"<line>\"]\nBeat 3 ([Y-Zs]): [AU codes] (...) \n[3–4 beats max for reliable rendering]\n\n[One-line mood / subtext — e.g. \"the face never fully commits to either; the\n audience reads both at once.\"]\n\n**Camera:** [one dominant move — slow push-in / static medium close-up]",
+    "model": "Seedance 2.0 (template target; generation not confirmed)",
+    "primaryCategory": "characters-stories",
+    "promptStatus": "creator_published_production_example",
+    "promptCompleteness": "complete_published_template",
+    "requiresReference": true,
+    "notes": "Public production template, not a confirmed generated film or original model-run conversation. Full fenced source prompt preserved. For facial acting, fill duration, expression/AU beats, dialogue and visual fields, and consult the linked FACS reference; code-based expression control and rendering reliability are not independently validated. For the florist example, supply four image references and the stem-trimming/ribbon-tying motion video; its three stages count as one workflow, not three cases. The named model is the template target, not observed generation provenance. No rendered result is supplied by this document. Source read through Chrome MCP; generation, playback, facial accuracy, identity continuity and visual quality were not tested.",
+    "platform": "GitHub",
+    "modelStatus": "not_specified",
+    "status": "collected",
+    "promptFile": "prompts/motion-osidemedia-facs-expression-beats.md",
+    "discoveryUrl": "https://github.com/OSideMedia/higgsfield-ai-prompt-skill",
+    "verification": {
+      "method": "chrome_mcp_published_workflow_documentation",
+      "checkedAt": "2026-10-22",
+      "originalPostConfirmed": true,
+      "promptMatchedSource": true,
+      "authorClaimConfirmed": false,
+      "nativeVideoConfirmed": false,
+      "exampleFilesListed": false,
+      "exactPromptOutputConfirmed": false,
+      "visualQuality": "not_reviewed",
+      "fullReview": false
+    }
+  },
+  {
+    "id": "osidemedia-florist-omni-reference",
+    "title": "OSideMedia: A florist trims, wraps and transfers one bouquet across three stages",
+    "author": "OSideMedia / higgsfield-ai-prompt-skill contributors",
+    "sourceUrl": "https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/main/templates/seedance/omni-reference-2-5.md#filled-example",
+    "promptSourceUrl": "https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/main/templates/seedance/omni-reference-2-5.md#filled-example",
+    "prompt": "[Characters]\n<Florist> corresponds to @Image 1. Use only the appearance, hairstyle, and dark green apron.\n<Assistant> corresponds to @Image 2. Use only the appearance, hairstyle, and clothing.\nDo not interchange these characters' appearances, clothing, actions, positions, or dialogue.\n\n[Props]\n<Wrapped Bouquet> corresponds to @Image 3 and belongs only to <Florist> until Stage 3.\nUse only the structure, flower types, and ribbon color.\n\n[Scenes]\n<Shop Workbench> references @Image 4. Use only the spatial layout, timber surfaces, and\nwindow light. Do not use the people in the image.\n\n[Motion and Audio]\n@Video 1 defines the pacing of trimming stems and tying a ribbon. Do not use the person's\nidentity, clothing, or scene from the video.\n\n[Generation Goal]\nGenerate an observational documentary clip. The central subject is <Florist>, and the primary\nevent is packing a single order from loose stems to a finished bouquet on the pickup shelf.\n\n[Stage 1]\nInitial state: <Florist> stands behind <Shop Workbench>. Loose stems, scissors, and wrapping\npaper lie on the tabletop.\nPrimary event: <Florist> arranges the stems and trims them to length.\nEnd state: <Florist> holds the bouquet in the left hand; the scissors are back on the right\nside of the workbench.\n\n[Stage 2]\nContinue from the previous stage: both characters keep the same identities and clothing,\n<Florist> still holds the bouquet, and <Assistant> already holds the wrapping paper open flat\non the workbench.\nPrimary event: <Florist> wraps the bouquet in the paper and ties it with the ribbon — the\nbouquet goes from loose to wrapped.\nEnd state: <Wrapped Bouquet> lies flat in the center of the workbench, ribbon bow facing camera.\n\n[Stage 3]\nPrimary event: <Assistant> lifts <Wrapped Bouquet> and sets it on the pickup shelf.\nEnd state: the bouquet is centered on the pickup shelf; both characters stand behind the\nworkbench looking at the finished order.\n\n[Visual Style]\nOvercast morning window light from frame-left, no fill from the camera side. Muted greens and\nraw timber, one saturated accent in the ribbon. Real skin texture, visible paper grain.\n\n[Camera]\nOpen on a medium shot of the workbench at chest height, hold through Stage 1, push in slowly\nto the ribbon knot across Stage 2, then a single lateral move to follow the bouquet to the\nshelf in Stage 3. 47° diagonal field of view throughout, no drift mid-segment.\n\n[Audio]\nRoom tone, scissor snips, paper rustle, the ribbon pulling tight. <A shop bell rings once,\ndistant> NO BGM.\n\n[Maintain Consistency]\nKeep <Florist> and <Assistant>'s identities and clothing, the workbench orientation, the\nscissors' position, and bouquet ownership consistent throughout.",
+    "model": "Seedance 2.5 (template target; generation not confirmed)",
+    "primaryCategory": "explainers-data",
+    "promptStatus": "creator_published_production_example",
+    "promptCompleteness": "complete_published_filled_example",
+    "requiresReference": true,
+    "notes": "Public production template, not a confirmed generated film or original model-run conversation. Full fenced source prompt preserved. For facial acting, fill duration, expression/AU beats, dialogue and visual fields, and consult the linked FACS reference; code-based expression control and rendering reliability are not independently validated. For the florist example, supply four image references and the stem-trimming/ribbon-tying motion video; its three stages count as one workflow, not three cases. The named model is the template target, not observed generation provenance. No rendered result is supplied by this document. Source read through Chrome MCP; generation, playback, facial accuracy, identity continuity and visual quality were not tested.",
+    "platform": "GitHub",
+    "modelStatus": "not_specified",
+    "status": "collected",
+    "promptFile": "prompts/motion-osidemedia-florist-omni-reference.md",
+    "discoveryUrl": "https://github.com/OSideMedia/higgsfield-ai-prompt-skill",
+    "verification": {
+      "method": "chrome_mcp_published_workflow_documentation",
+      "checkedAt": "2026-10-22",
+      "originalPostConfirmed": true,
+      "promptMatchedSource": true,
+      "authorClaimConfirmed": false,
+      "nativeVideoConfirmed": false,
+      "exampleFilesListed": false,
+      "exactPromptOutputConfirmed": false,
+      "visualQuality": "not_reviewed",
+      "fullReview": false
+    }
   }
 ]
