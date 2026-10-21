@@ -929,7 +929,154 @@
       "method": "chrome-mcp_original_post_syndication",
       "checkedAt": "2026-10-21",
       "postMatched": true
-    }
+    },
+    "relatedSources": [
+      {
+        "url": "https://x.com/MisbahSy/status/2103831201114882277",
+        "author": "MisbahSy",
+        "model": "Claude Opus 5.5",
+        "reason": "Same normalized prompt; additional source consolidated rather than counted separately"
+      },
+      {
+        "url": "https://x.com/wallt_white/status/2103750353585942703",
+        "author": "wallt_white",
+        "model": "Claude Opus 5.5",
+        "reason": "Same normalized prompt; additional source consolidated rather than counted separately"
+      },
+      {
+        "url": "https://x.com/RaphaelAubryy/status/2103416909857190360",
+        "author": "RaphaelAubryy",
+        "model": "Claude Opus 5.5",
+        "reason": "Same normalized prompt; additional source consolidated rather than counted separately"
+      },
+      {
+        "url": "https://x.com/eyishazyer/status/2103816865852129686",
+        "author": "eyishazyer",
+        "model": "Claude Opus 5.5",
+        "reason": "Same normalized prompt; additional source consolidated rather than counted separately"
+      },
+      {
+        "url": "https://x.com/RoxsaV2/status/2103749285846073412",
+        "author": "RoxsaV2",
+        "model": "Claude Opus 5.5",
+        "reason": "Same normalized prompt; additional source consolidated rather than counted separately"
+      },
+      {
+        "url": "https://x.com/TeslaChartz/status/2103746486978887985",
+        "author": "TeslaChartz",
+        "model": "Claude Opus 5.5",
+        "reason": "Same normalized prompt; additional source consolidated rather than counted separately"
+      },
+      {
+        "url": "https://x.com/motiondsgnr/status/2103692944771313960",
+        "author": "motiondsgnr",
+        "model": "Claude Opus 5.5",
+        "reason": "Same normalized prompt; additional source consolidated rather than counted separately"
+      },
+      {
+        "url": "https://x.com/jasonzhou1993/status/2103663364958515541",
+        "author": "jasonzhou1993",
+        "model": "Claude Opus 5.5",
+        "reason": "Same normalized prompt; additional source consolidated rather than counted separately"
+      },
+      {
+        "url": "https://x.com/leadnotifi/status/2103628028391960983",
+        "author": "leadnotifi",
+        "model": "Claude Opus 5.5",
+        "reason": "Same normalized prompt; additional source consolidated rather than counted separately"
+      },
+      {
+        "url": "https://x.com/tolgayhickiran/status/2103619422128935120",
+        "author": "tolgayhickiran",
+        "model": "Claude Opus 5.5",
+        "reason": "Same normalized prompt; additional source consolidated rather than counted separately"
+      },
+      {
+        "url": "https://x.com/marouanegazouzi/status/2103608571435131257",
+        "author": "marouanegazouzi",
+        "model": "Claude Opus 5.5",
+        "reason": "Same normalized prompt; additional source consolidated rather than counted separately"
+      },
+      {
+        "url": "https://x.com/Shinskinakamoto/status/2103580532852589043",
+        "author": "Shinskinakamoto",
+        "model": "Claude Opus 5.5",
+        "reason": "Same normalized prompt; additional source consolidated rather than counted separately"
+      },
+      {
+        "url": "https://x.com/m1n9_k7/status/2103580011882295601",
+        "author": "m1n9_k7",
+        "model": "Claude Opus 5.5",
+        "reason": "Same normalized prompt; additional source consolidated rather than counted separately"
+      },
+      {
+        "url": "https://x.com/m1n9_k7/status/2103579630045466682",
+        "author": "m1n9_k7",
+        "model": "Claude Opus 5.5",
+        "reason": "Same normalized prompt; additional source consolidated rather than counted separately"
+      },
+      {
+        "url": "https://x.com/SagarmohanSingh/status/2103574041781322168",
+        "author": "SagarmohanSingh",
+        "model": "Claude Opus 5.5",
+        "reason": "Same normalized prompt; additional source consolidated rather than counted separately"
+      },
+      {
+        "url": "https://x.com/CrazyAlphaaa/status/2103568486249480622",
+        "author": "CrazyAlphaaa",
+        "model": "Claude Opus 5.5",
+        "reason": "Same normalized prompt; additional source consolidated rather than counted separately"
+      },
+      {
+        "url": "https://x.com/3xtihor/status/2103551886272159839",
+        "author": "3xtihor",
+        "model": "Claude Opus 5.5",
+        "reason": "Same normalized prompt; additional source consolidated rather than counted separately"
+      },
+      {
+        "url": "https://x.com/sahildesigner23/status/2103536115563307120",
+        "author": "sahildesigner23",
+        "model": "Claude Opus 5.5",
+        "reason": "Same normalized prompt; additional source consolidated rather than counted separately"
+      },
+      {
+        "url": "https://x.com/safarkhanshuvo/status/2103520091552059752",
+        "author": "safarkhanshuvo",
+        "model": "Claude Opus 5.5",
+        "reason": "Same normalized prompt; additional source consolidated rather than counted separately"
+      },
+      {
+        "url": "https://x.com/LeonKohli/status/2103517696038191220",
+        "author": "LeonKohli",
+        "model": "Claude Opus 5.5",
+        "reason": "Same normalized prompt; additional source consolidated rather than counted separately"
+      },
+      {
+        "url": "https://x.com/fionntobin/status/2103510776690479597",
+        "author": "fionntobin",
+        "model": "Claude Opus 5.5",
+        "reason": "Same normalized prompt; additional source consolidated rather than counted separately"
+      },
+      {
+        "url": "https://x.com/umangratani/status/2103486881136840800",
+        "author": "umangratani",
+        "model": "Claude Opus 5.5",
+        "reason": "Same normalized prompt; additional source consolidated rather than counted separately"
+      },
+      {
+        "url": "https://x.com/sudo_kiran/status/2103463886372696074",
+        "author": "sudo_kiran",
+        "model": "Claude Opus 5.5",
+        "reason": "Same normalized prompt; additional source consolidated rather than counted separately"
+      },
+      {
+        "url": "https://x.com/itsuki_dev/status/2103438087204618392",
+        "author": "itsuki_dev",
+        "model": "Claude Opus 5.5",
+        "reason": "Same normalized prompt; additional source consolidated rather than counted separately"
+      }
+    ],
+    "notes": " Duplicate-prompt audit consolidated 24 additional sources into this record. Featured examples may share the same brief while displaying independently credited outcomes; related source records are not counted again."
   },
   {
     "id": "particle-showreel",
@@ -2866,7 +3013,7 @@
       "fullReview": false,
       "evidenceQuote": "One prompt to Claude Opus 5.5 on High:\n\n“Show me what goes on inside an AI data centre.”\n\n35 minutes later → a 2.5-minute 3D film, going from the power grid all the way down to Blackwell silicon.\n\nOne HTML file.\nZero 3D assets.\nAnd it cost me just ~7% of my usage. 🤯\n\nThis is https://t.co/6xGUMdnvqV"
     },
-    "notes": "Prompt text matched against the original X post, with creator, model claim and native video attachment confirmed. This is source verification, not a playback-quality review. Referenced assets and prior project context are not bundled.",
+    "notes": "Prompt text matched against the original X post, with creator, model claim and native video attachment confirmed. This is source verification, not a playback-quality review. Referenced assets and prior project context are not bundled. Duplicate-prompt audit consolidated 1 additional sources into this record. Featured examples may share the same brief while displaying independently credited outcomes; related source records are not counted again.",
     "sourceMediaKeys": [
       "2103845515997974528"
     ],
@@ -2874,7 +3021,15 @@
       "method": "chrome-mcp_original_post_syndication",
       "checkedAt": "2026-10-21",
       "postMatched": true
-    }
+    },
+    "relatedSources": [
+      {
+        "url": "https://x.com/Sayan_shanky/status/2103736579449868515",
+        "author": "Sayan_shanky",
+        "model": "Claude Opus 5.5",
+        "reason": "Same normalized prompt; additional source consolidated rather than counted separately"
+      }
+    ]
   },
   {
     "id": "2103811146411041046",
@@ -3091,43 +3246,6 @@
     "notes": "Prompt text matched against the original X post, with creator, model claim and native video attachment confirmed. This is source verification, not a playback-quality review. Referenced assets and prior project context are not bundled.",
     "sourceMediaKeys": [
       "2103774351396880384"
-    ],
-    "mediaSourceCheck": {
-      "method": "chrome-mcp_original_post_syndication",
-      "checkedAt": "2026-10-21",
-      "postMatched": true
-    }
-  },
-  {
-    "id": "2103736579449868515",
-    "title": "From the grid to AI silicon",
-    "author": "Sayan_shanky",
-    "sourceUrl": "https://x.com/Sayan_shanky/status/2103736579449868515",
-    "platform": "X",
-    "model": "Claude Opus 5.5",
-    "modelStatus": "author_claimed",
-    "primaryCategory": "explainers-data",
-    "prompt": "show me what goes on inside an AI data centre.",
-    "promptFile": "prompts/sayan-shanky-868515.md",
-    "promptSourceUrl": "https://x.com/Sayan_shanky/status/2103736579449868515",
-    "promptStatus": "original_post_text_matched",
-    "status": "collected",
-    "discoveryUrl": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f/prompts/sayan-shanky-868515.md",
-    "verification": {
-      "method": "chrome-mcp_original_post_syndication",
-      "checkedAt": "2026-10-21",
-      "originalPostConfirmed": true,
-      "creatorMatched": true,
-      "promptMatchedSource": true,
-      "authorClaimConfirmed": true,
-      "videoAttachmentConfirmed": true,
-      "visualQuality": "not_reviewed",
-      "fullReview": false,
-      "evidenceQuote": "One prompt to Claude Opus 5.5 on high: show me what goes on inside an AI data centre.  \n\n35 min later: a 2.5 min 3d film from the grid down to Blackwell silicon. one html file, zero 3d assets.  \n\nCost me just ~7% of my usage. https://t.co/qRhqyg4Veu"
-    },
-    "notes": "Prompt text matched against the original X post, with creator, model claim and native video attachment confirmed. This is source verification, not a playback-quality review. Referenced assets and prior project context are not bundled.",
-    "sourceMediaKeys": [
-      "2103736171977461760"
     ],
     "mediaSourceCheck": {
       "method": "chrome-mcp_original_post_syndication",
@@ -6318,41 +6436,6 @@
     "notes": "The original work and creator’s published prompt text were matched through Chrome MCP, including a separate author reply where applicable. The model claim and native video attachment were confirmed. Playback quality is not independently reviewed. The discovery source marks this prompt as a fragment; additional project context, references or inputs may be needed."
   },
   {
-    "id": "2103831201114882277",
-    "title": "Dynamic Motion Graphics Showreel",
-    "author": "MisbahSy",
-    "sourceUrl": "https://x.com/MisbahSy/status/2103831201114882277",
-    "platform": "X",
-    "model": "Claude Opus 5.5",
-    "modelStatus": "author_claimed",
-    "primaryCategory": "motion-studies",
-    "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-    "promptFile": "prompts/motion-2103831201114882277.md",
-    "promptSourceUrl": "https://x.com/MisbahSy/status/2103831201114882277",
-    "promptStatus": "original_post_text_matched",
-    "promptCompleteness": "fragment_or_context_dependent",
-    "status": "collected",
-    "sourceMediaKeys": [
-      "2103725438204071936"
-    ],
-    "discoveryUrl": "https://github.com/LeaddeOpenLab/awesome-opus-5-5-video-prompts/blob/5d5ee72/data/library/2103831201114882277.json",
-    "verification": {
-      "method": "chrome-mcp_original_post_and_prompt_reply",
-      "checkedAt": "2026-10-21",
-      "originalPostConfirmed": true,
-      "creatorMatched": true,
-      "promptCreatorMatched": true,
-      "promptMatchedSource": true,
-      "authorClaimConfirmed": true,
-      "videoAttachmentConfirmed": true,
-      "visualQuality": "not_reviewed",
-      "fullReview": false,
-      "evidenceQuote": "Opus 5.5 is incredible at animations\n\ntried the circulating prompt on @LiteLLM: \"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\" https://t.co/VlQjWrAdrL",
-      "promptEvidenceQuote": "Opus 5.5 is incredible at animations\n\ntried the circulating prompt on @LiteLLM: \"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\" https://t.co/VlQjWrAdrL"
-    },
-    "notes": "The original work and creator’s published prompt text were matched through Chrome MCP, including a separate author reply where applicable. The model claim and native video attachment were confirmed. Playback quality is not independently reviewed. The discovery source marks this prompt as a fragment; additional project context, references or inputs may be needed."
-  },
-  {
     "id": "2103776623548158453",
     "title": "Flexprice Motion Graphics Showreel",
     "author": "sudeepsd_",
@@ -6384,76 +6467,6 @@
       "fullReview": false,
       "evidenceQuote": "OPUS 5.5 is GOATED\n\nThis was literally created with the following one shot prompt.\n\n\"make a dynamic 15-second motion graphics video of what you know about @tryflexprice that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\" https://t.co/WYgdA8fSEa",
       "promptEvidenceQuote": "OPUS 5.5 is GOATED\n\nThis was literally created with the following one shot prompt.\n\n\"make a dynamic 15-second motion graphics video of what you know about @tryflexprice that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\" https://t.co/WYgdA8fSEa"
-    },
-    "notes": "The original work and creator’s published prompt text were matched through Chrome MCP, including a separate author reply where applicable. The model claim and native video attachment were confirmed. Playback quality is not independently reviewed. The discovery source marks this prompt as a fragment; additional project context, references or inputs may be needed."
-  },
-  {
-    "id": "2103750353585942703",
-    "title": "Dynamic Motion Graphics Showreel",
-    "author": "wallt_white",
-    "sourceUrl": "https://x.com/wallt_white/status/2103750353585942703",
-    "platform": "X",
-    "model": "Claude Opus 5.5",
-    "modelStatus": "author_claimed",
-    "primaryCategory": "motion-studies",
-    "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-    "promptFile": "prompts/motion-2103750353585942703.md",
-    "promptSourceUrl": "https://x.com/wallt_white/status/2103750473996210346",
-    "promptStatus": "original_post_text_matched",
-    "promptCompleteness": "fragment_or_context_dependent",
-    "status": "collected",
-    "sourceMediaKeys": [
-      "2103749223032262656"
-    ],
-    "discoveryUrl": "https://github.com/LeaddeOpenLab/awesome-opus-5-5-video-prompts/blob/5d5ee72/data/library/2103750353585942703.json",
-    "verification": {
-      "method": "chrome-mcp_original_post_and_prompt_reply",
-      "checkedAt": "2026-10-21",
-      "originalPostConfirmed": true,
-      "creatorMatched": true,
-      "promptCreatorMatched": true,
-      "promptMatchedSource": true,
-      "authorClaimConfirmed": true,
-      "videoAttachmentConfirmed": true,
-      "visualQuality": "not_reviewed",
-      "fullReview": false,
-      "evidenceQuote": "Opus 5.5  on x-high effort made this motion video from a single shot 🤯\n\nPrompt below 👇 https://t.co/6Yw5gmj7Us",
-      "promptEvidenceQuote": "Prompt: \"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\""
-    },
-    "notes": "The original work and creator’s published prompt text were matched through Chrome MCP, including a separate author reply where applicable. The model claim and native video attachment were confirmed. Playback quality is not independently reviewed. The discovery source marks this prompt as a fragment; additional project context, references or inputs may be needed."
-  },
-  {
-    "id": "2103416909857190360",
-    "title": "Motion Graphics Showreel",
-    "author": "RaphaelAubryy",
-    "sourceUrl": "https://x.com/RaphaelAubryy/status/2103416909857190360",
-    "platform": "X",
-    "model": "Claude Opus 5.5",
-    "modelStatus": "author_claimed",
-    "primaryCategory": "motion-studies",
-    "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-    "promptFile": "prompts/motion-2103416909857190360.md",
-    "promptSourceUrl": "https://x.com/RaphaelAubryy/status/2103416909857190360",
-    "promptStatus": "original_post_text_matched",
-    "promptCompleteness": "fragment_or_context_dependent",
-    "status": "collected",
-    "sourceMediaKeys": [
-      "2103416830991679488"
-    ],
-    "discoveryUrl": "https://github.com/LeaddeOpenLab/awesome-opus-5-5-video-prompts/blob/5d5ee72/data/library/2103416909857190360.json",
-    "verification": {
-      "method": "chrome-mcp_original_post_and_prompt_reply",
-      "checkedAt": "2026-10-21",
-      "originalPostConfirmed": true,
-      "creatorMatched": true,
-      "promptCreatorMatched": true,
-      "promptMatchedSource": true,
-      "authorClaimConfirmed": true,
-      "videoAttachmentConfirmed": true,
-      "visualQuality": "not_reviewed",
-      "fullReview": false,
-      "evidenceQuote": "gave Opus 5.5 a single prompt 🎬\n\n\"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\"\n\nthis is what it made. kinetic type, shape morphs, 3,000 particles, a 3D cube, all cut on https://t.co/iROoy3yUsa",
-      "promptEvidenceQuote": "gave Opus 5.5 a single prompt 🎬\n\n\"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\"\n\nthis is what it made. kinetic type, shape morphs, 3,000 particles, a 3D cube, all cut on https://t.co/iROoy3yUsa"
     },
     "notes": "The original work and creator’s published prompt text were matched through Chrome MCP, including a separate author reply where applicable. The model claim and native video attachment were confirmed. Playback quality is not independently reviewed. The discovery source marks this prompt as a fragment; additional project context, references or inputs may be needed."
   },
@@ -6598,41 +6611,6 @@
     "notes": "The original work and creator’s published prompt text were matched through Chrome MCP, including a separate author reply where applicable. The model claim and native video attachment were confirmed. Playback quality is not independently reviewed. The discovery source marks this prompt as a fragment; additional project context, references or inputs may be needed."
   },
   {
-    "id": "2103816865852129686",
-    "title": "Motion Graphics Showreel",
-    "author": "eyishazyer",
-    "sourceUrl": "https://x.com/eyishazyer/status/2103816865852129686",
-    "platform": "X",
-    "model": "Claude Opus 5.5",
-    "modelStatus": "author_claimed",
-    "primaryCategory": "motion-studies",
-    "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-    "promptFile": "prompts/motion-2103816865852129686.md",
-    "promptSourceUrl": "https://x.com/eyishazyer/status/2103816865852129686",
-    "promptStatus": "original_post_text_matched",
-    "promptCompleteness": "fragment_or_context_dependent",
-    "status": "collected",
-    "sourceMediaKeys": [
-      "2103814611942436865"
-    ],
-    "discoveryUrl": "https://github.com/LeaddeOpenLab/awesome-opus-5-5-video-prompts/blob/5d5ee72/data/library/2103816865852129686.json",
-    "verification": {
-      "method": "chrome-mcp_original_post_and_prompt_reply",
-      "checkedAt": "2026-10-21",
-      "originalPostConfirmed": true,
-      "creatorMatched": true,
-      "promptCreatorMatched": true,
-      "promptMatchedSource": true,
-      "authorClaimConfirmed": true,
-      "videoAttachmentConfirmed": true,
-      "visualQuality": "not_reviewed",
-      "fullReview": false,
-      "evidenceQuote": "Found another prompt for Opus 5.5 and went straight to try it out myself. \n\nThe results are honestly amazing.\n\n[prompt]\n\"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\" https://t.co/E7hugIvikQ",
-      "promptEvidenceQuote": "Found another prompt for Opus 5.5 and went straight to try it out myself. \n\nThe results are honestly amazing.\n\n[prompt]\n\"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\" https://t.co/E7hugIvikQ"
-    },
-    "notes": "The original work and creator’s published prompt text were matched through Chrome MCP, including a separate author reply where applicable. The model claim and native video attachment were confirmed. Playback quality is not independently reviewed. The discovery source marks this prompt as a fragment; additional project context, references or inputs may be needed."
-  },
-  {
     "id": "2103792769982427263",
     "title": "Retro/Futuristic Opus 5.5 Launch Video",
     "author": "johnsavage_ai",
@@ -6699,76 +6677,6 @@
       "fullReview": false,
       "evidenceQuote": "opus 5.5 is cooking crazy demos\n\nopus cooked this within an hour with this simple prompt:\n\n\"build me a product demo for my site using /brag skill. make sure to emphasize on all features\" https://t.co/H98CdU4ziu",
       "promptEvidenceQuote": "opus 5.5 is cooking crazy demos\n\nopus cooked this within an hour with this simple prompt:\n\n\"build me a product demo for my site using /brag skill. make sure to emphasize on all features\" https://t.co/H98CdU4ziu"
-    },
-    "notes": "The original work and creator’s published prompt text were matched through Chrome MCP, including a separate author reply where applicable. The model claim and native video attachment were confirmed. Playback quality is not independently reviewed. The discovery source marks this prompt as a fragment; additional project context, references or inputs may be needed."
-  },
-  {
-    "id": "2103749285846073412",
-    "title": "Dynamic Motion Design Showreel",
-    "author": "RoxsaV2",
-    "sourceUrl": "https://x.com/RoxsaV2/status/2103749285846073412",
-    "platform": "X",
-    "model": "Claude Opus 5.5",
-    "modelStatus": "author_claimed",
-    "primaryCategory": "motion-studies",
-    "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-    "promptFile": "prompts/motion-2103749285846073412.md",
-    "promptSourceUrl": "https://x.com/RoxsaV2/status/2103749288345899514",
-    "promptStatus": "original_post_text_matched",
-    "promptCompleteness": "fragment_or_context_dependent",
-    "status": "collected",
-    "sourceMediaKeys": [
-      "2103749254548164608"
-    ],
-    "discoveryUrl": "https://github.com/LeaddeOpenLab/awesome-opus-5-5-video-prompts/blob/5d5ee72/data/library/2103749285846073412.json",
-    "verification": {
-      "method": "chrome-mcp_original_post_and_prompt_reply",
-      "checkedAt": "2026-10-21",
-      "originalPostConfirmed": true,
-      "creatorMatched": true,
-      "promptCreatorMatched": true,
-      "promptMatchedSource": true,
-      "authorClaimConfirmed": true,
-      "videoAttachmentConfirmed": true,
-      "visualQuality": "not_reviewed",
-      "fullReview": false,
-      "evidenceQuote": "Opus 5.5 is insane at motion design. Blew my mind\n\nThis was one shotted - prompt below. https://t.co/IHC3xr0xTL",
-      "promptEvidenceQuote": "Prompt: make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out."
-    },
-    "notes": "The original work and creator’s published prompt text were matched through Chrome MCP, including a separate author reply where applicable. The model claim and native video attachment were confirmed. Playback quality is not independently reviewed. The discovery source marks this prompt as a fragment; additional project context, references or inputs may be needed."
-  },
-  {
-    "id": "2103746486978887985",
-    "title": "Motion Graphics Showreel",
-    "author": "TeslaChartz",
-    "sourceUrl": "https://x.com/TeslaChartz/status/2103746486978887985",
-    "platform": "X",
-    "model": "Claude Opus 5.5",
-    "modelStatus": "author_claimed",
-    "primaryCategory": "motion-studies",
-    "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out",
-    "promptFile": "prompts/motion-2103746486978887985.md",
-    "promptSourceUrl": "https://x.com/TeslaChartz/status/2103746486978887985",
-    "promptStatus": "original_post_text_matched",
-    "promptCompleteness": "fragment_or_context_dependent",
-    "status": "collected",
-    "sourceMediaKeys": [
-      "2103746040528580608"
-    ],
-    "discoveryUrl": "https://github.com/LeaddeOpenLab/awesome-opus-5-5-video-prompts/blob/5d5ee72/data/library/2103746486978887985.json",
-    "verification": {
-      "method": "chrome-mcp_original_post_and_prompt_reply",
-      "checkedAt": "2026-10-21",
-      "originalPostConfirmed": true,
-      "creatorMatched": true,
-      "promptCreatorMatched": true,
-      "promptMatchedSource": true,
-      "authorClaimConfirmed": true,
-      "videoAttachmentConfirmed": true,
-      "visualQuality": "not_reviewed",
-      "fullReview": false,
-      "evidenceQuote": "Claude Opus 5.5 leaves me speechless. It is the same prompt that other people on X used to test it.\n\nPrompt:\nmake a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out https://t.co/ZU8K6InofS",
-      "promptEvidenceQuote": "Claude Opus 5.5 leaves me speechless. It is the same prompt that other people on X used to test it.\n\nPrompt:\nmake a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out https://t.co/ZU8K6InofS"
     },
     "notes": "The original work and creator’s published prompt text were matched through Chrome MCP, including a separate author reply where applicable. The model claim and native video attachment were confirmed. Playback quality is not independently reviewed. The discovery source marks this prompt as a fragment; additional project context, references or inputs may be needed."
   },
@@ -6878,76 +6786,6 @@
     "notes": "The original work and creator’s published prompt text were matched through Chrome MCP, including a separate author reply where applicable. The model claim and native video attachment were confirmed. Playback quality is not independently reviewed. The discovery source marks this prompt as a fragment; additional project context, references or inputs may be needed."
   },
   {
-    "id": "2103692944771313960",
-    "title": "Motion Designer Showreel",
-    "author": "motiondsgnr",
-    "sourceUrl": "https://x.com/motiondsgnr/status/2103692944771313960",
-    "platform": "X",
-    "model": "Claude Opus 5.5",
-    "modelStatus": "author_claimed",
-    "primaryCategory": "motion-studies",
-    "prompt": "Make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a resume. Go all out.",
-    "promptFile": "prompts/motion-2103692944771313960.md",
-    "promptSourceUrl": "https://x.com/motiondsgnr/status/2103692944771313960",
-    "promptStatus": "original_post_text_matched",
-    "promptCompleteness": "fragment_or_context_dependent",
-    "status": "collected",
-    "sourceMediaKeys": [
-      "2103692280049651712"
-    ],
-    "discoveryUrl": "https://github.com/LeaddeOpenLab/awesome-opus-5-5-video-prompts/blob/5d5ee72/data/library/2103692944771313960.json",
-    "verification": {
-      "method": "chrome-mcp_original_post_and_prompt_reply",
-      "checkedAt": "2026-10-21",
-      "originalPostConfirmed": true,
-      "creatorMatched": true,
-      "promptCreatorMatched": true,
-      "promptMatchedSource": true,
-      "authorClaimConfirmed": true,
-      "videoAttachmentConfirmed": true,
-      "visualQuality": "not_reviewed",
-      "fullReview": false,
-      "evidenceQuote": "Yo! Opus 5.5. RAW, UNFILTERED!! 🙀🙀\n\nBeen seeing this trend on X and decided to try this out.\n\nGave it one single prompt: \"Make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a resume. Go all out.\" https://t.co/CuULTmJX5p",
-      "promptEvidenceQuote": "Yo! Opus 5.5. RAW, UNFILTERED!! 🙀🙀\n\nBeen seeing this trend on X and decided to try this out.\n\nGave it one single prompt: \"Make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a resume. Go all out.\" https://t.co/CuULTmJX5p"
-    },
-    "notes": "The original work and creator’s published prompt text were matched through Chrome MCP, including a separate author reply where applicable. The model claim and native video attachment were confirmed. Playback quality is not independently reviewed. The discovery source marks this prompt as a fragment; additional project context, references or inputs may be needed."
-  },
-  {
-    "id": "2103663364958515541",
-    "title": "Motion Graphics Showreel Video",
-    "author": "jasonzhou1993",
-    "sourceUrl": "https://x.com/jasonzhou1993/status/2103663364958515541",
-    "platform": "X",
-    "model": "Claude Opus 5.5",
-    "modelStatus": "author_claimed",
-    "primaryCategory": "motion-studies",
-    "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-    "promptFile": "prompts/motion-2103663364958515541.md",
-    "promptSourceUrl": "https://x.com/jasonzhou1993/status/2103663364958515541",
-    "promptStatus": "original_post_text_matched",
-    "promptCompleteness": "fragment_or_context_dependent",
-    "status": "collected",
-    "sourceMediaKeys": [
-      "2103663091510886401"
-    ],
-    "discoveryUrl": "https://github.com/LeaddeOpenLab/awesome-opus-5-5-video-prompts/blob/5d5ee72/data/library/2103663364958515541.json",
-    "verification": {
-      "method": "chrome-mcp_original_post_and_prompt_reply",
-      "checkedAt": "2026-10-21",
-      "originalPostConfirmed": true,
-      "creatorMatched": true,
-      "promptCreatorMatched": true,
-      "promptMatchedSource": true,
-      "authorClaimConfirmed": true,
-      "videoAttachmentConfirmed": true,
-      "visualQuality": "not_reviewed",
-      "fullReview": false,
-      "evidenceQuote": "wft, \nthis is one shot from Opus 5.5 i just tried\n\nprompt \n\"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\"\n\nI really dont know what kind of black magic anthropic put in... https://t.co/LBXNKXH4Hy",
-      "promptEvidenceQuote": "wft, \nthis is one shot from Opus 5.5 i just tried\n\nprompt \n\"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\"\n\nI really dont know what kind of black magic anthropic put in... https://t.co/LBXNKXH4Hy"
-    },
-    "notes": "The original work and creator’s published prompt text were matched through Chrome MCP, including a separate author reply where applicable. The model claim and native video attachment were confirmed. Playback quality is not independently reviewed. The discovery source marks this prompt as a fragment; additional project context, references or inputs may be needed."
-  },
-  {
     "id": "2103644352794992798",
     "title": "Dynamic Motion Designer Showreel Video",
     "author": "VanshWTFFF",
@@ -7053,76 +6891,6 @@
     "notes": "The original work and creator’s published prompt text were matched through Chrome MCP, including a separate author reply where applicable. The model claim and native video attachment were confirmed. Playback quality is not independently reviewed. The discovery source marks this prompt as a fragment; additional project context, references or inputs may be needed."
   },
   {
-    "id": "2103628028391960983",
-    "title": "Dynamic Motion Designer Showreel",
-    "author": "leadnotifi",
-    "sourceUrl": "https://x.com/leadnotifi/status/2103628028391960983",
-    "platform": "X",
-    "model": "Claude Opus 5.5",
-    "modelStatus": "author_claimed",
-    "primaryCategory": "motion-studies",
-    "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-    "promptFile": "prompts/motion-2103628028391960983.md",
-    "promptSourceUrl": "https://x.com/leadnotifi/status/2103628028391960983",
-    "promptStatus": "original_post_text_matched",
-    "promptCompleteness": "fragment_or_context_dependent",
-    "status": "collected",
-    "sourceMediaKeys": [
-      "2103627469576450049"
-    ],
-    "discoveryUrl": "https://github.com/LeaddeOpenLab/awesome-opus-5-5-video-prompts/blob/5d5ee72/data/library/2103628028391960983.json",
-    "verification": {
-      "method": "chrome-mcp_original_post_and_prompt_reply",
-      "checkedAt": "2026-10-21",
-      "originalPostConfirmed": true,
-      "creatorMatched": true,
-      "promptCreatorMatched": true,
-      "promptMatchedSource": true,
-      "authorClaimConfirmed": true,
-      "videoAttachmentConfirmed": true,
-      "visualQuality": "not_reviewed",
-      "fullReview": false,
-      "evidenceQuote": "Opus 5.5. I made an actual product ad for my startup Lead Notifi .45 seconds.\nMade with claude OPUS 5.5\nPrompt\n\"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\" https://t.co/UbXMZ415pS",
-      "promptEvidenceQuote": "Opus 5.5. I made an actual product ad for my startup Lead Notifi .45 seconds.\nMade with claude OPUS 5.5\nPrompt\n\"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\" https://t.co/UbXMZ415pS"
-    },
-    "notes": "The original work and creator’s published prompt text were matched through Chrome MCP, including a separate author reply where applicable. The model claim and native video attachment were confirmed. Playback quality is not independently reviewed. The discovery source marks this prompt as a fragment; additional project context, references or inputs may be needed."
-  },
-  {
-    "id": "2103619422128935120",
-    "title": "Motion Designer Showreel",
-    "author": "tolgayhickiran",
-    "sourceUrl": "https://x.com/tolgayhickiran/status/2103619422128935120",
-    "platform": "X",
-    "model": "Claude Opus 5.5",
-    "modelStatus": "author_claimed",
-    "primaryCategory": "motion-studies",
-    "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-    "promptFile": "prompts/motion-2103619422128935120.md",
-    "promptSourceUrl": "https://x.com/tolgayhickiran/status/2103619422128935120",
-    "promptStatus": "original_post_text_matched",
-    "promptCompleteness": "fragment_or_context_dependent",
-    "status": "collected",
-    "sourceMediaKeys": [
-      "2103619269468585984"
-    ],
-    "discoveryUrl": "https://github.com/LeaddeOpenLab/awesome-opus-5-5-video-prompts/blob/5d5ee72/data/library/2103619422128935120.json",
-    "verification": {
-      "method": "chrome-mcp_original_post_and_prompt_reply",
-      "checkedAt": "2026-10-21",
-      "originalPostConfirmed": true,
-      "creatorMatched": true,
-      "promptCreatorMatched": true,
-      "promptMatchedSource": true,
-      "authorClaimConfirmed": true,
-      "videoAttachmentConfirmed": true,
-      "visualQuality": "not_reviewed",
-      "fullReview": false,
-      "evidenceQuote": "Motion graphics from a single prompt. \n\nOpus 5.5 Medium\n\n\"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\"\n\nOriginal Idea: @stephanlivera https://t.co/fBlbqi1pHr",
-      "promptEvidenceQuote": "Motion graphics from a single prompt. \n\nOpus 5.5 Medium\n\n\"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\"\n\nOriginal Idea: @stephanlivera https://t.co/fBlbqi1pHr"
-    },
-    "notes": "The original work and creator’s published prompt text were matched through Chrome MCP, including a separate author reply where applicable. The model claim and native video attachment were confirmed. Playback quality is not independently reviewed. The discovery source marks this prompt as a fragment; additional project context, references or inputs may be needed."
-  },
-  {
     "id": "2103617278671818789",
     "title": "Motion Graphics Showreel Video",
     "author": "KangarooHere",
@@ -7158,41 +6926,6 @@
     "notes": "The original work and creator’s published prompt text were matched through Chrome MCP, including a separate author reply where applicable. The model claim and native video attachment were confirmed. Playback quality is not independently reviewed. The discovery source marks this prompt as a fragment; additional project context, references or inputs may be needed."
   },
   {
-    "id": "2103608571435131257",
-    "title": "Dynamic Motion Graphics Showreel",
-    "author": "marouanegazouzi",
-    "sourceUrl": "https://x.com/marouanegazouzi/status/2103608571435131257",
-    "platform": "X",
-    "model": "Claude Opus 5.5",
-    "modelStatus": "author_claimed",
-    "primaryCategory": "motion-studies",
-    "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-    "promptFile": "prompts/motion-2103608571435131257.md",
-    "promptSourceUrl": "https://x.com/marouanegazouzi/status/2103608571435131257",
-    "promptStatus": "original_post_text_matched",
-    "promptCompleteness": "fragment_or_context_dependent",
-    "status": "collected",
-    "sourceMediaKeys": [
-      "2103607692510052352"
-    ],
-    "discoveryUrl": "https://github.com/LeaddeOpenLab/awesome-opus-5-5-video-prompts/blob/5d5ee72/data/library/2103608571435131257.json",
-    "verification": {
-      "method": "chrome-mcp_original_post_and_prompt_reply",
-      "checkedAt": "2026-10-21",
-      "originalPostConfirmed": true,
-      "creatorMatched": true,
-      "promptCreatorMatched": true,
-      "promptMatchedSource": true,
-      "authorClaimConfirmed": true,
-      "videoAttachmentConfirmed": true,
-      "visualQuality": "not_reviewed",
-      "fullReview": false,
-      "evidenceQuote": "OMG, the 15-second motion designing video from Claude Opus 5.5 on MAX is something (sound ON)\n\nPrompt  \"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\" https://t.co/NQL8OV1A4Q",
-      "promptEvidenceQuote": "OMG, the 15-second motion designing video from Claude Opus 5.5 on MAX is something (sound ON)\n\nPrompt  \"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\" https://t.co/NQL8OV1A4Q"
-    },
-    "notes": "The original work and creator’s published prompt text were matched through Chrome MCP, including a separate author reply where applicable. The model claim and native video attachment were confirmed. Playback quality is not independently reviewed. The discovery source marks this prompt as a fragment; additional project context, references or inputs may be needed."
-  },
-  {
     "id": "2103600308010041677",
     "title": "Opus 5.5 Motion Graphics Showreel",
     "author": "johnsavage_ai",
@@ -7224,216 +6957,6 @@
       "fullReview": false,
       "evidenceQuote": "🤯 Opus 5.5\n\nprompt: \n\n\"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a resume. go all out. use only code\" https://t.co/e161zBnLmi",
       "promptEvidenceQuote": "🤯 Opus 5.5\n\nprompt: \n\n\"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a resume. go all out. use only code\" https://t.co/e161zBnLmi"
-    },
-    "notes": "The original work and creator’s published prompt text were matched through Chrome MCP, including a separate author reply where applicable. The model claim and native video attachment were confirmed. Playback quality is not independently reviewed. The discovery source marks this prompt as a fragment; additional project context, references or inputs may be needed."
-  },
-  {
-    "id": "2103580532852589043",
-    "title": "Dynamic Motion Graphics Showreel",
-    "author": "Shinskinakamoto",
-    "sourceUrl": "https://x.com/Shinskinakamoto/status/2103580532852589043",
-    "platform": "X",
-    "model": "Claude Opus 5.5",
-    "modelStatus": "author_claimed",
-    "primaryCategory": "motion-studies",
-    "prompt": "Make a dynamic 15 second motion graphics video that shows what an incredible motion designer you are, like its your showreel for a resume, go all out!",
-    "promptFile": "prompts/motion-2103580532852589043.md",
-    "promptSourceUrl": "https://x.com/Shinskinakamoto/status/2103580532852589043",
-    "promptStatus": "original_post_text_matched",
-    "promptCompleteness": "fragment_or_context_dependent",
-    "status": "collected",
-    "sourceMediaKeys": [
-      "2103580286726656000"
-    ],
-    "discoveryUrl": "https://github.com/LeaddeOpenLab/awesome-opus-5-5-video-prompts/blob/5d5ee72/data/library/2103580532852589043.json",
-    "verification": {
-      "method": "chrome-mcp_original_post_and_prompt_reply",
-      "checkedAt": "2026-10-21",
-      "originalPostConfirmed": true,
-      "creatorMatched": true,
-      "promptCreatorMatched": true,
-      "promptMatchedSource": true,
-      "authorClaimConfirmed": true,
-      "videoAttachmentConfirmed": true,
-      "visualQuality": "not_reviewed",
-      "fullReview": false,
-      "evidenceQuote": "Claude Opus 5.5 is insane, the motion graphics are so good!\nThis was the prompt \"Make a dynamic 15 second motion graphics video that shows what an incredible motion designer you are, like its your showreel for a resume, go all out!\" https://t.co/2Yv1lUXxRz",
-      "promptEvidenceQuote": "Claude Opus 5.5 is insane, the motion graphics are so good!\nThis was the prompt \"Make a dynamic 15 second motion graphics video that shows what an incredible motion designer you are, like its your showreel for a resume, go all out!\" https://t.co/2Yv1lUXxRz"
-    },
-    "notes": "The original work and creator’s published prompt text were matched through Chrome MCP, including a separate author reply where applicable. The model claim and native video attachment were confirmed. Playback quality is not independently reviewed. The discovery source marks this prompt as a fragment; additional project context, references or inputs may be needed."
-  },
-  {
-    "id": "2103580011882295601",
-    "title": "Motion Graphics Showreel Video",
-    "author": "m1n9_k7",
-    "sourceUrl": "https://x.com/m1n9_k7/status/2103580011882295601",
-    "platform": "X",
-    "model": "Claude Opus 5.5",
-    "modelStatus": "author_claimed",
-    "primaryCategory": "motion-studies",
-    "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out",
-    "promptFile": "prompts/motion-2103580011882295601.md",
-    "promptSourceUrl": "https://x.com/m1n9_k7/status/2103580011882295601",
-    "promptStatus": "original_post_text_matched",
-    "promptCompleteness": "fragment_or_context_dependent",
-    "status": "collected",
-    "sourceMediaKeys": [
-      "2103579968337018880"
-    ],
-    "discoveryUrl": "https://github.com/LeaddeOpenLab/awesome-opus-5-5-video-prompts/blob/5d5ee72/data/library/2103580011882295601.json",
-    "verification": {
-      "method": "chrome-mcp_original_post_and_prompt_reply",
-      "checkedAt": "2026-10-21",
-      "originalPostConfirmed": true,
-      "creatorMatched": true,
-      "promptCreatorMatched": true,
-      "promptMatchedSource": true,
-      "authorClaimConfirmed": true,
-      "videoAttachmentConfirmed": true,
-      "visualQuality": "not_reviewed",
-      "fullReview": false,
-      "evidenceQuote": "This is INSANE!!  \n\nOpus 5.5 on High, motion designing in one prompt (sound ON)\n\nprompt- 'make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out' https://t.co/DCaTSs9B6A",
-      "promptEvidenceQuote": "This is INSANE!!  \n\nOpus 5.5 on High, motion designing in one prompt (sound ON)\n\nprompt- 'make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out' https://t.co/DCaTSs9B6A"
-    },
-    "notes": "The original work and creator’s published prompt text were matched through Chrome MCP, including a separate author reply where applicable. The model claim and native video attachment were confirmed. Playback quality is not independently reviewed. The discovery source marks this prompt as a fragment; additional project context, references or inputs may be needed."
-  },
-  {
-    "id": "2103579630045466682",
-    "title": "Dynamic Motion Graphics Showreel",
-    "author": "m1n9_k7",
-    "sourceUrl": "https://x.com/m1n9_k7/status/2103579630045466682",
-    "platform": "X",
-    "model": "Claude Opus 5.5",
-    "modelStatus": "author_claimed",
-    "primaryCategory": "motion-studies",
-    "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out",
-    "promptFile": "prompts/motion-2103579630045466682.md",
-    "promptSourceUrl": "https://x.com/m1n9_k7/status/2103579630045466682",
-    "promptStatus": "original_post_text_matched",
-    "promptCompleteness": "fragment_or_context_dependent",
-    "status": "collected",
-    "sourceMediaKeys": [
-      "2103579601452859392"
-    ],
-    "discoveryUrl": "https://github.com/LeaddeOpenLab/awesome-opus-5-5-video-prompts/blob/5d5ee72/data/library/2103579630045466682.json",
-    "verification": {
-      "method": "chrome-mcp_original_post_and_prompt_reply",
-      "checkedAt": "2026-10-21",
-      "originalPostConfirmed": true,
-      "creatorMatched": true,
-      "promptCreatorMatched": true,
-      "promptMatchedSource": true,
-      "authorClaimConfirmed": true,
-      "videoAttachmentConfirmed": true,
-      "visualQuality": "not_reviewed",
-      "fullReview": false,
-      "evidenceQuote": "This is INSANE!!  \n\nOpus 5.5 on High, motion designing in one prompt (sound ON)\n\nprompt- 'make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out' https://t.co/MXNexsWsEm",
-      "promptEvidenceQuote": "This is INSANE!!  \n\nOpus 5.5 on High, motion designing in one prompt (sound ON)\n\nprompt- 'make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out' https://t.co/MXNexsWsEm"
-    },
-    "notes": "The original work and creator’s published prompt text were matched through Chrome MCP, including a separate author reply where applicable. The model claim and native video attachment were confirmed. Playback quality is not independently reviewed. The discovery source marks this prompt as a fragment; additional project context, references or inputs may be needed."
-  },
-  {
-    "id": "2103574041781322168",
-    "title": "Motion Graphics Showreel",
-    "author": "SagarmohanSingh",
-    "sourceUrl": "https://x.com/SagarmohanSingh/status/2103574041781322168",
-    "platform": "X",
-    "model": "Claude Opus 5.5",
-    "modelStatus": "author_claimed",
-    "primaryCategory": "motion-studies",
-    "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out",
-    "promptFile": "prompts/motion-2103574041781322168.md",
-    "promptSourceUrl": "https://x.com/SagarmohanSingh/status/2103574124971041047",
-    "promptStatus": "original_post_text_matched",
-    "promptCompleteness": "fragment_or_context_dependent",
-    "status": "collected",
-    "sourceMediaKeys": [
-      "2103573925544497152"
-    ],
-    "discoveryUrl": "https://github.com/LeaddeOpenLab/awesome-opus-5-5-video-prompts/blob/5d5ee72/data/library/2103574041781322168.json",
-    "verification": {
-      "method": "chrome-mcp_original_post_and_prompt_reply",
-      "checkedAt": "2026-10-21",
-      "originalPostConfirmed": true,
-      "creatorMatched": true,
-      "promptCreatorMatched": true,
-      "promptMatchedSource": true,
-      "authorClaimConfirmed": true,
-      "videoAttachmentConfirmed": true,
-      "visualQuality": "not_reviewed",
-      "fullReview": false,
-      "evidenceQuote": "Opus 5.5 made this under 30 min\n\nprompt below https://t.co/2bxzYflLat",
-      "promptEvidenceQuote": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out"
-    },
-    "notes": "The original work and creator’s published prompt text were matched through Chrome MCP, including a separate author reply where applicable. The model claim and native video attachment were confirmed. Playback quality is not independently reviewed. The discovery source marks this prompt as a fragment; additional project context, references or inputs may be needed."
-  },
-  {
-    "id": "2103568486249480622",
-    "title": "Motion Graphics Showreel",
-    "author": "CrazyAlphaaa",
-    "sourceUrl": "https://x.com/CrazyAlphaaa/status/2103568486249480622",
-    "platform": "X",
-    "model": "Claude Opus 5.5",
-    "modelStatus": "author_claimed",
-    "primaryCategory": "motion-studies",
-    "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-    "promptFile": "prompts/motion-2103568486249480622.md",
-    "promptSourceUrl": "https://x.com/CrazyAlphaaa/status/2103568486249480622",
-    "promptStatus": "original_post_text_matched",
-    "promptCompleteness": "fragment_or_context_dependent",
-    "status": "collected",
-    "sourceMediaKeys": [
-      "2103568416821112832"
-    ],
-    "discoveryUrl": "https://github.com/LeaddeOpenLab/awesome-opus-5-5-video-prompts/blob/5d5ee72/data/library/2103568486249480622.json",
-    "verification": {
-      "method": "chrome-mcp_original_post_and_prompt_reply",
-      "checkedAt": "2026-10-21",
-      "originalPostConfirmed": true,
-      "creatorMatched": true,
-      "promptCreatorMatched": true,
-      "promptMatchedSource": true,
-      "authorClaimConfirmed": true,
-      "videoAttachmentConfirmed": true,
-      "visualQuality": "not_reviewed",
-      "fullReview": false,
-      "evidenceQuote": "WTF?\n\nMade with claude OPUS 5.5\n\nPrompt\n\n\"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\"\n\nThat's it.. https://t.co/FruAdUxbxS",
-      "promptEvidenceQuote": "WTF?\n\nMade with claude OPUS 5.5\n\nPrompt\n\n\"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\"\n\nThat's it.. https://t.co/FruAdUxbxS"
-    },
-    "notes": "The original work and creator’s published prompt text were matched through Chrome MCP, including a separate author reply where applicable. The model claim and native video attachment were confirmed. Playback quality is not independently reviewed. The discovery source marks this prompt as a fragment; additional project context, references or inputs may be needed."
-  },
-  {
-    "id": "2103551886272159839",
-    "title": "Motion Graphics Showreel",
-    "author": "3xtihor",
-    "sourceUrl": "https://x.com/3xtihor/status/2103551886272159839",
-    "platform": "X",
-    "model": "Claude Opus 5.5",
-    "modelStatus": "author_claimed",
-    "primaryCategory": "motion-studies",
-    "prompt": "Make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. Go all out.",
-    "promptFile": "prompts/motion-2103551886272159839.md",
-    "promptSourceUrl": "https://x.com/3xtihor/status/2103551886272159839",
-    "promptStatus": "original_post_text_matched",
-    "promptCompleteness": "fragment_or_context_dependent",
-    "status": "collected",
-    "sourceMediaKeys": [
-      "2103551809386422272"
-    ],
-    "discoveryUrl": "https://github.com/LeaddeOpenLab/awesome-opus-5-5-video-prompts/blob/5d5ee72/data/library/2103551886272159839.json",
-    "verification": {
-      "method": "chrome-mcp_original_post_and_prompt_reply",
-      "checkedAt": "2026-10-21",
-      "originalPostConfirmed": true,
-      "creatorMatched": true,
-      "promptCreatorMatched": true,
-      "promptMatchedSource": true,
-      "authorClaimConfirmed": true,
-      "videoAttachmentConfirmed": true,
-      "visualQuality": "not_reviewed",
-      "fullReview": false,
-      "evidenceQuote": "Made with Claude OPUS 5.5 \n\nPrompt: \"Make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. Go all out.\" https://t.co/ddS7y7YEJN",
-      "promptEvidenceQuote": "Made with Claude OPUS 5.5 \n\nPrompt: \"Make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. Go all out.\" https://t.co/ddS7y7YEJN"
     },
     "notes": "The original work and creator’s published prompt text were matched through Chrome MCP, including a separate author reply where applicable. The model claim and native video attachment were confirmed. Playback quality is not independently reviewed. The discovery source marks this prompt as a fragment; additional project context, references or inputs may be needed."
   },
@@ -7508,111 +7031,6 @@
     "notes": "The original work and creator’s published prompt text were matched through Chrome MCP, including a separate author reply where applicable. The model claim and native video attachment were confirmed. Playback quality is not independently reviewed. The discovery source marks this prompt as a fragment; additional project context, references or inputs may be needed."
   },
   {
-    "id": "2103536115563307120",
-    "title": "Motion Graphics Showreel",
-    "author": "sahildesigner23",
-    "sourceUrl": "https://x.com/sahildesigner23/status/2103536115563307120",
-    "platform": "X",
-    "model": "Claude Opus 5.5",
-    "modelStatus": "author_claimed",
-    "primaryCategory": "motion-studies",
-    "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-    "promptFile": "prompts/motion-2103536115563307120.md",
-    "promptSourceUrl": "https://x.com/sahildesigner23/status/2103536115563307120",
-    "promptStatus": "original_post_text_matched",
-    "promptCompleteness": "fragment_or_context_dependent",
-    "status": "collected",
-    "sourceMediaKeys": [
-      "2103536065046773760"
-    ],
-    "discoveryUrl": "https://github.com/LeaddeOpenLab/awesome-opus-5-5-video-prompts/blob/5d5ee72/data/library/2103536115563307120.json",
-    "verification": {
-      "method": "chrome-mcp_original_post_and_prompt_reply",
-      "checkedAt": "2026-10-21",
-      "originalPostConfirmed": true,
-      "creatorMatched": true,
-      "promptCreatorMatched": true,
-      "promptMatchedSource": true,
-      "authorClaimConfirmed": true,
-      "videoAttachmentConfirmed": true,
-      "visualQuality": "not_reviewed",
-      "fullReview": false,
-      "evidenceQuote": "ok opus 5.5 max is actually insane for making videos. no bs use this prompt \n\n\"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\"\n\n#claude #motion #product #design https://t.co/L2vULuNO30",
-      "promptEvidenceQuote": "ok opus 5.5 max is actually insane for making videos. no bs use this prompt \n\n\"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\"\n\n#claude #motion #product #design https://t.co/L2vULuNO30"
-    },
-    "notes": "The original work and creator’s published prompt text were matched through Chrome MCP, including a separate author reply where applicable. The model claim and native video attachment were confirmed. Playback quality is not independently reviewed. The discovery source marks this prompt as a fragment; additional project context, references or inputs may be needed."
-  },
-  {
-    "id": "2103520091552059752",
-    "title": "Motion Graphics Showreel",
-    "author": "safarkhanshuvo",
-    "sourceUrl": "https://x.com/safarkhanshuvo/status/2103520091552059752",
-    "platform": "X",
-    "model": "Claude Opus 5.5",
-    "modelStatus": "author_claimed",
-    "primaryCategory": "motion-studies",
-    "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out",
-    "promptFile": "prompts/motion-2103520091552059752.md",
-    "promptSourceUrl": "https://x.com/safarkhanshuvo/status/2103520091552059752",
-    "promptStatus": "original_post_text_matched",
-    "promptCompleteness": "fragment_or_context_dependent",
-    "status": "collected",
-    "sourceMediaKeys": [
-      "2103519838207639552"
-    ],
-    "discoveryUrl": "https://github.com/LeaddeOpenLab/awesome-opus-5-5-video-prompts/blob/5d5ee72/data/library/2103520091552059752.json",
-    "verification": {
-      "method": "chrome-mcp_original_post_and_prompt_reply",
-      "checkedAt": "2026-10-21",
-      "originalPostConfirmed": true,
-      "creatorMatched": true,
-      "promptCreatorMatched": true,
-      "promptMatchedSource": true,
-      "authorClaimConfirmed": true,
-      "videoAttachmentConfirmed": true,
-      "visualQuality": "not_reviewed",
-      "fullReview": false,
-      "evidenceQuote": "This is INSANE!!\nClaude Opus 5.5 made this motion design reel from ONE prompt (sound ON 🔊)\n\nprompt: \"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out\" https://t.co/SvdzSlG7W4",
-      "promptEvidenceQuote": "This is INSANE!!\nClaude Opus 5.5 made this motion design reel from ONE prompt (sound ON 🔊)\n\nprompt: \"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out\" https://t.co/SvdzSlG7W4"
-    },
-    "notes": "The original work and creator’s published prompt text were matched through Chrome MCP, including a separate author reply where applicable. The model claim and native video attachment were confirmed. Playback quality is not independently reviewed. The discovery source marks this prompt as a fragment; additional project context, references or inputs may be needed."
-  },
-  {
-    "id": "2103517696038191220",
-    "title": "Dynamic Motion Graphics Showreel",
-    "author": "LeonKohli",
-    "sourceUrl": "https://x.com/LeonKohli/status/2103517696038191220",
-    "platform": "X",
-    "model": "Claude Opus 5.5",
-    "modelStatus": "author_claimed",
-    "primaryCategory": "motion-studies",
-    "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-    "promptFile": "prompts/motion-2103517696038191220.md",
-    "promptSourceUrl": "https://x.com/LeonKohli/status/2103517696038191220",
-    "promptStatus": "original_post_text_matched",
-    "promptCompleteness": "fragment_or_context_dependent",
-    "status": "collected",
-    "sourceMediaKeys": [
-      "2103517214963863556"
-    ],
-    "discoveryUrl": "https://github.com/LeaddeOpenLab/awesome-opus-5-5-video-prompts/blob/5d5ee72/data/library/2103517696038191220.json",
-    "verification": {
-      "method": "chrome-mcp_original_post_and_prompt_reply",
-      "checkedAt": "2026-10-21",
-      "originalPostConfirmed": true,
-      "creatorMatched": true,
-      "promptCreatorMatched": true,
-      "promptMatchedSource": true,
-      "authorClaimConfirmed": true,
-      "videoAttachmentConfirmed": true,
-      "visualQuality": "not_reviewed",
-      "fullReview": false,
-      "evidenceQuote": "Opus 5.5 is crazy good at motion design.\n\nI gave it one prompt: \" make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\"\n\nDid all the  animation, camera and sound design by its own! https://t.co/dffYK8aiSE",
-      "promptEvidenceQuote": "Opus 5.5 is crazy good at motion design.\n\nI gave it one prompt: \" make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\"\n\nDid all the  animation, camera and sound design by its own! https://t.co/dffYK8aiSE"
-    },
-    "notes": "The original work and creator’s published prompt text were matched through Chrome MCP, including a separate author reply where applicable. The model claim and native video attachment were confirmed. Playback quality is not independently reviewed. The discovery source marks this prompt as a fragment; additional project context, references or inputs may be needed."
-  },
-  {
     "id": "2103514073476334026",
     "title": "Instagram Ad for Liinks",
     "author": "charliie",
@@ -7644,41 +7062,6 @@
       "fullReview": false,
       "evidenceQuote": "Opus 5.5 is crazy good at motion design\n\nit cooked up this lil reel for https://t.co/uiSRef0kBg with basically zero direction\n\nprompt was something like \"make a cool instagram ad for liinks\" https://t.co/WcSjKWFykd",
       "promptEvidenceQuote": "Opus 5.5 is crazy good at motion design\n\nit cooked up this lil reel for https://liinks.co with basically zero direction\n\nprompt was something like \"make a cool instagram ad for liinks\" https://t.co/WcSjKWFykd"
-    },
-    "notes": "The original work and creator’s published prompt text were matched through Chrome MCP, including a separate author reply where applicable. The model claim and native video attachment were confirmed. Playback quality is not independently reviewed. The discovery source marks this prompt as a fragment; additional project context, references or inputs may be needed."
-  },
-  {
-    "id": "2103510776690479597",
-    "title": "Dynamic Motion Graphics Showreel",
-    "author": "fionntobin",
-    "sourceUrl": "https://x.com/fionntobin/status/2103510776690479597",
-    "platform": "X",
-    "model": "Claude Opus 5.5",
-    "modelStatus": "author_claimed",
-    "primaryCategory": "motion-studies",
-    "prompt": "Make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-    "promptFile": "prompts/motion-2103510776690479597.md",
-    "promptSourceUrl": "https://x.com/fionntobin/status/2103510776690479597",
-    "promptStatus": "original_post_text_matched",
-    "promptCompleteness": "fragment_or_context_dependent",
-    "status": "collected",
-    "sourceMediaKeys": [
-      "2103510662982848512"
-    ],
-    "discoveryUrl": "https://github.com/LeaddeOpenLab/awesome-opus-5-5-video-prompts/blob/5d5ee72/data/library/2103510776690479597.json",
-    "verification": {
-      "method": "chrome-mcp_original_post_and_prompt_reply",
-      "checkedAt": "2026-10-21",
-      "originalPostConfirmed": true,
-      "creatorMatched": true,
-      "promptCreatorMatched": true,
-      "promptMatchedSource": true,
-      "authorClaimConfirmed": true,
-      "videoAttachmentConfirmed": true,
-      "visualQuality": "not_reviewed",
-      "fullReview": false,
-      "evidenceQuote": "The new Opus 5.5 that dropped yesterday is incredible at motion design \n\nI gave it this one prompt \n\n\"Make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\"\n\nHere's the results: https://t.co/4GmAJhfdrJ",
-      "promptEvidenceQuote": "The new Opus 5.5 that dropped yesterday is incredible at motion design \n\nI gave it this one prompt \n\n\"Make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\"\n\nHere's the results: https://t.co/4GmAJhfdrJ"
     },
     "notes": "The original work and creator’s published prompt text were matched through Chrome MCP, including a separate author reply where applicable. The model claim and native video attachment were confirmed. Playback quality is not independently reviewed. The discovery source marks this prompt as a fragment; additional project context, references or inputs may be needed."
   },
@@ -7718,76 +7101,6 @@
     "notes": "The original work and creator’s published prompt text were matched through Chrome MCP, including a separate author reply where applicable. The model claim and native video attachment were confirmed. Playback quality is not independently reviewed. The discovery source marks this prompt as a fragment; additional project context, references or inputs may be needed."
   },
   {
-    "id": "2103486881136840800",
-    "title": "Dynamic Motion Graphics Showreel",
-    "author": "umangratani",
-    "sourceUrl": "https://x.com/umangratani/status/2103486881136840800",
-    "platform": "X",
-    "model": "Claude Opus 5.5",
-    "modelStatus": "author_claimed",
-    "primaryCategory": "motion-studies",
-    "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-    "promptFile": "prompts/motion-2103486881136840800.md",
-    "promptSourceUrl": "https://x.com/umangratani/status/2103486881136840800",
-    "promptStatus": "original_post_text_matched",
-    "promptCompleteness": "fragment_or_context_dependent",
-    "status": "collected",
-    "sourceMediaKeys": [
-      "2103486838115897344"
-    ],
-    "discoveryUrl": "https://github.com/LeaddeOpenLab/awesome-opus-5-5-video-prompts/blob/5d5ee72/data/library/2103486881136840800.json",
-    "verification": {
-      "method": "chrome-mcp_original_post_and_prompt_reply",
-      "checkedAt": "2026-10-21",
-      "originalPostConfirmed": true,
-      "creatorMatched": true,
-      "promptCreatorMatched": true,
-      "promptMatchedSource": true,
-      "authorClaimConfirmed": true,
-      "videoAttachmentConfirmed": true,
-      "visualQuality": "not_reviewed",
-      "fullReview": false,
-      "evidenceQuote": "Claude opus can now edit videos, create motion graphics.\n\nMade with claude OPUS 5.5\n\nPrompt\n\n\"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\"\n\nThat's it.. https://t.co/ASUq4ACDLG",
-      "promptEvidenceQuote": "Claude opus can now edit videos, create motion graphics.\n\nMade with claude OPUS 5.5\n\nPrompt\n\n\"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\"\n\nThat's it.. https://t.co/ASUq4ACDLG"
-    },
-    "notes": "The original work and creator’s published prompt text were matched through Chrome MCP, including a separate author reply where applicable. The model claim and native video attachment were confirmed. Playback quality is not independently reviewed. The discovery source marks this prompt as a fragment; additional project context, references or inputs may be needed."
-  },
-  {
-    "id": "2103463886372696074",
-    "title": "Dynamic Motion Graphics Showreel",
-    "author": "sudo_kiran",
-    "sourceUrl": "https://x.com/sudo_kiran/status/2103463886372696074",
-    "platform": "X",
-    "model": "Claude Opus 5.5",
-    "modelStatus": "author_claimed",
-    "primaryCategory": "motion-studies",
-    "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out",
-    "promptFile": "prompts/motion-2103463886372696074.md",
-    "promptSourceUrl": "https://x.com/sudo_kiran/status/2103464062877315226",
-    "promptStatus": "original_post_text_matched",
-    "promptCompleteness": "fragment_or_context_dependent",
-    "status": "collected",
-    "sourceMediaKeys": [
-      "2103463762917523456"
-    ],
-    "discoveryUrl": "https://github.com/LeaddeOpenLab/awesome-opus-5-5-video-prompts/blob/5d5ee72/data/library/2103463886372696074.json",
-    "verification": {
-      "method": "chrome-mcp_original_post_and_prompt_reply",
-      "checkedAt": "2026-10-21",
-      "originalPostConfirmed": true,
-      "creatorMatched": true,
-      "promptCreatorMatched": true,
-      "promptMatchedSource": true,
-      "authorClaimConfirmed": true,
-      "videoAttachmentConfirmed": true,
-      "visualQuality": "not_reviewed",
-      "fullReview": false,
-      "evidenceQuote": "No storyboard.\nNo detailed instructions.\nJust one prompt to Claude Opus 5.5:\n“Go all out.”\nThe result is a 15-second motion design showreel. 🔥 https://t.co/9Bk9igvn6S",
-      "promptEvidenceQuote": "prompt:\nmake a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out"
-    },
-    "notes": "The original work and creator’s published prompt text were matched through Chrome MCP, including a separate author reply where applicable. The model claim and native video attachment were confirmed. Playback quality is not independently reviewed. The discovery source marks this prompt as a fragment; additional project context, references or inputs may be needed."
-  },
-  {
     "id": "2103441222375268605",
     "title": "Dynamic Motion Graphics Showreel for Omarchy",
     "author": "tcballard",
@@ -7819,41 +7132,6 @@
       "fullReview": false,
       "evidenceQuote": "Had some time whilst agents were running on something, so thought I’d test out Opus 5.5 some more \n\nPrompt below 👇 https://t.co/LPnljaia0j",
       "promptEvidenceQuote": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it’s your showreel for a résumé. go all out. It should be focused on Omarchy"
-    },
-    "notes": "The original work and creator’s published prompt text were matched through Chrome MCP, including a separate author reply where applicable. The model claim and native video attachment were confirmed. Playback quality is not independently reviewed. The discovery source marks this prompt as a fragment; additional project context, references or inputs may be needed."
-  },
-  {
-    "id": "2103438087204618392",
-    "title": "Motion Graphics Showreel Video",
-    "author": "itsuki_dev",
-    "sourceUrl": "https://x.com/itsuki_dev/status/2103438087204618392",
-    "platform": "X",
-    "model": "Claude Opus 5.5",
-    "modelStatus": "author_claimed",
-    "primaryCategory": "motion-studies",
-    "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-    "promptFile": "prompts/motion-2103438087204618392.md",
-    "promptSourceUrl": "https://x.com/itsuki_dev/status/2103438087204618392",
-    "promptStatus": "original_post_text_matched",
-    "promptCompleteness": "fragment_or_context_dependent",
-    "status": "collected",
-    "sourceMediaKeys": [
-      "2103438014026600448"
-    ],
-    "discoveryUrl": "https://github.com/LeaddeOpenLab/awesome-opus-5-5-video-prompts/blob/5d5ee72/data/library/2103438087204618392.json",
-    "verification": {
-      "method": "chrome-mcp_original_post_and_prompt_reply",
-      "checkedAt": "2026-10-21",
-      "originalPostConfirmed": true,
-      "creatorMatched": true,
-      "promptCreatorMatched": true,
-      "promptMatchedSource": true,
-      "authorClaimConfirmed": true,
-      "videoAttachmentConfirmed": true,
-      "visualQuality": "not_reviewed",
-      "fullReview": false,
-      "evidenceQuote": "Opus 5.5 cooked this up with a single prompt. No fancy tools, literally just Cowork.\n&gt; \"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\" https://t.co/ddTjbOOC8s",
-      "promptEvidenceQuote": "Opus 5.5 cooked this up with a single prompt. No fancy tools, literally just Cowork.\n&gt; \"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\" https://t.co/ddTjbOOC8s"
     },
     "notes": "The original work and creator’s published prompt text were matched through Chrome MCP, including a separate author reply where applicable. The model claim and native video attachment were confirmed. Playback quality is not independently reviewed. The discovery source marks this prompt as a fragment; additional project context, references or inputs may be needed."
   },
@@ -9115,7 +8393,15 @@
       "evidenceQuote": "Opus 5.5 vs DeepSeek V4.1 Flash 1017\n\nSame prompt. Same task.\n\nBuild a cinematic 3D animation explaining how a Tesla-style electric motor works.\n\nIs Opus in trouble? https://t.co/CFwy3E578e",
       "promptEvidenceQuote": "Opus 5.5 vs DeepSeek V4.1 Flash 1017\n\nSame prompt. Same task.\n\nBuild a cinematic 3D animation explaining how a Tesla-style electric motor works.\n\nIs Opus in trouble? https://t.co/CFwy3E578e"
     },
-    "notes": "Published task or prompt text was matched against the source post or its prompt reply through Chrome MCP. The posting account, model claim and native motion attachment were checked. Playback quality is not independently reviewed. This comparison is counted once, with all explicitly identified models credited. Unspecified model versions remain unspecified. The discovery source labels the published text as a fragment or brief; additional project context or inputs may be required."
+    "notes": "Published task or prompt text was matched against the source post or its prompt reply through Chrome MCP. The posting account, model claim and native motion attachment were checked. Playback quality is not independently reviewed. This comparison is counted once, with all explicitly identified models credited. Unspecified model versions remain unspecified. The discovery source labels the published text as a fragment or brief; additional project context or inputs may be required. Duplicate-prompt audit consolidated 1 additional sources into this record. Featured examples may share the same brief while displaying independently credited outcomes; related source records are not counted again.",
+    "relatedSources": [
+      {
+        "url": "https://x.com/Edenwoodfilm/status/2110121953952686261",
+        "author": "Edenwoodfilm",
+        "model": "Claude Opus 5.5 / Gemini 4 Argon",
+        "reason": "Same normalized prompt; additional source consolidated rather than counted separately"
+      }
+    ]
   },
   {
     "id": "2111484789685735539",
@@ -22645,35 +21931,6 @@
     "promptCompleteness": "fragment_or_context_dependent",
     "status": "collected",
     "discoveryUrl": "https://github.com/LeaddeOpenLab/awesome-opus-5-5-video-prompts/blob/5d5ee72/data/library/2109898484413542800.json",
-    "verification": {
-      "method": "upstream_collection_reuse",
-      "importedAt": "2026-10-22",
-      "originalPostConfirmed": false,
-      "promptMatchedSource": false,
-      "authorClaimConfirmed": false,
-      "visualQuality": "not_reviewed",
-      "fullReview": false,
-      "upstreamCommit": "5d5ee72",
-      "upstreamDataReadThrough": "Chrome MCP"
-    },
-    "notes": "Selected from the upstream prompt collection for its concrete creative direction. Prompt text was read from the public upstream collection through Chrome MCP; completeness is not independently assessed and any referenced inputs may be required; this import does not independently confirm the original post, model attribution, result fidelity or visual quality. Referenced files, music, images and project context are not bundled. Original upstream source notes are retained below. Upstream notes: The author publicly shared a short task or brief; it may omit previous messages, skills, reference assets and iterations. Comparison outputs are counted as one source work and all explicitly named models are credited. No complete playback review is claimed."
-  },
-  {
-    "id": "2110121953952686261",
-    "title": "Opus 5.5 vs Gemini 4 Argon Tesla Electric Motor Explainer Animation",
-    "author": "Edenwoodfilm",
-    "sourceUrl": "https://x.com/Edenwoodfilm/status/2110121953952686261",
-    "platform": "X",
-    "model": "Claude Opus 5.5 / Gemini 4 Argon",
-    "modelStatus": "directory_reported",
-    "primaryCategory": "explainers-data",
-    "prompt": "build a cinematic 3D animation explaining how a Tesla-style electric motor works",
-    "promptFile": "prompts/motion-2110121953952686261.md",
-    "promptSourceUrl": "https://x.com/Edenwoodfilm/status/2110121953952686261",
-    "promptStatus": "upstream_transcribed",
-    "promptCompleteness": "fragment_or_context_dependent",
-    "status": "collected",
-    "discoveryUrl": "https://github.com/LeaddeOpenLab/awesome-opus-5-5-video-prompts/blob/5d5ee72/data/library/2110121953952686261.json",
     "verification": {
       "method": "upstream_collection_reuse",
       "importedAt": "2026-10-22",
