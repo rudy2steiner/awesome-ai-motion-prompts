@@ -1,0 +1,66 @@
+[
+  {
+    "id": "product-brand",
+    "title": "Product & Brand",
+    "description": "Product launches, brand films, logo reveals and UI demos.",
+    "entryIds": [
+      "ui-morph",
+      "photo-print",
+      "cinetic",
+      "typingmind",
+      "enxovaly",
+      "changelog-highlights"
+    ]
+  },
+  {
+    "id": "motion-studies",
+    "title": "Typography & Motion Studies",
+    "description": "Kinetic type, shape morphing, particles, transitions and showreels.",
+    "entryIds": [
+      "kinetic-type",
+      "motion-showreel",
+      "bold-type",
+      "particle-showreel",
+      "ajith-showreel"
+    ]
+  },
+  {
+    "id": "explainers-data",
+    "title": "Explainers & Data",
+    "description": "Educational explainers, diagrams, charts and data stories.",
+    "entryIds": [
+      "mathematics",
+      "recursion"
+    ]
+  },
+  {
+    "id": "characters-stories",
+    "title": "Characters & Stories",
+    "description": "Character animation, narrative shorts and concept-driven stories.",
+    "entryIds": [
+      "overthinking"
+    ]
+  },
+  {
+    "id": "3d-simulations",
+    "title": "3D & Simulations",
+    "description": "3D scenes, spatial animation, procedural worlds and physical simulations.",
+    "entryIds": [
+      "infinite-zoom"
+    ]
+  },
+  {
+    "id": "music-audiovisual",
+    "title": "Music & Audiovisual",
+    "description": "Music videos, audio-reactive visuals and sound-led motion. Including a soundtrack alone does not make a work a music video.",
+    "entryIds": []
+  },
+  {
+    "id": "interactive",
+    "title": "Interactive Experiences",
+    "description": "Responsive motion, interactive art, playful interfaces and animated game demonstrations.",
+    "entryIds": [
+      "starry-night"
+    ]
+  }
+]

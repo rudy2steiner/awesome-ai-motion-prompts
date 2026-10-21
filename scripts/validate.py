@@ -21,6 +21,16 @@ def main():
  for e in candidates['cases']:
   require(e['sourceUrl'] not in posts,f'duplicate candidate source: {e["sourceUrl"]}');posts.add(e['sourceUrl'])
  require(candidates['count']==len(candidates['cases']),'candidate count mismatch')
+ categories=read('data/categories.json'); assigned=[];category_ids=set()
+ for c in categories:
+  require(c['id'] not in category_ids,'duplicate category ID');category_ids.add(c['id'])
+  for key in c['entryIds']:require(key in seen,f'unknown category entry: {key}');assigned.append(key)
+ require(len(assigned)==len(set(assigned)),'entries assigned to multiple primary categories')
+ require(set(assigned)==seen,'every importable record needs a primary category')
+ form=(ROOT/'.github/ISSUE_TEMPLATE/submit-motion.yml').read_text()
+ options=re.findall(r'options: (\[.*\])',form)
+ require(json.loads(options[0])==[c['title'] for c in categories]+['Suggest a new category'],'submission categories are out of sync')
+ require(set(json.loads(options[1]))==cats,'submission effect tags are out of sync')
  ts=(ROOT/'src/data/promptMotion.ts').read_text();mark='export const MOTION_ENTRIES: MotionEntry[] = ';encoded=ts.split(mark,1)[1].split(';\nexport const MOTION_RESOURCES',1)[0];require(json.loads(encoded)==entries,'TypeScript export is stale')
  # Check Markdown file references, excluding remote URLs, fragments and root-level asset paths.
  for path in [ROOT/'README.md',*list((ROOT/'examples').glob('*.md')),*list((ROOT/'docs').glob('*.md'))]:

@@ -8,7 +8,9 @@ Discover remarkable motion. Find the prompt behind it.
 
 A multi-model, web-wide collection of AI motion graphics, animation and interactive references, with original prompts, creator credits and production context. English is the primary documentation language; prompts stay in their original language.
 
-[Browse prompts](#prompt-library) · [Candidate queue](docs/CANDIDATES.md) · [Data format](docs/DATA_FORMAT.md) · [Contribute](CONTRIBUTING.md)
+**Submissions welcome!** Made your own motion? [Submit your motion prompt](https://github.com/rudy2steiner/awesome-ai-motion-prompts/issues/new?template=submit-motion.yml) — all models, platforms and creators are welcome. Share a playable preview, your prompt or skill, and creator credit. No coding or pull request required. [Contribution guide](CONTRIBUTING.md).
+
+[Browse prompts](#prompt-library) · [Candidate queue](docs/CANDIDATES.md) · [Data format](docs/DATA_FORMAT.md) · [Submit your motion](https://github.com/rudy2steiner/awesome-ai-motion-prompts/issues/new?template=submit-motion.yml)
 
 **16 importable records · 339 research candidates**
 
@@ -17,6 +19,22 @@ A multi-model, web-wide collection of AI motion graphics, animation and interact
 All models and platforms are welcome: Claude, GPT / ChatGPT / Codex, Gemini, Kimi, open models, and future systems. Look for strong typography, coherent choreography, readable storytelling and intentional sound. X, YouTube, Reddit, GitHub and independent websites are discovery sources. Coding agents, model families and rendering tools are different fields of evidence; never infer one from another.
 
 The current collection is a starting point, not a claim of complete coverage. Importable means the record has the required fields; it does not mean the video has been reproduced or reviewed frame by frame. Candidate records may lack a prompt, confirmed model or quality review. See [verification rules](docs/SOURCING.md).
+
+## Browse by category
+
+Choose by what you want to create. Models and effect tags are separate, so a work is easy to find across tools.
+
+| Category | Explore | Works |
+| --- | --- | ---: |
+| [Product & Brand](docs/CATEGORIES.md#product-brand) | Product launches, brand films, logo reveals and UI demos. | 6 |
+| [Typography & Motion Studies](docs/CATEGORIES.md#motion-studies) | Kinetic type, shape morphing, particles, transitions and showreels. | 5 |
+| [Explainers & Data](docs/CATEGORIES.md#explainers-data) | Educational explainers, diagrams, charts and data stories. | 2 |
+| [Characters & Stories](docs/CATEGORIES.md#characters-stories) | Character animation, narrative shorts and concept-driven stories. | 1 |
+| [3D & Simulations](docs/CATEGORIES.md#3d-simulations) | 3D scenes, spatial animation, procedural worlds and physical simulations. | 1 |
+| [Music & Audiovisual](docs/CATEGORIES.md#music-audiovisual) | Music videos, audio-reactive visuals and sound-led motion. Including a soundtrack alone does not make a work a music video. | 0 |
+| [Interactive Experiences](docs/CATEGORIES.md#interactive) | Responsive motion, interactive art, playful interfaces and animated game demonstrations. | 1 |
+
+Have a work that does not fit? [Suggest a new category in your submission](https://github.com/rudy2steiner/awesome-ai-motion-prompts/issues/new?template=submit-motion.yml).
 
 ## Prompt library
 

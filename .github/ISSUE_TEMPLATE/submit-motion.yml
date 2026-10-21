@@ -1,0 +1,85 @@
+name: Submit a motion prompt
+description: Share your own motion prompt or recommend a creator's work. All models are welcome.
+title: "[Submission] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Submissions welcome!** Share one work per issue. You do not need to edit JSON or open a pull request.
+        Include a playable preview and the prompt or reusable skill. Keep prompts in their original language.
+        New creators and new categories are welcome. No follower, star or view threshold applies.
+  - type: input
+    id: work-title
+    attributes:
+      label: Work title
+      placeholder: A short descriptive title
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Primary category
+      description: Choose the closest fit. Suggest a category below if none fits.
+      options: ["Product & Brand", "Typography & Motion Studies", "Explainers & Data", "Characters & Stories", "3D & Simulations", "Music & Audiovisual", "Interactive Experiences", "Suggest a new category"]
+    validations:
+      required: true
+  - type: input
+    id: new-category
+    attributes:
+      label: Suggested category (optional)
+      placeholder: Proposed name and why it helps people discover this work
+  - type: dropdown
+    id: relationship
+    attributes:
+      label: Is this your work?
+      options:
+        - I created this work
+        - I am recommending another creator's work
+    validations:
+      required: true
+  - type: input
+    id: creator
+    attributes:
+      label: Creator and original source
+      description: Your name or handle and original post/project URL. Credit the original creator when recommending a work.
+      placeholder: "@creator — https://..."
+    validations:
+      required: true
+  - type: textarea
+    id: preview
+    attributes:
+      label: Motion preview
+      description: Paste a playable video/GIF URL or attach a preview using the GitHub editor. A static screenshot alone is not enough to review motion.
+    validations:
+      required: true
+  - type: input
+    id: model
+    attributes:
+      label: Model and working environment
+      description: Separate the model from the agent/app and rendering tools. Say unknown if a recommended work does not disclose them.
+      placeholder: "Model: ...; Agent/app: ...; Renderer: ..."
+    validations:
+      required: true
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Prompt or skill workflow
+      description: Paste the prompt you used, or link the published prompt/skill and explain the steps. Keep the original language. State if you cannot share the full prompt.
+    validations:
+      required: true
+  - type: dropdown
+    id: effects
+    attributes:
+      label: Effect tags (optional)
+      multiple: true
+      options: ["Product UI", "Phone", "Charts", "Diagrams", "Kinetic type", "Shapes", "Particles", "Characters", "Photos", "Music", "Code"]
+  - type: textarea
+    id: context
+    attributes:
+      label: References, dependencies and iterations (optional)
+      description: List required images, logos, code, audio, paid tools or skills, plus important follow-up prompts or manual edits. Link source files when public.
+  - type: textarea
+    id: why
+    attributes:
+      label: What makes this motion worth studying? (optional)
+      placeholder: Describe a specific visual, narrative or technical choice.
