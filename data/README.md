@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-727 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+729 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -594,6 +594,8 @@
 - [Puzzle cube solves on camera with move counter and timer](https://x.com/semichenkko/status/2111754643604636049) — semichenkko · Claude Opus 5.5 / DeepSeek V4.1 Flash (directory reported) · [Prompt](../prompts/motion-2111754643604636049.md#prompt)
 - [Cottagecore Japanese minka build with a cinematic Minecraft tour](https://x.com/nik_akki/status/2110807768550764628) — nik_akki · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2110807768550764628.md#prompt)
 - [Gargantua black-hole geodesic raytracer (WebGL2)](https://x.com/devloper_hs/status/2079590483727442205) — Harsh · Kimi K3 (directory reported) · [Prompt](../prompts/motion-2079590483727442205.md#prompt)
+- [Cider Pond: autumn ducks, falling leaves and a looping miniature camera](https://x.com/loktar00/status/2112295977461699019) — @loktar00 · DeepSeek 1017 (author reported) · [Prompt](../prompts/motion-2112295977461699019.md#prompt)
+- [Toy-brick island and erupting volcano: Claude versus DeepSeek](https://x.com/genuenci/status/2112300216233980324) — @genuenci · Claude / DeepSeek (versions unspecified in this post) (author reported) · [Prompt](../prompts/motion-2112300216233980324.md#prompt)
 
 
 <a id="music-audiovisual"></a>
