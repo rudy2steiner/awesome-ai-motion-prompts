@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-782 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+784 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -166,6 +166,7 @@
 - [Perceptron Mk1.5: typography, shape and camera-driven release reel](https://x.com/Subraiz24/status/2104089865537331298) — @Subraiz24 · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2104089865537331298.md#prompt)
 - [own.page cinematic product film with medieval atmosphere and animated UI components](https://x.com/ElitzaVasileva/status/2107187734414582139) — @ElitzaVasileva · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2107187734414582139.md#prompt)
 - [Personal portfolio film with iterative motion and sound-design review](https://x.com/heyiammallik/status/2103837803587293397) — @heyiammallik · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2103837803587293397.md#prompt)
+- [Opus advertisement inspired by Apple’s 1984 commercial](https://x.com/1littlecoder/status/2103746736980378066) — @1littlecoder · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2103746736980378066.md#prompt)
 
 
 <a id="motion-studies"></a>
@@ -692,6 +693,7 @@
 - [Pixel-art Halloween diorama for a long lofi loop](https://x.com/HugoDuprez/status/2102746041250705890) — HugoDuprez · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2102746041250705890.md#prompt)
 - [Nightjar Listening Room](https://developers.openai.com/showcase/nightjar-listening-room) — Katia Gil Guzman (OpenAI) · GPT-6 Astra (directory reported) · [Prompt](../prompts/motion-nightjar-listening-room.md#prompt)
 - [White Space: cathedral stained-glass light and falling typography blocks](https://x.com/AGIOyaZ/status/2103167623303397647) — @AGIOyaZ · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2103167623303397647.md#prompt)
+- [Jazz vinyl track card with beat-aligned needle drop and live FFT spectrum](https://x.com/tkz_aiart/status/2107799962037911786) — @tkz_aiart · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2107799962037911786.md#prompt)
 
 
 <a id="interactive"></a>

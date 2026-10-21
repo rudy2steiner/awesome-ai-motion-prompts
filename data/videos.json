@@ -26324,5 +26324,63 @@
       "visualQuality": "not_reviewed",
       "fullReview": false
     }
+  },
+  {
+    "id": "2107799962037911786",
+    "title": "Jazz vinyl track card with beat-aligned needle drop and live FFT spectrum",
+    "author": "tkz_aiart",
+    "sourceUrl": "https://x.com/tkz_aiart/status/2107799962037911786",
+    "promptSourceUrl": "https://x.com/tkz_aiart/status/2107811706411864352",
+    "prompt": "あなたは一流のモーションデザイナー兼クリエイティブエンジニアです。\n添付の曲を紹介する、SNS投稿用のトラックカード動画を作ってください。\n\n## 成果物\n- 1920×1080（16:9）・60fps・約15秒のMP4（音あり、AAC 192kbps、−14 LUFS）\n- 同じ映像をブラウザで再生できる単一のHTMLファイル（フォントとデータを埋め込み、外部ファイルなしで動くこと）\n- 作業フォルダ：{保存先フォルダ}\n\n## 曲の情報（画面に出す文字）\n- 曲名：{SUBTONE CONVERSATIONS} ／ 日本語：{サブトーン・カンバセーションズ}\n- 説明文（2行）：{1行目} ／ {2行目}\n- 主な音（タグ3つ）：{タグ1}、{タグ2}、{タグ3}\n- 拍子：{4/4}（BPMとキーは音声から解析して入れる）\n- アーティスト表記：{\n@TKZ_AIART\n／表示しない}\n\n## 見た目（ジャズのレコードプレーヤー風カード）\n- 背景：深い青の放射グラデーション＋うっすらフィルムグレイン。アクセント色は水色（#45B8F2 前後）\n- 上部：画面の幅いっぱいに、等幅フォントで「JAZZ, NOW.  ON VINYL」、右端に曲中の再生位置（例 2:27 / 3:14）、その下に細い進捗バー\n- 左半分：レコードプレーヤー（画面の高さの約70%の大きさ、縦方向の中央。画像素材を使わず、すべてcanvasで描く）\n  - 角丸の本体、プラッター外周の回転するストロボドット、溝のあるレコード、静止した光の反射、\n    曲名入りの回転するレーベル、トーンアーム（カウンターウェイト・ヘッドシェル付き）、つまみ2つ、電源ランプ\n  - プレーヤーの下に小さく「LP · 33 1/3 RPM」\n- 右半分（上から順に）：\n  - 「TRACK 01」（アクセント色の等幅フォント）\n  - 大きな曲名（右半分の幅にフィット、入らなければ2行に折る）\n  - 日本語曲名（アクセント色）\n  - 区切り線（アクセント色）\n  - 拍子・BPM・キーを1行で（例 4/4   BPM 114   A MAJOR）\n  - 説明文2行\n  - 「主な音」の見出しと、タグ3つを横に並べる（角丸の枠）\n  - 一番下に、実際の音から作ったスペクトルの縦棒（32本）\n- 書体：曲名と日本語は Noto Sans JP（400/700/900）、ラベル類は IBM Plex Mono。日本語フォントは使う文字だけをGoogle Fontsの text= で切り出して埋め込む\n\n## 音の切り出し（最重要）\n1. librosaで曲を解析し、BPM・キー・小節の頭の位置を出す（BPMは onset の周期をくし形フィルタで精密に合わせる）\n2. 小節ごとの音量と変化量を一覧にして、「静かな1小節 → バンドが一斉に入る」箇所を探す（曲中で一番盛り上がる区間の入口）\n3. その静かな1小節の頭から、約15秒に一番近い小節数（114BPMなら7小節＝14.73秒）を切り出す\n4. 静かな1小節はローパスでこもらせ、盛り上がりの頭から全帯域で鳴らす。最後の0.5秒はフェードアウト\n\n## 動き（すべて切り出した音のタイミングに合わせる）\n- 0秒：完成したカードがそのまま見える状態にする（このフレームがサムネイルになる）。アームは外側に置いた状態\n- 0.3秒〜：アームが持ち上がり、レコードの上へ旋回。レコードは33⅓回転まで回り始める\n- アームはゆっくり下り、盛り上がりの1拍目（＝2小節目の頭）にちょうど針が着地する。区切り線はこの1小節で伸びきる\n- 着地の瞬間：電源ランプ点灯、カード全体が一瞬だけ少しふくらむ、背景が光る、曲名に光が一度走る\n- 再生中：スペクトルは実際の音から（1フレームごとにFFTを取り、立ち上がりは速く、減衰はゆっくり）、背景の明るさは音量に連動、BPMの数字が拍で小さく跳ねる、針はゆっくり内側へ進む\n- 最後：音のフェードアウトに合わせてアームが持ち上がる\n\n## 技術的な条件\n- 描画は seek(t) という「時刻tだけで決まる関数」にする。CSSのアニメーションや setInterval は使わない\n- 動きはばねの閉形式（減衰振動の式）で計算する。モーションブラーは1フレームを4つのサブフレームで描いて平均する\n- 経過時間の文字とグレインは、ブラーをかけずに1フレーム1回だけ描く\n- 書き出しは Playwright（Chromium）で1フレームずつ PNG を取り出し、ffmpeg で H.264 にエンコードして音声と合わせる\n- 注意：トーンアームの針の軌跡は、同じ半径の円と2回交わる。外側から内側へ探して「最初に交わる角度」を使うこと（逆を取ると針がレコードを横切る）\n\n## 進め方\n1. 先に音を解析して、切り出す区間とその理由（小節ごとの音量の表）を見せる\n2. 本番の前に、主要な瞬間（0秒、アーム旋回中、着地直前、着地、中盤、終わり）の静止画を書き出して確認し、文字の詰まり・はみ出し・アームの位置を直してから全体を書き出す\n3. 完成したら、MP4の長さ・フレーム数・音声が入っていることを確認して報告する",
+    "model": "Claude Opus 5.5",
+    "primaryCategory": "music-audiovisual",
+    "promptStatus": "source_transcribed",
+    "promptCompleteness": "complete_published_template_requires_audio",
+    "requiresReference": true,
+    "notes": "Older work found while checking upstream leads. Complete published prompt was read directly on X and connected to the original native-video post. Opus 5.5 attribution is author-reported. Native video presence was confirmed; full playback, visual quality and requested output properties were not independently reviewed. The complete Japanese-language template is preserved. It requires an attached song, metadata and destination placeholders; the music is not bundled or relicensed. The prompt requests analysis of existing music, not a fully synthesized original score. BPM/key accuracy, spectrum fidelity, audio mastering and needle timing are requirements, not independently measured results.",
+    "platform": "X",
+    "modelStatus": "author_claim",
+    "status": "collected",
+    "promptFile": "prompts/motion-2107799962037911786.md",
+    "discoveryUrl": "https://x.com/tkz_aiart/status/2107799962037911786",
+    "verification": {
+      "method": "chrome_mcp_original_x_prompt_thread",
+      "checkedAt": "2026-10-22",
+      "originalPostConfirmed": true,
+      "promptMatchedSource": true,
+      "authorClaimConfirmed": true,
+      "nativeVideoConfirmed": true,
+      "visualQuality": "not_reviewed",
+      "fullReview": false
+    }
+  },
+  {
+    "id": "2103746736980378066",
+    "title": "Opus advertisement inspired by Apple’s 1984 commercial",
+    "author": "1littlecoder",
+    "sourceUrl": "https://x.com/1littlecoder/status/2103746736980378066",
+    "promptSourceUrl": "https://x.com/1littlecoder/status/2103746736980378066",
+    "prompt": "create a 30 second ad for Opus 5.5 inspired by Apple 1984 ad, iykyk! avoid the border text or frames!",
+    "model": "Claude Opus 5.5",
+    "primaryCategory": "product-brand",
+    "promptStatus": "source_transcribed",
+    "promptCompleteness": "published_short_brief",
+    "requiresReference": true,
+    "notes": "Older work found while checking upstream leads. Complete published prompt was read directly on X and connected to the original native-video post. Opus 5.5 attribution is author-reported. Native video presence was confirmed; full playback, visual quality and requested output properties were not independently reviewed. The author explicitly references Apple’s 1984 advertisement. This is a short published brief; the exact reference assets and complete prior context are not established. No claim of originality, asset licensing, soundtrack provenance or matching the cited production is made by this collection.",
+    "platform": "X",
+    "modelStatus": "author_claim",
+    "status": "collected",
+    "promptFile": "prompts/motion-2103746736980378066.md",
+    "discoveryUrl": "https://x.com/1littlecoder/status/2103746736980378066",
+    "verification": {
+      "method": "chrome_mcp_original_x_prompt_thread",
+      "checkedAt": "2026-10-22",
+      "originalPostConfirmed": true,
+      "promptMatchedSource": true,
+      "authorClaimConfirmed": true,
+      "nativeVideoConfirmed": true,
+      "visualQuality": "not_reviewed",
+      "fullReview": false
+    }
   }
 ]
