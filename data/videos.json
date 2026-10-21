@@ -28571,5 +28571,67 @@
       "visualQuality": "not_reviewed",
       "fullReview": false
     }
+  },
+  {
+    "id": "motionsites-loader-animation",
+    "title": "Portfolio loading sequence: rotating words, timed counter and page reveal",
+    "author": "Nomaan Khan / MotionSites.ai contributors",
+    "sourceUrl": "https://github.com/XiesRay/motionsites-prompt-collection/blob/main/prompts/Loader_Animation.md",
+    "promptSourceUrl": "https://github.com/XiesRay/motionsites-prompt-collection/blob/main/prompts/Loader_Animation.md",
+    "prompt": "Build a fullscreen loading screen component in React (Next.js 14, TypeScript). Uses Framer Motion for animations. Here is the exact specification:\n\nTheme\n\ncss\n\n--bg: #0a0a0a;\n--text: #f5f5f5;\n--muted: #888888;\n--stroke: #1f1f1f;\n\nFonts: font-display → Instrument Serif (Google Fonts, italic, weight 400).\n\nComponent: LoadingScreen\n\nReceives one prop: onComplete: () => void.\n\nContainer: <motion.div> — fixed inset-0 z-[9999] bg-bg. Exit animation: exit={{ opacity: 0 }}, duration 0.6s, ease [0.4, 0, 0.2, 1]. Wrap in <AnimatePresence mode=\"wait\"> from the parent.\n\nElement 1: \"Portfolio\" Label (Top-Left)\n\n<motion.div> — absolute top-8 left-8 md:top-12 md:left-12.\nText: \"Portfolio\"\nClass: text-xs md:text-sm text-muted uppercase tracking-[0.3em]\nEntrance animation: initial={{ opacity: 0, y: -20 }}, animate={{ opacity: 1, y: 0 }}, duration 0.6s, delay 0.1s\n\nElement 2: Rotating Words (Center)\n\nabsolute inset-0 flex items-center justify-center.\nThree words cycle in sequence: \"Design\" → \"Create\" → \"Inspire\". A new word appears every 900ms. The word index increments via setInterval and stops at the last word (doesn't loop).\n\nEach word is a <motion.span> inside <AnimatePresence mode=\"wait\">, keyed by wordIndex:\nClass: text-4xl md:text-6xl lg:text-7xl font-display italic text-text/80\ninitial={{ opacity: 0, y: 20 }}\nanimate={{ opacity: 1, y: 0 }}\nexit={{ opacity: 0, y: -20 }}\ntransition={{ duration: 0.4, ease: [0.4, 0, 0.2, 1] }}\n\nElement 3: Counter (Bottom-Right)\n\n<motion.div> — absolute bottom-8 right-8 md:bottom-12 md:right-12.\nA number that counts from 000 → 100 over exactly 2.7 seconds using requestAnimationFrame. Each frame calculates elapsed / 2700 * 100. The number is displayed zero-padded to 3 digits (e.g. 007, 042, 100):\n\n{Math.round(progress).toString().padStart(3, '0')}\n\nClass: text-6xl md:text-8xl lg:text-9xl font-display text-text tabular-nums\nEntrance animation: initial={{ opacity: 0, y: 20 }}, animate={{ opacity: 1, y: 0 }}, duration 0.6s, delay 0.1s\n\nWhen progress reaches 100: Wait 400ms, then call onComplete(). Use a ref for onComplete to avoid stale closures.\n\nElement 4: Progress Bar (Bottom Edge)\n\nabsolute bottom-0 left-0 right-0. A 3px tall track:\nTrack: h-[3px] bg-stroke/50 (full width)\nFill: <motion.div> inside the track:\nh-full origin-left\nBackground: linear-gradient(90deg, #89AACC 0%, #4E85BF 100%)\nGlow: boxShadow: \"0 0 8px rgba(137, 170, 204, 0.35)\"\ninitial={{ scaleX: 0 }}\nanimate={{ scaleX: progress / 100 }}\ntransition={{ duration: 0.1, ease: \"linear\" }}\n\nParent Wrapper Behavior\n\nThe parent component (AppWrapper) controls visibility:\nState: isLoading starts true\nRenders <LoadingScreen onComplete={() => setIsLoading(false)} /> inside <AnimatePresence mode=\"wait\"> only when isLoading is true\nMain page content sits below with: style={{ opacity: isLoading ? 0 : 1, transition: \"opacity 0.5s ease-out\" }}\nWhen the loader calls onComplete, it triggers: loader fades out (0.6s) → page fades in (0.5s)\n\nTiming Summary\n\n0.0s — Loader appears, \"Portfolio\" slides in, counter starts at 000\n0.0s — \"Design\" appears\n0.9s — \"Create\" replaces \"Design\"\n1.8s — \"Inspire\" replaces \"Create\"\n2.7s — Counter hits 100, progress bar full\n3.1s — onComplete fires (400ms delay)\n3.1s — Loader fades out (0.6s exit animation)\n3.7s — Page content fades in (0.5s opacity transition)",
+    "model": "Model-agnostic (React / Framer Motion / GSAP)",
+    "primaryCategory": "motion-studies",
+    "promptStatus": "creator_published_web_motion_template",
+    "promptCompleteness": "complete_published_template_requires_web_project",
+    "requiresReference": true,
+    "creatorDemoUrl": "https://github.com/XiesRay/motionsites-prompt-collection/tree/main/demos/Loader_Animation",
+    "notes": "Selected through Chrome MCP from a publicly shared AI prompt library. The repository README credits Nomaan Khan and declares its library MIT-licensed; this copy is hosted by XiesRay. Complete prompt text was read and a matching named project was confirmed in demos/. These are reusable web-motion instructions, not documented original model-run conversations; no specific generation model is identified. The selected brief has explicit choreography or state-transition requirements; static-layout/background-video-only candidates were excluded. Required fonts, framework setup and any video/reference assets are not bundled. The Loader document explicitly has no video preview. Demo projects were confirmed listed, but live playback, visual quality, asset rights and implementation conformance were not independently tested.",
+    "platform": "GitHub",
+    "modelStatus": "not_specified",
+    "status": "collected",
+    "promptFile": "prompts/motion-motionsites-loader-animation.md",
+    "discoveryUrl": "https://github.com/XiesRay/motionsites-prompt-collection",
+    "verification": {
+      "method": "chrome_mcp_public_motion_prompt_and_demo_project",
+      "checkedAt": "2026-10-22",
+      "originalPostConfirmed": true,
+      "promptMatchedSource": true,
+      "authorClaimConfirmed": false,
+      "nativeVideoConfirmed": false,
+      "creatorDemoProjectListed": true,
+      "visualQuality": "not_reviewed",
+      "fullReview": false
+    }
+  },
+  {
+    "id": "motionsites-motionz-premium",
+    "title": "MotionZ: cinematic video switching, scroll masks and magnetic depth",
+    "author": "Nomaan Khan / MotionSites.ai contributors",
+    "sourceUrl": "https://github.com/XiesRay/motionsites-prompt-collection/blob/main/prompts/MotionZ_Premium.md",
+    "promptSourceUrl": "https://github.com/XiesRay/motionsites-prompt-collection/blob/main/prompts/MotionZ_Premium.md",
+    "prompt": "# MotionZ Premium Landing Page\n\nCreate a high-fidelity, premium landing page inspired by gaming universes and advanced design layers. The design should feel immersive, dynamic, and state-of-the-art.\n\n## Design Aesthetic\n- **Color Palette**: Sleek dark modes (Black, Deep Violet, Charcoal) contrasted with vibrant accents (Electric Blue, Radiant Yellow, Soft Lavender).\n- **Typography**: Modern, bold sans-serif for headings (e.g., General Sans, MotionZ Custom) and clean, readable fonts for body text (e.g., Circular Web, Robert).\n- **Visual Elements**: \n  - Video backgrounds with smooth transitions.\n  - Glassmorphism effects (blurred backgrounds, subtle borders).\n  - Bento-style grids for feature showcases.\n  - Floating 3D-like elements and interactive scroll-driven animations.\n- **Micro-animations**: Hover effects with radial gradients, tilting cards, and smooth GSAP-powered transitions.\n\n## Key Sections\n1. **Hero**: A cinematic entrance with a video-switching interaction. Clicking a preview mini-video should transition to the next full-screen video with a scale and clip-path animation.\n2. **About**: A scroll-triggered clip-path animation that expands an image/video to full screen as the user scrolls, introducing the \"Design Layer\".\n3. **Features (Bento Grid)**: A collection of interactive cards with tilting effects and radial gradient hover states. Each card showcases a unique product or feature in the ecosystem.\n4. **Story**: A floating image section with a magnetic mouse-follow effect, creating a sense of depth and mystery.\n5. **The Symbiotic World**: An accordion-style section showcasing governance, opportunity, and value sharing within the ecosystem, accompanied by a rotating 3D token visualization.\n6. **Metrics & Backers**: High-impact statistics displayed in a modern grid, followed by a list of world-class partners and backers.\n7. **Contact & Footer**: A final call to action with a \"sword-man\" clip-path design and a comprehensive footer with social links.\n\n## Technical Requirements\n- Use **React** for component-based structure.\n- Use **GSAP** (GreenSock) for all complex animations and scroll-triggered effects.\n- Use **Tailwind CSS** for responsive styling and layout.\n- Ensure all videos are muted, looped, and optimized for web performance.\n- Implement a floating navbar that transitions from transparent to solid on scroll.\n\n## Tone & Voice\nThe copy should be epic, visionary, and forward-looking. Use terms like \"The Future of Design\", \"Design Economy\", \"Universal Design Layer\", and \"Symbiotic World\".",
+    "model": "Model-agnostic (React / Framer Motion / GSAP)",
+    "primaryCategory": "interactive",
+    "promptStatus": "creator_published_web_motion_template",
+    "promptCompleteness": "complete_published_template_requires_web_project",
+    "requiresReference": true,
+    "creatorDemoUrl": "https://github.com/XiesRay/motionsites-prompt-collection/tree/main/demos/MotionZ_Premium",
+    "notes": "Selected through Chrome MCP from a publicly shared AI prompt library. The repository README credits Nomaan Khan and declares its library MIT-licensed; this copy is hosted by XiesRay. Complete prompt text was read and a matching named project was confirmed in demos/. These are reusable web-motion instructions, not documented original model-run conversations; no specific generation model is identified. The selected brief has explicit choreography or state-transition requirements; static-layout/background-video-only candidates were excluded. Required fonts, framework setup and any video/reference assets are not bundled. Demo projects were confirmed listed, but live playback, visual quality, asset rights and implementation conformance were not independently tested.",
+    "platform": "GitHub",
+    "modelStatus": "not_specified",
+    "status": "collected",
+    "promptFile": "prompts/motion-motionsites-motionz-premium.md",
+    "discoveryUrl": "https://github.com/XiesRay/motionsites-prompt-collection",
+    "verification": {
+      "method": "chrome_mcp_public_motion_prompt_and_demo_project",
+      "checkedAt": "2026-10-22",
+      "originalPostConfirmed": true,
+      "promptMatchedSource": true,
+      "authorClaimConfirmed": false,
+      "nativeVideoConfirmed": false,
+      "creatorDemoProjectListed": true,
+      "visualQuality": "not_reviewed",
+      "fullReview": false
+    }
   }
 ]

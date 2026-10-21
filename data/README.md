@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-855 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+857 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -327,6 +327,7 @@
 - [MotionVault: Matrix Rain](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/background.ts#L109) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-matrix-rain.md#prompt)
 - [MotionVault: Day Night Cycle](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/background.ts#L130) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-day-night.md#prompt)
 - [MotionVault: Circuit Pulse](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/background.ts#L193) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-circuit-pulse.md#prompt)
+- [Portfolio loading sequence: rotating words, timed counter and page reveal](https://github.com/XiesRay/motionsites-prompt-collection/blob/main/prompts/Loader_Animation.md) — @Nomaan Khan / MotionSites.ai contributors · Model-agnostic (React / Framer Motion / GSAP) · [Prompt](../prompts/motion-motionsites-loader-animation.md#prompt)
 
 
 <a id="explainers-data"></a>
@@ -915,3 +916,4 @@
 - [MotionVault: Sticky Gallery](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/scroll.ts#L132) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-sticky-gallery.md#prompt)
 - [MotionVault: Drag Ball](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/spring.ts#L127) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-drag-ball.md#prompt)
 - [MotionVault: Topo Flow](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/background.ts#L172) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-topo-flow.md#prompt)
+- [MotionZ: cinematic video switching, scroll masks and magnetic depth](https://github.com/XiesRay/motionsites-prompt-collection/blob/main/prompts/MotionZ_Premium.md) — @Nomaan Khan / MotionSites.ai contributors · Model-agnostic (React / Framer Motion / GSAP) · [Prompt](../prompts/motion-motionsites-motionz-premium.md#prompt)
