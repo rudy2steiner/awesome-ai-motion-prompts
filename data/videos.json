@@ -25924,5 +25924,33 @@
       "visualQuality": "not_reviewed",
       "fullReview": false
     }
+  },
+  {
+    "id": "2105033612093698466",
+    "title": "Japanese fantasy-city pixel animation: GPT, Sonnet, Opus and Astra comparison",
+    "author": "notjazii",
+    "sourceUrl": "https://x.com/notjazii/status/2105033612093698466",
+    "promptSourceUrl": "https://x.com/notjazii/status/2105054445742735595",
+    "prompt": "Make a Japanese style fantasy city animation gif, pixel art, super detailed, super high quality, amazing looking, visually verify, make sure it’s cohesive and perfec",
+    "model": "GPT 6.1 Sol / Sonnet 5.5 / Opus 5.5 / Astra (version unspecified)",
+    "primaryCategory": "motion-studies",
+    "promptStatus": "source_transcribed",
+    "promptCompleteness": "published_short_brief",
+    "notes": "Older work found while reviewing upstream leads. The published brief was read directly from the author’s reply, connected through an intermediate viewer reply to the original native-video comparison. The main post explicitly lists GPT 6.1 Sol, Sonnet 5.5, Opus 5.5 and Astra, with author-reported timing and costs. Those timings, costs, quality rankings and model capabilities were not independently verified. The entire comparison is counted once. The published brief ends with the spelling perfec; preserve it rather than inventing a continuation. Prior context is not established. Native video presence was confirmed; full playback and visual quality were not reviewed.",
+    "platform": "X",
+    "modelStatus": "author_claim",
+    "status": "collected",
+    "promptFile": "prompts/motion-2105033612093698466.md",
+    "discoveryUrl": "https://x.com/notjazii/status/2105033612093698466",
+    "verification": {
+      "method": "chrome_mcp_original_x_prompt_thread",
+      "checkedAt": "2026-10-22",
+      "originalPostConfirmed": true,
+      "promptMatchedSource": true,
+      "authorClaimConfirmed": true,
+      "nativeVideoConfirmed": true,
+      "visualQuality": "not_reviewed",
+      "fullReview": false
+    }
   }
 ]

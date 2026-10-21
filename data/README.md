@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-768 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+769 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -292,6 +292,7 @@
 - [One pencil line: paper, blueprint and hologram showreel](https://x.com/heyiamnick/status/2109174851412119558) — @heyiamnick · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2109174851412119558.md#prompt)
 - [GSAP and Three.js motion-video production template with continuous object handoffs](https://x.com/everestchris6/status/2104965415164399895) — @everestchris6 · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2104965415164399895.md#prompt)
 - [Endless neon tunnel: polar-coordinate GLSL shader comparison](https://x.com/loktar00/status/2057499174568923566) — @loktar00 · Qwen 3.7 Max / GPT 5.5 / Opus (version unspecified) / GLM 5.1 (author reported) · [Prompt](../prompts/motion-2057499174568923566.md#prompt)
+- [Japanese fantasy-city pixel animation: GPT, Sonnet, Opus and Astra comparison](https://x.com/notjazii/status/2105033612093698466) — @notjazii · GPT 6.1 Sol / Sonnet 5.5 / Opus 5.5 / Astra (version unspecified) (author reported) · [Prompt](../prompts/motion-2105033612093698466.md#prompt)
 
 
 <a id="explainers-data"></a>
