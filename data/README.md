@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-865 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+877 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -329,6 +329,9 @@
 - [MotionVault: Circuit Pulse](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/background.ts#L193) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-circuit-pulse.md#prompt)
 - [Portfolio loading sequence: rotating words, timed counter and page reveal](https://github.com/XiesRay/motionsites-prompt-collection/blob/main/prompts/Loader_Animation.md) — @Nomaan Khan / MotionSites.ai contributors · Model-agnostic (React / Framer Motion / GSAP) · [Prompt](../prompts/motion-motionsites-loader-animation.md#prompt)
 - [MotionVault: Noise Waves](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/background.ts#L64) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-noise-waves.md#prompt)
+- [MotionVault: Meteors](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/particle.ts#L84) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-meteors.md#prompt)
+- [MotionVault: Typewriter](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/text.ts#L55) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-typewriter.md#prompt)
+- [MotionVault: Wave Text](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/text.ts#L112) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-wave-text.md#prompt)
 
 
 <a id="explainers-data"></a>
@@ -456,6 +459,8 @@
 - [70/118: smartphone elements in a continuous-canvas sticker explainer](https://github.com/Vincentwei1021/mg-styles-15/blob/main/prompts/19-paperclip.md) — @Vincentwei1021 · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-mg-styles-19-paperclip.md#prompt)
 - [MotionVault: Line Chart Grow](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/svg.ts#L70) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-line-chart.md#prompt)
 - [MotionVault: Dotted Map](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/svg.ts#L120) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-dotted-map.md#prompt)
+- [MotionVault: Ring Progress](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/svg.ts#L40) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-ring-progress.md#prompt)
+- [MotionVault: Scroll Timeline](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/scroll.ts#L62) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-timeline.md#prompt)
 
 
 <a id="characters-stories"></a>
@@ -925,3 +930,10 @@
 - [MotionVault: Wobble Input](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/spring.ts#L57) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-wobble-input.md#prompt)
 - [MotionVault: Elastic Toggle](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/spring.ts#L67) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-elastic-toggle.md#prompt)
 - [MotionVault: Lamp](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/background.ts#L151) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-lamp.md#prompt)
+- [MotionVault: Particle Network](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/particle.ts#L24) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-particle-network.md#prompt)
+- [MotionVault: Click Spark](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/particle.ts#L149) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-click-spark.md#prompt)
+- [MotionVault: Draw Icons](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/svg.ts#L30) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-draw-icons.md#prompt)
+- [MotionVault: Draw Check](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/svg.ts#L50) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-draw-check.md#prompt)
+- [MotionVault: Clip Reveal](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/scroll.ts#L82) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-clip-reveal.md#prompt)
+- [MotionVault: Wallet Pull](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/card.ts#L200) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-wallet-pull.md#prompt)
+- [MotionVault: Scratch Card](https://github.com/xiyu519/MotionVault/blob/master/src/data/effects/card.ts#L210) — @xiyu519 / MotionVault contributors · Model-agnostic (React / Canvas / Framer Motion) · [Prompt](../prompts/motion-motionvault-scratch-card.md#prompt)
