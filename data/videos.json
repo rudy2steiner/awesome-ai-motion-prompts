@@ -26496,5 +26496,34 @@
       "visualQuality": "not_reviewed",
       "fullReview": false
     }
+  },
+  {
+    "id": "2106720729265795579",
+    "title": "Founder perseverance song: Remotion narrative and beat-timed lyrics",
+    "author": "YanivM79",
+    "sourceUrl": "https://x.com/YanivM79/status/2106720729265795579",
+    "promptSourceUrl": "https://x.com/YanivM79/status/2106793839193158103",
+    "prompt": "\"This is the song, it will be posted on X. Create a related video for it.\"\n\nThen I pasted the lyrics and said: \"Finish all of it.\"",
+    "model": "Claude Opus 5.5",
+    "primaryCategory": "music-audiovisual",
+    "promptStatus": "published_prompt_sequence",
+    "promptCompleteness": "published_short_sequence_requires_mp3_and_lyrics",
+    "requiresReference": true,
+    "notes": "Older work found while reviewing upstream leads. The author’s two quoted inputs were read directly from the public reply and connected through public reply metadata to the original native-video post. The author supplied an MP3 and pasted lyrics; neither is bundled. This is a short published input sequence, not the full song, script or complete conversation. The author credits ChatGPT-assisted lyric editing, Suno music and Opus 5.5 video, and says the video was written in Remotion. A more realistic character revision was tried and discarded; the first version was kept. Native video presence and wording were confirmed; full playback, visual quality, beat synchronization and asset/music rights were not independently reviewed.",
+    "platform": "X",
+    "modelStatus": "author_claim",
+    "status": "collected",
+    "promptFile": "prompts/motion-2106720729265795579.md",
+    "discoveryUrl": "https://x.com/YanivM79/status/2106720729265795579",
+    "verification": {
+      "method": "chrome_mcp_original_x_prompt_thread",
+      "checkedAt": "2026-10-22",
+      "originalPostConfirmed": true,
+      "promptMatchedSource": true,
+      "authorClaimConfirmed": true,
+      "nativeVideoConfirmed": true,
+      "visualQuality": "not_reviewed",
+      "fullReview": false
+    }
   }
 ]
