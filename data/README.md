@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-980 works with prompt text saved in this repository. The collection includes published briefs, workflows and reusable animation templates. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+981 works with prompt text saved in this repository. The collection includes published briefs, workflows and reusable animation templates. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -518,6 +518,7 @@
 - [AI_Animation: Animated packet-field structure](https://github.com/Unclecheng-li/AI_Animation/blob/master/skills/network-protocol-viz/references/prompts.md#数据包帧结构展示) — @Unclecheng-li / AI_Animation contributors · Model-agnostic coding agent · [Prompt](../prompts/motion-ai-animation-packet-fields.md#prompt)
 - [AI_Animation: Interactive packet routing and table decisions](https://github.com/Unclecheng-li/AI_Animation/blob/master/skills/network-protocol-viz/references/prompts.md#路由转发演示) — @Unclecheng-li / AI_Animation contributors · Model-agnostic coding agent · [Prompt](../prompts/motion-ai-animation-route-decision.md#prompt)
 - [Why black holes are black: bilingual narrated science explainer](https://x.com/Cryptoxorz/status/2106632895989526896) — @Cryptoxorz · Claude Opus 5.5 / local TTS (author reported) · [Prompt](../prompts/motion-2106632895989526896.md#prompt)
+- [Artisanal croissant: macro lamination, oven rise and crumb reveal](https://x.com/Fujimoto_hina/status/2112921424575005081) — @Fujimoto_hina · Veo 3.1 (author reported) · [Prompt](../prompts/motion-2112921424575005081.md#prompt)
 
 
 <a id="characters-stories"></a>

@@ -32516,5 +32516,34 @@
       "visualQuality": "not_reviewed",
       "fullReview": false
     }
+  },
+  {
+    "id": "2112921424575005081",
+    "title": "Artisanal croissant: macro lamination, oven rise and crumb reveal",
+    "author": "Fujimoto_hina",
+    "sourceUrl": "https://x.com/Fujimoto_hina/status/2112921424575005081",
+    "promptSourceUrl": "https://x.com/Fujimoto_hina/status/2112921424575005081",
+    "prompt": "{\n  \"prompt\": \"Create a hyper-realistic, cinematic food-making video showing traditional French artisanal butter croissant laminating and baking in a sun-drenched Parisian boulangerie atelier. Show a chilled marble countertop dusted with ultra-fine French T55 flour, a block of golden cultured Normandy butter (Beurre d'Isigny) showing tiny salt flakes, and smooth, supple rested détrempe dough. Realistic baker's hands gently enclose the cold pliable butter block inside the pale dough, rolling it out with a polished French tapered pin into an immaculate rectangular ribbon, performing precise letter and book turns with razor-sharp laminated dough edges exposing hundreds of paper-thin alternating layers of butter and dough. Show delicate cutting of elongated isosceles triangles, gently stretching and rolling the pastry up into perfectly arched, crescent-shaped croissants. In fluid slow-motion, reveal the proofed croissants puffing and rising inside a deck oven, the paper-thin outer layers caramelizing and puffing into a deep golden-amber honeycomb crust. Finish with two hands gently pulling apart a warm, flaky croissant in half—showering microscopic golden crisp crumbs while exposing an airy, featherlight, steam-releasing honeycomb alveolar crumb interior.\",\n  \"style\": \"Hyper-realistic culinary cinematography, authentic French pâtisserie craftsmanship, extreme macro pastry textures, shallow depth of field, fluid slow-motion camera gliding, crisp crumb fractures and rising steam physics.\",\n  \"lighting\": \"Soft morning golden sunlight streaming through flour-dusted atelier windows, warm backlight illuminating the translucent golden layers of pastry, soft shadows against cool marble.\",\n  \"duration\": \"30 seconds\",\n  \"aspect_ratio\": \"9:16\",\n  \"quality\": \"4K\",\n  \"audio\": \"Dough slapping softly onto cold marble, rhythmic rolling of the wooden pin across chilled dough, crisp razor blade score, gentle oven hum, loud crisp crackle and shatter of flaky layers pulling apart, and faint accordion music outside on Parisian cobblestones.\"\n}",
+    "model": "Veo 3.1",
+    "primaryCategory": "explainers-data",
+    "promptStatus": "author_published_prompt",
+    "promptCompleteness": "complete_published_structured_prompt",
+    "requiresReference": false,
+    "notes": "Found through X Latest search on 2026-10-22. The author explicitly identifies Veo 3.1 and publishes this complete JSON-style production prompt. It specifies sequential pastry-making actions, macro slow-motion camera work, dough/steam/crumb behavior and synchronized culinary audio. The original structured text is preserved without normalizing fields. Its duration, aspect ratio and quality fields are requested values, NOT measured render specifications or verified model capabilities. Original post text and native-video metadata checked through Chrome MCP. Baking accuracy, physical fidelity, actual duration/resolution, soundtrack and playback quality were not independently tested. This is generated culinary process cinematography rather than code-only motion graphics; one sequence is counted once.",
+    "platform": "X",
+    "modelStatus": "author_claim",
+    "status": "collected",
+    "promptFile": "prompts/motion-2112921424575005081.md",
+    "discoveryUrl": "https://x.com/Fujimoto_hina/status/2112921424575005081",
+    "verification": {
+      "method": "chrome_mcp_x_original_post_and_native_video_metadata",
+      "checkedAt": "2026-10-22",
+      "originalPostConfirmed": true,
+      "promptMatchedSource": true,
+      "authorClaimConfirmed": true,
+      "nativeVideoConfirmed": true,
+      "visualQuality": "not_reviewed",
+      "fullReview": false
+    }
   }
 ]
