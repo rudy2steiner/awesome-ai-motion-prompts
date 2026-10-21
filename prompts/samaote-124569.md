@@ -1,14 +1,16 @@
 # Lyrics synchronized to vocals and beats
 
+![Lyrics synchronized to vocals and beats](../data/media/samaote-124569.gif)
+
 [Original work](https://x.com/samaote/status/2103510974796124569) · [Prompt source](https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f/prompts/samaote-124569.md)
 
 - **Creator:** @samaote
-- **Model:** Claude Opus 5.5 (directory_reported)
+- **Model:** Claude Opus 5.5 (author_claimed)
 - **Category:** music-audiovisual
 - **Reference assets required:** Attached music and lyrics; not included in this repository
-- **Prompt status:** `upstream_full_text`
+- **Prompt status:** `original_post_text_matched`
 
-Prompt text preserved from the pinned upstream dataset. Completeness and model attribution follow the directory; original-post matching and playback quality are not independently verified.
+Full prompt and model claim read on the original X post. A three-second GIF excerpt and sampled frames were reviewed; the complete video has not been reviewed.
 
 ## Prompt
 

@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-43 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+80 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -29,6 +29,28 @@
 - [Wireframe-to-shards logo reveal](https://x.com/Mounnna/status/2103802871934497266) — @Mounnna · Claude Opus 5.5 · [Prompt](../prompts/mounnna-497266.md#prompt)
 - [SAHI trading terminal: desktop-to-mobile morph](https://x.com/dale_vaz/status/2103290592679879074) — @dale_vaz · Claude Opus 5.5 · [Prompt](../prompts/dale-vaz-879074.md#prompt)
 - [DreamFort manifesto with code-generated visuals and sound](https://x.com/advait_jayant/status/2103565104243712107) — @advait_jayant · Claude Opus 5.5 · [Prompt](../prompts/advait-jayant-712107.md#prompt)
+- [Website motion launch reel](https://x.com/melvynx/status/2103714680577638493) — @melvynx · Claude Opus 5.5 · [Prompt](../prompts/melvynx-638493.md#prompt)
+- [Alan AI product launch](https://x.com/prasad_pilla/status/2103728953785496049) — @prasad_pilla · Claude Opus 5.5 · [Prompt](../prompts/prasad-pilla-496049.md#prompt)
+- [AIsa motion launch](https://x.com/0xfemyn/status/2103796337041137833) — @0xfemyn · Claude Opus 5.5 · [Prompt](../prompts/0xfemyn-137833.md#prompt)
+- [Project feature launch film](https://x.com/ezshine/status/2103501705698750731) — @ezshine · Claude Opus 5.5 · [Prompt](../prompts/ezshine-750731.md#prompt)
+- [Distilbook product showreel](https://x.com/itisRazak/status/2103517930424332386) — @itisRazak · Claude Opus 5.5 · [Prompt](../prompts/itisrazak-332386.md#prompt)
+- [MotionSites AI launch milestone](https://x.com/viktoroddy/status/2103802280617402509) — @viktoroddy · Claude Opus 5.5 · [Prompt](../prompts/viktoroddy-402509.md#prompt)
+- [Chain pitch film](https://x.com/SPEARwtf/status/2103857153308029058) — @SPEARwtf · Claude Opus 5.5 · [Prompt](../prompts/spearwtf-029058.md#prompt)
+- [Brieform presentation film](https://x.com/MajorBaguette/status/2103849602826834228) — @MajorBaguette · Claude Opus 5.5 · [Prompt](../prompts/majorbaguette-834228.md#prompt)
+- [Quetzal launch showreel](https://x.com/miskinho_/status/2103847584531956105) — @miskinho_ · Claude Opus 5.5 · [Prompt](../prompts/miskinho-956105.md#prompt)
+- [Emotional app launch film](https://x.com/marklaunches/status/2103811146411041046) — @marklaunches · Claude Opus 5.5 · [Prompt](../prompts/marklaunches-041046.md#prompt)
+- [Email verification SaaS launch](https://x.com/KmAsiff/status/2103810247131549880) — @KmAsiff · Claude Opus 5.5 · [Prompt](../prompts/kmasiff-549880.md#prompt)
+- [AllInvestView platform reel](https://x.com/rammanq/status/2103788796022034553) — @rammanq · Claude Opus 5.5 · [Prompt](../prompts/rammanq-034553.md#prompt)
+- [Fast-paced app feature launch](https://x.com/RatheeJaisal/status/2103774864742154698) — @RatheeJaisal · Claude Opus 5.5 · [Prompt](../prompts/ratheejaisal-154698.md#prompt)
+- [Winkz Enterprises brand pitch](https://x.com/ceowinkz/status/2103647124126683602) — @ceowinkz · Claude Opus 5.5 · [Prompt](../prompts/ceowinkz-683602.md#prompt)
+- [Flowdrive motion showreel](https://x.com/manuelogomigo/status/2103614667038052364) — @manuelogomigo · Claude Opus 5.5 · [Prompt](../prompts/manuelogomigo-052364.md#prompt)
+- [Studio1 case-study launch reel](https://x.com/Astrodevil_/status/2103600734017392708) — @Astrodevil_ · Claude Opus 5.5 · [Prompt](../prompts/astrodevil-392708.md#prompt)
+- [Gene Spectra promo](https://x.com/madebyjmayala/status/2103578285892649220) — @madebyjmayala · Claude Opus 5.5 · [Prompt](../prompts/madebyjmayala-649220.md#prompt)
+- [Pictwin app ad in two prompts](https://x.com/l3d1c/status/2103536553930752011) — @l3d1c · Claude Opus 5.5 · [Prompt](../prompts/l3d1c-752011.md#prompt)
+- [Portfolio reel using its own assets](https://x.com/kikelopezdesign/status/2103527289619173471) — @kikelopezdesign · Claude Opus 5.5 · [Prompt](../prompts/kikelopezdesign-173471.md#prompt)
+- [Website showreel with original footage](https://x.com/andginja/status/2103492000733618685) — @andginja · Claude Opus 5.5 · [Prompt](../prompts/andginja-618685.md#prompt)
+- [Distilbook thirty-second explainer](https://x.com/sudo_kiran/status/2103486573476254201) — @sudo_kiran · Claude Opus 5.5 · [Prompt](../prompts/sudo-kiran-254201.md#prompt)
+
 
 <a id="motion-studies"></a>
 
@@ -44,6 +66,14 @@
 - [Title sequence for an imaginary thriller](https://x.com/abhinayguptha/status/2103565090721259981) — @abhinayguptha · Claude Opus 5.5 · [Prompt](../prompts/abhinayguptha-259981.md#prompt)
 - [Deterministic HTML animation with motion blur and generated sound](https://x.com/xelandre__/status/2103473030160687413) — @xelandre__ · Claude Opus 5.5 · [Prompt](../prompts/xelandre-687413.md#prompt)
 - [Motion designer centerpiece showreel](https://x.com/samuel_spitz/status/2103544855276503053) — @samuel_spitz · Claude Opus 5.5 · [Prompt](../prompts/samuel-spitz-503053.md#prompt)
+- [Poster breaking out of its frame](https://x.com/pankajkumar_dev/status/2103502614134718609) — @pankajkumar_dev · Claude Opus 5.5 · [Prompt](../prompts/pankajkumar-dev-718609.md#prompt)
+- [Talking-head edit with motion graphics](https://x.com/sab8a/status/2103144778481475686) — @sab8a · Claude Opus 5.5 · [Prompt](../prompts/sab8a-475686.md#prompt)
+- [Opus motion design challenge](https://x.com/zheke/status/2103418664854622583) — @zheke · Claude Opus 5.5 · [Prompt](../prompts/zheke-622583.md#prompt)
+- [Fifteen-second motion design study](https://x.com/ChatGptAstra/status/2103834787647807540) — @ChatGptAstra · Claude Opus 5.5 · [Prompt](../prompts/chatgptastra-807540.md#prompt)
+- [Opus introduces itself](https://x.com/1littlecoder/status/2103587706999914649) — @1littlecoder · Claude Opus 5.5 · [Prompt](../prompts/1littlecoder-914649.md#prompt)
+- [Self-promotion motion reel](https://x.com/slvDev/status/2103569170075975986) — @slvDev · Claude Opus 5.5 · [Prompt](../prompts/slvdev-975986.md#prompt)
+- [Code-made motion and sound reel](https://x.com/ghinaiya_nirmal/status/2103540656182308943) — @ghinaiya_nirmal · Claude Opus 5.5 · [Prompt](../prompts/ghinaiya-nirmal-308943.md#prompt)
+
 
 <a id="explainers-data"></a>
 
@@ -57,6 +87,13 @@
 - [Token bucket rate limiter on Canvas](https://x.com/ParkerRex/status/2103206747846701462) — @ParkerRex · Claude Opus 5.5 · [Prompt](../prompts/parkerrex-701462.md#prompt)
 - [How backlinks work for SEO](https://x.com/stewchan2/status/2103542568361369810) — @stewchan2 · Claude Opus 5.5 · [Prompt](../prompts/stewchan2-369810.md#prompt)
 - [LLM progress and capability timeline](https://x.com/nummanali/status/2103565570310340931) — @nummanali · Claude Opus 5.5 · [Prompt](../prompts/nummanali-340931.md#prompt)
+- [Derivative concepts with Manim and narration](https://x.com/LinearUncle/status/2103128559174971663) — @LinearUncle · Claude Opus 5.5 · [Prompt](../prompts/linearuncle-971663.md#prompt)
+- [Key moments in AI history](https://x.com/kloss_xyz/status/2103652674336067876) — @kloss_xyz · Claude Opus 5.5 · [Prompt](../prompts/kloss-xyz-067876.md#prompt)
+- [Inside an AI data centre](https://x.com/mdaman010/status/2103845689713111079) — @mdaman010 · Claude Opus 5.5 · [Prompt](../prompts/mdaman010-111079.md#prompt)
+- [Moroccan political history animation](https://x.com/TrigLyceee/status/2103804459986161719) — @TrigLyceee · Claude Opus 5.5 · [Prompt](../prompts/triglyceee-161719.md#prompt)
+- [Article-to-educational-video workflow](https://x.com/henkvaness/status/2103801351993975279) — @henkvaness · Claude Opus 5.5 · [Prompt](../prompts/henkvaness-975279.md#prompt)
+- [From the grid to AI silicon](https://x.com/Sayan_shanky/status/2103736579449868515) — @Sayan_shanky · Claude Opus 5.5 · [Prompt](../prompts/sayan-shanky-868515.md#prompt)
+
 
 <a id="characters-stories"></a>
 
@@ -68,6 +105,9 @@
 - [Human civilization hatches an AI](https://x.com/songkeys/status/2102743212922384673) — @songkeys · Claude Opus 5.5 · [Prompt](../prompts/songkeys-384673.md#prompt)
 - [The cycle of life as a seamless loop](https://x.com/loicRambo/status/2103428454355980558) — @loicRambo · Claude Opus 5.5 · [Prompt](../prompts/loicrambo-980558.md#prompt)
 - [Claude versus ChatGPT anime battle trailer](https://x.com/ishuagra02/status/2103247844542922825) — @ishuagra02 · Claude Opus 5.5 · [Prompt](../prompts/ishuagra02-922825.md#prompt)
+- [Ten-second personal portrait](https://x.com/Madhav_XO/status/2103605007396524440) — @Madhav_XO · Claude Opus 5.5 · [Prompt](../prompts/madhav-xo-524440.md#prompt)
+- [Comic-book motion with supplied assets](https://x.com/madpencil_/status/2103449418460753990) — @madpencil_ · Claude Opus 5.5 · [Prompt](../prompts/madpencil-753990.md#prompt)
+
 
 <a id="3d-simulations"></a>
 
@@ -97,3 +137,4 @@
 - [Pixel-art one-on-one card game](https://x.com/aisongman/status/2103763192971461057) — @aisongman · Claude Opus 5.5 · [Prompt](../prompts/aisongman-461057.md#prompt)
 - [Retro Three Kingdoms strategy game](https://x.com/opener_ai/status/2103437714695843891) — @opener_ai · Claude Opus 5.5 · [Prompt](../prompts/opener-ai-843891.md#prompt)
 - [Flashlight portfolio with warp transitions](https://x.com/KimiProduct/status/2016202580582707412) — @KimiProduct · Kimi K2.5 · [Prompt](../prompts/kimi-flashlight-portfolio.md#prompt)
+- [Walkable 3D pagoda](https://x.com/BuildFastWithAI/status/2103483174957597035) — @BuildFastWithAI · Claude Opus 5.5 · [Prompt](../prompts/buildfastwithai-597035.md#prompt)

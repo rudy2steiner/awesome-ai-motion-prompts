@@ -1,6 +1,6 @@
 # Awesome AI Motion Prompts
 
-**[43 Motions with Prompts](data/README.md)**
+**[80 Motions with Prompts](data/README.md)**
 
 English | [简体中文](README.zh-CN.md)
 
@@ -118,8 +118,12 @@ Featured: [@shneural](https://x.com/shneural/status/2103151003272962130) · [Pro
 
 [＋ Submit to this category](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L117) · [Full list](data/README.md#music-audiovisual)
 
-- [Lyrics synchronized to vocals and beats](https://x.com/samaote/status/2103510974796124569) — @samaote · Claude Opus 5.5 · [Prompt](prompts/samaote-124569.md#prompt)
-- [Retro pop music video with an original song](https://x.com/DavidShulmanFL/status/2103336310089842921) — @DavidShulmanFL · Claude Opus 5.5 · [Prompt](prompts/davidshulmanfl-842921.md#prompt)
+<table>
+<tr>
+<td width="33%" valign="top"><a href="prompts/samaote-124569.md"><img src="data/media/samaote-124569.gif" width="260" alt="Lyrics synchronized to vocals and beats" /></a><br><a href="prompts/samaote-124569.md"><b>Lyrics synchronized to vocals and beats</b></a><br><a href="https://x.com/samaote/status/2103510974796124569">@samaote</a> · <a href="prompts/samaote-124569.md#prompt">Prompt</a><br><sub>Claude Opus 5.5</sub></td>
+<td width="33%" valign="top"><a href="prompts/davidshulmanfl-842921.md"><img src="data/media/davidshulmanfl-842921.gif" width="260" alt="Retro pop music video with an original song" /></a><br><a href="prompts/davidshulmanfl-842921.md"><b>Retro pop music video with an original song</b></a><br><a href="https://x.com/DavidShulmanFL/status/2103336310089842921">@DavidShulmanFL</a> · <a href="prompts/davidshulmanfl-842921.md#prompt">Prompt</a><br><sub>Claude Opus 5.5</sub></td>
+</tr>
+</table>
 
 <!-- Add new Music & Audiovisual motions above this line. -->
 
@@ -127,7 +131,7 @@ Featured: [@shneural](https://x.com/shneural/status/2103151003272962130) · [Pro
 
 ## Interactive Experiences
 
-[＋ Submit to this category](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L128) · [Full list](data/README.md#interactive)
+[＋ Submit to this category](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L132) · [Full list](data/README.md#interactive)
 
 <table>
 <tr>

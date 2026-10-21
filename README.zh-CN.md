@@ -1,6 +1,6 @@
 # Awesome AI Motion Prompts
 
-**[43 个含提示词的动效作品](data/README.md)**
+**[80 个含提示词的动效作品](data/README.md)**
 
 [English](README.md) | 简体中文
 
@@ -120,8 +120,12 @@
 
 [＋ 向此分类投稿](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L117) · [完整清单](data/README.md#music-audiovisual)
 
-- [跟随人声与节拍的歌词动效](https://x.com/samaote/status/2103510974796124569) — @samaote · Claude Opus 5.5 · [提示词](prompts/samaote-124569.md#prompt)
-- [复古流行音乐短片与原创歌曲](https://x.com/DavidShulmanFL/status/2103336310089842921) — @DavidShulmanFL · Claude Opus 5.5 · [提示词](prompts/davidshulmanfl-842921.md#prompt)
+<table>
+<tr>
+<td width="33%" valign="top"><a href="prompts/samaote-124569.md"><img src="data/media/samaote-124569.gif" width="260" alt="跟随人声与节拍的歌词动效" /></a><br><a href="prompts/samaote-124569.md"><b>跟随人声与节拍的歌词动效</b></a><br><a href="https://x.com/samaote/status/2103510974796124569">@samaote</a> · <a href="prompts/samaote-124569.md#prompt">提示词</a><br><sub>Claude Opus 5.5</sub></td>
+<td width="33%" valign="top"><a href="prompts/davidshulmanfl-842921.md"><img src="data/media/davidshulmanfl-842921.gif" width="260" alt="复古流行音乐短片与原创歌曲" /></a><br><a href="prompts/davidshulmanfl-842921.md"><b>复古流行音乐短片与原创歌曲</b></a><br><a href="https://x.com/DavidShulmanFL/status/2103336310089842921">@DavidShulmanFL</a> · <a href="prompts/davidshulmanfl-842921.md#prompt">提示词</a><br><sub>Claude Opus 5.5</sub></td>
+</tr>
+</table>
 
 <!-- 在此行上方添加音乐与视听作品。 -->
 
@@ -129,7 +133,7 @@
 
 ## 交互体验
 
-[＋ 向此分类投稿](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L128) · [完整清单](data/README.md#interactive)
+[＋ 向此分类投稿](https://github.com/rudy2steiner/awesome-ai-motion-prompts/edit/main/README.md#L132) · [完整清单](data/README.md#interactive)
 
 <table>
 <tr>

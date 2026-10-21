@@ -1,14 +1,16 @@
 # Retro pop music video with an original song
 
+![Retro pop music video with an original song](../data/media/davidshulmanfl-842921.gif)
+
 [Original work](https://x.com/DavidShulmanFL/status/2103336310089842921) · [Prompt source](https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f/prompts/davidshulmanfl-842921.md)
 
 - **Creator:** @DavidShulmanFL
-- **Model:** Claude Opus 5.5 (directory_reported)
+- **Model:** Claude Opus 5.5 (author_claimed)
 - **Category:** music-audiovisual
 - **Reference assets required:** None specified; named artists are stylistic references
-- **Prompt status:** `upstream_full_text`
+- **Prompt status:** `original_post_text_matched`
 
-Prompt text preserved from the pinned upstream dataset. Completeness and model attribution follow the directory; original-post matching and playback quality are not independently verified.
+Full prompt and model claim read on the original X post. A three-second GIF excerpt and sampled frames were reviewed; the complete video has not been reviewed.
 
 ## Prompt
 
