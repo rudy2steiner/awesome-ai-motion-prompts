@@ -2,7 +2,7 @@
 
 ![Infinite zoom](../data/media/infinite-zoom.gif)
 
-[Full video online (optional)](https://www.open-prompts.com/motion-prompts/infinite-zoom) · [Original post](https://x.com/koldo2k/status/2103129343253778767)
+[Original video](https://x.com/koldo2k/status/2103129343253778767) · [Original post](https://x.com/koldo2k/status/2103129343253778767)
 
 - **Creator:** koldo2k
 - **Model:** Opus 5.5

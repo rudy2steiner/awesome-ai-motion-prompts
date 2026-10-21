@@ -2,7 +2,7 @@
 
 ![Starry Night cat-spotting game](../data/media/starry-night.gif)
 
-[Full video online (optional)](https://www.open-prompts.com/motion-prompts/starry-night) · [Original post](https://x.com/MandelDuck/status/2103802923465768972)
+[Original video](https://x.com/MandelDuck/status/2103802923465768972) · [Original post](https://x.com/MandelDuck/status/2103802923465768972)
 
 - **Creator:** MandelDuck
 - **Model:** Opus 5.5

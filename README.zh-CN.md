@@ -140,6 +140,6 @@
 
 ## 致谢
 
-由 [open-prompts.com](https://www.open-prompts.com/motion-prompts) 维护。参考了 [awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos), [guanmo-ai/awesome-ai-motion](https://github.com/guanmo-ai/awesome-ai-motion) 和 [gongnyang/awesome-ai-motion](https://github.com/gongnyang/awesome-ai-motion).
+由 open-prompts.com 维护。参考了 [awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos), [guanmo-ai/awesome-ai-motion](https://github.com/guanmo-ai/awesome-ai-motion) 和 [gongnyang/awesome-ai-motion](https://github.com/gongnyang/awesome-ai-motion).
 
 作品和提示词的权利归原作者所有。[署名与移除](CONTRIBUTING.zh-CN.md#credits-and-removals) · [来源核验](CONTRIBUTING.zh-CN.md#review) · [数据说明](CONTRIBUTING.zh-CN.md#for-maintainers)。

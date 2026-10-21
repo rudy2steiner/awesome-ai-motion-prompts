@@ -2,7 +2,7 @@
 
 ![Cinetic skill launch film](../data/media/cinetic.gif)
 
-[Full video online (optional)](https://www.open-prompts.com/motion-prompts/cinetic) · [Original post](https://x.com/LexnLin/status/2106891315371737480)
+[Original video](https://x.com/LexnLin/status/2106891315371737480) · [Original post](https://x.com/LexnLin/status/2106891315371737480)
 
 - **Creator:** LexnLin
 - **Model:** Opus 5.5

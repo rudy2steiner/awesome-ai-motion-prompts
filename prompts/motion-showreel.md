@@ -2,7 +2,7 @@
 
 ![Motion showreel](../data/media/motion-showreel.gif)
 
-[Full video online (optional)](https://www.open-prompts.com/motion-prompts/motion-showreel) · [Original post](https://x.com/prasenx/status/2103538744695693512)
+[Original video](https://x.com/prasenx/status/2103538744695693512) · [Original post](https://x.com/prasenx/status/2103538744695693512)
 
 - **Creator:** prasenx
 - **Model:** Opus 5.5

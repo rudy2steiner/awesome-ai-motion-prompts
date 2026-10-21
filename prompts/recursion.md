@@ -2,7 +2,7 @@
 
 ![Recursion explained in genres](../data/media/recursion.gif)
 
-[Full video online (optional)](https://www.open-prompts.com/motion-prompts/recursion) · [Original post](https://x.com/emollick/status/2103688362960019567)
+[Original video](https://x.com/emollick/status/2103688362960019567) · [Original post](https://x.com/emollick/status/2103688362960019567)
 
 - **Creator:** emollick
 - **Model:** Opus 5.5

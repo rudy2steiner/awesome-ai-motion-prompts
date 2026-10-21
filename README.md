@@ -138,6 +138,6 @@ Be the first to share a motion in this category.
 
 ## Credits
 
-Maintained by [open-prompts.com](https://www.open-prompts.com/motion-prompts). Inspired by [awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos), [guanmo-ai/awesome-ai-motion](https://github.com/guanmo-ai/awesome-ai-motion) and [gongnyang/awesome-ai-motion](https://github.com/gongnyang/awesome-ai-motion).
+Maintained by open-prompts.com. Inspired by [awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos), [guanmo-ai/awesome-ai-motion](https://github.com/guanmo-ai/awesome-ai-motion) and [gongnyang/awesome-ai-motion](https://github.com/gongnyang/awesome-ai-motion).
 
 Works and prompts belong to their creators. [Attribution & removals](CONTRIBUTING.md#credits-and-removals) · [Sources & verification](CONTRIBUTING.md#review) · [Data format](CONTRIBUTING.md#for-maintainers).

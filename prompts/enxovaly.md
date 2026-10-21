@@ -2,7 +2,7 @@
 
 ![Enxovaly baby app promo](../data/media/enxovaly.gif)
 
-[Full video online (optional)](https://www.open-prompts.com/motion-prompts/enxovaly) · [Original post](https://x.com/gabrielbuzziv/status/2103589440258187408)
+[Original video](https://x.com/gabrielbuzziv/status/2103589440258187408) · [Original post](https://x.com/gabrielbuzziv/status/2103589440258187408)
 
 - **Creator:** gabrielbuzziv
 - **Model:** Opus 5.5

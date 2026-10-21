@@ -2,7 +2,7 @@
 
 ![Photo print app launch film](../data/media/photo-print.gif)
 
-[Full video online (optional)](https://www.open-prompts.com/motion-prompts/photo-print) · [Original post](https://x.com/twoclipping/status/2103835273813496100)
+[Original video](https://x.com/twoclipping/status/2103835273813496100) · [Original post](https://x.com/twoclipping/status/2103835273813496100)
 
 - **Creator:** twoclipping
 - **Model:** Opus 5.5

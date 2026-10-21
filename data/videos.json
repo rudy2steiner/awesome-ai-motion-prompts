@@ -54,8 +54,7 @@
       "durationSeconds": 3,
       "fps": 10,
       "checkedAt": "2026-10-21"
-    },
-    "onlineUrl": "https://www.open-prompts.com/motion-prompts/kinetic-type"
+    }
   },
   {
     "id": "infinite-zoom",
@@ -113,8 +112,7 @@
       "durationSeconds": 3,
       "fps": 10,
       "checkedAt": "2026-10-21"
-    },
-    "onlineUrl": "https://www.open-prompts.com/motion-prompts/infinite-zoom"
+    }
   },
   {
     "id": "overthinking",
@@ -180,8 +178,7 @@
       "durationSeconds": 3,
       "fps": 10,
       "checkedAt": "2026-10-21"
-    },
-    "onlineUrl": "https://www.open-prompts.com/motion-prompts/overthinking"
+    }
   },
   {
     "id": "motion-showreel",
@@ -240,8 +237,7 @@
       "durationSeconds": 3,
       "fps": 10,
       "checkedAt": "2026-10-21"
-    },
-    "onlineUrl": "https://www.open-prompts.com/motion-prompts/motion-showreel"
+    }
   },
   {
     "id": "ui-morph",
@@ -309,8 +305,7 @@
       "durationSeconds": 3,
       "fps": 10,
       "checkedAt": "2026-10-21"
-    },
-    "onlineUrl": "https://www.open-prompts.com/motion-prompts/ui-morph"
+    }
   },
   {
     "id": "photo-print",
@@ -379,8 +374,7 @@
       "durationSeconds": 3,
       "fps": 10,
       "checkedAt": "2026-10-21"
-    },
-    "onlineUrl": "https://www.open-prompts.com/motion-prompts/photo-print"
+    }
   },
   {
     "id": "mathematics",
@@ -446,8 +440,7 @@
       "durationSeconds": 3,
       "fps": 10,
       "checkedAt": "2026-10-21"
-    },
-    "onlineUrl": "https://www.open-prompts.com/motion-prompts/mathematics"
+    }
   },
   {
     "id": "recursion",
@@ -504,8 +497,7 @@
       "durationSeconds": 3,
       "fps": 10,
       "checkedAt": "2026-10-21"
-    },
-    "onlineUrl": "https://www.open-prompts.com/motion-prompts/recursion"
+    }
   },
   {
     "id": "cinetic",
@@ -563,8 +555,7 @@
       "durationSeconds": 3,
       "fps": 10,
       "checkedAt": "2026-10-21"
-    },
-    "onlineUrl": "https://www.open-prompts.com/motion-prompts/cinetic"
+    }
   },
   {
     "id": "typingmind",
@@ -630,8 +621,7 @@
       "durationSeconds": 3,
       "fps": 10,
       "checkedAt": "2026-10-21"
-    },
-    "onlineUrl": "https://www.open-prompts.com/motion-prompts/typingmind"
+    }
   },
   {
     "id": "starry-night",
@@ -687,8 +677,7 @@
       "durationSeconds": 3,
       "fps": 10,
       "checkedAt": "2026-10-21"
-    },
-    "onlineUrl": "https://www.open-prompts.com/motion-prompts/starry-night"
+    }
   },
   {
     "id": "enxovaly",
@@ -754,8 +743,7 @@
       "durationSeconds": 3,
       "fps": 10,
       "checkedAt": "2026-10-21"
-    },
-    "onlineUrl": "https://www.open-prompts.com/motion-prompts/enxovaly"
+    }
   },
   {
     "id": "bold-type",
@@ -826,7 +814,6 @@
       "fps": 10,
       "checkedAt": "2026-10-21"
     },
-    "onlineUrl": "https://www.open-prompts.com/motion-prompts/bold-type",
     "hero": {
       "entryId": "bold-type",
       "author": "shneural",
@@ -837,7 +824,6 @@
       "durationSeconds": 4,
       "fps": 12,
       "width": 640,
-      "link": "https://www.open-prompts.com/motion-prompts",
       "note": "Animated excerpt of the first showreel in the comparison video; not the full comparison."
     }
   },
@@ -906,8 +892,7 @@
       "durationSeconds": 3,
       "fps": 10,
       "checkedAt": "2026-10-21"
-    },
-    "onlineUrl": "https://www.open-prompts.com/motion-prompts/particle-showreel"
+    }
   },
   {
     "id": "changelog-highlights",
