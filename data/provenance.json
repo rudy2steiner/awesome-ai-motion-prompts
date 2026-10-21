@@ -76,7 +76,16 @@
       },
       "notes": "Migrated from the existing open-prompts collection. Prompt text and original attribution are preserved; playback quality and model claims have not been independently reassessed.",
       "posterSourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103565216839602176/img/57KPQXjy3tJoHg0n.jpg",
-      "scope": "motion"
+      "scope": "motion",
+      "posterFrame": {
+        "id": "overthinking",
+        "timeSeconds": 5,
+        "video": "https://video.twimg.com/amplify_video/2103565216839602176/vid/avc1/720x1280/BVaEtJ4epEF6k7sv.mp4",
+        "sourceUrl": "https://x.com/gizakdag/status/2103566030916239768",
+        "poster": "/motion-posters/overthinking.webp",
+        "method": "video_frame_extraction",
+        "checkedAt": "2026-10-21"
+      }
     },
     "motion-showreel": {
       "models": [
@@ -127,7 +136,16 @@
       },
       "notes": "Migrated from the existing open-prompts collection. Prompt text and original attribution are preserved; playback quality and model claims have not been independently reassessed.",
       "posterSourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103272964967804928/img/DTuQzS4NOGKMbTDA.jpg",
-      "scope": "motion"
+      "scope": "motion",
+      "posterFrame": {
+        "id": "ui-morph",
+        "timeSeconds": 9,
+        "video": "https://video.twimg.com/amplify_video/2103272964967804928/vid/avc1/720x720/18beFxJGrO4tjaDQ.mp4",
+        "sourceUrl": "https://x.com/twoclipping/status/2103273003555402193",
+        "poster": "/motion-posters/ui-morph.webp",
+        "method": "video_frame_extraction",
+        "checkedAt": "2026-10-21"
+      }
     },
     "photo-print": {
       "models": [
@@ -152,7 +170,16 @@
       },
       "notes": "Migrated from the existing open-prompts collection. Prompt text and original attribution are preserved; playback quality and model claims have not been independently reassessed.",
       "posterSourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103830256347910144/img/YsUzKmE5XqGD9NZR.jpg",
-      "scope": "motion"
+      "scope": "motion",
+      "posterFrame": {
+        "id": "photo-print",
+        "timeSeconds": 9,
+        "video": "https://video.twimg.com/amplify_video/2103830256347910144/vid/avc1/720x720/5ECca-LUMDVtwt7a.mp4",
+        "sourceUrl": "https://x.com/twoclipping/status/2103835273813496100",
+        "poster": "/motion-posters/photo-print.webp",
+        "method": "video_frame_extraction",
+        "checkedAt": "2026-10-21"
+      }
     },
     "mathematics": {
       "models": [
@@ -177,7 +204,16 @@
       },
       "notes": "Migrated from the existing open-prompts collection. Prompt text and original attribution are preserved; playback quality and model claims have not been independently reassessed.",
       "posterSourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2104485588590280704/img/l16Si8KQjjtmHjaS.jpg",
-      "scope": "motion"
+      "scope": "motion",
+      "posterFrame": {
+        "id": "mathematics",
+        "timeSeconds": 11,
+        "video": "https://video.twimg.com/amplify_video/2104485588590280704/vid/avc1/1280x720/UN0_vD9WEQKmJB1H.mp4",
+        "sourceUrl": "https://x.com/Math_files/status/2104486181853610052",
+        "poster": "/motion-posters/mathematics.webp",
+        "method": "video_frame_extraction",
+        "checkedAt": "2026-10-21"
+      }
     },
     "recursion": {
       "models": [
@@ -252,7 +288,16 @@
       },
       "notes": "Migrated from the existing open-prompts collection. Prompt text and original attribution are preserved; playback quality and model claims have not been independently reassessed.",
       "posterSourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103703848015835136/img/Qy7eZ-z5vGDrSR1U.jpg",
-      "scope": "motion"
+      "scope": "motion",
+      "posterFrame": {
+        "id": "typingmind",
+        "timeSeconds": 18,
+        "video": "https://video.twimg.com/amplify_video/2103703848015835136/vid/avc1/1280x720/GlBriVishnQMcY9g.mp4",
+        "sourceUrl": "https://x.com/tdinh_me/status/2103704250329301409",
+        "poster": "/motion-posters/typingmind.webp",
+        "method": "video_frame_extraction",
+        "checkedAt": "2026-10-21"
+      }
     },
     "starry-night": {
       "models": [
@@ -302,7 +347,16 @@
       },
       "notes": "Migrated from the existing open-prompts collection. Prompt text and original attribution are preserved; playback quality and model claims have not been independently reassessed.",
       "posterSourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103589369307127808/img/Jc5YPX6S9hq4N3kr.jpg",
-      "scope": "motion"
+      "scope": "motion",
+      "posterFrame": {
+        "id": "enxovaly",
+        "timeSeconds": 7,
+        "video": "https://video.twimg.com/amplify_video/2103589369307127808/vid/avc1/1280x720/ru94M24D1mbIZMhM.mp4",
+        "sourceUrl": "https://x.com/gabrielbuzziv/status/2103589440258187408",
+        "poster": "/motion-posters/enxovaly.webp",
+        "method": "video_frame_extraction",
+        "checkedAt": "2026-10-21"
+      }
     },
     "bold-type": {
       "models": [
@@ -330,7 +384,16 @@
       "notes": "The original post compares Opus 5.5 and GPT-6 Astra using the same prompt. Do not attribute the entire comparison to Claude alone.",
       "posterSourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103149570440024064/img/QKgvRP_unggJVH6M.jpg",
       "scope": "motion",
-      "agent": "Claude Code / Codex (secondary-source attribution; not independently checked)"
+      "agent": "Claude Code / Codex (secondary-source attribution; not independently checked)",
+      "posterFrame": {
+        "id": "bold-type",
+        "timeSeconds": 9,
+        "video": "https://video.twimg.com/amplify_video/2103149570440024064/vid/avc1/1280x720/mlmcQzB4C3BEWPQS.mp4",
+        "sourceUrl": "https://x.com/shneural/status/2103151003272962130",
+        "poster": "/motion-posters/bold-type.webp",
+        "method": "video_frame_extraction",
+        "checkedAt": "2026-10-21"
+      }
     },
     "particle-showreel": {
       "models": [
@@ -355,7 +418,16 @@
       },
       "notes": "Migrated from the existing open-prompts collection. Prompt text and original attribution are preserved; playback quality and model claims have not been independently reassessed.",
       "posterSourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103494828042670081/img/udYQG9z20oKvfkp5.jpg",
-      "scope": "motion"
+      "scope": "motion",
+      "posterFrame": {
+        "id": "particle-showreel",
+        "timeSeconds": 3,
+        "video": "https://video.twimg.com/amplify_video/2103494828042670081/vid/avc1/1280x720/YvTsYCqOKw5N-ECI.mp4",
+        "sourceUrl": "https://x.com/himanshutwtxs/status/2103495232637882858",
+        "poster": "/motion-posters/particle-showreel.webp",
+        "method": "video_frame_extraction",
+        "checkedAt": "2026-10-21"
+      }
     },
     "changelog-highlights": {
       "aspectRatio": [
@@ -423,7 +495,16 @@
         "collectedAt": "2026-10-20T17:25:04.908154+00:00"
       },
       "scope": "motion",
-      "notes": "The post names Claude Opus 5.5 and publishes the prompt. The author does not name the renderer; the old candidate title mentioning Remotion was corrected."
+      "notes": "The post names Claude Opus 5.5 and publishes the prompt. The author does not name the renderer; the old candidate title mentioning Remotion was corrected.",
+      "posterFrame": {
+        "id": "ajith-showreel",
+        "timeSeconds": 9,
+        "video": "https://video.twimg.com/amplify_video/2103449259869863936/vid/avc1/1280x720/JPFTTGgTObPSPXKM.mp4",
+        "sourceUrl": "https://x.com/ajith_io/status/2103449416325890146",
+        "poster": "/motion-posters/2103449416325890146.webp",
+        "method": "video_frame_extraction",
+        "checkedAt": "2026-10-21"
+      }
     }
   }
 }
