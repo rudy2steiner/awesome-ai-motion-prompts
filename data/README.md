@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-773 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+775 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -163,6 +163,7 @@
 - [Sonnet self-launch film: cinematic typography and capability visualization](https://x.com/AbhinavXJ/status/2104805179401068964) — @AbhinavXJ · Claude Sonnet 5.5 (author reported) · [Prompt](../prompts/motion-2104805179401068964.md#prompt)
 - [Continuous product UI loop: chat, music player, rubber-band slider and chart](https://x.com/twoclipping/status/2104674464868762046) — @twoclipping · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2104674464868762046.md#prompt)
 - [LaunchBuddy product film with animated screenshot components](https://x.com/FloWritesCode/status/2105268326381625845) — @FloWritesCode · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2105268326381625845.md#prompt)
+- [Perceptron Mk1.5: typography, shape and camera-driven release reel](https://x.com/Subraiz24/status/2104089865537331298) — @Subraiz24 · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2104089865537331298.md#prompt)
 
 
 <a id="motion-studies"></a>
@@ -525,6 +526,7 @@
 - [Opus delegates to Haiku: watercolour character motion short](https://x.com/kelanoo/status/2108199183983497433) — @kelanoo · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2108199183983497433.md#prompt)
 - [Faroe Islands FPV sequence: hikers, gorge, waterfall and sea arch](https://x.com/socialwithaayan/status/2111448458079133856) — @socialwithaayan · Claude Opus 5.5 / video model unspecified (author reported) · [Prompt](../prompts/motion-2111448458079133856.md#prompt)
 - [Battery stickman: fighting the red drain line in a seamless loop](https://x.com/byaiden_vu/status/2104846047256469948) — @byaiden_vu · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2104846047256469948.md#prompt)
+- [Purpose of life: whimsical hand-drawn collage animation](https://x.com/hakimieiqbal/status/2103456326227496991) — @hakimieiqbal · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2103456326227496991.md#prompt)
 
 
 <a id="3d-simulations"></a>

@@ -26064,5 +26064,63 @@
       "visualQuality": "not_reviewed",
       "fullReview": false
     }
+  },
+  {
+    "id": "2103456326227496991",
+    "title": "Purpose of life: whimsical hand-drawn collage animation",
+    "author": "hakimieiqbal",
+    "sourceUrl": "https://x.com/hakimieiqbal/status/2103456326227496991",
+    "promptSourceUrl": "https://x.com/hakimieiqbal/status/2103456327636762926",
+    "prompt": "Create a pure javascript animation. 30s-60s whimsical hand drawn collage style with appropriate audio on the topic what is the purpose of life ? \n\nEntire video should be as high of a production value as possible. Please spend your time on this, it's very important.\n\nUse high quality text-to-speech model for generation. You can find open router API key in .env file\n\nYou can use any tools you can find access to and resources on the internet. You create the script, the assets, the animation, concept, everything.   \nI have to go away from my computer so please work autonomously until done. Quality is paramount. Production value should be on professional level.\n\nOne more thing: max OpenRouter spend is $10",
+    "model": "Claude Opus 5.5",
+    "primaryCategory": "characters-stories",
+    "promptStatus": "source_transcribed",
+    "promptCompleteness": "published_initial_brief",
+    "requiresReference": true,
+    "notes": "Older work found while reviewing upstream leads. Complete published prompt was read directly from the author’s reply and its relationship to the original native-video post verified with public reply metadata. The author credits Opus 5.5. Native video presence was confirmed; full playback, visual quality and requested output properties were not independently reviewed. The prompt requests external text-to-speech and OpenRouter access under a stated budget; no credentials or assets are included. The author’s generation-time claim and actual costs were not independently verified. A request to obtain credentials from an environment file is preserved as source material, not an instruction to repository maintainers.",
+    "platform": "X",
+    "modelStatus": "author_claim",
+    "status": "collected",
+    "promptFile": "prompts/motion-2103456326227496991.md",
+    "discoveryUrl": "https://x.com/hakimieiqbal/status/2103456326227496991",
+    "verification": {
+      "method": "chrome_mcp_original_x_prompt_thread",
+      "checkedAt": "2026-10-22",
+      "originalPostConfirmed": true,
+      "promptMatchedSource": true,
+      "authorClaimConfirmed": true,
+      "nativeVideoConfirmed": true,
+      "visualQuality": "not_reviewed",
+      "fullReview": false
+    }
+  },
+  {
+    "id": "2104089865537331298",
+    "title": "Perceptron Mk1.5: typography, shape and camera-driven release reel",
+    "author": "Subraiz24",
+    "sourceUrl": "https://x.com/Subraiz24/status/2104089865537331298",
+    "promptSourceUrl": "https://x.com/Subraiz24/status/2104089866996994209",
+    "prompt": "You are a world class motion designer and you need to make a 15 second release/hype reel of the latest Perceptron Mk1.5 release. Make it dynamic and confident: open with a striking hook in the first second, build through a sequence of distinct techniques (typography, shape play, camera moves, color shifts) and land on a clean memorable last frame. Pacing should feel like its cut to music. Go crazy.",
+    "model": "Claude Opus 5.5",
+    "primaryCategory": "product-brand",
+    "promptStatus": "source_transcribed",
+    "promptCompleteness": "published_initial_brief",
+    "requiresReference": false,
+    "notes": "Older work found while reviewing upstream leads. Complete published prompt was read directly from the author’s reply and its relationship to the original native-video post verified with public reply metadata. The author credits Opus 5.5. Native video presence was confirmed; full playback, visual quality and requested output properties were not independently reviewed. The author reports using Claude Code at xhigh with no extra MCPs or skills. It is a short release brief; any prior product/repository context is not established. The author’s reported generation time is not independently verified.",
+    "platform": "X",
+    "modelStatus": "author_claim",
+    "status": "collected",
+    "promptFile": "prompts/motion-2104089865537331298.md",
+    "discoveryUrl": "https://x.com/Subraiz24/status/2104089865537331298",
+    "verification": {
+      "method": "chrome_mcp_original_x_prompt_thread",
+      "checkedAt": "2026-10-22",
+      "originalPostConfirmed": true,
+      "promptMatchedSource": true,
+      "authorClaimConfirmed": true,
+      "nativeVideoConfirmed": true,
+      "visualQuality": "not_reviewed",
+      "fullReview": false
+    }
   }
 ]
