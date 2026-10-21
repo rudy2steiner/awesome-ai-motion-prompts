@@ -6,7 +6,7 @@ A multi-model, web-wide collection of AI motion graphics, animation and interact
 
 [Browse prompts](#prompt-library) · [Candidate queue](docs/CANDIDATES.md) · [Data format](docs/DATA_FORMAT.md) · [Contribute](CONTRIBUTING.md)
 
-**16 importable records · 203 research candidates**
+**16 importable records · 339 research candidates**
 
 ## Scope
 

@@ -207,3 +207,139 @@ Discovery leads are not recommendations or verified full prompts. Existing X met
 | [Atomik 33-second launch film](https://x.com/makwanatejas170/status/2096555742597988400) | GPT-6 Astra | X | not_collected |
 | [Glassmorphism UI launch loop](https://x.com/liu8in/status/2048901306153332802) | GPT（版本未说明） | X | published_link |
 | [Espresso product ad: reference to storyboard](https://x.com/PrajwalTomar_/status/2100926059218870580) | GPT-6 Astra | X | published_link |
+| [Remake of the 'Claude Pop' music video](https://x.com/donaldjewkes/status/2102801274173587569) | opus-5.5 | X | source_link_unverified |
+| [Interactive camera focus lens lab](https://x.com/RyanSael/status/2102591147927654847) | opus-5.5 | X | source_link_unverified |
+| [Buildable life-size LEGO duck design](https://x.com/victormustar/status/2103110908444631120) | opus-5.5 | X | source_link_unverified |
+| [Human progress to future animated film](https://x.com/imjustnewatai/status/2106081142143168580) | fable-5.5 | X | source_link_unverified |
+| [Interactive Raptor 3 rocket engine explainer](https://x.com/konstantinsaifo/status/2104094723887501736) | opus-5.5 | X | source_link_unverified |
+| [AI inference startup launch video](https://x.com/deedydas/status/2102787937482252537) | opus-5.5 | X | source_link_unverified |
+| [AI documentary about superintelligence](https://x.com/gavinpurcell/status/2103304514329854102) | opus-5.5 | X | source_link_unverified |
+| [Pixel art neural network training animation](https://x.com/DotCSV/status/2102737776219168939) | opus-5.5 | X | source_link_unverified |
+| [Zoomable app architecture canvas](https://x.com/robinebers/status/2105309987983745060) | opus-5.5 | X | source_link_unverified |
+| [Bach-style fugue composition](https://x.com/aug5thmusic/status/2102758849619062796) | opus-5.5 | X | source_link_unverified |
+| [Character builder with sliders demo](https://x.com/magnific/status/2104587476014964879) | opus-5.5 | X | source_link_unverified |
+| [Apple HomeView mock commercial](https://x.com/kevin_t_ngo/status/2110722582689546297) | opus-5.5 | X | source_link_unverified |
+| ['What is a Transformer' explainer video](https://x.com/dotey/status/2103683057689522564) | opus-5.5 | X | source_link_unverified |
+| [History of AI documentary short film](https://x.com/kimmonismus/status/2102844654169575547) | opus-5.5 | X | source_link_unverified |
+| [Hour-by-hour simulation of Singapore occupying Batam](https://x.com/hanifproduktif/status/2109572982444265656) | opus-5.5 | X | source_link_unverified |
+| [History of chips explainer video](https://x.com/vctbtc/status/2104081525847605709) | opus-5.5 | X | source_link_unverified |
+| [Fast-Paced Brand Advertisement](https://x.com/LexnLin/status/2106101651010449796) | opus-5.5 | X | source_link_unverified |
+| [Personal website redesign trailer](https://x.com/trq212/status/2102477340920152162) | opus-5.5 | X | source_link_unverified |
+| [Punchy ad video from a marketing email](https://x.com/gastypm/status/2102863204472799549) | opus-5.5 | X | source_link_unverified |
+| [AI streamer system built for virtual broadcasting](https://x.com/manaimovie/status/2104008163561451923) | opus-5.5 | X | source_link_unverified |
+| [One-prompt SaaS launch video](https://x.com/moritzkremb/status/2103066071838466494) | opus-5.5 | X | source_link_unverified |
+| [History of Claude model releases explainer](https://x.com/superalesha/status/2102463796149440888) | opus-5.5 | X | source_link_unverified |
+| [3D gym equipment builder app](https://x.com/wesbos/status/2102450119975277027) | opus-5.5 | X | source_link_unverified |
+| [Working computer built from logic gates with OS](https://x.com/mattshumer_/status/2104301990985498783) | opus-5.5 | X | source_link_unverified |
+| [Automated branded video edit with voice sync](https://x.com/Aykutuces/status/2110019799342260630) | opus-5.5 | X | source_link_unverified |
+| [America-focused civilization documentary](https://x.com/frontierism/status/2103738204411379949) | opus-5.5 | X | source_link_unverified |
+| [Atmospheric circulation geography explainer](https://x.com/akokoi1/status/2102606609574941028) | opus-5.5 | X | source_link_unverified |
+| [Animated cycloid lesson](https://x.com/AIMevzulari/status/2106052083040256293) | opus-5.5 | X | source_link_unverified |
+| [Interactive caching code explainer](https://x.com/BHolmesDev/status/2106829942206173497) | opus-5.5 | X | source_link_unverified |
+| [Zoom journey from a cell to quantum fields](https://x.com/paraschopra/status/2103099756167991347) | opus-5.5 | X | source_link_unverified |
+| [5000 years of Chinese history recap video](https://x.com/akokoi1/status/2102583898865873225) | opus-5.5 | X | source_link_unverified |
+| [Indian civilization history video](https://x.com/rashem48/status/2103850664007028964) | opus-5.5 | X | source_link_unverified |
+| [Autonomous 3D printer bed-clearing solution](https://x.com/mattshumer_/status/2104777202684301750) | opus-5.5 | X | source_link_unverified |
+| [Anime-style explainer remix video](https://x.com/emollick/status/2103272686570918334) | opus-5.5 | X | source_link_unverified |
+| [3D narrated IKEA assembly instructional video](https://x.com/deedydas/status/2103174501345493197) | opus-5.5 | X | source_link_unverified |
+| [Talking-head video edited into a motion-graphics cut](https://x.com/condzxyz/status/2109454493415023080) | opus-5.5 | X | source_link_unverified |
+| [Promotional video for a Roblox game](https://x.com/dataX_e/status/2104967024812118196) | opus-5.5 | X | source_link_unverified |
+| [AI-edited talking-head video](https://x.com/sab8a/status/2103144778481475686) | opus-5.5 | X | source_link_unverified |
+| [Volcano explainer video for kids](https://x.com/nishanthps/status/2103272493658353765) | opus-5.5 | X | source_link_unverified |
+| [Bass music generated with code](https://x.com/aj_dev_smith/status/2102504509637587339) | opus-5.5 | X | source_link_unverified |
+| [Bilingual Gossip Video](https://x.com/dotey/status/2106144184449085474) | opus-5.5 | X | source_link_unverified |
+| [iPhone Duo app redesign demo video](https://x.com/anshuc/status/2103598854801084824) | opus-5.5 | X | source_link_unverified |
+| [Multiple app design variations demo](https://x.com/heycape_/status/2102671212598132975) | opus-5.5 | X | source_link_unverified |
+| [AI pipeline short video with Opus 5.5](https://x.com/AIWarper/status/2105370568178479476) | opus-5.5 | X | source_link_unverified |
+| [Launch film for a web product](https://x.com/nikhilbhima/status/2109019765134213540) | opus-5.5 | X | source_link_unverified |
+| [Talking-head video converted to line-art B-roll](https://x.com/AxtonLiu/status/2102827887732932956) | opus-5.5 | X | source_link_unverified |
+| [Product promo video in two aspect ratios](https://x.com/aiwarts/status/2103419586964316483) | opus-5.5 | X | source_link_unverified |
+| [Opus 5.5 plus Gemini TTS demo](https://x.com/YoheiN2023/status/2103590367518171295) | opus-5.5 | X | source_link_unverified |
+| [Wrapscribe product video](https://x.com/shribuilds/status/2102827288190689364) | opus-5.5 | X | source_link_unverified |
+| [Netflix-style explainer reel about El Nino](https://x.com/hanifproduktif/status/2103656501579862155) | opus-5.5 | X | source_link_unverified |
+| [Looping product launch motion template](https://x.com/twoclipping/status/2105927781678747965) | opus-5.5 | X | source_link_unverified |
+| [Password vs passkey interactive explainer](https://x.com/Tz_2022/status/2102838830285898214) | opus-5.5 | X | source_link_unverified |
+| [Nobel Prize science explainer video](https://x.com/KeWai386772/status/2108143447496679553) | opus-5.5 | X | source_link_unverified |
+| [Manim derivative concept teaching video](https://x.com/LinearUncle/status/2103128559174971663) | opus-5.5 | X | source_link_unverified |
+| [Doc-to-video explainer (Open Alignment)](https://x.com/Thom_Wolf/status/2103545533474206118) | opus-5.5 | X | source_link_unverified |
+| [Software intro video generated from codebase](https://x.com/gesoikuo3/status/2103723885204254734) | opus-5.5 | X | source_link_unverified |
+| [YTP-style Sam Altman parody video](https://x.com/JaydenDavisNC/status/2109764557308592537) | opus-5.5 | X | source_link_unverified |
+| [Lightspark product promo video](https://x.com/davidmarcus/status/2103275618045686217) | opus-5.5 | X | source_link_unverified |
+| [Live calendar dashboard](https://x.com/_insan18/status/2106268513644273809) | opus-5.5 | X | source_link_unverified |
+| [Escape-room game intro video](https://x.com/moya_vc/status/2103681038862147977) | opus-5.5 | X | source_link_unverified |
+| [Code-generated pixel art life story film](https://x.com/twoclipping/status/2107822293653041659) | opus-5.5 | X | source_link_unverified |
+| [Cinematic product launch film](https://x.com/AbhinavXJ/status/2104805179401068964) | sonnet-5.5 | X | source_link_unverified |
+| [Epic documentary: History of Chinese Civilization](https://x.com/dotey/status/2103964025683927166) | opus-5.5 | X | source_link_unverified |
+| [Civilization history animated film](https://x.com/ziwenxu_/status/2105983571848741045) | fable-5.5 | X | source_link_unverified |
+| [Interactive 5-axis CNC machine explainer](https://x.com/konstantinsaifo/status/2104963500988916032) | opus-5.5 | X | source_link_unverified |
+| [Promotional travel video about Poland](https://x.com/KinasRemek/status/2102728913579327722) | opus-5.5 | X | source_link_unverified |
+| [Common video editing effects showcase](https://x.com/liu8in/status/2111678979413598560) | opus-5.5 | X | source_link_unverified |
+| [AI-edited travel vlog](https://x.com/dashiAIxz/status/2106091485125091695) | opus-5.5 | X | source_link_unverified |
+| [Consciousness tests reenacted](https://x.com/VoidStateKate/status/2106848736609808531) | opus-5.5 | X | source_link_unverified |
+| [Pig Love Notes: An Animated App Promo](https://x.com/jackfriks/status/2103132260589338762) | opus-5.5 | X | source_link_unverified |
+| [Gmail features explainer short](https://x.com/ClaudeCode_UT/status/2106958663525314769) | opus-5.5 | X | source_link_unverified |
+| [Liquid glass web hero section](https://x.com/viktoroddy/status/2106061619176620344) | opus-5.5 | X | source_link_unverified |
+| [Tesla Roadster promo video](https://x.com/ozansihay/status/2111333150018171231) | opus-5.5 | X | source_link_unverified |
+| [One-prompt motion graphic from codebase](https://x.com/FloWritesCode/status/2105268326381625845) | opus-5.5 | X | source_link_unverified |
+| [Toddler relatable moments short video](https://x.com/hoko525/status/2110292964270608425) | opus-5.5 | X | source_link_unverified |
+| [Explainer video of 9 football rules](https://x.com/lukasersil/status/2105922894924501283) | opus-5.5 | X | source_link_unverified |
+| [Animated pelican explains a shell command](https://x.com/goodside/status/2103149526244618682) | opus-5.5 | X | source_link_unverified |
+| [Code-based UI motion design loop](https://x.com/0xAiky/status/2111814234090693110) | opus-5.5 | X | source_link_unverified |
+| [Fishing game trailer made in Blender](https://x.com/Blushneyy/status/2108644023330390194) | opus-5.5 | X | source_link_unverified |
+| [Video editor automation via AI control](https://x.com/FantasistaAI/status/2103117722741854377) | opus-5.5 | X | source_link_unverified |
+| [Zero-shot documentary on Jewish history](https://x.com/eranshir/status/2103564391170089429) | opus-5.5 | X | source_link_unverified |
+| [Behind-the-scenes of a code-rendered video](https://x.com/konmari_tweet/status/2103846791976513981) | opus-5.5 | X | source_link_unverified |
+| [Wordless animation on AI misconceptions](https://x.com/TheSpacerr/status/2105253140765479341) | sonnet-5.5 | X | source_link_unverified |
+| [Recreated Apple 'Wonderful Tools' animation](https://x.com/DavidKPiano/status/2103555549929566323) | opus-5.5 | X | source_link_unverified |
+| [3Blue1Brown-style explainer of the attention mechanism](https://x.com/Michaelzsguo/status/2103433947040415996) | opus-5.5 | X | source_link_unverified |
+| [3Blue1Brown-style paper explainer animations](https://x.com/BrianCChao/status/2103553398738219450) | opus-5.5 | X | source_link_unverified |
+| [AI-composed Baroque trio sonata](https://x.com/aug5thmusic/status/2103549625076752493) | opus-5.5 | X | source_link_unverified |
+| [Interactive music system demo](https://x.com/kyubuns/status/2111453039228043604) | opus-5.5 | X | source_link_unverified |
+| [History of AI animated timeline video](https://x.com/kloss_xyz/status/2103652674336067876) | opus-5.5 | X | source_link_unverified |
+| [Personalized style showcase animation](https://x.com/promptowy/status/2103555455700336882) | opus-5.5 | X | source_link_unverified |
+| [Promo video for a science-based book](https://x.com/M_Adrian2/status/2103904736160120935) | opus-5.5 | X | source_link_unverified |
+| [Tesla Roadster explainer video](https://x.com/KeWai386772/status/2111440772998599022) | opus-5.5 | X | source_link_unverified |
+| [History of Indonesia animated documentary](https://x.com/sonnylazuardi/status/2103511590884815282) | opus-5.5 | X | source_link_unverified |
+| [MotionSites AI launch video](https://x.com/viktoroddy/status/2103802280617402509) | opus-5.5 | X | source_link_unverified |
+| [15-second motion designer showreel by @tequilafunks](https://x.com/tequilafunks/status/2103528644828127728) | opus-5.5 | X | source_link_unverified |
+| [Motion designer showreel with custom brand kit](https://x.com/lukasersil/status/2103742861971726495) | opus-5.5 | X | source_link_unverified |
+| [Interactive frontend artifact](https://x.com/LexnLin/status/2106843514772639995) | opus-5.5 | X | source_link_unverified |
+| [F1 livery customizer built with Opus 5.5](https://x.com/RyanSael/status/2110038561127014418) | opus-5.5 | X | source_link_unverified |
+| [Motion graphic video made from GrotBot icon collection](https://x.com/Multi_Serio_Ai/status/2105722219892789560) | opus-5.5 | X | source_link_unverified |
+| [Interactive wind tunnel lift explainer](https://x.com/konstantinsaifo/status/2109595253879816337) | opus-5.5 | X | source_link_unverified |
+| [Unofficial Tesla Roadster commercial](https://x.com/kevin_t_ngo/status/2111887585639624828) | opus-5.5 | X | source_link_unverified |
+| [Explainer animation about Claude usage workflows](https://x.com/daniel_mac8/status/2103666105461924131) | opus-5.5 | X | source_link_unverified |
+| [PR video generated via a prompt with image gathering](https://x.com/hituji_1234/status/2102634536660316557) | opus-5.5 | X | source_link_unverified |
+| [Obsidian introduction video](https://x.com/pkm_tk111/status/2103521677259026878) | opus-5.5 | X | source_link_unverified |
+| [History of gas turbines explainer](https://x.com/Xaraphim/status/2103576037426917779) | opus-5.5 | X | source_link_unverified |
+| [1-minute AI capability explainer video](https://x.com/showheyohtaki/status/2103552919249563691) | opus-5.5 | X | source_link_unverified |
+| [Explainer on personal benchmarks](https://x.com/danshipper/status/2103678798827020298) | opus-5.5 | X | source_link_unverified |
+| [Brand motion showreel from a reference video](https://x.com/ajith_io/status/2103541149709615243) | opus-5.5 | X | source_link_unverified |
+| [Earth's dinosaur-to-Jomon-era explainer](https://x.com/mellow_neet2000/status/2103487198758834408) | opus-5.5 | X | source_link_unverified |
+| [Code-generated music video](https://x.com/kloss_xyz/status/2112006151885705553) | opus-5.5 | X | source_link_unverified |
+| [Sleepy shiba animation with a butterfly](https://x.com/higgsfield_ai/status/2103871484385284123) | opus-5.5 | X | source_link_unverified |
+| [Rebuilt space-time VFX shot through a cafe window](https://x.com/higgsfield_ai/status/2102600213361983655) | opus-5.5 | X | source_link_unverified |
+| [SuperX MCP replies recap video](https://x.com/robj3d3/status/2103949734520279060) | opus-5.5 | X | source_link_unverified |
+| [AI-generated animated video demo](https://x.com/vibecodingth/status/2105279421435572498) | opus-5.5 | X | source_link_unverified |
+| [Launch motion video for mounis.app](https://x.com/MustaphaFenzar/status/2103708363074973906) | opus-5.5 | X | source_link_unverified |
+| [15-second intro to NISHIO Hirokazu's work](https://x.com/nishio/status/2103467539485671862) | opus-5.5 | X | source_link_unverified |
+| [Resume-based motion graphics showreel](https://x.com/vedolos/status/2103520155640938565) | opus-5.5 | X | source_link_unverified |
+| [Bitcoin-themed video edit made in code](https://x.com/skwp/status/2103093628230873415) | opus-5.5 | X | source_link_unverified |
+| [Vertical 15-second showreel with self-made sound and beat](https://x.com/lemcosmos/status/2103627106240602357) | opus-5.5 | X | source_link_unverified |
+| [Tester's attempt at the viral showreel prompt](https://x.com/codeSTACKr/status/2103656229717328129) | opus-5.5 | X | source_link_unverified |
+| [Hot vs cold crypto wallet explainer](https://x.com/sergitosergito/status/2103835390998388796) | opus-5.5 | X | source_link_unverified |
+| [Documentary opening titles about Bitcoin](https://x.com/cyrilXBT/status/2103677214135124053) | opus-5.5 | X | source_link_unverified |
+| [Auto-annotated baseball broadcast clip](https://x.com/SamEhrlich/status/2105756189934141646) | opus-5.5 | X | source_link_unverified |
+| [USDai product assembly line demo](https://x.com/0xZergs/status/2109609404450607352) | opus-5.5 | X | source_link_unverified |
+| [Claude introduction video](https://x.com/devteamdrew/status/2106155815707021549) | fable-5.5 | X | source_link_unverified |
+| [Chaotic brain-rot style motion video](https://x.com/kloss_xyz/status/2103664956482941143) | opus-5.5 | X | source_link_unverified |
+| [Motion showreel from the Japanese version of the viral prompt](https://x.com/MatoToushi/status/2103484692997804334) | opus-5.5 | X | source_link_unverified |
+| [Article-to-video generation for social posting](https://x.com/affnom_y/status/2103722878697083380) | opus-5.5 | X | source_link_unverified |
+| [Self-introduction video with music](https://x.com/mattn_jp/status/2103491383554445613) | opus-5.5 | X | source_link_unverified |
+| [App promotional video before launch](https://x.com/yayoi_threee/status/2103106389489127504) | opus-5.5 | X | source_link_unverified |
+| [Water cycle looping animation](https://x.com/higgsfield_ai/status/2102781807179735211) | opus-5.5 | X | source_link_unverified |
+| [15-second persuasive explainer on ending the Fed](https://x.com/cboyack/status/2103617085402407181) | opus-5.5 | X | source_link_unverified |
+| [Funny face photos animated with code](https://x.com/jAlpha_create/status/2103787665569272247) | opus-5.5 | X | source_link_unverified |
+| [PayBox logo brand-sting animation](https://x.com/0xValure/status/2103603025579331584) | opus-5.5 | X | source_link_unverified |
+| [Channel intro video edited from clips](https://x.com/kazunoko575/status/2103390803192352888) | opus-5.5 | X | source_link_unverified |
+| [Fifteen-second motion graphics showreel](https://x.com/AntSeed/status/2104659402007703925) | sonnet-5.5 | X | source_link_unverified |

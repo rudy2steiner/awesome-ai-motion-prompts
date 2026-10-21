@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "collectedAt": "2026-10-21",
-  "count": 203,
+  "count": 339,
   "scope": "Multi-model motion discovery queue; incomplete records are not page-ready MotionEntry objects.",
   "cases": [
     {
@@ -8709,6 +8709,4766 @@
       },
       "modelStatus": "author_reported",
       "notes": "Author describes ChatGPT directing Higgsfield through reference analysis, storyboards and multiple renders. The author also reports product drift. This is a directed video-generation workflow, not exclusively code-rendered motion."
+    },
+    {
+      "id": "2102801274173587569",
+      "title": "Remake of the 'Claude Pop' music video",
+      "author": "donaldjewkes",
+      "sourceUrl": "https://x.com/donaldjewkes/status/2102801274173587569",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Music"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/donaldjewkes/status/2102801469976248500",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "full",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "production",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2102591147927654847",
+      "title": "Interactive camera focus lens lab",
+      "author": "RyanSael",
+      "sourceUrl": "https://x.com/RyanSael/status/2102591147927654847",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Diagrams"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/RyanSael/status/2102591147927654847",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "education",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103110908444631120",
+      "title": "Buildable life-size LEGO duck design",
+      "author": "victormustar",
+      "sourceUrl": "https://x.com/victormustar/status/2103110908444631120",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Product UI"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/victormustar/status/2103110908444631120",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "product",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2106081142143168580",
+      "title": "Human progress to future animated film",
+      "author": "imjustnewatai",
+      "sourceUrl": "https://x.com/imjustnewatai/status/2106081142143168580",
+      "platform": "X",
+      "model": "fable-5.5",
+      "models": [
+        "fable-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Diagrams"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/imjustnewatai/status/2106081142143168580",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "education",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2104094723887501736",
+      "title": "Interactive Raptor 3 rocket engine explainer",
+      "author": "konstantinsaifo",
+      "sourceUrl": "https://x.com/konstantinsaifo/status/2104094723887501736",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Diagrams"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/konstantinsaifo/status/2104094723887501736",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "education",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2102787937482252537",
+      "title": "AI inference startup launch video",
+      "author": "deedydas",
+      "sourceUrl": "https://x.com/deedydas/status/2102787937482252537",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Product UI"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/deedydas/status/2102787937482252537",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "product",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103304514329854102",
+      "title": "AI documentary about superintelligence",
+      "author": "gavinpurcell",
+      "sourceUrl": "https://x.com/gavinpurcell/status/2103304514329854102",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Diagrams"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/gavinpurcell/status/2103306267209142604",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "full",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "education",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2102737776219168939",
+      "title": "Pixel art neural network training animation",
+      "author": "DotCSV",
+      "sourceUrl": "https://x.com/DotCSV/status/2102737776219168939",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Diagrams"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/DotCSV/status/2102737776219168939",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "education",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2105309987983745060",
+      "title": "Zoomable app architecture canvas",
+      "author": "robinebers",
+      "sourceUrl": "https://x.com/robinebers/status/2105309987983745060",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Diagrams"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/robinebers/status/2105309990835933399",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "full",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "education",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2102758849619062796",
+      "title": "Bach-style fugue composition",
+      "author": "aug5thmusic",
+      "sourceUrl": "https://x.com/aug5thmusic/status/2102758849619062796",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Music"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/aug5thmusic/status/2102759367955427692",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "production",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2104587476014964879",
+      "title": "Character builder with sliders demo",
+      "author": "magnific",
+      "sourceUrl": "https://x.com/magnific/status/2104587476014964879",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Product UI"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/magnific/status/2104587511075148097",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "full",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "product",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2110722582689546297",
+      "title": "Apple HomeView mock commercial",
+      "author": "kevin_t_ngo",
+      "sourceUrl": "https://x.com/kevin_t_ngo/status/2110722582689546297",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Product UI"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/kevin_t_ngo/status/2110722582689546297",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "product",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103683057689522564",
+      "title": "'What is a Transformer' explainer video",
+      "author": "dotey",
+      "sourceUrl": "https://x.com/dotey/status/2103683057689522564",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Diagrams"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/dotey/status/2103683057689522564",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "education",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2102844654169575547",
+      "title": "History of AI documentary short film",
+      "author": "kimmonismus",
+      "sourceUrl": "https://x.com/kimmonismus/status/2102844654169575547",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Diagrams"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/kimmonismus/status/2102847451111772219",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "full",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "education",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2109572982444265656",
+      "title": "Hour-by-hour simulation of Singapore occupying Batam",
+      "author": "hanifproduktif",
+      "sourceUrl": "https://x.com/hanifproduktif/status/2109572982444265656",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Diagrams"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/hanifproduktif/status/2109572982444265656",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "education",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2104081525847605709",
+      "title": "History of chips explainer video",
+      "author": "vctbtc",
+      "sourceUrl": "https://x.com/vctbtc/status/2104081525847605709",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Diagrams"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/vctbtc/status/2104082026647474321",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "education",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2106101651010449796",
+      "title": "Fast-Paced Brand Advertisement",
+      "author": "LexnLin",
+      "sourceUrl": "https://x.com/LexnLin/status/2106101651010449796",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Product UI"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/LexnLin/status/2106101653221060952",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "full",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "product",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2102477340920152162",
+      "title": "Personal website redesign trailer",
+      "author": "trq212",
+      "sourceUrl": "https://x.com/trq212/status/2102477340920152162",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Product UI"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/trq212/status/2102477340920152162",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "product",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2102863204472799549",
+      "title": "Punchy ad video from a marketing email",
+      "author": "gastypm",
+      "sourceUrl": "https://x.com/gastypm/status/2102863204472799549",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Product UI"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/gastypm/status/2102863204472799549",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "product",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2104008163561451923",
+      "title": "AI streamer system built for virtual broadcasting",
+      "author": "manaimovie",
+      "sourceUrl": "https://x.com/manaimovie/status/2104008163561451923",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Product UI"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/manaimovie/status/2104008163561451923",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "product",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103066071838466494",
+      "title": "One-prompt SaaS launch video",
+      "author": "moritzkremb",
+      "sourceUrl": "https://x.com/moritzkremb/status/2103066071838466494",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Product UI"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/moritzkremb/status/2103066083905417476",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "full",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "product",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2102463796149440888",
+      "title": "History of Claude model releases explainer",
+      "author": "superalesha",
+      "sourceUrl": "https://x.com/superalesha/status/2102463796149440888",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Diagrams"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/superalesha/status/2102463796149440888",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "education",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2102450119975277027",
+      "title": "3D gym equipment builder app",
+      "author": "wesbos",
+      "sourceUrl": "https://x.com/wesbos/status/2102450119975277027",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Product UI"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/wesbos/status/2102450119975277027",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "product",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2104301990985498783",
+      "title": "Working computer built from logic gates with OS",
+      "author": "mattshumer_",
+      "sourceUrl": "https://x.com/mattshumer_/status/2104301990985498783",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Product UI"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/mattshumer_/status/2104303934760218625",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "full",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "product",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2110019799342260630",
+      "title": "Automated branded video edit with voice sync",
+      "author": "Aykutuces",
+      "sourceUrl": "https://x.com/Aykutuces/status/2110019799342260630",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Music"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/Aykutuces/status/2110020141756858460",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "full",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "production",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103738204411379949",
+      "title": "America-focused civilization documentary",
+      "author": "frontierism",
+      "sourceUrl": "https://x.com/frontierism/status/2103738204411379949",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Diagrams"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/frontierism/status/2103738204411379949",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "education",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2102606609574941028",
+      "title": "Atmospheric circulation geography explainer",
+      "author": "akokoi1",
+      "sourceUrl": "https://x.com/akokoi1/status/2102606609574941028",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Diagrams"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/akokoi1/status/2102606609574941028",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "education",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2106052083040256293",
+      "title": "Animated cycloid lesson",
+      "author": "AIMevzulari",
+      "sourceUrl": "https://x.com/AIMevzulari/status/2106052083040256293",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Diagrams"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/AIMevzulari/status/2106070257437712390",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "full",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "education",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2106829942206173497",
+      "title": "Interactive caching code explainer",
+      "author": "BHolmesDev",
+      "sourceUrl": "https://x.com/BHolmesDev/status/2106829942206173497",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Diagrams"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/BHolmesDev/status/2106829942206173497",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "education",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103099756167991347",
+      "title": "Zoom journey from a cell to quantum fields",
+      "author": "paraschopra",
+      "sourceUrl": "https://x.com/paraschopra/status/2103099756167991347",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Diagrams"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/paraschopra/status/2103099768302075908",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "full",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "education",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2102583898865873225",
+      "title": "5000 years of Chinese history recap video",
+      "author": "akokoi1",
+      "sourceUrl": "https://x.com/akokoi1/status/2102583898865873225",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Diagrams"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/akokoi1/status/2102584165220962502",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "education",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103850664007028964",
+      "title": "Indian civilization history video",
+      "author": "rashem48",
+      "sourceUrl": "https://x.com/rashem48/status/2103850664007028964",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Diagrams"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/rashem48/status/2103904473194139934",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "education",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2104777202684301750",
+      "title": "Autonomous 3D printer bed-clearing solution",
+      "author": "mattshumer_",
+      "sourceUrl": "https://x.com/mattshumer_/status/2104777202684301750",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Music"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/mattshumer_/status/2104777202684301750",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "production",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103272686570918334",
+      "title": "Anime-style explainer remix video",
+      "author": "emollick",
+      "sourceUrl": "https://x.com/emollick/status/2103272686570918334",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Diagrams"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/emollick/status/2103272686570918334",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "education",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103174501345493197",
+      "title": "3D narrated IKEA assembly instructional video",
+      "author": "deedydas",
+      "sourceUrl": "https://x.com/deedydas/status/2103174501345493197",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Diagrams"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/deedydas/status/2103174501345493197",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "education",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2109454493415023080",
+      "title": "Talking-head video edited into a motion-graphics cut",
+      "author": "condzxyz",
+      "sourceUrl": "https://x.com/condzxyz/status/2109454493415023080",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Music"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/condzxyz/status/2109619479302820057",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "full",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "production",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2104967024812118196",
+      "title": "Promotional video for a Roblox game",
+      "author": "dataX_e",
+      "sourceUrl": "https://x.com/dataX_e/status/2104967024812118196",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Product UI"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/dataX_e/status/2105006483041583122",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "product",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103144778481475686",
+      "title": "AI-edited talking-head video",
+      "author": "sab8a",
+      "sourceUrl": "https://x.com/sab8a/status/2103144778481475686",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Music"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/sab8a/status/2103144778481475686",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "production",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103272493658353765",
+      "title": "Volcano explainer video for kids",
+      "author": "nishanthps",
+      "sourceUrl": "https://x.com/nishanthps/status/2103272493658353765",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Diagrams"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/nishanthps/status/2103272493658353765",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "education",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2102504509637587339",
+      "title": "Bass music generated with code",
+      "author": "aj_dev_smith",
+      "sourceUrl": "https://x.com/aj_dev_smith/status/2102504509637587339",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Music"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/aj_dev_smith/status/2102504509637587339",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "production",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2106144184449085474",
+      "title": "Bilingual Gossip Video",
+      "author": "dotey",
+      "sourceUrl": "https://x.com/dotey/status/2106144184449085474",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Music"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/dotey/status/2106144184449085474",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "full",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "production",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103598854801084824",
+      "title": "iPhone Duo app redesign demo video",
+      "author": "anshuc",
+      "sourceUrl": "https://x.com/anshuc/status/2103598854801084824",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Product UI"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/anshuc/status/2103598854801084824",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "product",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2102671212598132975",
+      "title": "Multiple app design variations demo",
+      "author": "heycape_",
+      "sourceUrl": "https://x.com/heycape_/status/2102671212598132975",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Product UI"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/heycape_/status/2102671212598132975",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "product",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2105370568178479476",
+      "title": "AI pipeline short video with Opus 5.5",
+      "author": "AIWarper",
+      "sourceUrl": "https://x.com/AIWarper/status/2105370568178479476",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Music"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/AIWarper/status/2105370570753802437",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "full",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "production",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2109019765134213540",
+      "title": "Launch film for a web product",
+      "author": "nikhilbhima",
+      "sourceUrl": "https://x.com/nikhilbhima/status/2109019765134213540",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Product UI"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/nikhilbhima/status/2109365340249706812",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "full",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "product",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2102827887732932956",
+      "title": "Talking-head video converted to line-art B-roll",
+      "author": "AxtonLiu",
+      "sourceUrl": "https://x.com/AxtonLiu/status/2102827887732932956",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Music"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/AxtonLiu/status/2102827887732932956",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "full",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "production",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103419586964316483",
+      "title": "Product promo video in two aspect ratios",
+      "author": "aiwarts",
+      "sourceUrl": "https://x.com/aiwarts/status/2103419586964316483",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Product UI"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/aiwarts/status/2103419813263815008",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "full",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "product",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103590367518171295",
+      "title": "Opus 5.5 plus Gemini TTS demo",
+      "author": "YoheiN2023",
+      "sourceUrl": "https://x.com/YoheiN2023/status/2103590367518171295",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Music"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/YoheiN2023/status/2103590368206029277",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "full",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "production",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2102827288190689364",
+      "title": "Wrapscribe product video",
+      "author": "shribuilds",
+      "sourceUrl": "https://x.com/shribuilds/status/2102827288190689364",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Product UI"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/shribuilds/status/2102827288190689364",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "product",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103656501579862155",
+      "title": "Netflix-style explainer reel about El Nino",
+      "author": "hanifproduktif",
+      "sourceUrl": "https://x.com/hanifproduktif/status/2103656501579862155",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Diagrams"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/hanifproduktif/status/2103656501579862155",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "education",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2105927781678747965",
+      "title": "Looping product launch motion template",
+      "author": "twoclipping",
+      "sourceUrl": "https://x.com/twoclipping/status/2105927781678747965",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Shapes"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/twoclipping/status/2105927781678747965",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "full",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "motion",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2102838830285898214",
+      "title": "Password vs passkey interactive explainer",
+      "author": "Tz_2022",
+      "sourceUrl": "https://x.com/Tz_2022/status/2102838830285898214",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Diagrams"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/Tz_2022/status/2102838830285898214",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "education",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2108143447496679553",
+      "title": "Nobel Prize science explainer video",
+      "author": "KeWai386772",
+      "sourceUrl": "https://x.com/KeWai386772/status/2108143447496679553",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Diagrams"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/KeWai386772/status/2108143449841262769",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "full",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "education",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103128559174971663",
+      "title": "Manim derivative concept teaching video",
+      "author": "LinearUncle",
+      "sourceUrl": "https://x.com/LinearUncle/status/2103128559174971663",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Diagrams"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/LinearUncle/status/2103128559174971663",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "education",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103545533474206118",
+      "title": "Doc-to-video explainer (Open Alignment)",
+      "author": "Thom_Wolf",
+      "sourceUrl": "https://x.com/Thom_Wolf/status/2103545533474206118",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Diagrams"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/Thom_Wolf/status/2103558249156858033",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "full",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "education",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103723885204254734",
+      "title": "Software intro video generated from codebase",
+      "author": "gesoikuo3",
+      "sourceUrl": "https://x.com/gesoikuo3/status/2103723885204254734",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Product UI"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/gesoikuo3/status/2103723885204254734",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "product",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2109764557308592537",
+      "title": "YTP-style Sam Altman parody video",
+      "author": "JaydenDavisNC",
+      "sourceUrl": "https://x.com/JaydenDavisNC/status/2109764557308592537",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Music"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/JaydenDavisNC/status/2109764557308592537",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "production",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103275618045686217",
+      "title": "Lightspark product promo video",
+      "author": "davidmarcus",
+      "sourceUrl": "https://x.com/davidmarcus/status/2103275618045686217",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Product UI"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/davidmarcus/status/2103275618045686217",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "product",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2106268513644273809",
+      "title": "Live calendar dashboard",
+      "author": "_insan18",
+      "sourceUrl": "https://x.com/_insan18/status/2106268513644273809",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Product UI"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/_insan18/status/2106268513644273809",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "product",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103681038862147977",
+      "title": "Escape-room game intro video",
+      "author": "moya_vc",
+      "sourceUrl": "https://x.com/moya_vc/status/2103681038862147977",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Product UI"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/moya_vc/status/2103681038862147977",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "product",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2107822293653041659",
+      "title": "Code-generated pixel art life story film",
+      "author": "twoclipping",
+      "sourceUrl": "https://x.com/twoclipping/status/2107822293653041659",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Shapes"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/twoclipping/status/2107822293653041659",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "full",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "motion",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2104805179401068964",
+      "title": "Cinematic product launch film",
+      "author": "AbhinavXJ",
+      "sourceUrl": "https://x.com/AbhinavXJ/status/2104805179401068964",
+      "platform": "X",
+      "model": "sonnet-5.5",
+      "models": [
+        "sonnet-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Product UI"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/AbhinavXJ/status/2104805184765628891",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "full",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "product",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103964025683927166",
+      "title": "Epic documentary: History of Chinese Civilization",
+      "author": "dotey",
+      "sourceUrl": "https://x.com/dotey/status/2103964025683927166",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Diagrams"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/dotey/status/2103964025683927166",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "full",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "education",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2105983571848741045",
+      "title": "Civilization history animated film",
+      "author": "ziwenxu_",
+      "sourceUrl": "https://x.com/ziwenxu_/status/2105983571848741045",
+      "platform": "X",
+      "model": "fable-5.5",
+      "models": [
+        "fable-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Diagrams"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/ziwenxu_/status/2105983571848741045",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "education",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2104963500988916032",
+      "title": "Interactive 5-axis CNC machine explainer",
+      "author": "konstantinsaifo",
+      "sourceUrl": "https://x.com/konstantinsaifo/status/2104963500988916032",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Diagrams"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/konstantinsaifo/status/2104963500988916032",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "education",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2102728913579327722",
+      "title": "Promotional travel video about Poland",
+      "author": "KinasRemek",
+      "sourceUrl": "https://x.com/KinasRemek/status/2102728913579327722",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Product UI"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/KinasRemek/status/2102728913579327722",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "full",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "product",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2111678979413598560",
+      "title": "Common video editing effects showcase",
+      "author": "liu8in",
+      "sourceUrl": "https://x.com/liu8in/status/2111678979413598560",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Music"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/liu8in/status/2111678980973863306",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "full",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "production",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2106091485125091695",
+      "title": "AI-edited travel vlog",
+      "author": "dashiAIxz",
+      "sourceUrl": "https://x.com/dashiAIxz/status/2106091485125091695",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Music"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/dashiAIxz/status/2106091485125091695",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "full",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "production",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2106848736609808531",
+      "title": "Consciousness tests reenacted",
+      "author": "VoidStateKate",
+      "sourceUrl": "https://x.com/VoidStateKate/status/2106848736609808531",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Diagrams"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/VoidStateKate/status/2106848736609808531",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "education",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103132260589338762",
+      "title": "Pig Love Notes: An Animated App Promo",
+      "author": "jackfriks",
+      "sourceUrl": "https://x.com/jackfriks/status/2103132260589338762",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Product UI"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/jackfriks/status/2103134485910892602",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "product",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2106958663525314769",
+      "title": "Gmail features explainer short",
+      "author": "ClaudeCode_UT",
+      "sourceUrl": "https://x.com/ClaudeCode_UT/status/2106958663525314769",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Diagrams"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/ClaudeCode_UT/status/2106958675651047542",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "full",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "education",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2106061619176620344",
+      "title": "Liquid glass web hero section",
+      "author": "viktoroddy",
+      "sourceUrl": "https://x.com/viktoroddy/status/2106061619176620344",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Product UI"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/viktoroddy/status/2106062582243344412",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "full",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "product",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2111333150018171231",
+      "title": "Tesla Roadster promo video",
+      "author": "ozansihay",
+      "sourceUrl": "https://x.com/ozansihay/status/2111333150018171231",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Product UI"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/ozansihay/status/2111333150018171231",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "full",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "product",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2105268326381625845",
+      "title": "One-prompt motion graphic from codebase",
+      "author": "FloWritesCode",
+      "sourceUrl": "https://x.com/FloWritesCode/status/2105268326381625845",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Shapes"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/FloWritesCode/status/2105288758316716277",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "full",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "motion",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2110292964270608425",
+      "title": "Toddler relatable moments short video",
+      "author": "hoko525",
+      "sourceUrl": "https://x.com/hoko525/status/2110292964270608425",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Music"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/hoko525/status/2110292964270608425",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "production",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2105922894924501283",
+      "title": "Explainer video of 9 football rules",
+      "author": "lukasersil",
+      "sourceUrl": "https://x.com/lukasersil/status/2105922894924501283",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Diagrams"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/lukasersil/status/2105922900343623773",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "full",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "education",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103149526244618682",
+      "title": "Animated pelican explains a shell command",
+      "author": "goodside",
+      "sourceUrl": "https://x.com/goodside/status/2103149526244618682",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Diagrams"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/goodside/status/2103149526244618682",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "full",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "education",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2111814234090693110",
+      "title": "Code-based UI motion design loop",
+      "author": "0xAiky",
+      "sourceUrl": "https://x.com/0xAiky/status/2111814234090693110",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Shapes"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/0xAiky/status/2111814234090693110",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "full",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "motion",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2108644023330390194",
+      "title": "Fishing game trailer made in Blender",
+      "author": "Blushneyy",
+      "sourceUrl": "https://x.com/Blushneyy/status/2108644023330390194",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Product UI"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/Blushneyy/status/2108644027532812762",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "product",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103117722741854377",
+      "title": "Video editor automation via AI control",
+      "author": "FantasistaAI",
+      "sourceUrl": "https://x.com/FantasistaAI/status/2103117722741854377",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Music"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/FantasistaAI/status/2103143175145844906",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "production",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103564391170089429",
+      "title": "Zero-shot documentary on Jewish history",
+      "author": "eranshir",
+      "sourceUrl": "https://x.com/eranshir/status/2103564391170089429",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Diagrams"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/eranshir/status/2103794993764904974",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "full",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "education",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103846791976513981",
+      "title": "Behind-the-scenes of a code-rendered video",
+      "author": "konmari_tweet",
+      "sourceUrl": "https://x.com/konmari_tweet/status/2103846791976513981",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Music"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/konmari_tweet/status/2103846791976513981",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "production",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2105253140765479341",
+      "title": "Wordless animation on AI misconceptions",
+      "author": "TheSpacerr",
+      "sourceUrl": "https://x.com/TheSpacerr/status/2105253140765479341",
+      "platform": "X",
+      "model": "sonnet-5.5",
+      "models": [
+        "sonnet-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Diagrams"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/TheSpacerr/status/2105253140765479341",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "education",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103555549929566323",
+      "title": "Recreated Apple 'Wonderful Tools' animation",
+      "author": "DavidKPiano",
+      "sourceUrl": "https://x.com/DavidKPiano/status/2103555549929566323",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Shapes"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/DavidKPiano/status/2103564352343179698",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "motion",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103433947040415996",
+      "title": "3Blue1Brown-style explainer of the attention mechanism",
+      "author": "Michaelzsguo",
+      "sourceUrl": "https://x.com/Michaelzsguo/status/2103433947040415996",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Diagrams"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/Michaelzsguo/status/2103434454291067084",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "education",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103553398738219450",
+      "title": "3Blue1Brown-style paper explainer animations",
+      "author": "BrianCChao",
+      "sourceUrl": "https://x.com/BrianCChao/status/2103553398738219450",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Diagrams"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/BrianCChao/status/2103553398738219450",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "education",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103549625076752493",
+      "title": "AI-composed Baroque trio sonata",
+      "author": "aug5thmusic",
+      "sourceUrl": "https://x.com/aug5thmusic/status/2103549625076752493",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Music"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/aug5thmusic/status/2103551956296118699",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "full",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "production",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2111453039228043604",
+      "title": "Interactive music system demo",
+      "author": "kyubuns",
+      "sourceUrl": "https://x.com/kyubuns/status/2111453039228043604",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Music"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/kyubuns/status/2111453039228043604",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "production",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103652674336067876",
+      "title": "History of AI animated timeline video",
+      "author": "kloss_xyz",
+      "sourceUrl": "https://x.com/kloss_xyz/status/2103652674336067876",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Diagrams"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/kloss_xyz/status/2103652674336067876",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "education",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103555455700336882",
+      "title": "Personalized style showcase animation",
+      "author": "promptowy",
+      "sourceUrl": "https://x.com/promptowy/status/2103555455700336882",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Shapes"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/promptowy/status/2103555455700336882",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "motion",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103904736160120935",
+      "title": "Promo video for a science-based book",
+      "author": "M_Adrian2",
+      "sourceUrl": "https://x.com/M_Adrian2/status/2103904736160120935",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Product UI"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/M_Adrian2/status/2103942641519882492",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "full",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "product",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2111440772998599022",
+      "title": "Tesla Roadster explainer video",
+      "author": "KeWai386772",
+      "sourceUrl": "https://x.com/KeWai386772/status/2111440772998599022",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Diagrams"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/KeWai386772/status/2111440775120875526",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "full",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "education",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103511590884815282",
+      "title": "History of Indonesia animated documentary",
+      "author": "sonnylazuardi",
+      "sourceUrl": "https://x.com/sonnylazuardi/status/2103511590884815282",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Diagrams"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/sonnylazuardi/status/2103660301132685418",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "full",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "education",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103802280617402509",
+      "title": "MotionSites AI launch video",
+      "author": "viktoroddy",
+      "sourceUrl": "https://x.com/viktoroddy/status/2103802280617402509",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Product UI"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/viktoroddy/status/2103802280617402509",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "product",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103528644828127728",
+      "title": "15-second motion designer showreel by @tequilafunks",
+      "author": "tequilafunks",
+      "sourceUrl": "https://x.com/tequilafunks/status/2103528644828127728",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Shapes"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/tequilafunks/status/2103528644828127728",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "motion",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103742861971726495",
+      "title": "Motion designer showreel with custom brand kit",
+      "author": "lukasersil",
+      "sourceUrl": "https://x.com/lukasersil/status/2103742861971726495",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Shapes"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/lukasersil/status/2103742861971726495",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "full",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "motion",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2106843514772639995",
+      "title": "Interactive frontend artifact",
+      "author": "LexnLin",
+      "sourceUrl": "https://x.com/LexnLin/status/2106843514772639995",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Product UI"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/LexnLin/status/2106843517603463598",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "full",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "product",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2110038561127014418",
+      "title": "F1 livery customizer built with Opus 5.5",
+      "author": "RyanSael",
+      "sourceUrl": "https://x.com/RyanSael/status/2110038561127014418",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Product UI"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/RyanSael/status/2110038561127014418",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "product",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2105722219892789560",
+      "title": "Motion graphic video made from GrotBot icon collection",
+      "author": "Multi_Serio_Ai",
+      "sourceUrl": "https://x.com/Multi_Serio_Ai/status/2105722219892789560",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Shapes"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/Multi_Serio_Ai/status/2105722219892789560",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "full",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "motion",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2109595253879816337",
+      "title": "Interactive wind tunnel lift explainer",
+      "author": "konstantinsaifo",
+      "sourceUrl": "https://x.com/konstantinsaifo/status/2109595253879816337",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Diagrams"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/konstantinsaifo/status/2109595253879816337",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "education",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2111887585639624828",
+      "title": "Unofficial Tesla Roadster commercial",
+      "author": "kevin_t_ngo",
+      "sourceUrl": "https://x.com/kevin_t_ngo/status/2111887585639624828",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Product UI"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/kevin_t_ngo/status/2111887585639624828",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "product",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103666105461924131",
+      "title": "Explainer animation about Claude usage workflows",
+      "author": "daniel_mac8",
+      "sourceUrl": "https://x.com/daniel_mac8/status/2103666105461924131",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Diagrams"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/daniel_mac8/status/2103666105461924131",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "education",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2102634536660316557",
+      "title": "PR video generated via a prompt with image gathering",
+      "author": "hituji_1234",
+      "sourceUrl": "https://x.com/hituji_1234/status/2102634536660316557",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Product UI"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/hituji_1234/status/2102634536660316557",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "product",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103521677259026878",
+      "title": "Obsidian introduction video",
+      "author": "pkm_tk111",
+      "sourceUrl": "https://x.com/pkm_tk111/status/2103521677259026878",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Product UI"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/pkm_tk111/status/2103665541059919891",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "product",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103576037426917779",
+      "title": "History of gas turbines explainer",
+      "author": "Xaraphim",
+      "sourceUrl": "https://x.com/Xaraphim/status/2103576037426917779",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Diagrams"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/Xaraphim/status/2103576037426917779",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "education",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103552919249563691",
+      "title": "1-minute AI capability explainer video",
+      "author": "showheyohtaki",
+      "sourceUrl": "https://x.com/showheyohtaki/status/2103552919249563691",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Product UI"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/showheyohtaki/status/2103552919249563691",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "product",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103678798827020298",
+      "title": "Explainer on personal benchmarks",
+      "author": "danshipper",
+      "sourceUrl": "https://x.com/danshipper/status/2103678798827020298",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Diagrams"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/danshipper/status/2103678798827020298",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "education",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103541149709615243",
+      "title": "Brand motion showreel from a reference video",
+      "author": "ajith_io",
+      "sourceUrl": "https://x.com/ajith_io/status/2103541149709615243",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Shapes"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/ajith_io/status/2103541149709615243",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "full",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "motion",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103487198758834408",
+      "title": "Earth's dinosaur-to-Jomon-era explainer",
+      "author": "mellow_neet2000",
+      "sourceUrl": "https://x.com/mellow_neet2000/status/2103487198758834408",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Diagrams"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/mellow_neet2000/status/2103487198758834408",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "education",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2112006151885705553",
+      "title": "Code-generated music video",
+      "author": "kloss_xyz",
+      "sourceUrl": "https://x.com/kloss_xyz/status/2112006151885705553",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Music"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/kloss_xyz/status/2112006153907454374",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "full",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "production",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103871484385284123",
+      "title": "Sleepy shiba animation with a butterfly",
+      "author": "higgsfield_ai",
+      "sourceUrl": "https://x.com/higgsfield_ai/status/2103871484385284123",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Shapes"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/higgsfield_ai/status/2103871484385284123",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "motion",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2102600213361983655",
+      "title": "Rebuilt space-time VFX shot through a cafe window",
+      "author": "higgsfield_ai",
+      "sourceUrl": "https://x.com/higgsfield_ai/status/2102600213361983655",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Music"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/higgsfield_ai/status/2102600213361983655",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "production",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103949734520279060",
+      "title": "SuperX MCP replies recap video",
+      "author": "robj3d3",
+      "sourceUrl": "https://x.com/robj3d3/status/2103949734520279060",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Shapes"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/robj3d3/status/2103949734520279060",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "motion",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2105279421435572498",
+      "title": "AI-generated animated video demo",
+      "author": "vibecodingth",
+      "sourceUrl": "https://x.com/vibecodingth/status/2105279421435572498",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Shapes"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/vibecodingth/status/2105438075224776812",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "full",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "motion",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103708363074973906",
+      "title": "Launch motion video for mounis.app",
+      "author": "MustaphaFenzar",
+      "sourceUrl": "https://x.com/MustaphaFenzar/status/2103708363074973906",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Shapes"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/MustaphaFenzar/status/2103708532747174223",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "motion",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103467539485671862",
+      "title": "15-second intro to NISHIO Hirokazu's work",
+      "author": "nishio",
+      "sourceUrl": "https://x.com/nishio/status/2103467539485671862",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Shapes"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/nishio/status/2103468558886093229",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "full",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "motion",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103520155640938565",
+      "title": "Resume-based motion graphics showreel",
+      "author": "vedolos",
+      "sourceUrl": "https://x.com/vedolos/status/2103520155640938565",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Shapes"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/vedolos/status/2103520155640938565",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "motion",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103093628230873415",
+      "title": "Bitcoin-themed video edit made in code",
+      "author": "skwp",
+      "sourceUrl": "https://x.com/skwp/status/2103093628230873415",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Music"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/skwp/status/2103093628230873415",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "production",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103627106240602357",
+      "title": "Vertical 15-second showreel with self-made sound and beat",
+      "author": "lemcosmos",
+      "sourceUrl": "https://x.com/lemcosmos/status/2103627106240602357",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Shapes"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/lemcosmos/status/2103627108744593652",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "motion",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103656229717328129",
+      "title": "Tester's attempt at the viral showreel prompt",
+      "author": "codeSTACKr",
+      "sourceUrl": "https://x.com/codeSTACKr/status/2103656229717328129",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Shapes"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/codeSTACKr/status/2103656229717328129",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "motion",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103835390998388796",
+      "title": "Hot vs cold crypto wallet explainer",
+      "author": "sergitosergito",
+      "sourceUrl": "https://x.com/sergitosergito/status/2103835390998388796",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Diagrams"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/sergitosergito/status/2103835390998388796",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "education",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103677214135124053",
+      "title": "Documentary opening titles about Bitcoin",
+      "author": "cyrilXBT",
+      "sourceUrl": "https://x.com/cyrilXBT/status/2103677214135124053",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Shapes"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/cyrilXBT/status/2103677214135124053",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "motion",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2105756189934141646",
+      "title": "Auto-annotated baseball broadcast clip",
+      "author": "SamEhrlich",
+      "sourceUrl": "https://x.com/SamEhrlich/status/2105756189934141646",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Music"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/SamEhrlich/status/2105790715276226680",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "production",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2109609404450607352",
+      "title": "USDai product assembly line demo",
+      "author": "0xZergs",
+      "sourceUrl": "https://x.com/0xZergs/status/2109609404450607352",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Product UI"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/0xZergs/status/2109609797775708498",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "product",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2106155815707021549",
+      "title": "Claude introduction video",
+      "author": "devteamdrew",
+      "sourceUrl": "https://x.com/devteamdrew/status/2106155815707021549",
+      "platform": "X",
+      "model": "fable-5.5",
+      "models": [
+        "fable-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Product UI"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/devteamdrew/status/2106155815707021549",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "product",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103664956482941143",
+      "title": "Chaotic brain-rot style motion video",
+      "author": "kloss_xyz",
+      "sourceUrl": "https://x.com/kloss_xyz/status/2103664956482941143",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Shapes"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/kloss_xyz/status/2103664956482941143",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "full",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "motion",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103484692997804334",
+      "title": "Motion showreel from the Japanese version of the viral prompt",
+      "author": "MatoToushi",
+      "sourceUrl": "https://x.com/MatoToushi/status/2103484692997804334",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Shapes"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/MatoToushi/status/2103484692997804334",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "motion",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103722878697083380",
+      "title": "Article-to-video generation for social posting",
+      "author": "affnom_y",
+      "sourceUrl": "https://x.com/affnom_y/status/2103722878697083380",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Music"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/affnom_y/status/2103722878697083380",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "production",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103491383554445613",
+      "title": "Self-introduction video with music",
+      "author": "mattn_jp",
+      "sourceUrl": "https://x.com/mattn_jp/status/2103491383554445613",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Product UI"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/mattn_jp/status/2103491383554445613",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "product",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103106389489127504",
+      "title": "App promotional video before launch",
+      "author": "yayoi_threee",
+      "sourceUrl": "https://x.com/yayoi_threee/status/2103106389489127504",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Product UI"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/yayoi_threee/status/2103106389489127504",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "product",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2102781807179735211",
+      "title": "Water cycle looping animation",
+      "author": "higgsfield_ai",
+      "sourceUrl": "https://x.com/higgsfield_ai/status/2102781807179735211",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Diagrams"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/higgsfield_ai/status/2102781807179735211",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "education",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103617085402407181",
+      "title": "15-second persuasive explainer on ending the Fed",
+      "author": "cboyack",
+      "sourceUrl": "https://x.com/cboyack/status/2103617085402407181",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Diagrams"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/cboyack/status/2103617085402407181",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "education",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103787665569272247",
+      "title": "Funny face photos animated with code",
+      "author": "jAlpha_create",
+      "sourceUrl": "https://x.com/jAlpha_create/status/2103787665569272247",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Shapes"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/jAlpha_create/status/2103788147985559595",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "motion",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103603025579331584",
+      "title": "PayBox logo brand-sting animation",
+      "author": "0xValure",
+      "sourceUrl": "https://x.com/0xValure/status/2103603025579331584",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Shapes"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/0xValure/status/2103603029224354245",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "motion",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2103390803192352888",
+      "title": "Channel intro video edited from clips",
+      "author": "kazunoko575",
+      "sourceUrl": "https://x.com/kazunoko575/status/2103390803192352888",
+      "platform": "X",
+      "model": "opus-5.5",
+      "models": [
+        "opus-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Music"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/kazunoko575/status/2103390803192352888",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "brief",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "production",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
+    },
+    {
+      "id": "2104659402007703925",
+      "title": "Fifteen-second motion graphics showreel",
+      "author": "AntSeed",
+      "sourceUrl": "https://x.com/AntSeed/status/2104659402007703925",
+      "platform": "X",
+      "model": "sonnet-5.5",
+      "models": [
+        "sonnet-5.5"
+      ],
+      "modelFamilies": [
+        "Anthropic"
+      ],
+      "modelStatus": "directory_reported",
+      "categories": [
+        "Product UI"
+      ],
+      "classificationStatus": "needs_review",
+      "type": null,
+      "typeStatus": "needs_review",
+      "prompt": null,
+      "promptSourceUrl": "https://x.com/AntSeed/status/2104660141580660885",
+      "promptStatus": "source_link_unverified",
+      "upstreamPromptKind": "full",
+      "discoveryUrl": "https://github.com/zhuyansen/awesome-opus-5.5-video/blob/main/cases.json",
+      "upstreamCategory": "product",
+      "selectionStatus": "candidate",
+      "verification": {
+        "method": "chrome-mcp_upstream_dataset",
+        "checkedAt": "2026-10-21",
+        "visualQuality": "not_reviewed",
+        "authorAndNativeVideo": "not_independently_verified"
+      },
+      "notes": "Imported as a source-linked research lead. Prompt text, model attribution and playback quality require original-source review."
     }
   ]
 }
