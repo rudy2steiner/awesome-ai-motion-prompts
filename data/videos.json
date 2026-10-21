@@ -6002,49 +6002,12 @@
     }
   },
   {
-    "id": "2079553757302710442",
-    "title": "Voxel soccer: Kimi K3 and GLM comparison",
-    "author": "Zmthanh",
-    "sourceUrl": "https://x.com/Zmthanh/status/2079553757302710442",
-    "platform": "X",
-    "model": "Kimi K3 / GLM-5.2",
-    "modelStatus": "author_claimed",
-    "primaryCategory": "3d-simulations",
-    "prompt": "Create a single HTML file with Three.js (CDN) for a simple voxel-style soccer animation. A blocky player dribbles past 2 defenders and scores a spectacular goal with celebration particles. Colorful stadium look. Output ONLY the full HTML code.",
-    "promptFile": "prompts/voxel-soccer-goal-animation-zmthanh-k3.md",
-    "promptSourceUrl": "https://x.com/Zmthanh/status/2079553757302710442",
-    "promptStatus": "original_post_text_matched",
-    "status": "collected",
-    "discoveryUrl": "https://github.com/mikenevermiss/motionpromptgallery/blob/19ba3f6/data/items.json",
-    "verification": {
-      "method": "chrome-mcp_original_post_dom",
-      "checkedAt": "2026-10-21",
-      "originalPostConfirmed": true,
-      "creatorMatched": true,
-      "promptMatchedSource": true,
-      "authorClaimConfirmed": true,
-      "videoAttachmentConfirmed": true,
-      "visualQuality": "not_reviewed",
-      "fullReview": false,
-      "evidenceQuote": "Thành\n@Zmthanh\nJust tested the same prompt on Kimi K3 vs GLM-5.2 (one-shot) via \n@opencode\n :\n\nPrompt:  \n\"Create a single HTML file with Three.js (CDN) for a simple voxel-style soccer animation. A blocky player dribbles past 2 defenders and scores a spectacular goal with celebration particles. Colorful stadium look. Output ONLY the full HTML code.\"\n\nKimi K3\n• 65K completion tokens (mostly long thinking)  \n• Cost: ~$0.98  \n→ Clearly the better result\n\nGLM-5.2\n• Only 19K completion tokens  \n• Cost: ~$0.084  \n→ Result is surprisingly solid for the price\n\nK3 wins on quality, but at 11× the cost. For this kind of creative coding task, GLM-5.2 offers way better value if you don’t need the absolute best.\n\n#KimiK3 #GLM52 #Threejs #AICoding\nQuote\nLumina\n@LuminaBench\n·\nJul 20\n🚨\nhttp://\nZ.ai may be skipping GLM-5.3 and going straight to GLM-5.5\n\n• Expected to launch in August\n• Potentially more than 1 trillion total parameters\n• Will likely remain Open Weight\n• Should retain its 1M token Context Window\n• Built for long running\n9:07 PM · Jul 21, 2026\n·\n2,095\n Views\n2\n12\n4"
-    },
-    "notes": "The full original-language prompt and native video attachment were matched on the creator’s X page through Chrome MCP. Playback quality has not been independently reviewed. One comparison work, counted once; model credits follow the original post.",
-    "sourceMediaKeys": [
-      "2079552819410149377"
-    ],
-    "mediaSourceCheck": {
-      "method": "chrome-mcp_original_post_syndication",
-      "checkedAt": "2026-10-21",
-      "postMatched": true
-    }
-  },
-  {
     "id": "2079198084689723560",
-    "title": "Voxel soccer: Qwen and Fable comparison",
+    "title": "Voxel soccer: four-model comparison of one shared prompt",
     "author": "Zmthanh",
     "sourceUrl": "https://x.com/Zmthanh/status/2079198084689723560",
     "platform": "X",
-    "model": "Qwen3.8-Max-Preview / Claude Fable 5",
+    "model": "Qwen3.8-Max-Preview / Claude Fable 5 / Kimi K3 / GLM-5.2",
     "modelStatus": "author_claimed",
     "primaryCategory": "3d-simulations",
     "prompt": "Create a single HTML file with Three.js (CDN) for a simple voxel-style soccer animation. A blocky player dribbles past 2 defenders and scores a spectacular goal with celebration particles. Colorful stadium look. Output ONLY the full HTML code.",
@@ -6065,7 +6028,7 @@
       "fullReview": false,
       "evidenceQuote": "Thành\n@Zmthanh\nQwen3.8-Max-Preview vs Fable 5 (one-shot)\n\nSame prompt. Same challenge.\n“Create a single HTML file with Three.js (CDN) for a simple voxel-style soccer animation. A blocky player dribbles past 2 defenders and scores a spectacular goal with celebration particles. Colorful stadium look. Output ONLY the full HTML code.”\n\nResults:\nQwen3.8-Max-Preview\nComplete working HTML\nCost: ~$0.01\n~23k tokens (thinking + output)\nFable 5\nAlso complete\nCost: $1.15\n~22k tokens\n\nWinner: Qwen3.8-Max-Preview\nSame one-shot result for ~100x less money 💰\nWho are you picking? 👇\nQuote\nQwen\n@Alibaba_Qwen\n·\nJul 19\nQwen3.8 is launching and going open-weight soon!🌐\n\nWith a massive 2.4T parameters, this model is continuously evolving. We believe it’s one of the most powerful model available today, compatible to leading frontier AI models , second only to Fable 5.\n\nYou don't have to wait to\n9:33 PM · Jul 20, 2026\n·\n34.8K\n Views\n6\n23\n244\n69\nRelevant\nView quotes"
     },
-    "notes": "The full original-language prompt and native video attachment were matched on the creator’s X page through Chrome MCP. Playback quality has not been independently reviewed. One comparison work, counted once; model credits follow the original post.",
+    "notes": "The full original-language prompt and native video attachment were matched on the creator’s X page through Chrome MCP. Playback quality has not been independently reviewed. One comparison work, counted once; model credits follow the original post. Duplicate-prompt audit: the same published input also appears at https://x.com/Zmthanh/status/2079553757302710442 (@Zmthanh). This related source is retained without counting a separate prompt. Its model attribution follows that source; no additional quality claim is inferred.",
     "sourceMediaKeys": [
       "2079197922663772160"
     ],
@@ -6073,7 +6036,15 @@
       "method": "chrome-mcp_original_post_syndication",
       "checkedAt": "2026-10-21",
       "postMatched": true
-    }
+    },
+    "relatedSources": [
+      {
+        "url": "https://x.com/Zmthanh/status/2079553757302710442",
+        "author": "Zmthanh",
+        "model": "Kimi K3 / GLM-5.2",
+        "reason": "Same normalized published prompt; counted once across versions and model comparisons"
+      }
+    ]
   },
   {
     "id": "2098697876155076820",
@@ -13213,35 +13184,6 @@
     "promptCompleteness": "complete_as_reported_by_upstream",
     "status": "collected",
     "discoveryUrl": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f/prompts/jrayon-054015.md",
-    "verification": {
-      "method": "upstream_collection_reuse",
-      "importedAt": "2026-10-21",
-      "originalPostConfirmed": false,
-      "promptMatchedSource": false,
-      "authorClaimConfirmed": false,
-      "visualQuality": "not_reviewed",
-      "fullReview": false,
-      "upstreamPromptPartial": false,
-      "upstreamCommit": "92aee2f"
-    },
-    "notes": "Selected from the upstream prompt collection for its concrete creative direction. Prompt text and its completeness label are inherited from that collection; this import does not independently confirm the original post, model attribution, result fidelity or visual quality. Referenced files, music, images and project context are not bundled. Upstream remake technology tags are not treated as tools used by the original creator."
-  },
-  {
-    "id": "2102906701552726206",
-    "title": "Glass and gold-leaf mosaic tiles become living figures",
-    "author": "zeezomb",
-    "sourceUrl": "https://x.com/zeezomb/status/2102906701552726206",
-    "platform": "X",
-    "model": "Claude Opus 5.5",
-    "modelStatus": "directory_reported",
-    "primaryCategory": "motion-studies",
-    "prompt": "Make an 80 second square animated film as a single HTML file, using WebGL2 and plain JavaScript, with no libraries and no image, font or audio files. It should look like a glass and gold leaf wall mosaic whose tiles were never glued down, so they can lift, flip, fly and click back into place. Figures are flocks of tiles, so a fish swims by its tiles swimming.",
-    "promptFile": "prompts/motion-2102906701552726206.md",
-    "promptSourceUrl": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f/prompts/zeezomb-726206.md",
-    "promptStatus": "upstream_transcribed",
-    "promptCompleteness": "complete_as_reported_by_upstream",
-    "status": "collected",
-    "discoveryUrl": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f/prompts/zeezomb-726206.md",
     "verification": {
       "method": "upstream_collection_reuse",
       "importedAt": "2026-10-21",
@@ -25598,7 +25540,7 @@
     "promptStatus": "source_fragment",
     "promptCompleteness": "published_fragment",
     "requiresReference": false,
-    "notes": "Older work found while reviewing uncollected upstream leads. Published prompt text was read directly from the author’s X reply and its relationship to the original native-video post confirmed. The author attributes the work to Opus 5.5. This is the available published prompt fragment, not a claim to contain the complete input conversation. Native video presence was confirmed; full playback, visual quality and requested output constraints were not independently reviewed. The visible text ends after “a fish swims by its tiles swimming”; no missing continuation is invented. The fragment specifies WebGL2, plain JavaScript and a no-external-assets tile motion concept.",
+    "notes": "Older work found while reviewing uncollected upstream leads. Published prompt text was read directly from the author’s X reply and its relationship to the original native-video post confirmed. The author attributes the work to Opus 5.5. This is the available published prompt fragment, not a claim to contain the complete input conversation. Native video presence was confirmed; full playback, visual quality and requested output constraints were not independently reviewed. The visible text ends after “a fish swims by its tiles swimming”; no missing continuation is invented. The fragment specifies WebGL2, plain JavaScript and a no-external-assets tile motion concept. Duplicate-prompt audit: the same published input also appears at https://x.com/zeezomb/status/2102906701552726206 (@zeezomb). This related source is retained without counting a separate prompt. Its model attribution follows that source; no additional quality claim is inferred.",
     "platform": "X",
     "modelStatus": "author_claim",
     "status": "collected",
@@ -25613,7 +25555,15 @@
       "nativeVideoConfirmed": true,
       "visualQuality": "not_reviewed",
       "fullReview": false
-    }
+    },
+    "relatedSources": [
+      {
+        "url": "https://x.com/zeezomb/status/2102906701552726206",
+        "author": "zeezomb",
+        "model": "Claude Opus 5.5",
+        "reason": "Same normalized published prompt; counted once across versions and model comparisons"
+      }
+    ]
   },
   {
     "id": "2111678979413598560",

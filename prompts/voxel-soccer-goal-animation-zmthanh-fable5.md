@@ -1,9 +1,9 @@
-# Voxel soccer: Qwen and Fable comparison
+# Voxel soccer: four-model comparison of one shared prompt
 
 [Original work](https://x.com/Zmthanh/status/2079198084689723560) · [Prompt source](https://x.com/Zmthanh/status/2079198084689723560)
 
 - **Creator:** @Zmthanh
-- **Model:** Qwen3.8-Max-Preview / Claude Fable 5
+- **Model:** Qwen3.8-Max-Preview / Claude Fable 5 / Kimi K3 / GLM-5.2
 - **Model attribution:** author_claimed
 - **Category:** 3d-simulations
 - **Prompt status:** Original-post text matched
@@ -12,6 +12,8 @@
 The full original-language prompt and native video attachment were matched on the creator’s X page through Chrome MCP. Playback quality has not been independently reviewed. One comparison work, counted once; model credits follow the original post.
 
 References and prior project assets mentioned in the prompt are not bundled.
+
+Related source using the same prompt: [Zmthanh](https://x.com/Zmthanh/status/2079553757302710442) — Kimi K3 / GLM-5.2. Counted once.
 
 ## Prompt
 

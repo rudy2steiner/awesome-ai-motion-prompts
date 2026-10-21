@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-946 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+944 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -252,7 +252,6 @@
 - [Type Field](https://developers.openai.com/showcase/type-field) — Katia Gil Guzman (OpenAI) · GPT-6 Astra (directory reported) · [Prompt](../prompts/motion-type-field.md#prompt)
 - ["Enter the K": Kimi K3 launch site as a scroll-driven type film](https://x.com/jumperz/status/2077841331037094042) — JUMPERZ · Kimi K3 (directory reported) · [Prompt](../prompts/motion-2077841331037094042.md#prompt)
 - [EM DASH: kinetic typography journal](https://kinetic-typography-journal.k3.demos.sulat.com/) — Sulat · Kimi K3 (directory reported) · [Prompt](../prompts/motion-kinetic-typography-journal.k3.demos.sulat.com.md#prompt)
-- [Glass and gold-leaf mosaic tiles become living figures](https://x.com/zeezomb/status/2102906701552726206) — @zeezomb · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2102906701552726206.md#prompt)
 - [Staggered UI cards with precise timing and frame inspection](https://x.com/fleyta88/status/2108249741125443662) — @fleyta88 · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2108249741125443662.md#prompt)
 - [A dashboard card assembles around a drawing graph](https://x.com/Khlaseek_dsgner/status/2108167809997877659) — @Khlaseek_dsgner · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2108167809997877659.md#prompt)
 - [Claymation desk loop animated on twos in Blender](https://x.com/wikiwayne/status/2107951058584486055) — @wikiwayne · Claude Opus 5.5 (directory reported) · [Prompt](../prompts/motion-2107951058584486055.md#prompt)
@@ -653,8 +652,7 @@
 - [Vacuum-tube maglev: Gemini and Fable comparison](https://x.com/Pixel_Neuron/status/2080454415400493332) — @Pixel_Neuron · Gemini 3.5 Pro / Claude Fable 5 · [Prompt](../prompts/maglev-train-in-a-glass-vacuum-tube-pixel-neuron-fable5.md#prompt)
 - [Voxel pod-racer run](https://x.com/ivanfioravanti/status/2077763009657627055) — @ivanfioravanti · Kimi K3 · [Prompt](../prompts/voxel-pod-racer-ivanfioravanti.md#prompt)
 - [Nuclear blast over a procedural 3D city](https://x.com/ashishthakur___/status/2096562462674079868) — @ashishthakur___ · GPT-6 Astra · [Prompt](../prompts/nuclear-blast-over-a-3d-city-ashishthakur.md#prompt)
-- [Voxel soccer: Kimi K3 and GLM comparison](https://x.com/Zmthanh/status/2079553757302710442) — @Zmthanh · Kimi K3 / GLM-5.2 · [Prompt](../prompts/voxel-soccer-goal-animation-zmthanh-k3.md#prompt)
-- [Voxel soccer: Qwen and Fable comparison](https://x.com/Zmthanh/status/2079198084689723560) — @Zmthanh · Qwen3.8-Max-Preview / Claude Fable 5 · [Prompt](../prompts/voxel-soccer-goal-animation-zmthanh-fable5.md#prompt)
+- [Voxel soccer: four-model comparison of one shared prompt](https://x.com/Zmthanh/status/2079198084689723560) — @Zmthanh · Qwen3.8-Max-Preview / Claude Fable 5 / Kimi K3 / GLM-5.2 (author reported) · [Prompt](../prompts/voxel-soccer-goal-animation-zmthanh-fable5.md#prompt)
 - [Zen temple: a continuous 3D construction film](https://x.com/huoshan007/status/2098697876155076820) — @huoshan007 · GPT-6 Astra · [Prompt](../prompts/zen-temple-64-second-build-video-huoshan007.md#prompt)
 - [Tokyo Tower: daylight and night-time 3D film](https://x.com/wafffle_dev/status/2102276620124062065) — @wafffle_dev · GPT-6 Astra · [Prompt](../prompts/tokyo-tower-day-and-night-3d-film-wafffle-dev.md#prompt)
 - [3D Animation of Gradient Descent](https://x.com/anirockshady/status/2103195903012032809) — @anirockshady · Claude Opus 5.5 · [Prompt](../prompts/motion-2103195903012032809.md#prompt)
