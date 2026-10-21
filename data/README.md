@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-787 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+788 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -424,6 +424,7 @@
 - [Eight color harmonies: spinning wheel and palette-world transitions](https://x.com/koldo2k/status/2104114329322704965) — @koldo2k · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2104114329322704965.md#prompt)
 - [Spending your effort: Claude Code effort-level explainer with a readability revision](https://github.com/whaleyxbt/claude-motion/tree/main/examples/01-effort) — @whaleyxbt · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-whaley-spending-effort.md#prompt)
 - [What is Claude Code? Hand-drawn paper-collage explainer with Japanese narration](https://x.com/so_ainsight/status/2103117547776163845) — @so_ainsight · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2103117547776163845.md#prompt)
+- [Brain death explainer: bold hand-drawn motion for a young audience](https://x.com/tonka1981jp/status/2103442781096288376) — @tonka1981jp · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-2103442781096288376.md#prompt)
 
 
 <a id="characters-stories"></a>

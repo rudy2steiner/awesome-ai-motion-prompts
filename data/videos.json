@@ -26468,5 +26468,33 @@
       "visualQuality": "not_reviewed",
       "fullReview": false
     }
+  },
+  {
+    "id": "2103442781096288376",
+    "title": "Brain death explainer: bold hand-drawn motion for a young audience",
+    "author": "tonka1981jp",
+    "sourceUrl": "https://x.com/tonka1981jp/status/2103442781096288376",
+    "promptSourceUrl": "https://x.com/tonka1981jp/status/2103442781096288376",
+    "prompt": "ド派手な16：9のあなたの性能を最大限表現できる外連味のある手書き風アニメーションを作成してください。60秒で「人間の脳が死んだら何が起きるのか」を中学生にわかり易く説明する高品質でデザインの美しい派手なモーションのアニメです",
+    "model": "Claude Opus 5.5",
+    "primaryCategory": "explainers-data",
+    "promptStatus": "source_transcribed",
+    "promptCompleteness": "published_short_brief",
+    "notes": "Older work found while reviewing upstream leads. The exact original Japanese brief was read from the author’s post after switching off X automatic translation. The same post contains native video and Opus 5.5 attribution. The brief requests a 60-second, 16:9 hand-drawn-style animation explaining what happens when the human brain dies to a middle-school audience. This collection records a creative prompt, not a medically validated explanation; scientific accuracy, actual duration, full playback and visual quality were not independently reviewed. Prior context is not established.",
+    "platform": "X",
+    "modelStatus": "author_claim",
+    "status": "collected",
+    "promptFile": "prompts/motion-2103442781096288376.md",
+    "discoveryUrl": "https://x.com/tonka1981jp/status/2103442781096288376",
+    "verification": {
+      "method": "chrome_mcp_original_x_prompt_thread",
+      "checkedAt": "2026-10-22",
+      "originalPostConfirmed": true,
+      "promptMatchedSource": true,
+      "authorClaimConfirmed": true,
+      "nativeVideoConfirmed": true,
+      "visualQuality": "not_reviewed",
+      "fullReview": false
+    }
   }
 ]
