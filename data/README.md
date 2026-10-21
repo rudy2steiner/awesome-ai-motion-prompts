@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-912 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+914 works with prompt text saved in this repository. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -599,6 +599,8 @@
 - [NOGGIN: The Mind Is a Collage — surreal editorial cutout film](https://github.com/Vincentwei1021/mg-styles-15/blob/main/prompts/06-collage.md) — @Vincentwei1021 · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-mg-styles-06-collage.md#prompt)
 - [Pixel Quest: code-drawn pixel adventure title sequence](https://github.com/Vincentwei1021/mg-styles-15/blob/main/prompts/20-pixel.md) — @Vincentwei1021 · Claude Opus 5.5 (author reported) · [Prompt](../prompts/motion-mg-styles-20-pixel.md#prompt)
 - [motion-pack: Character spot × Paper Cut (hero scene), 13.5 s 16:9](https://github.com/ANVEAI/motion-pack/blob/main/docs/prompts.md#L15) — @ANVEAI / motion-pack contributors · Claude Code / model-agnostic coding agent (motion-pack required) · [Prompt](../prompts/motion-motion-pack-character-spot.md#prompt)
+- [Stickman Video Director: Stop Letting Overthinking Ruin Your Life](https://github.com/kaomei/stickman-video-director/blob/main/skills/directing-stickman-videos/references/examples.md#phase-b--omni-flash-production-package) — @kaomei / stickman-video-director contributors · Gemini Omni Flash (published target; generation not independently confirmed) · [Prompt](../prompts/motion-stickman-director-overthinking.md#prompt)
+- [Stickman Video Director: Zeke: glass ceiling, light bridge and vault](https://github.com/kaomei/stickman-video-director/blob/main/skills/directing-stickman-videos/references/examples.md#example-2-style-2a-modern-beanie-zeke--modern-studio-tech) — @kaomei / stickman-video-director contributors · Gemini Omni Flash (published target; generation not independently confirmed) · [Prompt](../prompts/motion-stickman-director-invisible-boundaries.md#prompt)
 
 
 <a id="3d-simulations"></a>
