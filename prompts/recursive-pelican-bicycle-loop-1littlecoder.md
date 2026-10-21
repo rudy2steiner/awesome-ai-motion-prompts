@@ -1,5 +1,7 @@
 # Recursive pelican bicycle GIF
 
+![Animated preview](../data/media/motion-2077880380900937865.gif)
+
 [Original work](https://x.com/1littlecoder/status/2077880380900937865) · [Prompt source](https://x.com/1littlecoder/status/2077880380900937865)
 
 - **Creator:** @1littlecoder

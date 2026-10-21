@@ -6162,7 +6162,7 @@
     "promptFile": "prompts/recursive-pelican-bicycle-loop-1littlecoder.md",
     "promptSourceUrl": "https://x.com/1littlecoder/status/2077880380900937865",
     "promptStatus": "original_post_text_matched",
-    "status": "collected",
+    "status": "featured",
     "discoveryUrl": "https://github.com/mikenevermiss/motionpromptgallery/blob/19ba3f6/data/items.json",
     "verification": {
       "method": "chrome-mcp_original_post_dom",
@@ -6172,11 +6172,11 @@
       "promptMatchedSource": true,
       "authorClaimConfirmed": true,
       "videoAttachmentConfirmed": true,
-      "visualQuality": "not_reviewed",
+      "visualQuality": "preview_frames_reviewed",
       "fullReview": false,
       "evidenceQuote": "1LittleCoder💻\n@1littlecoder\nKimi K3 - more horror vibes at the end 😱\n\nPrompt by \n@goodside\n:\n\nCreate a looping 10s GIF of a Pelican riding a bicycle on a sunny day. The Pelican's basket begins to vibrate, and he picks up a phone as the camera zooms in. We continue zooming in to see the Pelican has been sent, via text message, the exact video we are watching now. The view zooms in on the thumbnail until it becomes the whole screen, and the animation ends, looping back to the beginning.\nQuote\nRiley Goodside\n@goodside\n·\nJul 16\nClaude Fable 5 Max makes a GIF of a pelican on a bicycle getting a text message with the GIF he's in\n6:17 AM · Jul 17, 2026\n·\n5,817\n Views\n5\n4\n63\n17\nRelevant"
     },
-    "notes": "The full original-language prompt and native video attachment were matched on the creator’s X page through Chrome MCP. Playback quality has not been independently reviewed.",
+    "notes": "The full original-language prompt and native video attachment were matched on the creator’s X page through Chrome MCP. Playback quality has not been independently reviewed. A three-second native-video GIF excerpt was generated and sampled frames were visually reviewed for the category gallery; this is not a complete video review.",
     "promptAuthor": "Riley Goodside (@goodside)",
     "sourceMediaKeys": [
       "HNYdCtBbMAA-512.jpg"
@@ -6185,6 +6185,19 @@
       "method": "chrome-mcp_original_post_syndication",
       "checkedAt": "2026-10-21",
       "postMatched": true
+    },
+    "featuredTitle": "Recursive Pelican",
+    "featuredTitleZh": "递归鹈鹕骑单车",
+    "poster": "data/media/motion-2077880380900937865.gif",
+    "video": "https://video.twimg.com/tweet_video/HNYdCtBbMAA-512.mp4",
+    "preview": {
+      "asset": "data/media/motion-2077880380900937865.gif",
+      "sourceUrl": "https://x.com/1littlecoder/status/2077880380900937865",
+      "video": "https://video.twimg.com/tweet_video/HNYdCtBbMAA-512.mp4",
+      "startSeconds": 0,
+      "durationSeconds": 3,
+      "fps": 10,
+      "checkedAt": "2026-10-21"
     }
   },
   {
@@ -9920,7 +9933,7 @@
     "promptSourceUrl": "https://x.com/konstantinsaifo/status/2104516868182598079",
     "promptStatus": "original_post_text_matched",
     "promptCompleteness": "fragment_or_context_dependent",
-    "status": "collected",
+    "status": "featured",
     "sourceMediaKeys": [
       "2104515835666526208"
     ],
@@ -9934,12 +9947,30 @@
       "promptMatchedSource": true,
       "authorClaimConfirmed": true,
       "videoAttachmentConfirmed": true,
-      "visualQuality": "not_reviewed",
+      "visualQuality": "preview_frames_reviewed",
       "fullReview": false,
       "evidenceQuote": "I asked Claude Opus 5.5 to explain how a fighter jet engine works by building an interactive F135 you can take apart in your browser.\n\nCut it open, follow the air through the fan and compressor, watch it hit 2,000 °C in the combustor, then light the afterburner and watch the https://t.co/MUoNUjEMfI",
       "promptEvidenceQuote": "I asked Claude Opus 5.5 to explain how a fighter jet engine works by building an interactive F135 you can take apart in your browser.\n\nCut it open, follow the air through the fan and compressor, watch it hit 2,000 °C in the combustor, then light the afterburner and watch the https://t.co/MUoNUjEMfI"
     },
-    "notes": "Published task or prompt text was matched against the source post or its prompt reply through Chrome MCP. The posting account, model claim and native motion attachment were checked. Playback quality is not independently reviewed. The discovery source labels the published text as a fragment or brief; additional project context or inputs may be required."
+    "notes": "Published task or prompt text was matched against the source post or its prompt reply through Chrome MCP. The posting account, model claim and native motion attachment were checked. Playback quality is not independently reviewed. The discovery source labels the published text as a fragment or brief; additional project context or inputs may be required. A three-second native-video GIF excerpt was generated and sampled frames were visually reviewed for the category gallery; this is not a complete video review.",
+    "featuredTitle": "Inside a Jet Engine",
+    "featuredTitleZh": "拆解喷气发动机",
+    "poster": "data/media/motion-2104516868182598079.gif",
+    "video": "https://video.twimg.com/amplify_video/2104515835666526208/vid/avc1/1280x720/aOBtoJRWim2c7zh4.mp4",
+    "preview": {
+      "asset": "data/media/motion-2104516868182598079.gif",
+      "sourceUrl": "https://x.com/konstantinsaifo/status/2104516868182598079",
+      "video": "https://video.twimg.com/amplify_video/2104515835666526208/vid/avc1/1280x720/aOBtoJRWim2c7zh4.mp4",
+      "startSeconds": 10,
+      "durationSeconds": 3,
+      "fps": 10,
+      "checkedAt": "2026-10-21"
+    },
+    "mediaSourceCheck": {
+      "method": "chrome-mcp_original_post_syndication",
+      "checkedAt": "2026-10-21",
+      "postMatched": true
+    }
   },
   {
     "id": "2107848117584543896",
@@ -10096,7 +10127,7 @@
     "promptSourceUrl": "https://x.com/gavinpurcell/status/2108932593911816392",
     "promptStatus": "original_post_text_matched",
     "promptCompleteness": "fragment_or_context_dependent",
-    "status": "collected",
+    "status": "featured",
     "sourceMediaKeys": [
       "2108932273311780865"
     ],
@@ -10110,12 +10141,30 @@
       "promptMatchedSource": true,
       "authorClaimConfirmed": true,
       "videoAttachmentConfirmed": true,
-      "visualQuality": "not_reviewed",
+      "visualQuality": "preview_frames_reviewed",
       "fullReview": false,
       "evidenceQuote": "the new claude motion artifact + opus 5.5 is truly insane for data viz stuff\n\ni asked it to look at the entire history of movies and show me (visually) how genres have changed over the last 100 years\n\nworked for seven hours and returned this https://t.co/KaX99LQCOe",
       "promptEvidenceQuote": "the new claude motion artifact + opus 5.5 is truly insane for data viz stuff\n\ni asked it to look at the entire history of movies and show me (visually) how genres have changed over the last 100 years\n\nworked for seven hours and returned this https://t.co/KaX99LQCOe"
     },
-    "notes": "Published task or prompt text was matched against the source post or its prompt reply through Chrome MCP. The posting account, model claim and native motion attachment were checked. Playback quality is not independently reviewed. The discovery source labels the published text as a fragment or brief; additional project context or inputs may be required."
+    "notes": "Published task or prompt text was matched against the source post or its prompt reply through Chrome MCP. The posting account, model claim and native motion attachment were checked. Playback quality is not independently reviewed. The discovery source labels the published text as a fragment or brief; additional project context or inputs may be required. A three-second native-video GIF excerpt was generated and sampled frames were visually reviewed for the category gallery; this is not a complete video review.",
+    "featuredTitle": "100 Years of Movie Genres",
+    "featuredTitleZh": "百年电影类型变迁",
+    "poster": "data/media/motion-2108932593911816392.gif",
+    "video": "https://video.twimg.com/amplify_video/2108932273311780865/vid/avc1/1244x720/aknfjxajuQUNhwCg.mp4",
+    "preview": {
+      "asset": "data/media/motion-2108932593911816392.gif",
+      "sourceUrl": "https://x.com/gavinpurcell/status/2108932593911816392",
+      "video": "https://video.twimg.com/amplify_video/2108932273311780865/vid/avc1/1244x720/aknfjxajuQUNhwCg.mp4",
+      "startSeconds": 18,
+      "durationSeconds": 3,
+      "fps": 10,
+      "checkedAt": "2026-10-21"
+    },
+    "mediaSourceCheck": {
+      "method": "chrome-mcp_original_post_syndication",
+      "checkedAt": "2026-10-21",
+      "postMatched": true
+    }
   },
   {
     "id": "2108729269681520726",
@@ -10481,7 +10530,7 @@
     "promptSourceUrl": "https://x.com/YuanXi901019/status/2108569413746335887",
     "promptStatus": "original_post_text_matched",
     "promptCompleteness": "complete_as_published",
-    "status": "collected",
+    "status": "featured",
     "sourceMediaKeys": [
       "2108568545248567296"
     ],
@@ -10495,12 +10544,30 @@
       "promptMatchedSource": true,
       "authorClaimConfirmed": true,
       "videoAttachmentConfirmed": true,
-      "visualQuality": "not_reviewed",
+      "visualQuality": "preview_frames_reviewed",
       "fullReview": false,
       "evidenceQuote": "Opus 5.5通用版快闪视频提示词\n提示词：你是一位拥有顶级审美的前端设计和动效设计专家，请设计一段 20秒的极具音乐律动感的快闪视频，介绍一下**量子力学**这一概念，运用丰富的动效技巧(比如：文字排版、图形变换、3D、粒子、流体形变、色彩变换、数据图表等)。内容主用英文，专有名词带上中文译名。 https://t.co/achkXDZkNi",
       "promptEvidenceQuote": "Opus 5.5通用版快闪视频提示词\n提示词：你是一位拥有顶级审美的前端设计和动效设计专家，请设计一段 20秒的极具音乐律动感的快闪视频，介绍一下**量子力学**这一概念，运用丰富的动效技巧(比如：文字排版、图形变换、3D、粒子、流体形变、色彩变换、数据图表等)。内容主用英文，专有名词带上中文译名。 https://t.co/achkXDZkNi"
     },
-    "notes": "Published task or prompt text was matched against the source post or its prompt reply through Chrome MCP. The posting account, model claim and native motion attachment were checked. Playback quality is not independently reviewed."
+    "notes": "Published task or prompt text was matched against the source post or its prompt reply through Chrome MCP. The posting account, model claim and native motion attachment were checked. Playback quality is not independently reviewed. A three-second native-video GIF excerpt was generated and sampled frames were visually reviewed for the category gallery; this is not a complete video review.",
+    "featuredTitle": "Quantum Mechanics",
+    "featuredTitleZh": "量子力学快闪",
+    "poster": "data/media/motion-2108569413746335887.gif",
+    "video": "https://video.twimg.com/amplify_video/2108568545248567296/vid/avc1/1280x720/wExNglImtrzBDkQt.mp4?tag=14",
+    "preview": {
+      "asset": "data/media/motion-2108569413746335887.gif",
+      "sourceUrl": "https://x.com/YuanXi901019/status/2108569413746335887",
+      "video": "https://video.twimg.com/amplify_video/2108568545248567296/vid/avc1/1280x720/wExNglImtrzBDkQt.mp4?tag=14",
+      "startSeconds": 3,
+      "durationSeconds": 3,
+      "fps": 10,
+      "checkedAt": "2026-10-21"
+    },
+    "mediaSourceCheck": {
+      "method": "chrome-mcp_original_post_syndication",
+      "checkedAt": "2026-10-21",
+      "postMatched": true
+    }
   },
   {
     "id": "2108418928397500487",
@@ -10691,7 +10758,7 @@
     "promptSourceUrl": "https://x.com/kikollan/status/2103578341240639747",
     "promptStatus": "original_post_text_matched",
     "promptCompleteness": "fragment_or_context_dependent",
-    "status": "collected",
+    "status": "featured",
     "sourceMediaKeys": [
       "2103572822542995456"
     ],
@@ -10705,12 +10772,30 @@
       "promptMatchedSource": true,
       "authorClaimConfirmed": true,
       "videoAttachmentConfirmed": true,
-      "visualQuality": "not_reviewed",
+      "visualQuality": "preview_frames_reviewed",
       "fullReview": false,
       "evidenceQuote": "Opus 5.5 es el salto IA más TANGIBLE en 2026.\n\nEscribe animaciones increíbles por sí solo. Y digo escribe porque es todo código… código *inhumano*: todo dibujado con miles de ecuaciones. \n\n¡Probad su juego UMBRAL! 🔮👇 https://t.co/7hHsu1MDSO",
       "promptEvidenceQuote": "El juego lo ha hecho Opus 5.5 (Extra) en tres o cuatro tiradas de unas horas. Lo diseñó, programó y depuró (usó otros agentes).\n\nEs prácticamente one-shot.\n\nMi prompt era simple: haz algo espectacular, mecánicas tipo Hades e inspirado en «Another World» de 1991. ¡Se creativo!"
     },
-    "notes": "Published task or prompt text was matched against the source post or its prompt reply through Chrome MCP. The posting account, model claim and native motion attachment were checked. Playback quality is not independently reviewed. The discovery source labels the published text as a fragment or brief; additional project context or inputs may be required."
+    "notes": "Published task or prompt text was matched against the source post or its prompt reply through Chrome MCP. The posting account, model claim and native motion attachment were checked. Playback quality is not independently reviewed. The discovery source labels the published text as a fragment or brief; additional project context or inputs may be required. A three-second native-video GIF excerpt was generated and sampled frames were visually reviewed for the category gallery; this is not a complete video review.",
+    "featuredTitle": "Umbral",
+    "featuredTitleZh": "Umbral 动作游戏",
+    "poster": "data/media/motion-2103578336018505763.gif",
+    "video": "https://video.twimg.com/amplify_video/2103572822542995456/vid/avc1/960x720/8PVTDiUxueYrZS-k.mp4",
+    "preview": {
+      "asset": "data/media/motion-2103578336018505763.gif",
+      "sourceUrl": "https://x.com/kikollan/status/2103578336018505763",
+      "video": "https://video.twimg.com/amplify_video/2103572822542995456/vid/avc1/960x720/8PVTDiUxueYrZS-k.mp4",
+      "startSeconds": 6,
+      "durationSeconds": 3,
+      "fps": 10,
+      "checkedAt": "2026-10-21"
+    },
+    "mediaSourceCheck": {
+      "method": "chrome-mcp_original_post_syndication",
+      "checkedAt": "2026-10-21",
+      "postMatched": true
+    }
   },
   {
     "id": "2105180179836576206",
@@ -10726,7 +10811,7 @@
     "promptSourceUrl": "https://x.com/Grace_sunnyy/status/2105180285520486816",
     "promptStatus": "original_post_text_matched",
     "promptCompleteness": "complete_as_published",
-    "status": "collected",
+    "status": "featured",
     "sourceMediaKeys": [
       "2105174617463922688"
     ],
@@ -10740,12 +10825,30 @@
       "promptMatchedSource": true,
       "authorClaimConfirmed": true,
       "videoAttachmentConfirmed": true,
-      "visualQuality": "not_reviewed",
+      "visualQuality": "preview_frames_reviewed",
       "fullReview": false,
       "evidenceQuote": "花了1小时10分钟，约 1766 万 Token，8.27美刀的额度，opus 5.5做的一个科普视频。 因为之前的视频项目跑通过Remotion + edge-tts 配音 + Mixkit 配乐 + ffprobe校验这条管线，直接沿用它的做法。所以省了很多token。 https://t.co/fdtmK150Q6",
       "promptEvidenceQuote": "提示词：帮我生成一段约 3 分钟的视频，解释太阳系的各大行星。做科普知识讲解，让高中生都能听得懂，解释完太阳系再讲解银河系的相关知识。画面要炫酷展现出浩瀚的宇宙，配上中英字幕。"
     },
-    "notes": "Published task or prompt text was matched against the source post or its prompt reply through Chrome MCP. The posting account, model claim and native motion attachment were checked. Playback quality is not independently reviewed."
+    "notes": "Published task or prompt text was matched against the source post or its prompt reply through Chrome MCP. The posting account, model claim and native motion attachment were checked. Playback quality is not independently reviewed. A three-second native-video GIF excerpt was generated and sampled frames were visually reviewed for the category gallery; this is not a complete video review.",
+    "featuredTitle": "Solar System & Milky Way",
+    "featuredTitleZh": "太阳系与银河系",
+    "poster": "data/media/motion-2105180179836576206.gif",
+    "video": "https://video.twimg.com/amplify_video/2105174617463922688/vid/avc1/1280x720/0JWd29gKwg80Mp_j.mp4?tag=14",
+    "preview": {
+      "asset": "data/media/motion-2105180179836576206.gif",
+      "sourceUrl": "https://x.com/Grace_sunnyy/status/2105180179836576206",
+      "video": "https://video.twimg.com/amplify_video/2105174617463922688/vid/avc1/1280x720/0JWd29gKwg80Mp_j.mp4?tag=14",
+      "startSeconds": 55,
+      "durationSeconds": 3,
+      "fps": 10,
+      "checkedAt": "2026-10-21"
+    },
+    "mediaSourceCheck": {
+      "method": "chrome-mcp_original_post_syndication",
+      "checkedAt": "2026-10-21",
+      "postMatched": true
+    }
   },
   {
     "id": "2104468704490909880",
@@ -11147,7 +11250,7 @@
     "promptSourceUrl": "https://x.com/keydol123/status/2108501256067285443",
     "promptStatus": "original_post_text_matched",
     "promptCompleteness": "complete_as_published",
-    "status": "collected",
+    "status": "featured",
     "sourceMediaKeys": [
       "2108501142254862336"
     ],
@@ -11161,12 +11264,30 @@
       "promptMatchedSource": true,
       "authorClaimConfirmed": true,
       "videoAttachmentConfirmed": true,
-      "visualQuality": "not_reviewed",
+      "visualQuality": "preview_frames_reviewed",
       "fullReview": false,
       "evidenceQuote": "GPT-6 Astra vs Claude Opus 5.5\n\nSame prompt: \"Build an interactive keyboard made of honey.\"\n\nGPT-6 made something that looks more like jelly \n\nOpus actually nailed the honey look\n\nAstra: $10.67\nOpus: $12.48\nWhich one wins? https://t.co/vUD98S4sXT",
       "promptEvidenceQuote": "GPT-6 Astra vs Claude Opus 5.5\n\nSame prompt: \"Build an interactive keyboard made of honey.\"\n\nGPT-6 made something that looks more like jelly \n\nOpus actually nailed the honey look\n\nAstra: $10.67\nOpus: $12.48\nWhich one wins? https://t.co/vUD98S4sXT"
     },
-    "notes": "Published task or prompt text was matched against the source post or its prompt reply through Chrome MCP. The posting account, model claim and native motion attachment were checked. Playback quality is not independently reviewed. This comparison is counted once, with all explicitly identified models credited. Unspecified model versions remain unspecified."
+    "notes": "Published task or prompt text was matched against the source post or its prompt reply through Chrome MCP. The posting account, model claim and native motion attachment were checked. Playback quality is not independently reviewed. This comparison is counted once, with all explicitly identified models credited. Unspecified model versions remain unspecified. A three-second native-video GIF excerpt was generated and sampled frames were visually reviewed for the category gallery; this is not a complete video review.",
+    "featuredTitle": "Honey Keyboard",
+    "featuredTitleZh": "蜂蜜键盘",
+    "poster": "data/media/motion-2108501256067285443.gif",
+    "video": "https://video.twimg.com/amplify_video/2108501142254862336/vid/avc1/848x720/VLjqNY0oYUDSC7Qm.mp4",
+    "preview": {
+      "asset": "data/media/motion-2108501256067285443.gif",
+      "sourceUrl": "https://x.com/keydol123/status/2108501256067285443",
+      "video": "https://video.twimg.com/amplify_video/2108501142254862336/vid/avc1/848x720/VLjqNY0oYUDSC7Qm.mp4",
+      "startSeconds": 8,
+      "durationSeconds": 3,
+      "fps": 10,
+      "checkedAt": "2026-10-21"
+    },
+    "mediaSourceCheck": {
+      "method": "chrome-mcp_original_post_syndication",
+      "checkedAt": "2026-10-21",
+      "postMatched": true
+    }
   },
   {
     "id": "2108438685184401904",
@@ -11467,7 +11588,7 @@
     "promptSourceUrl": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f/prompts/pound75423-464968.md",
     "promptStatus": "upstream_transcribed",
     "promptCompleteness": "complete_as_reported_by_upstream",
-    "status": "collected",
+    "status": "featured",
     "discoveryUrl": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f/prompts/pound75423-464968.md",
     "verification": {
       "method": "upstream_collection_reuse",
@@ -11475,12 +11596,34 @@
       "originalPostConfirmed": false,
       "promptMatchedSource": false,
       "authorClaimConfirmed": false,
-      "visualQuality": "not_reviewed",
+      "visualQuality": "preview_frames_reviewed",
       "fullReview": false,
       "upstreamPromptPartial": false,
-      "upstreamCommit": "92aee2f"
+      "upstreamCommit": "92aee2f",
+      "videoAttachmentConfirmed": true
     },
-    "notes": "Selected from the upstream prompt collection for its concrete creative direction. Prompt text and its completeness label are inherited from that collection; this import does not independently confirm the original post, model attribution, result fidelity or visual quality. Referenced files, music, images and project context are not bundled. Upstream remake technology tags are not treated as tools used by the original creator."
+    "notes": "Selected from the upstream prompt collection for its concrete creative direction. Prompt text and its completeness label are inherited from that collection; this import does not independently confirm the original post, model attribution, result fidelity or visual quality. Referenced files, music, images and project context are not bundled. Upstream remake technology tags are not treated as tools used by the original creator. A three-second native-video GIF excerpt was generated and sampled frames were visually reviewed for the category gallery; this is not a complete video review.",
+    "featuredTitle": "Psychedelic Glitch MV",
+    "featuredTitleZh": "迷幻故障音乐视频",
+    "poster": "data/media/motion-2103722556918464968.gif",
+    "video": "https://video.twimg.com/amplify_video/2103721284228263936/vid/avc1/1280x720/8a-tACh-vIITNipD.mp4",
+    "preview": {
+      "asset": "data/media/motion-2103722556918464968.gif",
+      "sourceUrl": "https://x.com/pound75423/status/2103722556918464968",
+      "video": "https://video.twimg.com/amplify_video/2103721284228263936/vid/avc1/1280x720/8a-tACh-vIITNipD.mp4",
+      "startSeconds": 18,
+      "durationSeconds": 3,
+      "fps": 10,
+      "checkedAt": "2026-10-21"
+    },
+    "sourceMediaKeys": [
+      "2103721284228263936"
+    ],
+    "mediaSourceCheck": {
+      "method": "chrome-mcp_original_post_syndication",
+      "checkedAt": "2026-10-21",
+      "postMatched": true
+    }
   },
   {
     "id": "2103112385380667455",
@@ -11583,7 +11726,7 @@
     "promptSourceUrl": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f/prompts/aichrislee-476025.md",
     "promptStatus": "upstream_transcribed",
     "promptCompleteness": "complete_as_reported_by_upstream",
-    "status": "collected",
+    "status": "featured",
     "discoveryUrl": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f/prompts/aichrislee-476025.md",
     "verification": {
       "method": "upstream_collection_reuse",
@@ -11591,12 +11734,34 @@
       "originalPostConfirmed": false,
       "promptMatchedSource": false,
       "authorClaimConfirmed": false,
-      "visualQuality": "not_reviewed",
+      "visualQuality": "preview_frames_reviewed",
       "fullReview": false,
       "upstreamPromptPartial": false,
-      "upstreamCommit": "92aee2f"
+      "upstreamCommit": "92aee2f",
+      "videoAttachmentConfirmed": true
     },
-    "notes": "Selected from the upstream prompt collection for its concrete creative direction. Prompt text and its completeness label are inherited from that collection; this import does not independently confirm the original post, model attribution, result fidelity or visual quality. Referenced files, music, images and project context are not bundled. Upstream remake technology tags are not treated as tools used by the original creator."
+    "notes": "Selected from the upstream prompt collection for its concrete creative direction. Prompt text and its completeness label are inherited from that collection; this import does not independently confirm the original post, model attribution, result fidelity or visual quality. Referenced files, music, images and project context are not bundled. Upstream remake technology tags are not treated as tools used by the original creator. A three-second native-video GIF excerpt was generated and sampled frames were visually reviewed for the category gallery; this is not a complete video review.",
+    "featuredTitle": "Mechanical Watch",
+    "featuredTitleZh": "机械腕表拆解",
+    "poster": "data/media/motion-2107622585307476025.gif",
+    "video": "https://video.twimg.com/ext_tw_video/2107622430797672448/pu/vid/avc1/1280x720/obKTm3lLYdL2E8xI.mp4?tag=12",
+    "preview": {
+      "asset": "data/media/motion-2107622585307476025.gif",
+      "sourceUrl": "https://x.com/aichrislee/status/2107622585307476025",
+      "video": "https://video.twimg.com/ext_tw_video/2107622430797672448/pu/vid/avc1/1280x720/obKTm3lLYdL2E8xI.mp4?tag=12",
+      "startSeconds": 7,
+      "durationSeconds": 3,
+      "fps": 10,
+      "checkedAt": "2026-10-21"
+    },
+    "sourceMediaKeys": [
+      "2107622430797672448"
+    ],
+    "mediaSourceCheck": {
+      "method": "chrome-mcp_original_post_syndication",
+      "checkedAt": "2026-10-21",
+      "postMatched": true
+    }
   },
   {
     "id": "2109187815195992248",
@@ -11815,7 +11980,7 @@
     "promptSourceUrl": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f/prompts/kopert0x-098349.md",
     "promptStatus": "upstream_transcribed",
     "promptCompleteness": "complete_as_reported_by_upstream",
-    "status": "collected",
+    "status": "featured",
     "discoveryUrl": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f/prompts/kopert0x-098349.md",
     "verification": {
       "method": "upstream_collection_reuse",
@@ -11823,12 +11988,34 @@
       "originalPostConfirmed": false,
       "promptMatchedSource": false,
       "authorClaimConfirmed": false,
-      "visualQuality": "not_reviewed",
+      "visualQuality": "preview_frames_reviewed",
       "fullReview": false,
       "upstreamPromptPartial": false,
-      "upstreamCommit": "92aee2f"
+      "upstreamCommit": "92aee2f",
+      "videoAttachmentConfirmed": true
     },
-    "notes": "Selected from the upstream prompt collection for its concrete creative direction. Prompt text and its completeness label are inherited from that collection; this import does not independently confirm the original post, model attribution, result fidelity or visual quality. Referenced files, music, images and project context are not bundled. Upstream remake technology tags are not treated as tools used by the original creator."
+    "notes": "Selected from the upstream prompt collection for its concrete creative direction. Prompt text and its completeness label are inherited from that collection; this import does not independently confirm the original post, model attribution, result fidelity or visual quality. Referenced files, music, images and project context are not bundled. Upstream remake technology tags are not treated as tools used by the original creator. A three-second native-video GIF excerpt was generated and sampled frames were visually reviewed for the category gallery; this is not a complete video review.",
+    "featuredTitle": "The Last Piano",
+    "featuredTitleZh": "最后一架钢琴",
+    "poster": "data/media/motion-2104961082880098349.gif",
+    "video": "https://video.twimg.com/amplify_video/2104960378710974464/vid/avc1/1280x720/GRa16fZWTyzT-sYw.mp4",
+    "preview": {
+      "asset": "data/media/motion-2104961082880098349.gif",
+      "sourceUrl": "https://x.com/kopert0x/status/2104961082880098349",
+      "video": "https://video.twimg.com/amplify_video/2104960378710974464/vid/avc1/1280x720/GRa16fZWTyzT-sYw.mp4",
+      "startSeconds": 45,
+      "durationSeconds": 3,
+      "fps": 10,
+      "checkedAt": "2026-10-21"
+    },
+    "sourceMediaKeys": [
+      "2104960378710974464"
+    ],
+    "mediaSourceCheck": {
+      "method": "chrome-mcp_original_post_syndication",
+      "checkedAt": "2026-10-21",
+      "postMatched": true
+    }
   },
   {
     "id": "2104257855142474136",
@@ -11844,7 +12031,7 @@
     "promptSourceUrl": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f/prompts/0xcodez-474136.md",
     "promptStatus": "upstream_transcribed",
     "promptCompleteness": "complete_as_reported_by_upstream",
-    "status": "collected",
+    "status": "featured",
     "discoveryUrl": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f/prompts/0xcodez-474136.md",
     "verification": {
       "method": "upstream_collection_reuse",
@@ -11852,12 +12039,34 @@
       "originalPostConfirmed": false,
       "promptMatchedSource": false,
       "authorClaimConfirmed": false,
-      "visualQuality": "not_reviewed",
+      "visualQuality": "preview_frames_reviewed",
       "fullReview": false,
       "upstreamPromptPartial": false,
-      "upstreamCommit": "92aee2f"
+      "upstreamCommit": "92aee2f",
+      "videoAttachmentConfirmed": true
     },
-    "notes": "Selected from the upstream prompt collection for its concrete creative direction. Prompt text and its completeness label are inherited from that collection; this import does not independently confirm the original post, model attribution, result fidelity or visual quality. Referenced files, music, images and project context are not bundled. Upstream remake technology tags are not treated as tools used by the original creator."
+    "notes": "Selected from the upstream prompt collection for its concrete creative direction. Prompt text and its completeness label are inherited from that collection; this import does not independently confirm the original post, model attribution, result fidelity or visual quality. Referenced files, music, images and project context are not bundled. Upstream remake technology tags are not treated as tools used by the original creator. A three-second native-video GIF excerpt was generated and sampled frames were visually reviewed for the category gallery; this is not a complete video review.",
+    "featuredTitle": "Crayon Cat Piano",
+    "featuredTitleZh": "蜡笔猫咪钢琴演奏",
+    "poster": "data/media/motion-2104257855142474136.gif",
+    "video": "https://video.twimg.com/amplify_video/2104257474060517377/vid/avc1/1242x720/5bWsco4CVBrl0GAx.mp4",
+    "preview": {
+      "asset": "data/media/motion-2104257855142474136.gif",
+      "sourceUrl": "https://x.com/0xCodez/status/2104257855142474136",
+      "video": "https://video.twimg.com/amplify_video/2104257474060517377/vid/avc1/1242x720/5bWsco4CVBrl0GAx.mp4",
+      "startSeconds": 15,
+      "durationSeconds": 3,
+      "fps": 10,
+      "checkedAt": "2026-10-21"
+    },
+    "sourceMediaKeys": [
+      "2104257474060517377"
+    ],
+    "mediaSourceCheck": {
+      "method": "chrome-mcp_original_post_syndication",
+      "checkedAt": "2026-10-21",
+      "postMatched": true
+    }
   },
   {
     "id": "2103760245764092323",
@@ -12018,7 +12227,7 @@
     "promptSourceUrl": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f/prompts/gdgtify-929495.md",
     "promptStatus": "upstream_transcribed",
     "promptCompleteness": "complete_as_reported_by_upstream",
-    "status": "collected",
+    "status": "featured",
     "discoveryUrl": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f/prompts/gdgtify-929495.md",
     "verification": {
       "method": "upstream_collection_reuse",
@@ -12026,12 +12235,34 @@
       "originalPostConfirmed": false,
       "promptMatchedSource": false,
       "authorClaimConfirmed": false,
-      "visualQuality": "not_reviewed",
+      "visualQuality": "preview_frames_reviewed",
       "fullReview": false,
       "upstreamPromptPartial": false,
-      "upstreamCommit": "92aee2f"
+      "upstreamCommit": "92aee2f",
+      "videoAttachmentConfirmed": true
     },
-    "notes": "Selected from the upstream prompt collection for its concrete creative direction. Prompt text and its completeness label are inherited from that collection; this import does not independently confirm the original post, model attribution, result fidelity or visual quality. Referenced files, music, images and project context are not bundled. Upstream remake technology tags are not treated as tools used by the original creator."
+    "notes": "Selected from the upstream prompt collection for its concrete creative direction. Prompt text and its completeness label are inherited from that collection; this import does not independently confirm the original post, model attribution, result fidelity or visual quality. Referenced files, music, images and project context are not bundled. Upstream remake technology tags are not treated as tools used by the original creator. A three-second native-video GIF excerpt was generated and sampled frames were visually reviewed for the category gallery; this is not a complete video review.",
+    "featuredTitle": "Build the Floor",
+    "featuredTitleZh": "文字筑成舞台",
+    "poster": "data/media/motion-2103458245213929495.gif",
+    "video": "https://video.twimg.com/amplify_video/2103442907357233152/vid/avc1/720x720/vG5fMri0xlous-L1.mp4",
+    "preview": {
+      "asset": "data/media/motion-2103458245213929495.gif",
+      "sourceUrl": "https://x.com/Gdgtify/status/2103458245213929495",
+      "video": "https://video.twimg.com/amplify_video/2103442907357233152/vid/avc1/720x720/vG5fMri0xlous-L1.mp4",
+      "startSeconds": 6.6,
+      "durationSeconds": 3,
+      "fps": 10,
+      "checkedAt": "2026-10-21"
+    },
+    "sourceMediaKeys": [
+      "2103442907357233152"
+    ],
+    "mediaSourceCheck": {
+      "method": "chrome-mcp_original_post_syndication",
+      "checkedAt": "2026-10-21",
+      "postMatched": true
+    }
   },
   {
     "id": "2102888241443795431",
@@ -12463,7 +12694,7 @@
   {
     "id": "2097153139795468365",
     "title": "Exploded-view animation of a Japanese flower shop",
-    "author": "KANA｜東京AI映像",
+    "author": "KanaWorks_AI",
     "sourceUrl": "https://x.com/KanaWorks_AI/status/2097153139795468365",
     "platform": "X",
     "model": "GPT-6 Astra",
@@ -12474,7 +12705,7 @@
     "promptSourceUrl": "https://github.com/mikenevermiss/motionpromptgallery/blob/19ba3f6/data/items.json",
     "promptStatus": "upstream_transcribed",
     "promptCompleteness": "not_independently_assessed",
-    "status": "collected",
+    "status": "featured",
     "discoveryUrl": "https://github.com/mikenevermiss/motionpromptgallery/blob/19ba3f6/data/items.json",
     "verification": {
       "method": "upstream_collection_reuse",
@@ -12482,11 +12713,34 @@
       "originalPostConfirmed": false,
       "promptMatchedSource": false,
       "authorClaimConfirmed": false,
-      "visualQuality": "not_reviewed",
+      "visualQuality": "preview_frames_reviewed",
       "fullReview": false,
-      "upstreamCommit": "19ba3f6"
+      "upstreamCommit": "19ba3f6",
+      "videoAttachmentConfirmed": true
     },
-    "notes": "Selected from the upstream prompt collection for its concrete creative direction. Prompt text is inherited from that collection; completeness is not independently assessed and any referenced inputs may be required; this import does not independently confirm the original post, model attribution, result fidelity or visual quality. Referenced files, music, images and project context are not bundled. Original upstream source notes are retained below. Upstream notes: Prompt verbatim from the creator's X post (\"GPT-6 Astra ✖️ Blender MCP\", Prompt Share 175). Preview clip and poster from the creator's own video in the X post (re-encoded excerpt)."
+    "notes": "Selected from the upstream prompt collection for its concrete creative direction. Prompt text is inherited from that collection; completeness is not independently assessed and any referenced inputs may be required; this import does not independently confirm the original post, model attribution, result fidelity or visual quality. Referenced files, music, images and project context are not bundled. Original upstream source notes are retained below. Upstream notes: Prompt verbatim from the creator's X post (\"GPT-6 Astra ✖️ Blender MCP\", Prompt Share 175). Preview clip and poster from the creator's own video in the X post (re-encoded excerpt). A three-second native-video GIF excerpt was generated and sampled frames were visually reviewed for the category gallery; this is not a complete video review.",
+    "featuredTitle": "Japanese Flower Shop",
+    "featuredTitleZh": "日式花店拆解",
+    "poster": "data/media/motion-2097153139795468365.gif",
+    "video": "https://video.twimg.com/amplify_video/2097151136155553792/vid/avc1/720x720/UvDe2Ng7kBn8L__E.mp4",
+    "preview": {
+      "asset": "data/media/motion-2097153139795468365.gif",
+      "sourceUrl": "https://x.com/KanaWorks_AI/status/2097153139795468365",
+      "video": "https://video.twimg.com/amplify_video/2097151136155553792/vid/avc1/720x720/UvDe2Ng7kBn8L__E.mp4",
+      "startSeconds": 3,
+      "durationSeconds": 3,
+      "fps": 10,
+      "checkedAt": "2026-10-21"
+    },
+    "sourceMediaKeys": [
+      "2097151136155553792"
+    ],
+    "mediaSourceCheck": {
+      "method": "chrome-mcp_original_post_syndication",
+      "checkedAt": "2026-10-21",
+      "postMatched": true
+    },
+    "creatorName": "KANA｜東京AI映像"
   },
   {
     "id": "2096040448477515874",
@@ -13128,7 +13382,7 @@
     "promptSourceUrl": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f/prompts/cryptowluha-060792.md",
     "promptStatus": "upstream_transcribed",
     "promptCompleteness": "complete_as_reported_by_upstream",
-    "status": "collected",
+    "status": "featured",
     "discoveryUrl": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f/prompts/cryptowluha-060792.md",
     "verification": {
       "method": "upstream_collection_reuse",
@@ -13136,12 +13390,34 @@
       "originalPostConfirmed": false,
       "promptMatchedSource": false,
       "authorClaimConfirmed": false,
-      "visualQuality": "not_reviewed",
+      "visualQuality": "preview_frames_reviewed",
       "fullReview": false,
       "upstreamPromptPartial": false,
-      "upstreamCommit": "92aee2f"
+      "upstreamCommit": "92aee2f",
+      "videoAttachmentConfirmed": true
     },
-    "notes": "Selected from the upstream prompt collection for its concrete creative direction. Prompt text and its completeness label are inherited from that collection; this import does not independently confirm the original post, model attribution, result fidelity or visual quality. Referenced files, music, images and project context are not bundled. Upstream remake technology tags are not treated as tools used by the original creator."
+    "notes": "Selected from the upstream prompt collection for its concrete creative direction. Prompt text and its completeness label are inherited from that collection; this import does not independently confirm the original post, model attribution, result fidelity or visual quality. Referenced files, music, images and project context are not bundled. Upstream remake technology tags are not treated as tools used by the original creator. A three-second native-video GIF excerpt was generated and sampled frames were visually reviewed for the category gallery; this is not a complete video review.",
+    "featuredTitle": "Sketch to House",
+    "featuredTitleZh": "铅笔草图长成房屋",
+    "poster": "data/media/motion-2108253385829060792.gif",
+    "video": "https://video.twimg.com/amplify_video/2105788774680518656/vid/avc1/1086x720/OgWT18GDQJZHCD0g.mp4",
+    "preview": {
+      "asset": "data/media/motion-2108253385829060792.gif",
+      "sourceUrl": "https://x.com/cryptowluha/status/2108253385829060792",
+      "video": "https://video.twimg.com/amplify_video/2105788774680518656/vid/avc1/1086x720/OgWT18GDQJZHCD0g.mp4",
+      "startSeconds": 8,
+      "durationSeconds": 3,
+      "fps": 10,
+      "checkedAt": "2026-10-21"
+    },
+    "sourceMediaKeys": [
+      "2105788774680518656"
+    ],
+    "mediaSourceCheck": {
+      "method": "chrome-mcp_original_post_syndication",
+      "checkedAt": "2026-10-21",
+      "postMatched": true
+    }
   },
   {
     "id": "2108249741125443662",
@@ -14655,30 +14931,57 @@
     "id": "2103742110747054506",
     "title": "Vertical lyric video with title-card typography",
     "author": "kurahu_capten",
-    "sourceUrl": "https://x.com/kurahu_capten/status/2103742110747054506",
+    "sourceUrl": "https://x.com/kurahu_capten/status/2103741636635496583",
     "platform": "X",
     "model": "Claude Opus 5.5",
-    "modelStatus": "directory_reported",
+    "modelStatus": "author_claimed",
     "primaryCategory": "music-audiovisual",
-    "prompt": "Create a vertical lyric video featuring the lyrics as the main character. Sync the lyrics perfectly with the song. Use an Evangelion title card style. Show me the direction plan before making it.",
+    "prompt": "曲と歌詞で、歌詞を主役にした縦長のリリックビデオを作って。歌詞は歌にぴったり合わせて、エヴァのタイトルカード風で。作る前に演出の案を見せて",
     "promptFile": "prompts/motion-2103742110747054506.md",
-    "promptSourceUrl": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f/prompts/kurahu-capten-054506.md",
-    "promptStatus": "upstream_transcribed",
+    "promptSourceUrl": "https://x.com/kurahu_capten/status/2103742110747054506",
+    "promptStatus": "original_post_text_matched",
     "promptCompleteness": "complete_as_reported_by_upstream",
-    "status": "collected",
+    "status": "featured",
     "discoveryUrl": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f/prompts/kurahu-capten-054506.md",
     "verification": {
-      "method": "upstream_collection_reuse",
+      "method": "chrome-mcp_original_work_and_author_prompt_reply",
       "importedAt": "2026-10-21",
-      "originalPostConfirmed": false,
-      "promptMatchedSource": false,
-      "authorClaimConfirmed": false,
-      "visualQuality": "not_reviewed",
+      "originalPostConfirmed": true,
+      "promptMatchedSource": true,
+      "authorClaimConfirmed": true,
+      "visualQuality": "preview_frames_reviewed",
       "fullReview": false,
       "upstreamPromptPartial": false,
-      "upstreamCommit": "92aee2f"
+      "upstreamCommit": "92aee2f",
+      "checkedAt": "2026-10-21",
+      "videoAttachmentConfirmed": true
     },
-    "notes": "Selected from the upstream prompt collection for its concrete creative direction. Prompt text and its completeness label are inherited from that collection; this import does not independently confirm the original post, model attribution, result fidelity or visual quality. Referenced files, music, images and project context are not bundled. Upstream remake technology tags are not treated as tools used by the original creator."
+    "notes": "The main work post and its author prompt reply were checked through Chrome MCP and consolidated as one work. The Japanese task was matched against the reply; the prior English collection transcription is retained separately as a translation. Referenced song and lyrics are not bundled. Playback quality was not independently reviewed. A three-second native-video GIF excerpt was generated and sampled frames were visually reviewed for the category gallery; this is not a complete video review.",
+    "upstreamEnglishPrompt": "Create a vertical lyric video featuring the lyrics as the main character. Sync the lyrics perfectly with the song. Use an Evangelion title card style. Show me the direction plan before making it.",
+    "additionalDiscoveryUrls": [
+      "https://github.com/guanmo-ai/awesome-ai-motion/blob/6e2c040/data/cases.json"
+    ],
+    "featuredTitle": "Kinetic Lyric Video",
+    "featuredTitleZh": "节奏歌词动效",
+    "poster": "data/media/motion-2103742110747054506.gif",
+    "video": "https://video.twimg.com/amplify_video/2103732984562208768/vid/avc1/720x1280/lX8T3zXiLdqSr2BJ.mp4",
+    "preview": {
+      "asset": "data/media/motion-2103742110747054506.gif",
+      "sourceUrl": "https://x.com/kurahu_capten/status/2103741636635496583",
+      "video": "https://video.twimg.com/amplify_video/2103732984562208768/vid/avc1/720x1280/lX8T3zXiLdqSr2BJ.mp4",
+      "startSeconds": 10,
+      "durationSeconds": 3,
+      "fps": 10,
+      "checkedAt": "2026-10-21"
+    },
+    "sourceMediaKeys": [
+      "2103732984562208768"
+    ],
+    "mediaSourceCheck": {
+      "method": "chrome-mcp_original_post_syndication",
+      "checkedAt": "2026-10-21",
+      "postMatched": true
+    }
   },
   {
     "id": "2103679243196719199",
@@ -16702,7 +17005,7 @@
     "promptSourceUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2108159248148611292",
     "promptStatus": "upstream_transcribed",
     "promptCompleteness": "not_independently_assessed",
-    "status": "collected",
+    "status": "featured",
     "discoveryUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2108159248148611292",
     "verification": {
       "method": "upstream_collection_reuse",
@@ -16710,12 +17013,34 @@
       "originalPostConfirmed": false,
       "promptMatchedSource": false,
       "authorClaimConfirmed": false,
-      "visualQuality": "not_reviewed",
+      "visualQuality": "preview_frames_reviewed",
       "fullReview": false,
       "upstreamCommit": "aa5414d",
-      "promptPageReadThrough": "Chrome MCP"
+      "promptPageReadThrough": "Chrome MCP",
+      "videoAttachmentConfirmed": true
     },
-    "notes": "Selected from the upstream prompt collection for its concrete creative direction. Prompt text was read from the public upstream prompt page through Chrome MCP; completeness is not independently assessed and any referenced inputs may be required; this import does not independently confirm the original post, model attribution, result fidelity or visual quality. Referenced files, music, images and project context are not bundled. Original upstream source notes are retained below. Upstream notes: Original prompt source credited upstream: https://x.com/LexnLin/status/2108167332962902349. "
+    "notes": "Selected from the upstream prompt collection for its concrete creative direction. Prompt text was read from the public upstream prompt page through Chrome MCP; completeness is not independently assessed and any referenced inputs may be required; this import does not independently confirm the original post, model attribution, result fidelity or visual quality. Referenced files, music, images and project context are not bundled. Original upstream source notes are retained below. Upstream notes: Original prompt source credited upstream: https://x.com/LexnLin/status/2108167332962902349.  A three-second native-video GIF excerpt was generated and sampled frames were visually reviewed for the category gallery; this is not a complete video review.",
+    "featuredTitle": "Weather in a Glass Box",
+    "featuredTitleZh": "玻璃箱里的天气",
+    "poster": "data/media/motion-2108159248148611292.gif",
+    "video": "https://video.twimg.com/amplify_video/2108158525599789057/vid/avc1/1280x720/BSShAIF6VWAY62zY.mp4",
+    "preview": {
+      "asset": "data/media/motion-2108159248148611292.gif",
+      "sourceUrl": "https://x.com/LexnLin/status/2108159248148611292",
+      "video": "https://video.twimg.com/amplify_video/2108158525599789057/vid/avc1/1280x720/BSShAIF6VWAY62zY.mp4",
+      "startSeconds": 18,
+      "durationSeconds": 3,
+      "fps": 10,
+      "checkedAt": "2026-10-21"
+    },
+    "sourceMediaKeys": [
+      "2108158525599789057"
+    ],
+    "mediaSourceCheck": {
+      "method": "chrome-mcp_original_post_syndication",
+      "checkedAt": "2026-10-21",
+      "postMatched": true
+    }
   },
   {
     "id": "2107696042053431360",
@@ -16905,7 +17230,7 @@
     "promptSourceUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2112184796419883354",
     "promptStatus": "upstream_transcribed",
     "promptCompleteness": "not_independently_assessed",
-    "status": "collected",
+    "status": "featured",
     "discoveryUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2112184796419883354",
     "verification": {
       "method": "upstream_collection_reuse",
@@ -16913,12 +17238,34 @@
       "originalPostConfirmed": false,
       "promptMatchedSource": false,
       "authorClaimConfirmed": false,
-      "visualQuality": "not_reviewed",
+      "visualQuality": "preview_frames_reviewed",
       "fullReview": false,
       "upstreamCommit": "aa5414d",
-      "promptPageReadThrough": "Chrome MCP"
+      "promptPageReadThrough": "Chrome MCP",
+      "videoAttachmentConfirmed": true
     },
-    "notes": "Selected from the upstream prompt collection for its concrete creative direction. Prompt text was read from the public upstream prompt page through Chrome MCP; completeness is not independently assessed and any referenced inputs may be required; this import does not independently confirm the original post, model attribution, result fidelity or visual quality. Referenced files, music, images and project context are not bundled. Original upstream source notes are retained below. Upstream notes: Original prompt source credited upstream: https://x.com/MrTacticalX/status/2112306651709739225. This is one comparison work, counted once."
+    "notes": "Selected from the upstream prompt collection for its concrete creative direction. Prompt text was read from the public upstream prompt page through Chrome MCP; completeness is not independently assessed and any referenced inputs may be required; this import does not independently confirm the original post, model attribution, result fidelity or visual quality. Referenced files, music, images and project context are not bundled. Original upstream source notes are retained below. Upstream notes: Original prompt source credited upstream: https://x.com/MrTacticalX/status/2112306651709739225. This is one comparison work, counted once. A three-second native-video GIF excerpt was generated and sampled frames were visually reviewed for the category gallery; this is not a complete video review.",
+    "featuredTitle": "Storm in a Bottle",
+    "featuredTitleZh": "瓶中风暴",
+    "poster": "data/media/motion-2112184796419883354.gif",
+    "video": "https://video.twimg.com/amplify_video/2112184518857641984/vid/avc1/1280x720/jrRw7JZ91JZFzlt_.mp4",
+    "preview": {
+      "asset": "data/media/motion-2112184796419883354.gif",
+      "sourceUrl": "https://x.com/MrTacticalX/status/2112184796419883354",
+      "video": "https://video.twimg.com/amplify_video/2112184518857641984/vid/avc1/1280x720/jrRw7JZ91JZFzlt_.mp4",
+      "startSeconds": 6,
+      "durationSeconds": 3,
+      "fps": 10,
+      "checkedAt": "2026-10-21"
+    },
+    "sourceMediaKeys": [
+      "2112184518857641984"
+    ],
+    "mediaSourceCheck": {
+      "method": "chrome-mcp_original_post_syndication",
+      "checkedAt": "2026-10-21",
+      "postMatched": true
+    }
   },
   {
     "id": "2109993586951663626",
@@ -16934,7 +17281,7 @@
     "promptSourceUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109993586951663626",
     "promptStatus": "upstream_transcribed",
     "promptCompleteness": "not_independently_assessed",
-    "status": "collected",
+    "status": "featured",
     "discoveryUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109993586951663626",
     "verification": {
       "method": "upstream_collection_reuse",
@@ -16942,12 +17289,34 @@
       "originalPostConfirmed": false,
       "promptMatchedSource": false,
       "authorClaimConfirmed": false,
-      "visualQuality": "not_reviewed",
+      "visualQuality": "preview_frames_reviewed",
       "fullReview": false,
       "upstreamCommit": "aa5414d",
-      "promptPageReadThrough": "Chrome MCP"
+      "promptPageReadThrough": "Chrome MCP",
+      "videoAttachmentConfirmed": true
     },
-    "notes": "Selected from the upstream prompt collection for its concrete creative direction. Prompt text was read from the public upstream prompt page through Chrome MCP; completeness is not independently assessed and any referenced inputs may be required; this import does not independently confirm the original post, model attribution, result fidelity or visual quality. Referenced files, music, images and project context are not bundled. Original upstream source notes are retained below. Upstream notes: Original prompt source credited upstream: https://x.com/HeyAbhishek/status/2109993619381961069. "
+    "notes": "Selected from the upstream prompt collection for its concrete creative direction. Prompt text was read from the public upstream prompt page through Chrome MCP; completeness is not independently assessed and any referenced inputs may be required; this import does not independently confirm the original post, model attribution, result fidelity or visual quality. Referenced files, music, images and project context are not bundled. Original upstream source notes are retained below. Upstream notes: Original prompt source credited upstream: https://x.com/HeyAbhishek/status/2109993619381961069.  A three-second native-video GIF excerpt was generated and sampled frames were visually reviewed for the category gallery; this is not a complete video review.",
+    "featuredTitle": "Koda & the Giant Peach",
+    "featuredTitleZh": "小熊猫与巨桃",
+    "poster": "data/media/motion-2109993586951663626.gif",
+    "video": "https://video.twimg.com/amplify_video/2109993561349599232/vid/avc1/720x800/uU5I8icu2dTvSY0m.mp4?tag=16",
+    "preview": {
+      "asset": "data/media/motion-2109993586951663626.gif",
+      "sourceUrl": "https://x.com/HeyAbhishek/status/2109993586951663626",
+      "video": "https://video.twimg.com/amplify_video/2109993561349599232/vid/avc1/720x800/uU5I8icu2dTvSY0m.mp4?tag=16",
+      "startSeconds": 6,
+      "durationSeconds": 3,
+      "fps": 10,
+      "checkedAt": "2026-10-21"
+    },
+    "sourceMediaKeys": [
+      "2109993561349599232"
+    ],
+    "mediaSourceCheck": {
+      "method": "chrome-mcp_original_post_syndication",
+      "checkedAt": "2026-10-21",
+      "postMatched": true
+    }
   },
   {
     "id": "2102827887732932956",
@@ -17021,7 +17390,7 @@
     "promptSourceUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110001964402831512",
     "promptStatus": "upstream_transcribed",
     "promptCompleteness": "not_independently_assessed",
-    "status": "collected",
+    "status": "featured",
     "discoveryUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110001964402831512",
     "verification": {
       "method": "upstream_collection_reuse",
@@ -17029,12 +17398,34 @@
       "originalPostConfirmed": false,
       "promptMatchedSource": false,
       "authorClaimConfirmed": false,
-      "visualQuality": "not_reviewed",
+      "visualQuality": "preview_frames_reviewed",
       "fullReview": false,
       "upstreamCommit": "aa5414d",
-      "promptPageReadThrough": "Chrome MCP"
+      "promptPageReadThrough": "Chrome MCP",
+      "videoAttachmentConfirmed": true
     },
-    "notes": "Selected from the upstream prompt collection for its concrete creative direction. Prompt text was read from the public upstream prompt page through Chrome MCP; completeness is not independently assessed and any referenced inputs may be required; this import does not independently confirm the original post, model attribution, result fidelity or visual quality. Referenced files, music, images and project context are not bundled. Original upstream source notes are retained below. Upstream notes: Original prompt source credited upstream: https://x.com/minchoi/status/2110001968080957534. "
+    "notes": "Selected from the upstream prompt collection for its concrete creative direction. Prompt text was read from the public upstream prompt page through Chrome MCP; completeness is not independently assessed and any referenced inputs may be required; this import does not independently confirm the original post, model attribution, result fidelity or visual quality. Referenced files, music, images and project context are not bundled. Original upstream source notes are retained below. Upstream notes: Original prompt source credited upstream: https://x.com/minchoi/status/2110001968080957534.  A three-second native-video GIF excerpt was generated and sampled frames were visually reviewed for the category gallery; this is not a complete video review.",
+    "featuredTitle": "Code-Directed K-pop MV",
+    "featuredTitleZh": "节奏同步 K-pop MV",
+    "poster": "data/media/motion-2110001964402831512.gif",
+    "video": "https://video.twimg.com/amplify_video/2109998915978162176/vid/avc1/1280x720/WsgZ0JPGoEWsclWe.mp4",
+    "preview": {
+      "asset": "data/media/motion-2110001964402831512.gif",
+      "sourceUrl": "https://x.com/minchoi/status/2110001964402831512",
+      "video": "https://video.twimg.com/amplify_video/2109998915978162176/vid/avc1/1280x720/WsgZ0JPGoEWsclWe.mp4",
+      "startSeconds": 30,
+      "durationSeconds": 3,
+      "fps": 10,
+      "checkedAt": "2026-10-21"
+    },
+    "sourceMediaKeys": [
+      "2109998915978162176"
+    ],
+    "mediaSourceCheck": {
+      "method": "chrome-mcp_original_post_syndication",
+      "checkedAt": "2026-10-21",
+      "postMatched": true
+    }
   },
   {
     "id": "2108143447496679553",
@@ -17404,7 +17795,7 @@
     "promptSourceUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104651061336117614",
     "promptStatus": "upstream_transcribed",
     "promptCompleteness": "not_independently_assessed",
-    "status": "collected",
+    "status": "featured",
     "discoveryUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104651061336117614",
     "verification": {
       "method": "upstream_collection_reuse",
@@ -17412,15 +17803,37 @@
       "originalPostConfirmed": true,
       "promptMatchedSource": false,
       "authorClaimConfirmed": true,
-      "visualQuality": "not_reviewed",
+      "visualQuality": "preview_frames_reviewed",
       "fullReview": false,
       "upstreamCommit": "aa5414d",
       "promptPageReadThrough": "Chrome MCP",
       "modelClaimCheck": "chrome-mcp_original_post",
       "modelClaimCheckedAt": "2026-10-21",
-      "modelEvidenceSummary": "Claude Sonnet 5.5 / GPT-6 Astra"
+      "modelEvidenceSummary": "Claude Sonnet 5.5 / GPT-6 Astra",
+      "videoAttachmentConfirmed": true
     },
-    "notes": "Selected from the upstream prompt collection for its concrete creative direction. Prompt text was read from the public upstream prompt page through Chrome MCP; completeness is not independently assessed and any referenced inputs may be required; The original post's model credits were checked separately through Chrome MCP; prompt fidelity to the author's original input, result fidelity and playback quality were not independently confirmed. Referenced files, music, images and project context are not bundled. Original upstream source notes are retained below. Upstream notes: Original prompt source credited upstream: https://x.com/vib3coded/status/2104651235932471528. This is one comparison work, counted once."
+    "notes": "Selected from the upstream prompt collection for its concrete creative direction. Prompt text was read from the public upstream prompt page through Chrome MCP; completeness is not independently assessed and any referenced inputs may be required; The original post's model credits were checked separately through Chrome MCP; prompt fidelity to the author's original input, result fidelity and playback quality were not independently confirmed. Referenced files, music, images and project context are not bundled. Original upstream source notes are retained below. Upstream notes: Original prompt source credited upstream: https://x.com/vib3coded/status/2104651235932471528. This is one comparison work, counted once. A three-second native-video GIF excerpt was generated and sampled frames were visually reviewed for the category gallery; this is not a complete video review.",
+    "featuredTitle": "Gummy Jellyfish",
+    "featuredTitleZh": "软糖水母",
+    "poster": "data/media/motion-2104651061336117614.gif",
+    "video": "https://video.twimg.com/amplify_video/2104650993736531968/vid/avc1/720x914/1-2O3LVtSjBKKGm5.mp4",
+    "preview": {
+      "asset": "data/media/motion-2104651061336117614.gif",
+      "sourceUrl": "https://x.com/vib3coded/status/2104651061336117614",
+      "video": "https://video.twimg.com/amplify_video/2104650993736531968/vid/avc1/720x914/1-2O3LVtSjBKKGm5.mp4",
+      "startSeconds": 5,
+      "durationSeconds": 3,
+      "fps": 10,
+      "checkedAt": "2026-10-21"
+    },
+    "sourceMediaKeys": [
+      "2104650993736531968"
+    ],
+    "mediaSourceCheck": {
+      "method": "chrome-mcp_original_post_syndication",
+      "checkedAt": "2026-10-21",
+      "postMatched": true
+    }
   },
   {
     "id": "2109932661204517203",
@@ -17709,7 +18122,7 @@
     "promptSourceUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109515393220083912",
     "promptStatus": "upstream_transcribed",
     "promptCompleteness": "not_independently_assessed",
-    "status": "collected",
+    "status": "featured",
     "discoveryUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109515393220083912",
     "verification": {
       "method": "upstream_collection_reuse",
@@ -17717,12 +18130,34 @@
       "originalPostConfirmed": false,
       "promptMatchedSource": false,
       "authorClaimConfirmed": false,
-      "visualQuality": "not_reviewed",
+      "visualQuality": "preview_frames_reviewed",
       "fullReview": false,
       "upstreamCommit": "aa5414d",
-      "promptPageReadThrough": "Chrome MCP"
+      "promptPageReadThrough": "Chrome MCP",
+      "videoAttachmentConfirmed": true
     },
-    "notes": "Selected from the upstream prompt collection for its concrete creative direction. Prompt text was read from the public upstream prompt page through Chrome MCP; completeness is not independently assessed and any referenced inputs may be required; this import does not independently confirm the original post, model attribution, result fidelity or visual quality. Referenced files, music, images and project context are not bundled. Original upstream source notes are retained below. Upstream notes: Original prompt source credited upstream: https://x.com/Ayu_AI_0912/status/2109515395522781250. "
+    "notes": "Selected from the upstream prompt collection for its concrete creative direction. Prompt text was read from the public upstream prompt page through Chrome MCP; completeness is not independently assessed and any referenced inputs may be required; this import does not independently confirm the original post, model attribution, result fidelity or visual quality. Referenced files, music, images and project context are not bundled. Original upstream source notes are retained below. Upstream notes: Original prompt source credited upstream: https://x.com/Ayu_AI_0912/status/2109515395522781250.  A three-second native-video GIF excerpt was generated and sampled frames were visually reviewed for the category gallery; this is not a complete video review.",
+    "featuredTitle": "Blueprint to Rocket Launch",
+    "featuredTitleZh": "从蓝图到火箭发射",
+    "poster": "data/media/motion-2109515393220083912.gif",
+    "video": "https://video.twimg.com/amplify_video/2109515190823997440/vid/avc1/1280x720/SJ_mKZtQw19X_dW2.mp4",
+    "preview": {
+      "asset": "data/media/motion-2109515393220083912.gif",
+      "sourceUrl": "https://x.com/Ayu_AI_0912/status/2109515393220083912",
+      "video": "https://video.twimg.com/amplify_video/2109515190823997440/vid/avc1/1280x720/SJ_mKZtQw19X_dW2.mp4",
+      "startSeconds": 17,
+      "durationSeconds": 3,
+      "fps": 10,
+      "checkedAt": "2026-10-21"
+    },
+    "sourceMediaKeys": [
+      "2109515190823997440"
+    ],
+    "mediaSourceCheck": {
+      "method": "chrome-mcp_original_post_syndication",
+      "checkedAt": "2026-10-21",
+      "postMatched": true
+    }
   },
   {
     "id": "2111633479599272435",
@@ -17860,7 +18295,7 @@
     "promptSourceUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110931024469540979",
     "promptStatus": "upstream_transcribed",
     "promptCompleteness": "not_independently_assessed",
-    "status": "collected",
+    "status": "featured",
     "discoveryUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110931024469540979",
     "verification": {
       "method": "upstream_collection_reuse",
@@ -17868,12 +18303,34 @@
       "originalPostConfirmed": false,
       "promptMatchedSource": false,
       "authorClaimConfirmed": false,
-      "visualQuality": "not_reviewed",
+      "visualQuality": "preview_frames_reviewed",
       "fullReview": false,
       "upstreamCommit": "aa5414d",
-      "promptPageReadThrough": "Chrome MCP"
+      "promptPageReadThrough": "Chrome MCP",
+      "videoAttachmentConfirmed": true
     },
-    "notes": "Selected from the upstream prompt collection for its concrete creative direction. Prompt text was read from the public upstream prompt page through Chrome MCP; completeness is not independently assessed and any referenced inputs may be required; this import does not independently confirm the original post, model attribution, result fidelity or visual quality. Referenced files, music, images and project context are not bundled. Original upstream source notes are retained below. Upstream notes: Original prompt source credited upstream: https://x.com/tanabe_fragm/status/2111288502998708582. "
+    "notes": "Selected from the upstream prompt collection for its concrete creative direction. Prompt text was read from the public upstream prompt page through Chrome MCP; completeness is not independently assessed and any referenced inputs may be required; this import does not independently confirm the original post, model attribution, result fidelity or visual quality. Referenced files, music, images and project context are not bundled. Original upstream source notes are retained below. Upstream notes: Original prompt source credited upstream: https://x.com/tanabe_fragm/status/2111288502998708582.  A three-second native-video GIF excerpt was generated and sampled frames were visually reviewed for the category gallery; this is not a complete video review.",
+    "featuredTitle": "Paper Momotaro",
+    "featuredTitleZh": "纸艺桃太郎",
+    "poster": "data/media/motion-2110931024469540979.gif",
+    "video": "https://video.twimg.com/amplify_video/2110930817203732480/vid/avc1/1280x720/9zw_vv_Rpk-spfzo.mp4",
+    "preview": {
+      "asset": "data/media/motion-2110931024469540979.gif",
+      "sourceUrl": "https://x.com/tanabe_fragm/status/2110931024469540979",
+      "video": "https://video.twimg.com/amplify_video/2110930817203732480/vid/avc1/1280x720/9zw_vv_Rpk-spfzo.mp4",
+      "startSeconds": 16,
+      "durationSeconds": 3,
+      "fps": 10,
+      "checkedAt": "2026-10-21"
+    },
+    "sourceMediaKeys": [
+      "2110930817203732480"
+    ],
+    "mediaSourceCheck": {
+      "method": "chrome-mcp_original_post_syndication",
+      "checkedAt": "2026-10-21",
+      "postMatched": true
+    }
   },
   {
     "id": "2103570879619686717",
@@ -18995,5 +19452,382 @@
       "modelEvidenceSummary": "Gemini 4 Argon / Claude Opus 5.5"
     },
     "notes": "Selected from the upstream prompt collection for its concrete creative direction. Prompt text was read from the public upstream prompt page through Chrome MCP; completeness is not independently assessed and any referenced inputs may be required; The original post's model credits were checked separately through Chrome MCP; prompt fidelity to the author's original input, result fidelity and playback quality were not independently confirmed. Referenced files, music, images and project context are not bundled. Original upstream source notes are retained below. Upstream notes: Original prompt source credited upstream: https://x.com/semichenkko/status/2110485254108762381. This is one comparison work, counted once; unidentified participants remain unspecified."
+  },
+  {
+    "id": "2102787937482252537",
+    "title": "A one-line prompt for an inference startup launch",
+    "author": "deedydas",
+    "sourceUrl": "https://x.com/deedydas/status/2102787937482252537",
+    "platform": "X",
+    "model": "Claude Opus 5.5",
+    "modelStatus": "directory_reported",
+    "primaryCategory": "product-brand",
+    "prompt": "make a modern slick and punchy video for a modern startup that works on inference",
+    "promptFile": "prompts/motion-2102787937482252537.md",
+    "promptSourceUrl": "https://x.com/deedydas/status/2102787937482252537",
+    "promptStatus": "upstream_transcribed",
+    "promptCompleteness": "not_independently_assessed",
+    "status": "collected",
+    "discoveryUrl": "https://github.com/guanmo-ai/awesome-ai-motion/blob/6e2c040/data/cases.json",
+    "verification": {
+      "method": "upstream_collection_reuse",
+      "importedAt": "2026-10-21",
+      "originalPostConfirmed": false,
+      "promptMatchedSource": false,
+      "authorClaimConfirmed": false,
+      "visualQuality": "not_reviewed",
+      "fullReview": false,
+      "upstreamCommit": "6e2c040",
+      "upstreamDataReadThrough": "Chrome MCP"
+    },
+    "notes": "Selected from the upstream prompt collection for its concrete creative direction. Prompt text was read from the public upstream collection through Chrome MCP; completeness is not independently assessed and any referenced inputs may be required; this import does not independently confirm the original post, model attribution, result fidelity or visual quality. Referenced files, music, images and project context are not bundled. Original upstream source notes are retained below. Upstream notes: Upstream prompt label: original. "
+  },
+  {
+    "id": "2102583898865873225",
+    "title": "Five thousand years of Chinese history",
+    "author": "akokoi1",
+    "sourceUrl": "https://x.com/akokoi1/status/2102583898865873225",
+    "platform": "X",
+    "model": "Claude Opus 5.5",
+    "modelStatus": "directory_reported",
+    "primaryCategory": "explainers-data",
+    "prompt": "做一个动画，快速回顾中华五千年的历史。风格轻松有趣，动画格式为线稿，添加合适的音乐，请务必做到引人入胜",
+    "promptFile": "prompts/motion-2102583898865873225.md",
+    "promptSourceUrl": "https://x.com/akokoi1/status/2102584165220962502",
+    "promptStatus": "upstream_transcribed",
+    "promptCompleteness": "not_independently_assessed",
+    "status": "collected",
+    "discoveryUrl": "https://github.com/guanmo-ai/awesome-ai-motion/blob/6e2c040/data/cases.json",
+    "verification": {
+      "method": "upstream_collection_reuse",
+      "importedAt": "2026-10-21",
+      "originalPostConfirmed": false,
+      "promptMatchedSource": false,
+      "authorClaimConfirmed": false,
+      "visualQuality": "not_reviewed",
+      "fullReview": false,
+      "upstreamCommit": "6e2c040",
+      "upstreamDataReadThrough": "Chrome MCP"
+    },
+    "notes": "Selected from the upstream prompt collection for its concrete creative direction. Prompt text was read from the public upstream collection through Chrome MCP; completeness is not independently assessed and any referenced inputs may be required; this import does not independently confirm the original post, model attribution, result fidelity or visual quality. Referenced files, music, images and project context are not bundled. Original upstream source notes are retained below. Upstream notes: Upstream prompt label: original. "
+  },
+  {
+    "id": "2102606609574941028",
+    "title": "Atmospheric circulation explained",
+    "author": "akokoi1",
+    "sourceUrl": "https://x.com/akokoi1/status/2102606609574941028",
+    "platform": "X",
+    "model": "Claude Opus 5.5",
+    "modelStatus": "directory_reported",
+    "primaryCategory": "explainers-data",
+    "prompt": "做一个动画，讲解高中地理知识点“大气环流”。风格轻松有趣，动画格式为线稿，添加合适的音乐，请务必做到引人入胜，字幕用中英双语，解说用TTS，如果 TTS 接口有关闭水印的参数就关掉，文档在TTS.md，API KEY 和音色分别是 .env 里的 APIKEY 和 VOICE，最终视频要能直接导出。",
+    "promptFile": "prompts/motion-2102606609574941028.md",
+    "promptSourceUrl": "https://x.com/akokoi1/status/2102606609574941028",
+    "promptStatus": "upstream_transcribed",
+    "promptCompleteness": "not_independently_assessed",
+    "status": "collected",
+    "discoveryUrl": "https://github.com/guanmo-ai/awesome-ai-motion/blob/6e2c040/data/cases.json",
+    "verification": {
+      "method": "upstream_collection_reuse",
+      "importedAt": "2026-10-21",
+      "originalPostConfirmed": false,
+      "promptMatchedSource": false,
+      "authorClaimConfirmed": false,
+      "visualQuality": "not_reviewed",
+      "fullReview": false,
+      "upstreamCommit": "6e2c040",
+      "upstreamDataReadThrough": "Chrome MCP"
+    },
+    "notes": "Selected from the upstream prompt collection for its concrete creative direction. Prompt text was read from the public upstream collection through Chrome MCP; completeness is not independently assessed and any referenced inputs may be required; this import does not independently confirm the original post, model attribution, result fidelity or visual quality. Referenced files, music, images and project context are not bundled. Original upstream source notes are retained below. Upstream notes: Upstream prompt label: original. "
+  },
+  {
+    "id": "2103918792845963545",
+    "title": "A character-led Pocketsflow product explainer",
+    "author": "achxvi",
+    "sourceUrl": "https://x.com/achxvi/status/2103918792845963545",
+    "platform": "X",
+    "model": "Claude Opus 5.5",
+    "modelStatus": "directory_reported",
+    "primaryCategory": "product-brand",
+    "prompt": "make a dynamic 15-second motion graphics video about Pocketsflow that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\n\nhere is elevenlabs key:\nxxxxxx_youthoughtiwouldleakit_xxxxxx\n\nmake a video where a character talks about pocketsflow and how people can use it and what can they do with it etc etc etc \n\nLFG",
+    "promptFile": "prompts/motion-2103918792845963545.md",
+    "promptSourceUrl": "https://x.com/achxvi/status/2103938227786654016",
+    "promptStatus": "upstream_transcribed",
+    "promptCompleteness": "not_independently_assessed",
+    "status": "collected",
+    "discoveryUrl": "https://github.com/guanmo-ai/awesome-ai-motion/blob/6e2c040/data/cases.json",
+    "verification": {
+      "method": "upstream_collection_reuse",
+      "importedAt": "2026-10-21",
+      "originalPostConfirmed": false,
+      "promptMatchedSource": false,
+      "authorClaimConfirmed": false,
+      "visualQuality": "not_reviewed",
+      "fullReview": false,
+      "upstreamCommit": "6e2c040",
+      "upstreamDataReadThrough": "Chrome MCP"
+    },
+    "notes": "Selected from the upstream prompt collection for its concrete creative direction. Prompt text was read from the public upstream collection through Chrome MCP; completeness is not independently assessed and any referenced inputs may be required; this import does not independently confirm the original post, model attribution, result fidelity or visual quality. Referenced files, music, images and project context are not bundled. Original upstream source notes are retained below. Upstream notes: Upstream prompt label: original. "
+  },
+  {
+    "id": "2103557735086428547",
+    "title": "90 seconds of motion design and original piano",
+    "author": "kloss_xyz",
+    "sourceUrl": "https://x.com/kloss_xyz/status/2103557735086428547",
+    "platform": "X",
+    "model": "Claude Opus 5.5",
+    "modelStatus": "directory_reported",
+    "primaryCategory": "music-audiovisual",
+    "prompt": "make a dynamic 16:9 aspect ratio 90-second motion graphics video that shows exactly what an incredible motion designer you are and your true creative limits, like it's your showreel for a résumé. use s tier sound design, no synth. go all out. compose your own original and viral piano score. export it as a 1080p mp4 for social media.",
+    "promptFile": "prompts/motion-2103557735086428547.md",
+    "promptSourceUrl": "https://x.com/kloss_xyz/status/2103560107921723834",
+    "promptStatus": "upstream_transcribed",
+    "promptCompleteness": "not_independently_assessed",
+    "status": "collected",
+    "discoveryUrl": "https://github.com/guanmo-ai/awesome-ai-motion/blob/6e2c040/data/cases.json",
+    "verification": {
+      "method": "upstream_collection_reuse",
+      "importedAt": "2026-10-21",
+      "originalPostConfirmed": false,
+      "promptMatchedSource": false,
+      "authorClaimConfirmed": false,
+      "visualQuality": "not_reviewed",
+      "fullReview": false,
+      "upstreamCommit": "6e2c040",
+      "upstreamDataReadThrough": "Chrome MCP"
+    },
+    "notes": "Selected from the upstream prompt collection for its concrete creative direction. Prompt text was read from the public upstream collection through Chrome MCP; completeness is not independently assessed and any referenced inputs may be required; this import does not independently confirm the original post, model attribution, result fidelity or visual quality. Referenced files, music, images and project context are not bundled. Original upstream source notes are retained below. Upstream notes: Upstream prompt label: original. "
+  },
+  {
+    "id": "2103746671591256286",
+    "title": "An analytics product made from real web assets",
+    "author": "zigapoto",
+    "sourceUrl": "https://x.com/zigapoto/status/2103746671591256286",
+    "platform": "X",
+    "model": "Claude Opus 5.5",
+    "modelStatus": "directory_reported",
+    "primaryCategory": "product-brand",
+    "prompt": "make a modern slick and punchy video for a startup that works on agentic analytics, just javascript, playwright and ffmpeg, code the animation and take a video of it, download assets from the site or use playwright for screenshots, include music aligned with the video.",
+    "promptFile": "prompts/motion-2103746671591256286.md",
+    "promptSourceUrl": "https://x.com/zigapoto/status/2103746698660942208",
+    "promptStatus": "upstream_transcribed",
+    "promptCompleteness": "not_independently_assessed",
+    "status": "collected",
+    "discoveryUrl": "https://github.com/guanmo-ai/awesome-ai-motion/blob/6e2c040/data/cases.json",
+    "verification": {
+      "method": "upstream_collection_reuse",
+      "importedAt": "2026-10-21",
+      "originalPostConfirmed": false,
+      "promptMatchedSource": false,
+      "authorClaimConfirmed": false,
+      "visualQuality": "not_reviewed",
+      "fullReview": false,
+      "upstreamCommit": "6e2c040",
+      "upstreamDataReadThrough": "Chrome MCP"
+    },
+    "notes": "Selected from the upstream prompt collection for its concrete creative direction. Prompt text was read from the public upstream collection through Chrome MCP; completeness is not independently assessed and any referenced inputs may be required; this import does not independently confirm the original post, model attribution, result fidelity or visual quality. Referenced files, music, images and project context are not bundled. Original upstream source notes are retained below. Upstream notes: Upstream prompt label: original. "
+  },
+  {
+    "id": "2103166575071330778",
+    "title": "Sketch-Style Economics Explainer",
+    "author": "0xpai_eth",
+    "sourceUrl": "https://x.com/0xpai_eth/status/2103166575071330778",
+    "platform": "X",
+    "model": "Claude Opus 5.5",
+    "modelStatus": "directory_reported",
+    "primaryCategory": "explainers-data",
+    "prompt": "讲一个经济知识点，线稿风格、轻松有趣、配音乐。",
+    "promptFile": "prompts/motion-2103166575071330778.md",
+    "promptSourceUrl": "https://x.com/0xpai_eth/status/2103166575071330778",
+    "promptStatus": "quoted_task_excerpt",
+    "promptCompleteness": "fragment_or_context_dependent",
+    "status": "collected",
+    "discoveryUrl": "https://github.com/guanmo-ai/awesome-ai-motion/blob/6e2c040/data/cases.json",
+    "verification": {
+      "method": "upstream_collection_reuse",
+      "importedAt": "2026-10-21",
+      "originalPostConfirmed": false,
+      "promptMatchedSource": false,
+      "authorClaimConfirmed": false,
+      "visualQuality": "not_reviewed",
+      "fullReview": false,
+      "upstreamCommit": "6e2c040",
+      "upstreamDataReadThrough": "Chrome MCP"
+    },
+    "notes": "Selected from the upstream prompt collection for its concrete creative direction. Prompt text was read from the public upstream collection through Chrome MCP; completeness is not independently assessed and any referenced inputs may be required; this import does not independently confirm the original post, model attribution, result fidelity or visual quality. Referenced files, music, images and project context are not bundled. Original upstream source notes are retained below. Upstream notes: Upstream prompt label: brief. Quoted task excerpt; the surrounding author commentary was omitted. Additional context may be required."
+  },
+  {
+    "id": "2102838830285898214",
+    "title": "Passwords and Passkeys Explained",
+    "author": "Tz_2022",
+    "sourceUrl": "https://x.com/Tz_2022/status/2102838830285898214",
+    "platform": "X",
+    "model": "Claude Opus 5.5",
+    "modelStatus": "directory_reported",
+    "primaryCategory": "explainers-data",
+    "prompt": "给我一个可互动交互动画页面，讲解清楚 password 和 passkey 到底有什么区别，也包括它们的历史沿革，把它制作成一个小白也能看懂的讲解视频",
+    "promptFile": "prompts/motion-2102838830285898214.md",
+    "promptSourceUrl": "https://x.com/Tz_2022/status/2102838830285898214",
+    "promptStatus": "upstream_transcribed",
+    "promptCompleteness": "not_independently_assessed",
+    "status": "collected",
+    "discoveryUrl": "https://github.com/guanmo-ai/awesome-ai-motion/blob/6e2c040/data/cases.json",
+    "verification": {
+      "method": "upstream_collection_reuse",
+      "importedAt": "2026-10-21",
+      "originalPostConfirmed": false,
+      "promptMatchedSource": false,
+      "authorClaimConfirmed": false,
+      "visualQuality": "not_reviewed",
+      "fullReview": false,
+      "upstreamCommit": "6e2c040",
+      "upstreamDataReadThrough": "Chrome MCP"
+    },
+    "notes": "Selected from the upstream prompt collection for its concrete creative direction. Prompt text was read from the public upstream collection through Chrome MCP; completeness is not independently assessed and any referenced inputs may be required; this import does not independently confirm the original post, model attribution, result fidelity or visual quality. Referenced files, music, images and project context are not bundled. Original upstream source notes are retained below. Upstream notes: Upstream prompt label: original. "
+  },
+  {
+    "id": "2103171088637419631",
+    "title": "Option Formula Beside a Runner Game",
+    "author": "goodside",
+    "sourceUrl": "https://x.com/goodside/status/2103171088637419631",
+    "platform": "X",
+    "model": "Claude Opus 5.5",
+    "modelStatus": "directory_reported",
+    "primaryCategory": "explainers-data",
+    "prompt": "Create a 1 minute video where the right half explains the Black-Scholes formula with voiceover and visuals and the left half plays a generic knockoff of Subway Surfers",
+    "promptFile": "prompts/motion-2103171088637419631.md",
+    "promptSourceUrl": "https://x.com/goodside/status/2103171088637419631",
+    "promptStatus": "upstream_transcribed",
+    "promptCompleteness": "not_independently_assessed",
+    "status": "collected",
+    "discoveryUrl": "https://github.com/guanmo-ai/awesome-ai-motion/blob/6e2c040/data/cases.json",
+    "verification": {
+      "method": "upstream_collection_reuse",
+      "importedAt": "2026-10-21",
+      "originalPostConfirmed": false,
+      "promptMatchedSource": false,
+      "authorClaimConfirmed": false,
+      "visualQuality": "not_reviewed",
+      "fullReview": false,
+      "upstreamCommit": "6e2c040",
+      "upstreamDataReadThrough": "Chrome MCP"
+    },
+    "notes": "Selected from the upstream prompt collection for its concrete creative direction. Prompt text was read from the public upstream collection through Chrome MCP; completeness is not independently assessed and any referenced inputs may be required; this import does not independently confirm the original post, model attribution, result fidelity or visual quality. Referenced files, music, images and project context are not bundled. Original upstream source notes are retained below. Upstream notes: Upstream prompt label: original. "
+  },
+  {
+    "id": "2102954743442399395",
+    "title": "Long-Form Passkey Explainer",
+    "author": "imShiWen",
+    "sourceUrl": "https://x.com/imShiWen/status/2102954743442399395",
+    "platform": "X",
+    "model": "Claude Opus 5.5",
+    "modelStatus": "directory_reported",
+    "primaryCategory": "explainers-data",
+    "prompt": "做个科普视频，讲清楚 password 和 passkey 的区别，配音用免费 TTS",
+    "promptFile": "prompts/motion-2102954743442399395.md",
+    "promptSourceUrl": "https://x.com/imShiWen/status/2102954743442399395",
+    "promptStatus": "upstream_transcribed",
+    "promptCompleteness": "not_independently_assessed",
+    "status": "collected",
+    "discoveryUrl": "https://github.com/guanmo-ai/awesome-ai-motion/blob/6e2c040/data/cases.json",
+    "verification": {
+      "method": "upstream_collection_reuse",
+      "importedAt": "2026-10-21",
+      "originalPostConfirmed": false,
+      "promptMatchedSource": false,
+      "authorClaimConfirmed": false,
+      "visualQuality": "not_reviewed",
+      "fullReview": false,
+      "upstreamCommit": "6e2c040",
+      "upstreamDataReadThrough": "Chrome MCP"
+    },
+    "notes": "Selected from the upstream prompt collection for its concrete creative direction. Prompt text was read from the public upstream collection through Chrome MCP; completeness is not independently assessed and any referenced inputs may be required; this import does not independently confirm the original post, model attribution, result fidelity or visual quality. Referenced files, music, images and project context are not bundled. Original upstream source notes are retained below. Upstream notes: Upstream prompt label: original. "
+  },
+  {
+    "id": "2102751132502446549",
+    "title": "Introduction to GitHub Version Control",
+    "author": "sundyme",
+    "sourceUrl": "https://x.com/sundyme/status/2102751132502446549",
+    "platform": "X",
+    "model": "Claude Opus 5.5",
+    "modelStatus": "directory_reported",
+    "primaryCategory": "explainers-data",
+    "prompt": "我是非专业编码者，在用 Claude Code 做网站，请做个动画视频，讲解 GitHub 版本管理及如何使用",
+    "promptFile": "prompts/motion-2102751132502446549.md",
+    "promptSourceUrl": "https://x.com/sundyme/status/2102751132502446549",
+    "promptStatus": "upstream_transcribed",
+    "promptCompleteness": "not_independently_assessed",
+    "status": "collected",
+    "discoveryUrl": "https://github.com/guanmo-ai/awesome-ai-motion/blob/6e2c040/data/cases.json",
+    "verification": {
+      "method": "upstream_collection_reuse",
+      "importedAt": "2026-10-21",
+      "originalPostConfirmed": false,
+      "promptMatchedSource": false,
+      "authorClaimConfirmed": false,
+      "visualQuality": "not_reviewed",
+      "fullReview": false,
+      "upstreamCommit": "6e2c040",
+      "upstreamDataReadThrough": "Chrome MCP"
+    },
+    "notes": "Selected from the upstream prompt collection for its concrete creative direction. Prompt text was read from the public upstream collection through Chrome MCP; completeness is not independently assessed and any referenced inputs may be required; this import does not independently confirm the original post, model attribution, result fidelity or visual quality. Referenced files, music, images and project context are not bundled. Original upstream source notes are retained below. Upstream notes: Upstream prompt label: original. "
+  },
+  {
+    "id": "2104590334152056983",
+    "title": "Walking Architecture: A Space for People",
+    "author": "shion_takk",
+    "sourceUrl": "https://x.com/shion_takk/status/2104590334152056983",
+    "platform": "X",
+    "model": "Claude Opus 5.5",
+    "modelStatus": "directory_reported",
+    "primaryCategory": "3d-simulations",
+    "prompt": "歩く建築作って",
+    "promptFile": "prompts/motion-2104590334152056983.md",
+    "promptSourceUrl": "https://x.com/shion_takk/status/2104590334152056983",
+    "promptStatus": "upstream_transcribed",
+    "promptCompleteness": "not_independently_assessed",
+    "status": "collected",
+    "discoveryUrl": "https://github.com/guanmo-ai/awesome-ai-motion/blob/6e2c040/data/cases.json",
+    "verification": {
+      "method": "upstream_collection_reuse",
+      "importedAt": "2026-10-21",
+      "originalPostConfirmed": false,
+      "promptMatchedSource": false,
+      "authorClaimConfirmed": false,
+      "visualQuality": "not_reviewed",
+      "fullReview": false,
+      "upstreamCommit": "6e2c040",
+      "upstreamDataReadThrough": "Chrome MCP"
+    },
+    "notes": "Selected from the upstream prompt collection for its concrete creative direction. Prompt text was read from the public upstream collection through Chrome MCP; completeness is not independently assessed and any referenced inputs may be required; this import does not independently confirm the original post, model attribution, result fidelity or visual quality. Referenced files, music, images and project context are not bundled. Original upstream source notes are retained below. Upstream notes: Upstream prompt label: original. "
+  },
+  {
+    "id": "2104222017696469188",
+    "title": "A Shaoshan 8 Locomotive on a Drivable Loop",
+    "author": "akokoi1",
+    "sourceUrl": "https://x.com/akokoi1/status/2104222017696469188",
+    "platform": "X",
+    "model": "Claude Opus 5.5 / ChatGPT (version unspecified)",
+    "modelStatus": "directory_reported",
+    "primaryCategory": "interactive",
+    "prompt": "1. 让ChatGPT生成韶山8各个视角的图；\n2. 让Opus做一个3D资产，100%还原这张图；\n3. 做一个环形铁路，可以操作这辆车行驶。",
+    "promptFile": "prompts/motion-2104222017696469188.md",
+    "promptSourceUrl": "https://x.com/akokoi1/status/2104222017696469188",
+    "promptStatus": "published_workflow",
+    "promptCompleteness": "fragment_or_context_dependent",
+    "status": "collected",
+    "discoveryUrl": "https://github.com/guanmo-ai/awesome-ai-motion/blob/6e2c040/data/cases.json",
+    "verification": {
+      "method": "upstream_collection_reuse",
+      "importedAt": "2026-10-21",
+      "originalPostConfirmed": false,
+      "promptMatchedSource": false,
+      "authorClaimConfirmed": false,
+      "visualQuality": "not_reviewed",
+      "fullReview": false,
+      "upstreamCommit": "6e2c040",
+      "upstreamDataReadThrough": "Chrome MCP"
+    },
+    "notes": "Selected from the upstream prompt collection for its concrete creative direction. Prompt text was read from the public upstream collection through Chrome MCP; completeness is not independently assessed and any referenced inputs may be required; this import does not independently confirm the original post, model attribution, result fidelity or visual quality. Referenced files, music, images and project context are not bundled. Original upstream source notes are retained below. Upstream notes: Upstream prompt label: brief. Published three-step workflow, not claimed to be a verbatim single input sent to a model. ChatGPT is credited for reference images; the version is unspecified."
   }
 ]
