@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-1020 works with prompt text saved in this repository. The collection includes published briefs, workflows and reusable animation templates. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+1050 works with prompt text saved in this repository. The collection includes published briefs, workflows and reusable animation templates. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -17,6 +17,12 @@
 <a id="product-brand"></a>
 
 ## Product & Brand
+
+- [Unofficial Tesla Roadster commercial](https://x.com/kevin_t_ngo/status/2111887585639624828) — @kevin_t_ngo · Claude Opus 5.5 · [Prompt](../prompts/motion-2111887585639624828.md#prompt)
+- [Apple HomeView mock commercial](https://x.com/kevin_t_ngo/status/2110722582689546297) — @kevin_t_ngo · Claude Opus 5.5 · [Prompt](../prompts/motion-2110722582689546297.md#prompt)
+- [Fishing game trailer made in Blender](https://x.com/Blushneyy/status/2108644023330390194) — @Blushneyy · Claude Opus 5.5 · [Prompt](../prompts/motion-2108644023330390194.md#prompt)
+- [Claude introduction video](https://x.com/devteamdrew/status/2106155815707021549) — @devteamdrew · Fable 5.5 (preview, source reported) · [Prompt](../prompts/motion-2106155815707021549.md#prompt)
+- [Fifteen-second motion graphics showreel](https://x.com/AntSeed/status/2104659402007703925) — @AntSeed · Claude Sonnet 5.5 · [Prompt](../prompts/motion-2104659402007703925.md#prompt)
 
 - [Code-based UI motion design loop](https://x.com/0xAiky/status/2111814234090693110) — @0xAiky · Claude Opus 5.5 · [Prompt](../prompts/motion-2111814234090693110.md#prompt)
 - [Cracked retro game launch video](https://x.com/doseofcreative/status/2110407591503491372) — @doseofcreative · Claude Opus 5.5 · [Prompt](../prompts/motion-2110407591503491372.md#prompt)
@@ -180,6 +186,10 @@
 <a id="motion-studies"></a>
 
 ## Typography & Motion Studies
+
+- [15-Second Motion Graphics Showcase](https://x.com/Saccc_c/status/2106376222309761094) — @Saccc_c · Claude Opus 5.5 / Fable 5.5 (preview, source reported) · [Prompt](../prompts/motion-2106376222309761094.md#prompt)
+- [Day-of-week kinetic motion graphic with BGM](https://x.com/nokonoko_1203/status/2105922366190784915) — @nokonoko_1203 · Claude Opus 5.5 · [Prompt](../prompts/motion-2105922366190784915.md#prompt)
+- [High-energy motion graphics showreel](https://x.com/crvdesign0/status/2103817034618339682) — @crvdesign0 · Claude Opus 5.5 · [Prompt](../prompts/motion-2103817034618339682.md#prompt)
 
 - [Neon glitch video treatment](https://x.com/aimikoda/status/2113344709682663503) — @aimikoda · Claude Opus 5.5 · [Prompt](../prompts/motion-2113344709682663503.md#prompt)
 - [Surveillance-style subject analysis loop](https://x.com/aimikoda/status/2112590477144797190) — @aimikoda · Claude Opus 5.5 · [Prompt](../prompts/motion-2112590477144797190.md#prompt)
@@ -399,6 +409,14 @@
 <a id="explainers-data"></a>
 
 ## Explainers & Data
+
+- [Interactive caching code explainer](https://x.com/BHolmesDev/status/2106829942206173497) — @BHolmesDev · Claude Opus 5.5 · [Prompt](../prompts/motion-2106829942206173497.md#prompt)
+- [Human progress to future animated film](https://x.com/imjustnewatai/status/2106081142143168580) — @imjustnewatai · Fable 5.5 (preview, source reported) · [Prompt](../prompts/motion-2106081142143168580.md#prompt)
+- [Civilization history animated film](https://x.com/ziwenxu_/status/2105983571848741045) — @ziwenxu_ · Fable 5.5 (preview, source reported) · [Prompt](../prompts/motion-2105983571848741045.md#prompt)
+- [Explainer video of 9 football rules](https://x.com/lukasersil/status/2105922894924501283) — @lukasersil · Claude Opus 5.5 · [Prompt](../prompts/motion-2105922894924501283.md#prompt)
+- [Zoomable app architecture canvas](https://x.com/robinebers/status/2105309987983745060) — @robinebers · Claude Opus 5.5 · [Prompt](../prompts/motion-2105309987983745060.md#prompt)
+- [Wordless animation on AI misconceptions](https://x.com/TheSpacerr/status/2105253140765479341) — @TheSpacerr · Claude Sonnet 5.5 · [Prompt](../prompts/motion-2105253140765479341.md#prompt)
+- [Interactive 5-axis CNC machine explainer](https://x.com/konstantinsaifo/status/2104963500988916032) — @konstantinsaifo · Claude Opus 5.5 · [Prompt](../prompts/motion-2104963500988916032.md#prompt)
 
 - [Animated Minecraft treasure map graphic](https://x.com/sethfowIer/status/2113248976984068329) — @sethfowIer · Claude Opus 5.5 · [Prompt](../prompts/motion-2113248976984068329.md#prompt)
 - [Interactive Lamborghini FL3 tractor diesel engine](https://x.com/exploraX_/status/2112130961714385214) — @exploraX_ · Claude Opus 5.5 · [Prompt](../prompts/motion-2112130961714385214.md#prompt)
@@ -669,6 +687,14 @@
 
 ## 3D & Simulations
 
+- [Alpine lake scene built in code](https://x.com/LexnLin/status/2112560562609803311) — @LexnLin · Claude Opus 5.5 · [Prompt](../prompts/motion-2112560562609803311.md#prompt)
+- [Code-only three.js temple at dusk](https://x.com/leo_xiaolei/status/2112545748944556038) — @leo_xiaolei · Claude Opus 5.5 · [Prompt](../prompts/motion-2112545748944556038.md#prompt)
+- [Boat floating in a garden scene](https://x.com/pankajkumar_dev/status/2111518872272814233) — @pankajkumar_dev · Fable 5.5 (preview, source reported) · [Prompt](../prompts/motion-2111518872272814233.md#prompt)
+- [Atlas and P-body voxel portal scene](https://x.com/legit_api/status/2111193444345667813) — @legit_api · Fable 5.5 (preview, source reported) · [Prompt](../prompts/motion-2111193444345667813.md#prompt)
+- [Six-axis industrial robot arm with routed harness](https://x.com/konstantinsaifo/status/2107821059772661912) — @konstantinsaifo · Claude Opus 5.5 · [Prompt](../prompts/motion-2107821059772661912.md#prompt)
+- [Cocktail glass liquid effect scene](https://x.com/ann_nnng/status/2107095740485144817) — @ann_nnng · Claude Opus 5.5 · [Prompt](../prompts/motion-2107095740485144817.md#prompt)
+- [3D Rube Goldberg machine simulation](https://x.com/imjustnewatai/status/2105889407056109991) — @imjustnewatai · Fable 5.5 (preview, source reported) · [Prompt](../prompts/motion-2105889407056109991.md#prompt)
+
 - [Procedural ocean and water scene](https://x.com/LexnLin/status/2113333862625648715) — @LexnLin · Claude Opus 5.5 · [Prompt](../prompts/motion-2113333862625648715.md#prompt)
 - [Pixel-art basketball court diorama with weather](https://x.com/vib3coded/status/2112989996366102944) — @vib3coded · Claude Opus 5.5 · [Prompt](../prompts/motion-2112989996366102944.md#prompt)
 - [Sliceable jelly watermelon physics toy](https://x.com/vib3coded/status/2112638127483343162) — @vib3coded · Claude Opus 5.5 · [Prompt](../prompts/motion-2112638127483343162.md#prompt)
@@ -784,6 +810,10 @@
 
 ## Music & Audiovisual
 
+- [Showreel built from AI dance clips](https://x.com/AbaneChan/status/2103903213363806575) — @AbaneChan · Claude Opus 5.5 · [Prompt](../prompts/motion-2103903213363806575.md#prompt)
+- [Rap music video explaining a research paper](https://x.com/Tz_2022/status/2103683260144292176) — @Tz_2022 · Claude Opus 5.5 · [Prompt](../prompts/motion-2103683260144292176.md#prompt)
+- [Bitcoin history music video](https://x.com/bradmillscan/status/2103108967194833310) — @bradmillscan · Claude Opus 5.5 · [Prompt](../prompts/motion-2103108967194833310.md#prompt)
+
 - [Interactive music system demo](https://x.com/kyubuns/status/2111453039228043604) — @kyubuns · Claude Opus 5.5 · [Prompt](../prompts/motion-2111453039228043604.md#prompt)
 - [Fable 5.5 self-introduction musical video](https://x.com/ChrisGPT/status/2109570757579649086) — @ChrisGPT · Fable 5.5 (preview, source reported) · [Prompt](../prompts/motion-2109570757579649086.md#prompt)
 
@@ -839,6 +869,12 @@
 <a id="interactive"></a>
 
 ## Interactive Experiences
+
+- [F1 livery customizer built with Opus 5.5](https://x.com/RyanSael/status/2110038561127014418) — @RyanSael · Claude Opus 5.5 · [Prompt](../prompts/motion-2110038561127014418.md#prompt)
+- [Playable Game Boy scene from one prompt](https://x.com/numaausaumon/status/2112186912060654023) — @numaausaumon · Claude Opus 5.5 · [Prompt](../prompts/motion-2112186912060654023.md#prompt)
+- [Picasso-style Three.js Tetris game](https://x.com/SimonasLTU1/status/2110665151389003777) — @SimonasLTU1 · Claude Opus 5.5 · [Prompt](../prompts/motion-2110665151389003777.md#prompt)
+- [Cozy game prototype 'Lantern Hallow'](https://x.com/notjazii/status/2109957002822889591) — @notjazii · Claude Opus 5.5 · [Prompt](../prompts/motion-2109957002822889591.md#prompt)
+- [3D game remake built with Opus 5.5](https://x.com/Graalitoo/status/2108735367331672201) — @Graalitoo · Claude Opus 5.5 · [Prompt](../prompts/motion-2108735367331672201.md#prompt)
 
 - [Pixel-art 3D football yard simulation with kids and dog](https://x.com/N1njaCodex/status/2113037013326627200) — @N1njaCodex · Claude Opus 5.5 · [Prompt](../prompts/motion-2113037013326627200.md#prompt)
 

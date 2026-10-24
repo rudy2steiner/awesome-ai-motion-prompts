@@ -1,6 +1,6 @@
 # Awesome AI Motion Prompts
 
-**[1020 Motions with Prompts](data/README.md)**
+**[1050 Motions with Prompts](data/README.md)**
 
 English | [简体中文](README.zh-CN.md)
 
@@ -80,6 +80,9 @@ Featured: [@shneural](https://x.com/shneural/status/2103151003272962130) · [Pro
 <td width="33%" valign="top"><a href="prompts/motion-2108569413746335887.md"><img src="data/media/motion-2108569413746335887.gif" width="260" alt="Quantum Mechanics" /></a><br><a href="prompts/motion-2108569413746335887.md"><b>Quantum Mechanics</b></a><br><a href="https://x.com/YuanXi901019/status/2108569413746335887">@YuanXi901019</a> · <a href="prompts/motion-2108569413746335887.md#prompt">Prompt</a><br><sub>Claude Opus 5.5</sub></td>
 <td width="33%" valign="top"><a href="prompts/motion-2108932593911816392.md"><img src="data/media/motion-2108932593911816392.gif" width="260" alt="100 Years of Movie Genres" /></a><br><a href="prompts/motion-2108932593911816392.md"><b>100 Years of Movie Genres</b></a><br><a href="https://x.com/gavinpurcell/status/2108932593911816392">@gavinpurcell</a> · <a href="prompts/motion-2108932593911816392.md#prompt">Prompt</a><br><sub>Claude Opus 5.5</sub></td>
 <td width="33%" valign="top"><a href="prompts/motion-2105180179836576206.md"><img src="data/media/motion-2105180179836576206.gif" width="260" alt="Solar System &amp; Milky Way" /></a><br><a href="prompts/motion-2105180179836576206.md"><b>Solar System &amp; Milky Way</b></a><br><a href="https://x.com/Grace_sunnyy/status/2105180179836576206">@Grace_sunnyy</a> · <a href="prompts/motion-2105180179836576206.md#prompt">Prompt</a><br><sub>Claude Opus 5.5</sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="prompts/motion-2113248976984068329.md"><img src="data/media/motion-2113248976984068329.gif" width="260" alt="Minecraft treasure map" /></a><br><a href="prompts/motion-2113248976984068329.md"><b>Minecraft treasure map</b></a><br><a href="https://x.com/sethfowIer/status/2113248976984068329">@sethfowIer</a> · <a href="prompts/motion-2113248976984068329.md#prompt">Prompt</a><br><sub>Claude Opus 5.5</sub></td>
 </tr>
 </table>
 

@@ -33324,11 +33324,11 @@
     "promptStatus": "upstream_full_transcription",
     "promptCompleteness": "source_reported_full",
     "requiresReference": true,
-    "status": "collected",
+    "status": "featured",
     "primaryCategory": "explainers-data",
     "promptFile": "prompts/motion-2113248976984068329.md",
     "video": "https://video.twimg.com/amplify_video/2113248401655554049/vid/avc1/1280x720/Yr4ZxNFxkHPaFfwr.mp4?tag=29",
-    "poster": "https://pbs.twimg.com/amplify_video_thumb/2113248401655554049/img/MB0SF0dmugrcBjTv.jpg",
+    "poster": "data/media/motion-2113248976984068329.gif",
     "sourceMediaKeys": [
       "2113248401655554049"
     ],
@@ -33352,7 +33352,7 @@
       "upstreamVideoListed": true,
       "nativeVideoConfirmed": true,
       "modelIndependentlyConfirmed": false,
-      "visualQuality": "not_reviewed",
+      "visualQuality": "keyframes_and_preview_sampled",
       "fullReview": false,
       "promptSha256": "b0fb0e920898186fc6e1a51583eb64b29d1547409d87bece0953e07657625e60",
       "videoHttpCheck": {
@@ -33361,13 +33361,49 @@
         "status": 200,
         "contentType": "video/mp4",
         "fullPlaybackReviewed": false
+      },
+      "visualReview": {
+        "checkedAt": "2026-10-24",
+        "method": "nine_source_keyframes_and_four_gif_frames",
+        "sourceSampleSeconds": [
+          0,
+          2,
+          4,
+          6,
+          8,
+          10,
+          12,
+          14,
+          16
+        ],
+        "previewSampleFrames": [
+          0,
+          19,
+          39,
+          59
+        ],
+        "findings": "地图逐步揭示，红色虚线路线连接地点，终点以金色光效突出；原生尺寸的地点标签可读，预览呈现路线推进和终点强调。镜头推进时有意裁切地图边缘；未逐帧或审核音频。",
+        "fullPlaybackReviewed": false
       }
     },
     "provenance": {
       "repository": "https://github.com/zhuyansen/awesome-opus-5.5-video",
       "commit": "a359f1cdf48b8e97e089d253436625a501a801c8"
     },
-    "notes": "提示词转录自公开来源目录；已通过 Chrome MCP 读取页面并确认其列出对应视频，正文由同一公开页面提取。热度为来源目录快照，不代表全网排名。除另行说明外，未逐条核实 X 原帖、完整播放、模型归属或提示词复现效果；引用素材、工具、音乐和上下文不随仓库提供。 Minecraft 地图条目另通过 Chrome MCP 读取 X 原帖，确认作者公开了相同提示词、四张参考图要求及视频；未进行模型复现。"
+    "notes": "提示词转录自公开来源目录；已通过 Chrome MCP 读取页面并确认其列出对应视频，正文由同一公开页面提取。热度为来源目录快照，不代表全网排名。除另行说明外，未逐条核实 X 原帖、完整播放、模型归属或提示词复现效果；引用素材、工具、音乐和上下文不随仓库提供。 Minecraft 地图条目另通过 Chrome MCP 读取 X 原帖，确认作者公开了相同提示词、四张参考图要求及视频；未进行模型复现。",
+    "posterSourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2113248401655554049/img/MB0SF0dmugrcBjTv.jpg",
+    "preview": {
+      "id": "2113248976984068329",
+      "asset": "data/media/motion-2113248976984068329.gif",
+      "video": "https://video.twimg.com/amplify_video/2113248401655554049/vid/avc1/1280x720/Yr4ZxNFxkHPaFfwr.mp4?tag=29",
+      "sourceUrl": "https://x.com/sethfowIer/status/2113248976984068329",
+      "startSeconds": 11,
+      "durationSeconds": 6,
+      "fps": 10,
+      "width": 480,
+      "height": 270,
+      "checkedAt": "2026-10-24"
+    }
   },
   {
     "id": "2113037013326627200",
@@ -34330,6 +34366,1820 @@
       "videoHttpCheck": {
         "checkedAt": "2026-10-24",
         "method": "HEAD",
+        "status": 200,
+        "contentType": "video/mp4",
+        "fullPlaybackReviewed": false
+      }
+    },
+    "provenance": {
+      "repository": "https://github.com/zhuyansen/awesome-opus-5.5-video",
+      "commit": "a359f1cdf48b8e97e089d253436625a501a801c8"
+    },
+    "notes": "提示词转录自公开来源目录；已通过 Chrome MCP 读取页面并确认其列出对应视频，正文由同一公开页面提取。热度为来源目录快照，不代表全网排名。除另行说明外，未逐条核实 X 原帖、完整播放、模型归属或提示词复现效果；引用素材、工具、音乐和上下文不随仓库提供。"
+  },
+  {
+    "id": "2111887585639624828",
+    "title": "Unofficial Tesla Roadster commercial",
+    "titleZh": "非官方特斯拉Roadster广告",
+    "author": "kevin_t_ngo",
+    "type": "Prompt",
+    "model": "Claude Opus 5.5",
+    "sourceUrl": "https://x.com/kevin_t_ngo/status/2111887585639624828",
+    "promptSourceUrl": "https://x.com/kevin_t_ngo/status/2111887585639624828",
+    "collectionUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111887585639624828",
+    "prompt": "make an unofficial commercial for Tesla Roadster",
+    "promptStatus": "upstream_brief_transcription",
+    "promptCompleteness": "published_brief_not_full_workflow",
+    "requiresReference": true,
+    "status": "collected",
+    "primaryCategory": "product-brand",
+    "promptFile": "prompts/motion-2111887585639624828.md",
+    "video": "https://video.twimg.com/amplify_video/2111886033151569920/vid/avc1/720x720/xWbau_WjO1pUA9L0.mp4?tag=29",
+    "poster": "https://pbs.twimg.com/amplify_video_thumb/2111886033151569920/img/SZN_YH8xviAhax-h.jpg",
+    "sourceMediaKeys": [
+      "2111886033151569920"
+    ],
+    "postedAt": "2026-10-18T18:30:12.000Z",
+    "collectedAt": "2026-10-24",
+    "tools": [
+      "Blender",
+      "Python",
+      "Midjourney",
+      "ElevenLabs"
+    ],
+    "popularity": {
+      "views": 12906,
+      "likes": 279,
+      "bookmarks": 96,
+      "checkedAt": "2026-10-19T19:21:47.158Z",
+      "source": "upstream_reported",
+      "sourceUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111887585639624828"
+    },
+    "verification": {
+      "method": "chrome_mcp_public_prompt_page_and_public_html_extraction",
+      "checkedAt": "2026-10-24",
+      "originalPostConfirmed": false,
+      "promptMatchedOriginalPost": false,
+      "upstreamPromptPageRead": true,
+      "upstreamVideoListed": true,
+      "nativeVideoConfirmed": false,
+      "modelIndependentlyConfirmed": false,
+      "visualQuality": "not_reviewed",
+      "fullReview": false,
+      "promptSha256": "8b550b1eccfea0387780729aa569fdc3f80309d9569d539cf6546bdeda93bc65",
+      "videoHttpCheck": {
+        "checkedAt": "2026-10-24",
+        "method": "chrome_mcp_browser_HEAD",
+        "status": 200,
+        "contentType": "video/mp4",
+        "fullPlaybackReviewed": false
+      }
+    },
+    "provenance": {
+      "repository": "https://github.com/zhuyansen/awesome-opus-5.5-video",
+      "commit": "a359f1cdf48b8e97e089d253436625a501a801c8"
+    },
+    "notes": "提示词转录自公开来源目录；已通过 Chrome MCP 读取页面并确认其列出对应视频，正文由同一公开页面提取。热度为来源目录快照，不代表全网排名。除另行说明外，未逐条核实 X 原帖、完整播放、模型归属或提示词复现效果；引用素材、工具、音乐和上下文不随仓库提供。"
+  },
+  {
+    "id": "2110722582689546297",
+    "title": "Apple HomeView mock commercial",
+    "titleZh": "苹果HomeView模拟广告",
+    "author": "kevin_t_ngo",
+    "type": "Prompt",
+    "model": "Claude Opus 5.5",
+    "sourceUrl": "https://x.com/kevin_t_ngo/status/2110722582689546297",
+    "promptSourceUrl": "https://x.com/kevin_t_ngo/status/2110722582689546297",
+    "collectionUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110722582689546297",
+    "prompt": "make an unofficial commercial for Apple HomeView",
+    "promptStatus": "upstream_brief_transcription",
+    "promptCompleteness": "published_brief_not_full_workflow",
+    "requiresReference": false,
+    "status": "collected",
+    "primaryCategory": "product-brand",
+    "promptFile": "prompts/motion-2110722582689546297.md",
+    "video": "https://video.twimg.com/amplify_video/2110721437732577280/vid/avc1/720x720/EFct10FbeqpY19kq.mp4?tag=29",
+    "poster": "https://pbs.twimg.com/amplify_video_thumb/2110721437732577280/img/AcRNZfzfoMPedMGi.jpg",
+    "sourceMediaKeys": [
+      "2110721437732577280"
+    ],
+    "postedAt": "2026-10-15T13:20:53.000Z",
+    "collectedAt": "2026-10-24",
+    "tools": [
+      "Blender",
+      "Midjourney",
+      "ElevenLabs",
+      "Depth Anything V2"
+    ],
+    "popularity": {
+      "views": 677616,
+      "likes": 4961,
+      "bookmarks": 1729,
+      "checkedAt": "2026-10-19T08:33:58.737Z",
+      "source": "upstream_reported",
+      "sourceUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110722582689546297"
+    },
+    "verification": {
+      "method": "chrome_mcp_public_prompt_page_and_public_html_extraction",
+      "checkedAt": "2026-10-24",
+      "originalPostConfirmed": false,
+      "promptMatchedOriginalPost": false,
+      "upstreamPromptPageRead": true,
+      "upstreamVideoListed": true,
+      "nativeVideoConfirmed": false,
+      "modelIndependentlyConfirmed": false,
+      "visualQuality": "not_reviewed",
+      "fullReview": false,
+      "promptSha256": "f868ca808ed586a6b7d9022225f00fbec198d440035d8f50b4fe319f98ddb26b",
+      "videoHttpCheck": {
+        "checkedAt": "2026-10-24",
+        "method": "chrome_mcp_browser_HEAD",
+        "status": 200,
+        "contentType": "video/mp4",
+        "fullPlaybackReviewed": false
+      }
+    },
+    "provenance": {
+      "repository": "https://github.com/zhuyansen/awesome-opus-5.5-video",
+      "commit": "a359f1cdf48b8e97e089d253436625a501a801c8"
+    },
+    "notes": "提示词转录自公开来源目录；已通过 Chrome MCP 读取页面并确认其列出对应视频，正文由同一公开页面提取。热度为来源目录快照，不代表全网排名。除另行说明外，未逐条核实 X 原帖、完整播放、模型归属或提示词复现效果；引用素材、工具、音乐和上下文不随仓库提供。"
+  },
+  {
+    "id": "2108644023330390194",
+    "title": "Fishing game trailer made in Blender",
+    "titleZh": "用Blender制作的钓鱼游戏预告片",
+    "author": "Blushneyy",
+    "type": "Prompt",
+    "model": "Claude Opus 5.5",
+    "sourceUrl": "https://x.com/Blushneyy/status/2108644023330390194",
+    "promptSourceUrl": "https://x.com/Blushneyy/status/2108644027532812762",
+    "collectionUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2108644023330390194",
+    "prompt": "Make a full trailer based on a blender animated animations.",
+    "promptStatus": "upstream_brief_transcription",
+    "promptCompleteness": "published_brief_not_full_workflow",
+    "requiresReference": true,
+    "status": "collected",
+    "primaryCategory": "product-brand",
+    "promptFile": "prompts/motion-2108644023330390194.md",
+    "video": "https://video.twimg.com/amplify_video/2108643179368976384/vid/avc1/1280x720/-u8kV0mw5ITumtwI.mp4?tag=29",
+    "poster": "https://pbs.twimg.com/amplify_video_thumb/2108643179368976384/img/XH3xVYiD_ykxMW7G.jpg",
+    "sourceMediaKeys": [
+      "2108643179368976384"
+    ],
+    "postedAt": "2026-10-09T19:41:26.000Z",
+    "collectedAt": "2026-10-24",
+    "tools": [
+      "Blender"
+    ],
+    "popularity": {
+      "views": 43768,
+      "likes": 196,
+      "bookmarks": 155,
+      "checkedAt": "2026-10-19T08:33:58.737Z",
+      "source": "upstream_reported",
+      "sourceUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2108644023330390194"
+    },
+    "verification": {
+      "method": "chrome_mcp_public_prompt_page_and_public_html_extraction",
+      "checkedAt": "2026-10-24",
+      "originalPostConfirmed": false,
+      "promptMatchedOriginalPost": false,
+      "upstreamPromptPageRead": true,
+      "upstreamVideoListed": true,
+      "nativeVideoConfirmed": false,
+      "modelIndependentlyConfirmed": false,
+      "visualQuality": "not_reviewed",
+      "fullReview": false,
+      "promptSha256": "c04dbaba62cd3e38fed03e05c22040991be9bee0cbe1adaafbe77dd00e94a47f",
+      "videoHttpCheck": {
+        "checkedAt": "2026-10-24",
+        "method": "chrome_mcp_browser_HEAD",
+        "status": 200,
+        "contentType": "video/mp4",
+        "fullPlaybackReviewed": false
+      }
+    },
+    "provenance": {
+      "repository": "https://github.com/zhuyansen/awesome-opus-5.5-video",
+      "commit": "a359f1cdf48b8e97e089d253436625a501a801c8"
+    },
+    "notes": "提示词转录自公开来源目录；已通过 Chrome MCP 读取页面并确认其列出对应视频，正文由同一公开页面提取。热度为来源目录快照，不代表全网排名。除另行说明外，未逐条核实 X 原帖、完整播放、模型归属或提示词复现效果；引用素材、工具、音乐和上下文不随仓库提供。"
+  },
+  {
+    "id": "2106155815707021549",
+    "title": "Claude introduction video",
+    "titleZh": "Claude 产品介绍视频",
+    "author": "devteamdrew",
+    "type": "Prompt",
+    "model": "Fable 5.5 (preview, source reported)",
+    "sourceUrl": "https://x.com/devteamdrew/status/2106155815707021549",
+    "promptSourceUrl": "https://x.com/devteamdrew/status/2106155815707021549",
+    "collectionUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106155815707021549",
+    "prompt": "create its own introduction video",
+    "promptStatus": "upstream_brief_transcription",
+    "promptCompleteness": "published_brief_not_full_workflow",
+    "requiresReference": false,
+    "status": "collected",
+    "primaryCategory": "product-brand",
+    "promptFile": "prompts/motion-2106155815707021549.md",
+    "video": "https://video.twimg.com/amplify_video/2106152207405989888/vid/avc1/1280x720/1WnOHqytB6FizIKw.mp4?tag=29",
+    "poster": "https://pbs.twimg.com/amplify_video_thumb/2106152207405989888/img/aMlIsoSsVWtm0AyV.jpg",
+    "sourceMediaKeys": [
+      "2106152207405989888"
+    ],
+    "postedAt": "2026-10-02T22:54:11.000Z",
+    "collectedAt": "2026-10-24",
+    "tools": [
+      "Fable 5.5"
+    ],
+    "popularity": {
+      "views": 9573,
+      "likes": 122,
+      "bookmarks": 40,
+      "checkedAt": "2026-10-19T08:33:58.737Z",
+      "source": "upstream_reported",
+      "sourceUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106155815707021549"
+    },
+    "verification": {
+      "method": "chrome_mcp_public_prompt_page_and_public_html_extraction",
+      "checkedAt": "2026-10-24",
+      "originalPostConfirmed": false,
+      "promptMatchedOriginalPost": false,
+      "upstreamPromptPageRead": true,
+      "upstreamVideoListed": true,
+      "nativeVideoConfirmed": false,
+      "modelIndependentlyConfirmed": false,
+      "visualQuality": "not_reviewed",
+      "fullReview": false,
+      "promptSha256": "00fd4ba328a0f8bad06c09ab527d8fbdb848cc68a33339393c70133afc171fb0",
+      "videoHttpCheck": {
+        "checkedAt": "2026-10-24",
+        "method": "chrome_mcp_browser_HEAD",
+        "status": 200,
+        "contentType": "video/mp4",
+        "fullPlaybackReviewed": false
+      }
+    },
+    "provenance": {
+      "repository": "https://github.com/zhuyansen/awesome-opus-5.5-video",
+      "commit": "a359f1cdf48b8e97e089d253436625a501a801c8"
+    },
+    "notes": "提示词转录自公开来源目录；已通过 Chrome MCP 读取页面并确认其列出对应视频，正文由同一公开页面提取。热度为来源目录快照，不代表全网排名。除另行说明外，未逐条核实 X 原帖、完整播放、模型归属或提示词复现效果；引用素材、工具、音乐和上下文不随仓库提供。"
+  },
+  {
+    "id": "2104659402007703925",
+    "title": "Fifteen-second motion graphics showreel",
+    "titleZh": "15秒动效展示片",
+    "author": "AntSeed",
+    "type": "Prompt",
+    "model": "Claude Sonnet 5.5",
+    "sourceUrl": "https://x.com/AntSeed/status/2104659402007703925",
+    "promptSourceUrl": "https://x.com/AntSeed/status/2104660141580660885",
+    "collectionUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104659402007703925",
+    "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\"\n\nend the video saying that sonnet 5.5 is now available on Antseed",
+    "promptStatus": "upstream_full_transcription",
+    "promptCompleteness": "source_reported_full",
+    "requiresReference": false,
+    "status": "collected",
+    "primaryCategory": "product-brand",
+    "promptFile": "prompts/motion-2104659402007703925.md",
+    "video": "https://video.twimg.com/amplify_video/2104658621267148800/vid/avc1/1280x720/1TF0erSbfbRLRjPJ.mp4?tag=29",
+    "poster": "https://pbs.twimg.com/amplify_video_thumb/2104658621267148800/img/cyHQaT9ELWDSFpKu.jpg",
+    "sourceMediaKeys": [
+      "2104658621267148800"
+    ],
+    "postedAt": "2026-09-28T19:47:58.000Z",
+    "collectedAt": "2026-10-24",
+    "tools": [],
+    "popularity": {
+      "views": 7807,
+      "likes": 135,
+      "bookmarks": 10,
+      "checkedAt": "2026-10-19T08:33:58.737Z",
+      "source": "upstream_reported",
+      "sourceUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104659402007703925"
+    },
+    "verification": {
+      "method": "chrome_mcp_public_prompt_page_and_public_html_extraction",
+      "checkedAt": "2026-10-24",
+      "originalPostConfirmed": false,
+      "promptMatchedOriginalPost": false,
+      "upstreamPromptPageRead": true,
+      "upstreamVideoListed": true,
+      "nativeVideoConfirmed": false,
+      "modelIndependentlyConfirmed": false,
+      "visualQuality": "not_reviewed",
+      "fullReview": false,
+      "promptSha256": "2e90ea1c375268a8601b495dc19d5dd005520d480110f7265981e9534b2f29a4",
+      "videoHttpCheck": {
+        "checkedAt": "2026-10-24",
+        "method": "chrome_mcp_browser_HEAD",
+        "status": 200,
+        "contentType": "video/mp4",
+        "fullPlaybackReviewed": false
+      }
+    },
+    "provenance": {
+      "repository": "https://github.com/zhuyansen/awesome-opus-5.5-video",
+      "commit": "a359f1cdf48b8e97e089d253436625a501a801c8"
+    },
+    "notes": "提示词转录自公开来源目录；已通过 Chrome MCP 读取页面并确认其列出对应视频，正文由同一公开页面提取。热度为来源目录快照，不代表全网排名。除另行说明外，未逐条核实 X 原帖、完整播放、模型归属或提示词复现效果；引用素材、工具、音乐和上下文不随仓库提供。"
+  },
+  {
+    "id": "2106376222309761094",
+    "title": "15-Second Motion Graphics Showcase",
+    "titleZh": "15秒动效展示",
+    "author": "Saccc_c",
+    "type": "Prompt",
+    "model": "Claude Opus 5.5 / Fable 5.5 (preview, source reported)",
+    "sourceUrl": "https://x.com/Saccc_c/status/2106376222309761094",
+    "promptSourceUrl": "https://x.com/Saccc_c/status/2106376222309761094",
+    "collectionUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106376222309761094",
+    "prompt": "制作一段 15 秒的动态图形视频，展示你是一位多么出色的动态设计师，就像是你简历上的作品集一样，使用任何你认为能产出最佳效果的工具或技术。你拥有完全的创作自由，优先追求卓越的视觉设计、大胆的艺术指导、引人注目的构图和富有力量的动态表现，让每一秒都有价值。全力以赴。",
+    "promptStatus": "upstream_full_transcription",
+    "promptCompleteness": "source_reported_full",
+    "requiresReference": false,
+    "status": "collected",
+    "primaryCategory": "motion-studies",
+    "promptFile": "prompts/motion-2106376222309761094.md",
+    "video": "https://video.twimg.com/amplify_video/2106349987181613056/vid/avc1/1280x720/fadF-72tY1osCOM_.mp4?tag=29",
+    "poster": "https://pbs.twimg.com/amplify_video_thumb/2106349987181613056/img/rYFTbsb_ZCSzweqt.jpg",
+    "sourceMediaKeys": [
+      "2106349987181613056"
+    ],
+    "postedAt": "2026-10-03T13:30:00.000Z",
+    "collectedAt": "2026-10-24",
+    "tools": [],
+    "popularity": {
+      "views": 30812,
+      "likes": 379,
+      "bookmarks": 420,
+      "checkedAt": "2026-10-19T08:33:58.737Z",
+      "source": "upstream_reported",
+      "sourceUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106376222309761094"
+    },
+    "verification": {
+      "method": "chrome_mcp_public_prompt_page_and_public_html_extraction",
+      "checkedAt": "2026-10-24",
+      "originalPostConfirmed": false,
+      "promptMatchedOriginalPost": false,
+      "upstreamPromptPageRead": true,
+      "upstreamVideoListed": true,
+      "nativeVideoConfirmed": false,
+      "modelIndependentlyConfirmed": false,
+      "visualQuality": "not_reviewed",
+      "fullReview": false,
+      "promptSha256": "97aa2bc337c109190a6bb860ee6fa3b2077dc371ef32f8c41bd83f926daa885d",
+      "videoHttpCheck": {
+        "checkedAt": "2026-10-24",
+        "method": "chrome_mcp_browser_HEAD",
+        "status": 200,
+        "contentType": "video/mp4",
+        "fullPlaybackReviewed": false
+      }
+    },
+    "provenance": {
+      "repository": "https://github.com/zhuyansen/awesome-opus-5.5-video",
+      "commit": "a359f1cdf48b8e97e089d253436625a501a801c8"
+    },
+    "notes": "提示词转录自公开来源目录；已通过 Chrome MCP 读取页面并确认其列出对应视频，正文由同一公开页面提取。热度为来源目录快照，不代表全网排名。除另行说明外，未逐条核实 X 原帖、完整播放、模型归属或提示词复现效果；引用素材、工具、音乐和上下文不随仓库提供。"
+  },
+  {
+    "id": "2105922366190784915",
+    "title": "Day-of-week kinetic motion graphic with BGM",
+    "titleZh": "带背景音乐的星期提示动效",
+    "author": "nokonoko_1203",
+    "type": "Prompt",
+    "model": "Claude Opus 5.5",
+    "sourceUrl": "https://x.com/nokonoko_1203/status/2105922366190784915",
+    "promptSourceUrl": "https://x.com/nokonoko_1203/status/2105922366190784915",
+    "collectionUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105922366190784915",
+    "prompt": "今日何曜日だっけ？BGM付きの30秒のかっこいいモーショングラフィックスで教えて（全力を出してください）",
+    "promptStatus": "upstream_brief_transcription",
+    "promptCompleteness": "published_brief_not_full_workflow",
+    "requiresReference": false,
+    "status": "collected",
+    "primaryCategory": "motion-studies",
+    "promptFile": "prompts/motion-2105922366190784915.md",
+    "video": "https://video.twimg.com/amplify_video/2105922303586701312/vid/avc1/1280x720/pK6CDCTviHBwnVet.mp4?tag=29",
+    "poster": "https://pbs.twimg.com/amplify_video_thumb/2105922303586701312/img/ic2ULzCP5kYGwDux.jpg",
+    "sourceMediaKeys": [
+      "2105922303586701312"
+    ],
+    "postedAt": "2026-10-02T07:26:32.000Z",
+    "collectedAt": "2026-10-24",
+    "tools": [],
+    "popularity": {
+      "views": 135292,
+      "likes": 1260,
+      "bookmarks": 900,
+      "checkedAt": "2026-10-19T08:33:58.737Z",
+      "source": "upstream_reported",
+      "sourceUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105922366190784915"
+    },
+    "verification": {
+      "method": "chrome_mcp_public_prompt_page_and_public_html_extraction",
+      "checkedAt": "2026-10-24",
+      "originalPostConfirmed": false,
+      "promptMatchedOriginalPost": false,
+      "upstreamPromptPageRead": true,
+      "upstreamVideoListed": true,
+      "nativeVideoConfirmed": false,
+      "modelIndependentlyConfirmed": false,
+      "visualQuality": "not_reviewed",
+      "fullReview": false,
+      "promptSha256": "153c396d3ebd1665ca40432909546c0930f8cbcb7c6ec23f85edf305e50f4e04",
+      "videoHttpCheck": {
+        "checkedAt": "2026-10-24",
+        "method": "chrome_mcp_browser_HEAD",
+        "status": 200,
+        "contentType": "video/mp4",
+        "fullPlaybackReviewed": false
+      }
+    },
+    "provenance": {
+      "repository": "https://github.com/zhuyansen/awesome-opus-5.5-video",
+      "commit": "a359f1cdf48b8e97e089d253436625a501a801c8"
+    },
+    "notes": "提示词转录自公开来源目录；已通过 Chrome MCP 读取页面并确认其列出对应视频，正文由同一公开页面提取。热度为来源目录快照，不代表全网排名。除另行说明外，未逐条核实 X 原帖、完整播放、模型归属或提示词复现效果；引用素材、工具、音乐和上下文不随仓库提供。"
+  },
+  {
+    "id": "2103817034618339682",
+    "title": "High-energy motion graphics showreel",
+    "titleZh": "高能动效设计展示片",
+    "author": "crvdesign0",
+    "type": "Prompt",
+    "model": "Claude Opus 5.5",
+    "sourceUrl": "https://x.com/crvdesign0/status/2103817034618339682",
+    "promptSourceUrl": "https://x.com/crvdesign0/status/2103817034618339682",
+    "collectionUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103817034618339682",
+    "prompt": "Craft a high-energy, 15-second motion graphics piece that flexes your top-tier animation skills like a killer portfolio reel. Pull out all the stops، Like the creative work on Dribbble, fps 60",
+    "promptStatus": "upstream_full_transcription",
+    "promptCompleteness": "source_reported_full",
+    "requiresReference": false,
+    "status": "collected",
+    "primaryCategory": "motion-studies",
+    "promptFile": "prompts/motion-2103817034618339682.md",
+    "video": "https://video.twimg.com/amplify_video/2103816945854197760/vid/avc1/1280x720/9nYVc-n_DBUXURiu.mp4?tag=29",
+    "poster": "https://pbs.twimg.com/amplify_video_thumb/2103816945854197760/img/EdioPORO7Xfgc5E1.jpg",
+    "sourceMediaKeys": [
+      "2103816945854197760"
+    ],
+    "postedAt": "2026-09-26T12:00:42.000Z",
+    "collectedAt": "2026-10-24",
+    "tools": [],
+    "popularity": {
+      "views": 1103845,
+      "likes": 2804,
+      "bookmarks": 6114,
+      "checkedAt": "2026-10-19T08:33:58.737Z",
+      "source": "upstream_reported",
+      "sourceUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103817034618339682"
+    },
+    "verification": {
+      "method": "chrome_mcp_public_prompt_page_and_public_html_extraction",
+      "checkedAt": "2026-10-24",
+      "originalPostConfirmed": false,
+      "promptMatchedOriginalPost": false,
+      "upstreamPromptPageRead": true,
+      "upstreamVideoListed": true,
+      "nativeVideoConfirmed": false,
+      "modelIndependentlyConfirmed": false,
+      "visualQuality": "not_reviewed",
+      "fullReview": false,
+      "promptSha256": "0dc3d62fe96a0bff19ab65a8fd56847408ac18c5f39d1cab27b13530460c673d",
+      "videoHttpCheck": {
+        "checkedAt": "2026-10-24",
+        "method": "chrome_mcp_browser_HEAD",
+        "status": 200,
+        "contentType": "video/mp4",
+        "fullPlaybackReviewed": false
+      }
+    },
+    "provenance": {
+      "repository": "https://github.com/zhuyansen/awesome-opus-5.5-video",
+      "commit": "a359f1cdf48b8e97e089d253436625a501a801c8"
+    },
+    "notes": "提示词转录自公开来源目录；已通过 Chrome MCP 读取页面并确认其列出对应视频，正文由同一公开页面提取。热度为来源目录快照，不代表全网排名。除另行说明外，未逐条核实 X 原帖、完整播放、模型归属或提示词复现效果；引用素材、工具、音乐和上下文不随仓库提供。"
+  },
+  {
+    "id": "2110038561127014418",
+    "title": "F1 livery customizer built with Opus 5.5",
+    "titleZh": "用Opus 5.5构建的F1车身涂装定制器",
+    "author": "RyanSael",
+    "type": "Prompt",
+    "model": "Claude Opus 5.5",
+    "sourceUrl": "https://x.com/RyanSael/status/2110038561127014418",
+    "promptSourceUrl": "https://x.com/RyanSael/status/2110038561127014418",
+    "collectionUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110038561127014418",
+    "prompt": "build me a livery customizer",
+    "promptStatus": "upstream_brief_transcription",
+    "promptCompleteness": "published_brief_not_full_workflow",
+    "requiresReference": false,
+    "status": "collected",
+    "primaryCategory": "interactive",
+    "promptFile": "prompts/motion-2110038561127014418.md",
+    "video": "https://video.twimg.com/amplify_video/2110033845563383808/vid/avc1/1280x720/UQZQxNZ21ZnqAqmD.mp4?tag=29",
+    "poster": "https://pbs.twimg.com/amplify_video_thumb/2110033845563383808/img/XjEvCvLlp-IGDKvT.jpg",
+    "sourceMediaKeys": [
+      "2110033845563383808"
+    ],
+    "postedAt": "2026-10-13T16:02:50.000Z",
+    "collectedAt": "2026-10-24",
+    "tools": [],
+    "popularity": {
+      "views": 24378,
+      "likes": 158,
+      "bookmarks": 100,
+      "checkedAt": "2026-10-19T08:33:58.737Z",
+      "source": "upstream_reported",
+      "sourceUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110038561127014418"
+    },
+    "verification": {
+      "method": "chrome_mcp_public_prompt_page_and_public_html_extraction",
+      "checkedAt": "2026-10-24",
+      "originalPostConfirmed": false,
+      "promptMatchedOriginalPost": false,
+      "upstreamPromptPageRead": true,
+      "upstreamVideoListed": true,
+      "nativeVideoConfirmed": false,
+      "modelIndependentlyConfirmed": false,
+      "visualQuality": "not_reviewed",
+      "fullReview": false,
+      "promptSha256": "0f9fb1c70027ed7e62ae222fdea5072013add08d77263d90fe896706848a82ce",
+      "videoHttpCheck": {
+        "checkedAt": "2026-10-24",
+        "method": "chrome_mcp_browser_HEAD",
+        "status": 200,
+        "contentType": "video/mp4",
+        "fullPlaybackReviewed": false
+      }
+    },
+    "provenance": {
+      "repository": "https://github.com/zhuyansen/awesome-opus-5.5-video",
+      "commit": "a359f1cdf48b8e97e089d253436625a501a801c8"
+    },
+    "notes": "提示词转录自公开来源目录；已通过 Chrome MCP 读取页面并确认其列出对应视频，正文由同一公开页面提取。热度为来源目录快照，不代表全网排名。除另行说明外，未逐条核实 X 原帖、完整播放、模型归属或提示词复现效果；引用素材、工具、音乐和上下文不随仓库提供。"
+  },
+  {
+    "id": "2112186912060654023",
+    "title": "Playable Game Boy scene from one prompt",
+    "titleZh": "一句提示词生成可玩Game Boy场景",
+    "author": "numaausaumon",
+    "type": "Prompt",
+    "model": "Claude Opus 5.5",
+    "sourceUrl": "https://x.com/numaausaumon/status/2112186912060654023",
+    "promptSourceUrl": "https://x.com/numaausaumon/status/2112186912060654023",
+    "collectionUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2112186912060654023",
+    "prompt": "Inside a Game Boy. Use /colorfigures",
+    "promptStatus": "upstream_brief_transcription",
+    "promptCompleteness": "published_brief_not_full_workflow",
+    "requiresReference": false,
+    "status": "collected",
+    "primaryCategory": "interactive",
+    "promptFile": "prompts/motion-2112186912060654023.md",
+    "video": "https://video.twimg.com/amplify_video/2112176406247698432/vid/avc1/970x720/MCaU69EbceRyinSQ.mp4?tag=29",
+    "poster": "https://pbs.twimg.com/amplify_video_thumb/2112176406247698432/img/sBgqfZlOgfFutYI4.jpg",
+    "sourceMediaKeys": [
+      "2112176406247698432"
+    ],
+    "postedAt": "2026-10-19T14:19:37.000Z",
+    "collectedAt": "2026-10-24",
+    "tools": [
+      "Jig"
+    ],
+    "popularity": {
+      "views": 15744,
+      "likes": 182,
+      "bookmarks": 151,
+      "checkedAt": "2026-10-20T18:00:41.916Z",
+      "source": "upstream_reported",
+      "sourceUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2112186912060654023"
+    },
+    "verification": {
+      "method": "chrome_mcp_public_prompt_page_and_public_html_extraction",
+      "checkedAt": "2026-10-24",
+      "originalPostConfirmed": false,
+      "promptMatchedOriginalPost": false,
+      "upstreamPromptPageRead": true,
+      "upstreamVideoListed": true,
+      "nativeVideoConfirmed": false,
+      "modelIndependentlyConfirmed": false,
+      "visualQuality": "not_reviewed",
+      "fullReview": false,
+      "promptSha256": "59f33926dcc7f502b6fac75e0f99954b395e895a1615a09affb0e927b17978f7",
+      "videoHttpCheck": {
+        "checkedAt": "2026-10-24",
+        "method": "chrome_mcp_browser_HEAD",
+        "status": 200,
+        "contentType": "video/mp4",
+        "fullPlaybackReviewed": false
+      }
+    },
+    "provenance": {
+      "repository": "https://github.com/zhuyansen/awesome-opus-5.5-video",
+      "commit": "a359f1cdf48b8e97e089d253436625a501a801c8"
+    },
+    "notes": "提示词转录自公开来源目录；已通过 Chrome MCP 读取页面并确认其列出对应视频，正文由同一公开页面提取。热度为来源目录快照，不代表全网排名。除另行说明外，未逐条核实 X 原帖、完整播放、模型归属或提示词复现效果；引用素材、工具、音乐和上下文不随仓库提供。"
+  },
+  {
+    "id": "2110665151389003777",
+    "title": "Picasso-style Three.js Tetris game",
+    "titleZh": "毕加索风格Three.js俄罗斯方块游戏",
+    "author": "SimonasLTU1",
+    "type": "Prompt",
+    "model": "Claude Opus 5.5",
+    "sourceUrl": "https://x.com/SimonasLTU1/status/2110665151389003777",
+    "promptSourceUrl": "https://x.com/SimonasLTU1/status/2110665151389003777",
+    "collectionUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110665151389003777",
+    "prompt": "build a Three.js Tetris game inspired by Picasso's art style",
+    "promptStatus": "upstream_brief_transcription",
+    "promptCompleteness": "published_brief_not_full_workflow",
+    "requiresReference": false,
+    "status": "collected",
+    "primaryCategory": "interactive",
+    "promptFile": "prompts/motion-2110665151389003777.md",
+    "video": "https://video.twimg.com/amplify_video/2110663311083610113/vid/avc1/1280x720/MuAsuYToPlKZizDu.mp4?tag=29",
+    "poster": "https://pbs.twimg.com/amplify_video_thumb/2110663311083610113/img/XR1H_F14xc9lQd01.jpg",
+    "sourceMediaKeys": [
+      "2110663311083610113"
+    ],
+    "postedAt": "2026-10-15T09:32:41.000Z",
+    "collectedAt": "2026-10-24",
+    "tools": [
+      "Three.js"
+    ],
+    "popularity": {
+      "views": 20297,
+      "likes": 262,
+      "bookmarks": 152,
+      "checkedAt": "2026-10-19T08:33:58.737Z",
+      "source": "upstream_reported",
+      "sourceUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2110665151389003777"
+    },
+    "verification": {
+      "method": "chrome_mcp_public_prompt_page_and_public_html_extraction",
+      "checkedAt": "2026-10-24",
+      "originalPostConfirmed": false,
+      "promptMatchedOriginalPost": false,
+      "upstreamPromptPageRead": true,
+      "upstreamVideoListed": true,
+      "nativeVideoConfirmed": false,
+      "modelIndependentlyConfirmed": false,
+      "visualQuality": "not_reviewed",
+      "fullReview": false,
+      "promptSha256": "aaaab0f3f8251e2bbd18051b5663ef61fd6c63f265c5179cad5fa136fb961aa0",
+      "videoHttpCheck": {
+        "checkedAt": "2026-10-24",
+        "method": "chrome_mcp_browser_HEAD",
+        "status": 200,
+        "contentType": "video/mp4",
+        "fullPlaybackReviewed": false
+      }
+    },
+    "provenance": {
+      "repository": "https://github.com/zhuyansen/awesome-opus-5.5-video",
+      "commit": "a359f1cdf48b8e97e089d253436625a501a801c8"
+    },
+    "notes": "提示词转录自公开来源目录；已通过 Chrome MCP 读取页面并确认其列出对应视频，正文由同一公开页面提取。热度为来源目录快照，不代表全网排名。除另行说明外，未逐条核实 X 原帖、完整播放、模型归属或提示词复现效果；引用素材、工具、音乐和上下文不随仓库提供。"
+  },
+  {
+    "id": "2109957002822889591",
+    "title": "Cozy game prototype 'Lantern Hallow'",
+    "titleZh": "治愈系游戏原型《灯笼幽谷》",
+    "author": "notjazii",
+    "type": "Prompt",
+    "model": "Claude Opus 5.5",
+    "sourceUrl": "https://x.com/notjazii/status/2109957002822889591",
+    "promptSourceUrl": "https://x.com/notjazii/status/2109957002822889591",
+    "collectionUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109957002822889591",
+    "prompt": "make a small cozy game",
+    "promptStatus": "upstream_brief_transcription",
+    "promptCompleteness": "published_brief_not_full_workflow",
+    "requiresReference": false,
+    "status": "collected",
+    "primaryCategory": "interactive",
+    "promptFile": "prompts/motion-2109957002822889591.md",
+    "video": "https://video.twimg.com/amplify_video/2109956946484928512/vid/avc1/1280x720/d5mnqutMvj1vCjvK.mp4?tag=29",
+    "poster": "https://pbs.twimg.com/amplify_video_thumb/2109956946484928512/img/eg3x78HGeNCkUN7x.jpg",
+    "sourceMediaKeys": [
+      "2109956946484928512"
+    ],
+    "postedAt": "2026-10-13T10:38:45.000Z",
+    "collectedAt": "2026-10-24",
+    "tools": [
+      "Tripo",
+      "Blender",
+      "Godot"
+    ],
+    "popularity": {
+      "views": 29715,
+      "likes": 170,
+      "bookmarks": 57,
+      "checkedAt": "2026-10-19T08:33:58.737Z",
+      "source": "upstream_reported",
+      "sourceUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2109957002822889591"
+    },
+    "verification": {
+      "method": "chrome_mcp_public_prompt_page_and_public_html_extraction",
+      "checkedAt": "2026-10-24",
+      "originalPostConfirmed": false,
+      "promptMatchedOriginalPost": false,
+      "upstreamPromptPageRead": true,
+      "upstreamVideoListed": true,
+      "nativeVideoConfirmed": false,
+      "modelIndependentlyConfirmed": false,
+      "visualQuality": "not_reviewed",
+      "fullReview": false,
+      "promptSha256": "ffb25d794276b0605f97c12fc595d34751c8e6239d8bcd6e2d7a396e4202aea1",
+      "videoHttpCheck": {
+        "checkedAt": "2026-10-24",
+        "method": "chrome_mcp_browser_HEAD",
+        "status": 200,
+        "contentType": "video/mp4",
+        "fullPlaybackReviewed": false
+      }
+    },
+    "provenance": {
+      "repository": "https://github.com/zhuyansen/awesome-opus-5.5-video",
+      "commit": "a359f1cdf48b8e97e089d253436625a501a801c8"
+    },
+    "notes": "提示词转录自公开来源目录；已通过 Chrome MCP 读取页面并确认其列出对应视频，正文由同一公开页面提取。热度为来源目录快照，不代表全网排名。除另行说明外，未逐条核实 X 原帖、完整播放、模型归属或提示词复现效果；引用素材、工具、音乐和上下文不随仓库提供。"
+  },
+  {
+    "id": "2108735367331672201",
+    "title": "3D game remake built with Opus 5.5",
+    "titleZh": "用Opus 5.5重制的3D游戏",
+    "author": "Graalitoo",
+    "type": "Prompt",
+    "model": "Claude Opus 5.5",
+    "sourceUrl": "https://x.com/Graalitoo/status/2108735367331672201",
+    "promptSourceUrl": "https://x.com/Graalitoo/status/2108904792009609615",
+    "collectionUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2108735367331672201",
+    "prompt": "remake entirely the decompiled game into third person 3D adventure game, using my /ultimate-gauntlet-loop skill, use the originals BGM & SFX's from the game, use imagegen to turn the 2D characters into reference image for tripo3D (I also have a skill for that). Use the originals visuals and the Denis Villeneuve movies visuals as goal and reference for the artistic direction.\n\nAnd that's it.",
+    "promptStatus": "upstream_full_transcription",
+    "promptCompleteness": "source_reported_full",
+    "requiresReference": true,
+    "status": "collected",
+    "primaryCategory": "interactive",
+    "promptFile": "prompts/motion-2108735367331672201.md",
+    "video": "https://video.twimg.com/amplify_video/2108734906608300032/vid/avc1/1280x720/RJW9diWOuYCc13p1.mp4?tag=29",
+    "poster": "https://pbs.twimg.com/amplify_video_thumb/2108734906608300032/img/XlKvZ9eFKVBL5FB6.jpg",
+    "sourceMediaKeys": [
+      "2108734906608300032"
+    ],
+    "postedAt": "2026-10-10T01:44:24.000Z",
+    "collectedAt": "2026-10-24",
+    "tools": [
+      "Blender",
+      "Tripo",
+      "Godot",
+      "ElevenLabs",
+      "Mixamo",
+      "Auto Rig Pro"
+    ],
+    "popularity": {
+      "views": 26831,
+      "likes": 262,
+      "bookmarks": 121,
+      "checkedAt": "2026-10-19T08:33:58.737Z",
+      "source": "upstream_reported",
+      "sourceUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2108735367331672201"
+    },
+    "verification": {
+      "method": "chrome_mcp_public_prompt_page_and_public_html_extraction",
+      "checkedAt": "2026-10-24",
+      "originalPostConfirmed": false,
+      "promptMatchedOriginalPost": false,
+      "upstreamPromptPageRead": true,
+      "upstreamVideoListed": true,
+      "nativeVideoConfirmed": false,
+      "modelIndependentlyConfirmed": false,
+      "visualQuality": "not_reviewed",
+      "fullReview": false,
+      "promptSha256": "501eff29ad5b1dbeb27e81fcc5a21f68bed9b53e81a2cd8d5399faf593b0927f",
+      "videoHttpCheck": {
+        "checkedAt": "2026-10-24",
+        "method": "chrome_mcp_browser_HEAD",
+        "status": 200,
+        "contentType": "video/mp4",
+        "fullPlaybackReviewed": false
+      }
+    },
+    "provenance": {
+      "repository": "https://github.com/zhuyansen/awesome-opus-5.5-video",
+      "commit": "a359f1cdf48b8e97e089d253436625a501a801c8"
+    },
+    "notes": "提示词转录自公开来源目录；已通过 Chrome MCP 读取页面并确认其列出对应视频，正文由同一公开页面提取。热度为来源目录快照，不代表全网排名。除另行说明外，未逐条核实 X 原帖、完整播放、模型归属或提示词复现效果；引用素材、工具、音乐和上下文不随仓库提供。"
+  },
+  {
+    "id": "2112560562609803311",
+    "title": "Alpine lake scene built in code",
+    "titleZh": "纯代码生成的高山湖泊场景",
+    "author": "LexnLin",
+    "type": "Prompt",
+    "model": "Claude Opus 5.5",
+    "sourceUrl": "https://x.com/LexnLin/status/2112560562609803311",
+    "promptSourceUrl": "https://x.com/LexnLin/status/2112665671171797052",
+    "collectionUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2112560562609803311",
+    "prompt": "Recreate the environment in these 10 reference images in 3D, using only code. No assets, no textures. It's a big environment: a lake with mountains and forest around it.\n\nThe task has two parts:\n1. Build the 3D environment.\n2. Make a cinematic one minute video that showcases the world, and render it.\n\nThe environment:\n- Make it look 99.9% like the reference images. Don't stop early because you think it's good enough. Iterate until you reach 99.9% similarity. It might take days, I know. There's a lot to do.\n- Colors: 100% clean, the best colors. Compare your colors with the colors in the images. Most of the time the colors come out wrong and a bit too grey, and coloring is one of the most important things. Light and shadows have to match too.\n- Water: get the water right. The colors, the physics, everything should look perfect.\n- Trees: they can't look fake. Give them much better textures and make the forest denser.\n- Mountains: better textures and a better vibe.\n- Rocks and terrain: good rock textures and a lot more detail in the small stones and the terrain.\n- Distance: render everything. Don't render the trees only half of the distance. Trees far away need detail too, also in the half-wide shots.\n- In the end it should look like a real place to the human eye.\n\nThe video:\n- Cinematic, like a drone-filmed movie. That's only a comparison: no drone UI, no drone noises, just a clean video.\n- Start with a really good scene and show the best stuff first. Then slowly show more and more: for example, you're behind a rock and can only see a bit, then the camera flies up and you see a really nice view.\n- Every six or seven seconds, switch to a different place. Sometimes fast, sometimes slow.\n- Sound: calm nature sounds and epic background music. The music has to be really good.\n- Output: high resolution and ultra-wide, so you can see the trees on the other side as well. Clean and not buggy. Keep full quality, even if it takes longer.\n\nHow to work:\n- I don't have a strong GPU, so keep that in mind. You can use my GPU, on CPU it would take a lot of time.\n- Work in rounds and send me screenshots after each round, without pausing. If it still needs improvement to reach 99%, start the next round right away.\n- Don't start the final video before everything is really good. Send me the screenshots first, wait for my approval, and only then render.\n- Don't stop until it's really done and really good.\n\nIf you have questions, ask me now. Otherwise, build as long as you can and make it awesome. Go and cook.",
+    "promptStatus": "upstream_full_transcription",
+    "promptCompleteness": "source_reported_full",
+    "requiresReference": true,
+    "status": "collected",
+    "primaryCategory": "3d-simulations",
+    "promptFile": "prompts/motion-2112560562609803311.md",
+    "video": "https://video.twimg.com/amplify_video/2112554403366408192/vid/avc1/1720x720/7_icgpr2860QprXh.mp4?tag=29",
+    "poster": "https://pbs.twimg.com/amplify_video_thumb/2112554403366408192/img/ZSvS13rvYI-HeXLx.jpg",
+    "sourceMediaKeys": [
+      "2112554403366408192"
+    ],
+    "postedAt": "2026-10-20T15:04:22.000Z",
+    "collectedAt": "2026-10-24",
+    "tools": [],
+    "popularity": {
+      "views": 44046,
+      "likes": 934,
+      "bookmarks": 447,
+      "checkedAt": "2026-10-21T18:06:00.446Z",
+      "source": "upstream_reported",
+      "sourceUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2112560562609803311"
+    },
+    "verification": {
+      "method": "chrome_mcp_public_prompt_page_and_public_html_extraction",
+      "checkedAt": "2026-10-24",
+      "originalPostConfirmed": false,
+      "promptMatchedOriginalPost": false,
+      "upstreamPromptPageRead": true,
+      "upstreamVideoListed": true,
+      "nativeVideoConfirmed": false,
+      "modelIndependentlyConfirmed": false,
+      "visualQuality": "not_reviewed",
+      "fullReview": false,
+      "promptSha256": "6a03cf5bcf405f32f125fff81f999c244d128571c674d67d4001201ff38f0a76",
+      "videoHttpCheck": {
+        "checkedAt": "2026-10-24",
+        "method": "chrome_mcp_browser_HEAD",
+        "status": 200,
+        "contentType": "video/mp4",
+        "fullPlaybackReviewed": false
+      }
+    },
+    "provenance": {
+      "repository": "https://github.com/zhuyansen/awesome-opus-5.5-video",
+      "commit": "a359f1cdf48b8e97e089d253436625a501a801c8"
+    },
+    "notes": "提示词转录自公开来源目录；已通过 Chrome MCP 读取页面并确认其列出对应视频，正文由同一公开页面提取。热度为来源目录快照，不代表全网排名。除另行说明外，未逐条核实 X 原帖、完整播放、模型归属或提示词复现效果；引用素材、工具、音乐和上下文不随仓库提供。"
+  },
+  {
+    "id": "2112545748944556038",
+    "title": "Code-only three.js temple at dusk",
+    "titleZh": "纯代码生成的黄昏寺庙场景",
+    "author": "leo_xiaolei",
+    "type": "Prompt",
+    "model": "Claude Opus 5.5",
+    "sourceUrl": "https://x.com/leo_xiaolei/status/2112545748944556038",
+    "promptSourceUrl": "https://x.com/leo_xiaolei/status/2112546261870276901",
+    "collectionUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2112545748944556038",
+    "prompt": "【段落 1：开工 ＋ 平面图】\n我想用 three.js 做一座黄昏时刻的寺庙，最后输出成 70 秒的视频。\n规则：不准用任何 3D 模型、贴图或照片，所有东西全用代码生成。\n先不要渲染画面，先输出一份场景平面图 ⁠layout.js⁠：定义好主殿、五重塔、拱桥、莲花池、山门的位置和尺寸，单位用“米”。之后所有的代码都只能从这个文件里读取坐标。\n太阳定在西南偏西方向、地平线上方约 7 度，打暖色光。\n【段落 2：分身施工】\n平面图确定后，开启 6 个 Sub-agent（子智能体）并行施工，每个 Agent 负责一个区域：地形、池塘（莲花、锦鲤）、主殿、五重塔、拱桥、树木。\n每个 Agent 只能修改自己的文件。\n全局材质（朱漆、金箔、青铜、屋瓦、木头）统一写在 ⁠materials.js⁠ 里供大家调用。\n随机数一律使用固定种子（固定 Seed），保证每次打开渲染出来的样子一模一样。\n（注：这一步记得附上几张高清的寺庙照片，给 AI 作为参考）\n【段落 3：镜头调度】\n安排 10 个镜头，每个镜头 7 秒。\n每个镜头都从一个小物件的特写开始（灯笼、莲花、风铃、佛像面部等），再慢慢拉远露出整个场景。镜头开头先在特写停留片刻，中间加速拉远，结尾放慢缓动。\n最后一个镜头，从逆光的枫叶拉远，最后过渡到整座寺庙的全景俯拍（航拍视角）。",
+    "promptStatus": "upstream_full_transcription",
+    "promptCompleteness": "source_reported_full",
+    "requiresReference": true,
+    "status": "collected",
+    "primaryCategory": "3d-simulations",
+    "promptFile": "prompts/motion-2112545748944556038.md",
+    "video": "https://video.twimg.com/amplify_video/2112545540097667072/vid/avc1/1280x720/MyKsk9awSEiI_yrr.mp4?tag=29",
+    "poster": "https://pbs.twimg.com/amplify_video_thumb/2112545540097667072/img/YryIEbsUdaX-A9f8.jpg",
+    "sourceMediaKeys": [
+      "2112545540097667072"
+    ],
+    "postedAt": "2026-10-20T14:05:30.000Z",
+    "collectedAt": "2026-10-24",
+    "tools": [
+      "Claude Code",
+      "Three.js"
+    ],
+    "popularity": {
+      "views": 113951,
+      "likes": 888,
+      "bookmarks": 1140,
+      "checkedAt": "2026-10-21T18:06:00.446Z",
+      "source": "upstream_reported",
+      "sourceUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2112545748944556038"
+    },
+    "verification": {
+      "method": "chrome_mcp_public_prompt_page_and_public_html_extraction",
+      "checkedAt": "2026-10-24",
+      "originalPostConfirmed": false,
+      "promptMatchedOriginalPost": false,
+      "upstreamPromptPageRead": true,
+      "upstreamVideoListed": true,
+      "nativeVideoConfirmed": false,
+      "modelIndependentlyConfirmed": false,
+      "visualQuality": "not_reviewed",
+      "fullReview": false,
+      "promptSha256": "19c1eb4ff1fec642d6d2245c61c542c87d10e236be26d1d591229c750b6463e5",
+      "videoHttpCheck": {
+        "checkedAt": "2026-10-24",
+        "method": "chrome_mcp_browser_HEAD",
+        "status": 200,
+        "contentType": "video/mp4",
+        "fullPlaybackReviewed": false
+      }
+    },
+    "provenance": {
+      "repository": "https://github.com/zhuyansen/awesome-opus-5.5-video",
+      "commit": "a359f1cdf48b8e97e089d253436625a501a801c8"
+    },
+    "notes": "提示词转录自公开来源目录；已通过 Chrome MCP 读取页面并确认其列出对应视频，正文由同一公开页面提取。热度为来源目录快照，不代表全网排名。除另行说明外，未逐条核实 X 原帖、完整播放、模型归属或提示词复现效果；引用素材、工具、音乐和上下文不随仓库提供。"
+  },
+  {
+    "id": "2111518872272814233",
+    "title": "Boat floating in a garden scene",
+    "titleZh": "花园中漂浮小船的场景",
+    "author": "pankajkumar_dev",
+    "type": "Prompt",
+    "model": "Fable 5.5 (preview, source reported)",
+    "sourceUrl": "https://x.com/pankajkumar_dev/status/2111518872272814233",
+    "promptSourceUrl": "https://x.com/pankajkumar_dev/status/2111518872272814233",
+    "collectionUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111518872272814233",
+    "prompt": "create a boat floating in a garden",
+    "promptStatus": "upstream_brief_transcription",
+    "promptCompleteness": "published_brief_not_full_workflow",
+    "requiresReference": false,
+    "status": "collected",
+    "primaryCategory": "3d-simulations",
+    "promptFile": "prompts/motion-2111518872272814233.md",
+    "video": "https://video.twimg.com/amplify_video/2111517136007086080/vid/avc1/1280x720/NkBjESBItk9IJ_kr.mp4?tag=29",
+    "poster": "https://pbs.twimg.com/amplify_video_thumb/2111517136007086080/img/Ddu21YMM1JDtfFVv.jpg",
+    "sourceMediaKeys": [
+      "2111517136007086080"
+    ],
+    "postedAt": "2026-10-17T18:05:03.000Z",
+    "collectedAt": "2026-10-24",
+    "tools": [],
+    "popularity": {
+      "views": 17331,
+      "likes": 374,
+      "bookmarks": 115,
+      "checkedAt": "2026-10-19T08:33:58.737Z",
+      "source": "upstream_reported",
+      "sourceUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111518872272814233"
+    },
+    "verification": {
+      "method": "chrome_mcp_public_prompt_page_and_public_html_extraction",
+      "checkedAt": "2026-10-24",
+      "originalPostConfirmed": false,
+      "promptMatchedOriginalPost": false,
+      "upstreamPromptPageRead": true,
+      "upstreamVideoListed": true,
+      "nativeVideoConfirmed": false,
+      "modelIndependentlyConfirmed": false,
+      "visualQuality": "not_reviewed",
+      "fullReview": false,
+      "promptSha256": "51f1d42f06ba78c2c48a88700e9ff454af3d01e47924b7473e2f8ed6606b8cd9",
+      "videoHttpCheck": {
+        "checkedAt": "2026-10-24",
+        "method": "chrome_mcp_browser_HEAD",
+        "status": 200,
+        "contentType": "video/mp4",
+        "fullPlaybackReviewed": false
+      }
+    },
+    "provenance": {
+      "repository": "https://github.com/zhuyansen/awesome-opus-5.5-video",
+      "commit": "a359f1cdf48b8e97e089d253436625a501a801c8"
+    },
+    "notes": "提示词转录自公开来源目录；已通过 Chrome MCP 读取页面并确认其列出对应视频，正文由同一公开页面提取。热度为来源目录快照，不代表全网排名。除另行说明外，未逐条核实 X 原帖、完整播放、模型归属或提示词复现效果；引用素材、工具、音乐和上下文不随仓库提供。"
+  },
+  {
+    "id": "2111193444345667813",
+    "title": "Atlas and P-body voxel portal scene",
+    "titleZh": "Atlas与P-body体素传送门场景",
+    "author": "legit_api",
+    "type": "Prompt",
+    "model": "Fable 5.5 (preview, source reported)",
+    "sourceUrl": "https://x.com/legit_api/status/2111193444345667813",
+    "promptSourceUrl": "https://x.com/legit_api/status/2111201715169251707",
+    "collectionUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111193444345667813",
+    "prompt": "Atlas and P-body making a dramatic pose. A portal to a different space is behind them.",
+    "promptStatus": "upstream_brief_transcription",
+    "promptCompleteness": "published_brief_not_full_workflow",
+    "requiresReference": false,
+    "status": "collected",
+    "primaryCategory": "3d-simulations",
+    "promptFile": "prompts/motion-2111193444345667813.md",
+    "video": "https://video.twimg.com/amplify_video/2111193179349225472/vid/avc1/1280x720/qGb0eOFcpb5W6Bd0.mp4?tag=29",
+    "poster": "https://pbs.twimg.com/amplify_video_thumb/2111193179349225472/img/bwWn1yfSLTereFEk.jpg",
+    "sourceMediaKeys": [
+      "2111193179349225472"
+    ],
+    "postedAt": "2026-10-16T20:31:55.000Z",
+    "collectedAt": "2026-10-24",
+    "tools": [],
+    "popularity": {
+      "views": 94615,
+      "likes": 731,
+      "bookmarks": 159,
+      "checkedAt": "2026-10-19T08:33:58.737Z",
+      "source": "upstream_reported",
+      "sourceUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2111193444345667813"
+    },
+    "verification": {
+      "method": "chrome_mcp_public_prompt_page_and_public_html_extraction",
+      "checkedAt": "2026-10-24",
+      "originalPostConfirmed": false,
+      "promptMatchedOriginalPost": false,
+      "upstreamPromptPageRead": true,
+      "upstreamVideoListed": true,
+      "nativeVideoConfirmed": false,
+      "modelIndependentlyConfirmed": false,
+      "visualQuality": "not_reviewed",
+      "fullReview": false,
+      "promptSha256": "1d12259f18327a44fd941a65e870119abda6ad04d41449ba161ffa24345fe020",
+      "videoHttpCheck": {
+        "checkedAt": "2026-10-24",
+        "method": "chrome_mcp_browser_HEAD",
+        "status": 200,
+        "contentType": "video/mp4",
+        "fullPlaybackReviewed": false
+      }
+    },
+    "provenance": {
+      "repository": "https://github.com/zhuyansen/awesome-opus-5.5-video",
+      "commit": "a359f1cdf48b8e97e089d253436625a501a801c8"
+    },
+    "notes": "提示词转录自公开来源目录；已通过 Chrome MCP 读取页面并确认其列出对应视频，正文由同一公开页面提取。热度为来源目录快照，不代表全网排名。除另行说明外，未逐条核实 X 原帖、完整播放、模型归属或提示词复现效果；引用素材、工具、音乐和上下文不随仓库提供。"
+  },
+  {
+    "id": "2107821059772661912",
+    "title": "Six-axis industrial robot arm with routed harness",
+    "titleZh": "布线完整的六轴工业机械臂",
+    "author": "konstantinsaifo",
+    "type": "Prompt",
+    "model": "Claude Opus 5.5",
+    "sourceUrl": "https://x.com/konstantinsaifo/status/2107821059772661912",
+    "promptSourceUrl": "https://x.com/konstantinsaifo/status/2107821059772661912",
+    "collectionUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2107821059772661912",
+    "prompt": "a 6 axis industrial robot arm. 10 kg payload, 1.3 m reach, every cable routed.",
+    "promptStatus": "upstream_brief_transcription",
+    "promptCompleteness": "published_brief_not_full_workflow",
+    "requiresReference": false,
+    "status": "collected",
+    "primaryCategory": "3d-simulations",
+    "promptFile": "prompts/motion-2107821059772661912.md",
+    "video": "https://video.twimg.com/amplify_video/2107820085842747392/vid/avc1/1280x720/amI5Et5IFGw17Qzb.mp4?tag=29",
+    "poster": "https://pbs.twimg.com/amplify_video_thumb/2107820085842747392/img/q0WFF1Q03U1qSw6c.jpg",
+    "sourceMediaKeys": [
+      "2107820085842747392"
+    ],
+    "postedAt": "2026-10-07T13:11:16.000Z",
+    "collectedAt": "2026-10-24",
+    "tools": [],
+    "popularity": {
+      "views": 11015,
+      "likes": 101,
+      "bookmarks": 81,
+      "checkedAt": "2026-10-19T08:33:58.737Z",
+      "source": "upstream_reported",
+      "sourceUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2107821059772661912"
+    },
+    "verification": {
+      "method": "chrome_mcp_public_prompt_page_and_public_html_extraction",
+      "checkedAt": "2026-10-24",
+      "originalPostConfirmed": false,
+      "promptMatchedOriginalPost": false,
+      "upstreamPromptPageRead": true,
+      "upstreamVideoListed": true,
+      "nativeVideoConfirmed": false,
+      "modelIndependentlyConfirmed": false,
+      "visualQuality": "not_reviewed",
+      "fullReview": false,
+      "promptSha256": "2953098c117a64670738af9bf0bc7af7c4ee1494dd109213c369fd00a1cc532b",
+      "videoHttpCheck": {
+        "checkedAt": "2026-10-24",
+        "method": "chrome_mcp_browser_HEAD",
+        "status": 200,
+        "contentType": "video/mp4",
+        "fullPlaybackReviewed": false
+      }
+    },
+    "provenance": {
+      "repository": "https://github.com/zhuyansen/awesome-opus-5.5-video",
+      "commit": "a359f1cdf48b8e97e089d253436625a501a801c8"
+    },
+    "notes": "提示词转录自公开来源目录；已通过 Chrome MCP 读取页面并确认其列出对应视频，正文由同一公开页面提取。热度为来源目录快照，不代表全网排名。除另行说明外，未逐条核实 X 原帖、完整播放、模型归属或提示词复现效果；引用素材、工具、音乐和上下文不随仓库提供。"
+  },
+  {
+    "id": "2107095740485144817",
+    "title": "Cocktail glass liquid effect scene",
+    "titleZh": "鸡尾酒杯液体特效场景",
+    "author": "ann_nnng",
+    "type": "Prompt",
+    "model": "Claude Opus 5.5",
+    "sourceUrl": "https://x.com/ann_nnng/status/2107095740485144817",
+    "promptSourceUrl": "https://x.com/ann_nnng/status/2107095740485144817",
+    "collectionUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2107095740485144817",
+    "prompt": "create these cocktail glass effects in three.js",
+    "promptStatus": "upstream_brief_transcription",
+    "promptCompleteness": "published_brief_not_full_workflow",
+    "requiresReference": false,
+    "status": "collected",
+    "primaryCategory": "3d-simulations",
+    "promptFile": "prompts/motion-2107095740485144817.md",
+    "video": "https://video.twimg.com/amplify_video/2107095683291607040/vid/avc1/1170x720/NyHQ-z7029a3nNXb.mp4?tag=29",
+    "poster": "https://pbs.twimg.com/amplify_video_thumb/2107095683291607040/img/XiXxdMLyxKixOAng.jpg",
+    "sourceMediaKeys": [
+      "2107095683291607040"
+    ],
+    "postedAt": "2026-10-05T13:09:07.000Z",
+    "collectedAt": "2026-10-24",
+    "tools": [
+      "Three.js"
+    ],
+    "popularity": {
+      "views": 47815,
+      "likes": 1061,
+      "bookmarks": 555,
+      "checkedAt": "2026-10-19T08:33:58.737Z",
+      "source": "upstream_reported",
+      "sourceUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2107095740485144817"
+    },
+    "verification": {
+      "method": "chrome_mcp_public_prompt_page_and_public_html_extraction",
+      "checkedAt": "2026-10-24",
+      "originalPostConfirmed": false,
+      "promptMatchedOriginalPost": false,
+      "upstreamPromptPageRead": true,
+      "upstreamVideoListed": true,
+      "nativeVideoConfirmed": false,
+      "modelIndependentlyConfirmed": false,
+      "visualQuality": "not_reviewed",
+      "fullReview": false,
+      "promptSha256": "6a71eed690d0e02c57a3c4f029b0dc68fc823315a9e09ec0fe4a918e9c320b84",
+      "videoHttpCheck": {
+        "checkedAt": "2026-10-24",
+        "method": "chrome_mcp_browser_HEAD",
+        "status": 200,
+        "contentType": "video/mp4",
+        "fullPlaybackReviewed": false
+      }
+    },
+    "provenance": {
+      "repository": "https://github.com/zhuyansen/awesome-opus-5.5-video",
+      "commit": "a359f1cdf48b8e97e089d253436625a501a801c8"
+    },
+    "notes": "提示词转录自公开来源目录；已通过 Chrome MCP 读取页面并确认其列出对应视频，正文由同一公开页面提取。热度为来源目录快照，不代表全网排名。除另行说明外，未逐条核实 X 原帖、完整播放、模型归属或提示词复现效果；引用素材、工具、音乐和上下文不随仓库提供。"
+  },
+  {
+    "id": "2105889407056109991",
+    "title": "3D Rube Goldberg machine simulation",
+    "titleZh": "3D连锁反应装置模拟",
+    "author": "imjustnewatai",
+    "type": "Prompt",
+    "model": "Fable 5.5 (preview, source reported)",
+    "sourceUrl": "https://x.com/imjustnewatai/status/2105889407056109991",
+    "promptSourceUrl": "https://x.com/imjustnewatai/status/2105889407056109991",
+    "collectionUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105889407056109991",
+    "prompt": "Extremely complicated 3d rube goldberg machine, accurate physics, aaa gfx, vfx",
+    "promptStatus": "upstream_brief_transcription",
+    "promptCompleteness": "published_brief_not_full_workflow",
+    "requiresReference": false,
+    "status": "collected",
+    "primaryCategory": "3d-simulations",
+    "promptFile": "prompts/motion-2105889407056109991.md",
+    "video": "https://video.twimg.com/amplify_video/2105889292841029633/vid/avc1/1280x720/j9OyM1SXZ0Qv8-Vm.mp4?tag=29",
+    "poster": "https://pbs.twimg.com/amplify_video_thumb/2105889292841029633/img/iz68iBAHIRdyp316.jpg",
+    "sourceMediaKeys": [
+      "2105889292841029633"
+    ],
+    "postedAt": "2026-10-02T05:15:34.000Z",
+    "collectedAt": "2026-10-24",
+    "tools": [],
+    "popularity": {
+      "views": 44264,
+      "likes": 730,
+      "bookmarks": 218,
+      "checkedAt": "2026-10-19T08:33:58.737Z",
+      "source": "upstream_reported",
+      "sourceUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105889407056109991"
+    },
+    "verification": {
+      "method": "chrome_mcp_public_prompt_page_and_public_html_extraction",
+      "checkedAt": "2026-10-24",
+      "originalPostConfirmed": false,
+      "promptMatchedOriginalPost": false,
+      "upstreamPromptPageRead": true,
+      "upstreamVideoListed": true,
+      "nativeVideoConfirmed": false,
+      "modelIndependentlyConfirmed": false,
+      "visualQuality": "not_reviewed",
+      "fullReview": false,
+      "promptSha256": "a0dd412e27e6818668bdcdcea4d8e9e5fa7a75d1175714656b49395ea233542e",
+      "videoHttpCheck": {
+        "checkedAt": "2026-10-24",
+        "method": "chrome_mcp_browser_HEAD",
+        "status": 200,
+        "contentType": "video/mp4",
+        "fullPlaybackReviewed": false
+      }
+    },
+    "provenance": {
+      "repository": "https://github.com/zhuyansen/awesome-opus-5.5-video",
+      "commit": "a359f1cdf48b8e97e089d253436625a501a801c8"
+    },
+    "notes": "提示词转录自公开来源目录；已通过 Chrome MCP 读取页面并确认其列出对应视频，正文由同一公开页面提取。热度为来源目录快照，不代表全网排名。除另行说明外，未逐条核实 X 原帖、完整播放、模型归属或提示词复现效果；引用素材、工具、音乐和上下文不随仓库提供。"
+  },
+  {
+    "id": "2106829942206173497",
+    "title": "Interactive caching code explainer",
+    "titleZh": "缓存代码交互式讲解",
+    "author": "BHolmesDev",
+    "type": "Prompt",
+    "model": "Claude Opus 5.5",
+    "sourceUrl": "https://x.com/BHolmesDev/status/2106829942206173497",
+    "promptSourceUrl": "https://x.com/BHolmesDev/status/2106829942206173497",
+    "collectionUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106829942206173497",
+    "prompt": "a before-and-after HTML explainer on a PR that adds caching to our mobile app",
+    "promptStatus": "upstream_brief_transcription",
+    "promptCompleteness": "published_brief_not_full_workflow",
+    "requiresReference": true,
+    "status": "collected",
+    "primaryCategory": "explainers-data",
+    "promptFile": "prompts/motion-2106829942206173497.md",
+    "video": "https://video.twimg.com/amplify_video/2106829152221290496/vid/avc1/1058x720/vjo69QbdtAKwQTCq.mp4?tag=29",
+    "poster": "https://pbs.twimg.com/amplify_video_thumb/2106829152221290496/img/IjChiw5nNVB5kT1m.jpg",
+    "sourceMediaKeys": [
+      "2106829152221290496"
+    ],
+    "postedAt": "2026-10-04T19:32:55.000Z",
+    "collectedAt": "2026-10-24",
+    "tools": [],
+    "popularity": {
+      "views": 58593,
+      "likes": 761,
+      "bookmarks": 792,
+      "checkedAt": "2026-10-19T08:33:58.737Z",
+      "source": "upstream_reported",
+      "sourceUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106829942206173497"
+    },
+    "verification": {
+      "method": "chrome_mcp_public_prompt_page_and_public_html_extraction",
+      "checkedAt": "2026-10-24",
+      "originalPostConfirmed": false,
+      "promptMatchedOriginalPost": false,
+      "upstreamPromptPageRead": true,
+      "upstreamVideoListed": true,
+      "nativeVideoConfirmed": false,
+      "modelIndependentlyConfirmed": false,
+      "visualQuality": "not_reviewed",
+      "fullReview": false,
+      "promptSha256": "387309560664910073bbd032a77ad8b351f430cfe2f62fe2211bc83fe8811358",
+      "videoHttpCheck": {
+        "checkedAt": "2026-10-24",
+        "method": "chrome_mcp_browser_HEAD",
+        "status": 200,
+        "contentType": "video/mp4",
+        "fullPlaybackReviewed": false
+      }
+    },
+    "provenance": {
+      "repository": "https://github.com/zhuyansen/awesome-opus-5.5-video",
+      "commit": "a359f1cdf48b8e97e089d253436625a501a801c8"
+    },
+    "notes": "提示词转录自公开来源目录；已通过 Chrome MCP 读取页面并确认其列出对应视频，正文由同一公开页面提取。热度为来源目录快照，不代表全网排名。除另行说明外，未逐条核实 X 原帖、完整播放、模型归属或提示词复现效果；引用素材、工具、音乐和上下文不随仓库提供。"
+  },
+  {
+    "id": "2106081142143168580",
+    "title": "Human progress to future animated film",
+    "titleZh": "人类进步未来动画短片",
+    "author": "imjustnewatai",
+    "type": "Prompt",
+    "model": "Fable 5.5 (preview, source reported)",
+    "sourceUrl": "https://x.com/imjustnewatai/status/2106081142143168580",
+    "promptSourceUrl": "https://x.com/imjustnewatai/status/2106081142143168580",
+    "collectionUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106081142143168580",
+    "prompt": "a video of all human progress, then 30 years into the future",
+    "promptStatus": "upstream_brief_transcription",
+    "promptCompleteness": "published_brief_not_full_workflow",
+    "requiresReference": false,
+    "status": "collected",
+    "primaryCategory": "explainers-data",
+    "promptFile": "prompts/motion-2106081142143168580.md",
+    "video": "https://video.twimg.com/amplify_video/2106080680471834624/vid/avc1/1280x720/0NtOwm8I5CqQO3AH.mp4?tag=29",
+    "poster": "https://pbs.twimg.com/amplify_video_thumb/2106080680471834624/img/XbejF3z_IpBdCzsz.jpg",
+    "sourceMediaKeys": [
+      "2106080680471834624"
+    ],
+    "postedAt": "2026-10-02T17:57:28.000Z",
+    "collectedAt": "2026-10-24",
+    "tools": [],
+    "popularity": {
+      "views": 425294,
+      "likes": 8151,
+      "bookmarks": 5183,
+      "checkedAt": "2026-10-19T08:33:58.737Z",
+      "source": "upstream_reported",
+      "sourceUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2106081142143168580"
+    },
+    "verification": {
+      "method": "chrome_mcp_public_prompt_page_and_public_html_extraction",
+      "checkedAt": "2026-10-24",
+      "originalPostConfirmed": false,
+      "promptMatchedOriginalPost": false,
+      "upstreamPromptPageRead": true,
+      "upstreamVideoListed": true,
+      "nativeVideoConfirmed": false,
+      "modelIndependentlyConfirmed": false,
+      "visualQuality": "not_reviewed",
+      "fullReview": false,
+      "promptSha256": "dd9c25f0db0c097ee099f175677a07f8a5fa68e5094e91802399310224afee88",
+      "videoHttpCheck": {
+        "checkedAt": "2026-10-24",
+        "method": "chrome_mcp_browser_HEAD",
+        "status": 200,
+        "contentType": "video/mp4",
+        "fullPlaybackReviewed": false
+      }
+    },
+    "provenance": {
+      "repository": "https://github.com/zhuyansen/awesome-opus-5.5-video",
+      "commit": "a359f1cdf48b8e97e089d253436625a501a801c8"
+    },
+    "notes": "提示词转录自公开来源目录；已通过 Chrome MCP 读取页面并确认其列出对应视频，正文由同一公开页面提取。热度为来源目录快照，不代表全网排名。除另行说明外，未逐条核实 X 原帖、完整播放、模型归属或提示词复现效果；引用素材、工具、音乐和上下文不随仓库提供。"
+  },
+  {
+    "id": "2105983571848741045",
+    "title": "Civilization history animated film",
+    "titleZh": "文明史动画短片",
+    "author": "ziwenxu_",
+    "type": "Prompt",
+    "model": "Fable 5.5 (preview, source reported)",
+    "sourceUrl": "https://x.com/ziwenxu_/status/2105983571848741045",
+    "promptSourceUrl": "https://x.com/ziwenxu_/status/2105983571848741045",
+    "collectionUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105983571848741045",
+    "prompt": "Show civilization from day one to now. Go all out.",
+    "promptStatus": "upstream_brief_transcription",
+    "promptCompleteness": "published_brief_not_full_workflow",
+    "requiresReference": false,
+    "status": "collected",
+    "primaryCategory": "explainers-data",
+    "promptFile": "prompts/motion-2105983571848741045.md",
+    "video": "https://video.twimg.com/amplify_video/2105974025167982592/vid/avc1/1280x720/tF6K0opiR41DL0Q4.mp4?tag=29",
+    "poster": "https://pbs.twimg.com/amplify_video_thumb/2105974025167982592/img/FOfKC5764KT75uQi.jpg",
+    "sourceMediaKeys": [
+      "2105974025167982592"
+    ],
+    "postedAt": "2026-10-02T11:29:45.000Z",
+    "collectedAt": "2026-10-24",
+    "tools": [],
+    "popularity": {
+      "views": 45205,
+      "likes": 427,
+      "bookmarks": 228,
+      "checkedAt": "2026-10-19T08:33:58.737Z",
+      "source": "upstream_reported",
+      "sourceUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105983571848741045"
+    },
+    "verification": {
+      "method": "chrome_mcp_public_prompt_page_and_public_html_extraction",
+      "checkedAt": "2026-10-24",
+      "originalPostConfirmed": false,
+      "promptMatchedOriginalPost": false,
+      "upstreamPromptPageRead": true,
+      "upstreamVideoListed": true,
+      "nativeVideoConfirmed": false,
+      "modelIndependentlyConfirmed": false,
+      "visualQuality": "not_reviewed",
+      "fullReview": false,
+      "promptSha256": "658c28a4eac03a4583a0d790c5ae85ceea2eba72d9b519d26a075e5f4505abc3",
+      "videoHttpCheck": {
+        "checkedAt": "2026-10-24",
+        "method": "chrome_mcp_browser_HEAD",
+        "status": 200,
+        "contentType": "video/mp4",
+        "fullPlaybackReviewed": false
+      }
+    },
+    "provenance": {
+      "repository": "https://github.com/zhuyansen/awesome-opus-5.5-video",
+      "commit": "a359f1cdf48b8e97e089d253436625a501a801c8"
+    },
+    "notes": "提示词转录自公开来源目录；已通过 Chrome MCP 读取页面并确认其列出对应视频，正文由同一公开页面提取。热度为来源目录快照，不代表全网排名。除另行说明外，未逐条核实 X 原帖、完整播放、模型归属或提示词复现效果；引用素材、工具、音乐和上下文不随仓库提供。"
+  },
+  {
+    "id": "2105922894924501283",
+    "title": "Explainer video of 9 football rules",
+    "titleZh": "讲解9条足球规则的科普视频",
+    "author": "lukasersil",
+    "type": "Prompt",
+    "model": "Claude Opus 5.5",
+    "sourceUrl": "https://x.com/lukasersil/status/2105922894924501283",
+    "promptSourceUrl": "https://x.com/lukasersil/status/2105922900343623773",
+    "collectionUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105922894924501283",
+    "prompt": "Postav mi video, které vysvětluje pravidla sportu stylem televizní analýzy s AR grafikou. Bez AI video modelů a bez stahování assetů: 3D scénu, postavy, textury, grafiku i zvuk vytvoř kódem. Pracuj samostatně a průběžně mi ukazuj kontrolní snímky.\n\n## Parametry (pro jiný sport změň tuhle sekci a sekci Scénář)\n- Sport: fotbal\n- Pravidla (9): ofsajd, faul, pokutový kop, vhazování, rohový kop + kop od branky, hra rukou, přímý volný kop, žlutá a červená karta, gól (celý míč za čarou)\n- Jazyk všech textů: čeština (plná diakritika, desetinná čárka)\n- Délka: cca 68 s (úvod ~4,5 s, každé pravidlo 6 až 8 s, závěr ~4 s)\n- Formát: 1920×1080, 30 fps, MP4 (H.264 + AAC)\n- Styl postav: PS2 éra ve stylu GTA San Andreas (low-poly tvarované tělo, ručně malované textury)\n- Týmy: Červení (červený dres s bílými lemy, bílé trenky), Modří (královsky modrý dres, tmavě modré trenky), rozhodčí černý s limetkovými lemy, brankáři zelený a fialový\n\n## Technologie a pipeline\n- Three.js (npm). index.html obsahuje WebGL canvas 1920×1080 a nad ním DOM vrstvu pro HUD.\n- Deterministická funkce `window.renderFrame(t)`: stav scény i HUD je čistá funkce času, žádný stav mezi snímky.\n- `render.mjs`: lokální statický HTTP server + puppeteer-core se systémovým Chrome (headless, na Macu `--use-angle=metal`). Pro každý snímek zavolej renderFrame(t), počkej 2× requestAnimationFrame, udělej JPEG screenshot a pošli ho rourou do ffmpeg (libx264, CRF 18, yuv420p). Režimy: `stills t1 t2 …` (PNG na kontrolu), `video`, `info` (zapíše časovou osu do out/timeline.json).\n- Cesty řeš přes fileURLToPath (složky s mezerami v názvu).\n- WebGLRenderer s `preserveDrawingBuffer: true`, ACES tone mapping, PCF soft shadows. EffectComposer s MSAA (samples 4, HalfFloat): RenderPass, UnrealBloomPass, vlastní grade pass (vinětace, jemné zrno, chromatická aberace, záblesk, whip blur, VHS efekt), OutputPass.\n- Zvuk: Python (numpy + scipy) syntetizuje celý soundtrack do WAV, ffmpeg ho přimíchá (AAC 192k).\n- Výstupy: plná kvalita + webová verze (CRF 23 až 24, maxrate 10M).\n\n## Struktura projektu\nsrc/util.js (easing, tmap pro freeze a zpomalení, track() pro pohyb hráčů po časovaných waypointech s fází běhu podle uražené vzdálenosti, seeded rng), src/world.js, src/player.js, src/ar.js, src/hud.js, src/grade.js, src/segments.js, src/main.js, render.mjs, https://audio.py/, PROGRESS.md (průběžně zapisuj, co je hotové a jak se to pouští, ať se dá navázat po přerušení).\n\n## Svět\n- Hřiště 105×68 m. Tráva jako canvas textura (pruhy po 5,25 m, šum, skvrny) + dlaždicová detail textura přes onBeforeCompile. Čáry jako ostrá geometrie, ne textura. Vnější hrana čar = hranice hřiště.\n- Branky se sítí (LineSegments), rohové praporky.\n- Stadion: dvoupatrová mísa podle superelipsy, dav jako canvas textura lidí v řadách, LED pás mezi patry, střecha s žebry, řady reflektorů na hraně střechy (emisivní, bloom), vnější fasáda s osvětlenými okny, noční obloha, světla města kolem, tmavá zem.\n- LED mantinely kolem hřiště s českými nápisy (PRAVIDLA FOTBALU, RESPEKT, FAIR PLAY, ZNEJ PRAVIDLA, #PRAVIDLAFOTBALU), pomalu se posouvají.\n- Světla: 4 směrová světla z rohů střechy se stíny (shadow kamera zaostřená na akci daného segmentu), hemisférické světlo, jemná mlha.\n- Analytický grade: do všech materiálů světa vlož přes onBeforeCompile sdílený uniform uFreeze (odbarvení do chladné šedozelené + ztmavení). AR materiály ho nemají, takže při zastaveném obrazu zůstanou syté.\n\n## Postavy (styl GTA San Andreas)\n- Hierarchický rig: root → body (pánev) → trup → hlava a ramena → lokty, kyčle → kolena → kotníky. Póza = sada úhlů (náklon a rotace trupu, flexe a abdukce ramen, lokty, kyčle, kolena, kotníky, náklon těla, výskok).\n- Geometrie: trup jako LatheGeometry (široká ramena, užší pas), zúžené končetiny, klouby jako koule, dlaň s palcem, kopačka s podrážkou a zúženou špičkou, tvarovaná hlava (užší brada), nos, uši, vlasy jako slupka (krátké, objemné, ježek, holá hlava).\n- Ručně malované canvas textury: obličej (oči s duhovkou a odleskem, obočí, stín nosu, rty, tváře, strniště nebo vousy, vlasová linie), dres (V-výstřih, boční pruhy, znak, sponzor, jméno a velké číslo na zádech, vrásky látky), rukávy, trenky s číslem, štulpny s pruhy.\n- Každý hráč jiný: pleť, vlasy, účes, oči, vousy, barva kopaček, postava. Česká jména na zádech (NOVÁK, DVOŘÁK, RŮŽIČKA…).\n- Procedurální běh (fáze z uražené vzdálenosti, ať nohy nekloužou) + knihovna póz: kop (nápřah, úder, dokopnutí), skluz, zakopnutí a pád, vhazování, výskok s paží nad hlavou, zvednutá karta, postoj ve zdi, výskok zdi, robinzonáda brankáře, hlava dolů.\n- Zvýraznění: obrysová slupka (inverted hull, tloušťka podle vzdálenosti od kamery), průsvitný hologram „ducha“ pro naznačení restartu, rozsvícení paže.\n\n## AR grafika (additive blending, depthWrite false, kreslí se postupně přes progress)\nGroundLine (zářící čára na zemi), Curtain (svislá rovina: ofsajd, branková a postranní čára), GroundRing (prstenec nebo disk s pulzem, čárkováním a výsečí, třeba kruh 9,15 m), Area (vyplněné území s okrajem a skenem), Trail (trubice trajektorie míče), GroundArrow (šipka s běžícími chevrony), Marker (zaměřovač kontaktu), Beam (světelný sloup), ScanGrid (skenovací mřížka), Segment3D (měřicí úsečky), Silhouette (válec obrysu těla).\nBarvy: tyrkysová = měření, červená = přestupek, jantarová = míč a území, zelená = platné rozhodnutí.\nDŮLEŽITÉ: shadery musí být NaN-safe (clamp UV, žádné pow ze záporného čísla). MSAA na hranách extrapoluje UV a NaN se v bloomu rozleje do černých bloků přes půl obrazu.\n\n## HUD (DOM, styl sportovního přenosu)\n- Logo vlevo nahoře „PRAVIDLA FOTBALU / AR ANALÝZA ZÁPASU“ + počítadlo „01 / 09“.\n- Vpravo nahoře stav (ŽIVĚ, ZÁZNAM, ZPOMALENĚ ×0,6, STOP · AR, PŘETÁČENÍ ◀◀, KONEC ZÁPASU) a herní čas.\n- Lower third vlevo dole: číslo pravidla, název, jednověté vysvětlení, ukazatel postupu z 9 dílků.\n- Panel rozhodnutí vpravo dole v barvě rozhodnutí (OFSAJD, PENALTA, GÓL…) s podtitulkem.\n- Při zastavení obrazu: záblesk, rohové závorky, štítek „ZASTAVENÝ OBRAZ · AR ANALÝZA“, krátký technický řádek dole.\n- AR štítky ukotvené na 3D bod (projekce kamerou) s odkazovou čarou. Drž je v bezpečné zóně (ne pod spodní grafikou, ne pod logem) a nesmí se překrývat.\n- Velká grafika karty (žlutá a červená) s důvody, úvodní titulek, závěr „TEĎ ZNÁŠ PRAVIDLA.“ s mřížkou 9 pravidel, stinger přechod (šikmé pruhy navy, tyrkysová, bílá + logo) na každém střihu.\n- Čitelnost: minimální velikosti (název pravidla 66 px, popis 29 px, štítek 33 px + podtitulek 21 px, technický řádek 22 px). Text vždy na tmavém podkladu, krátké texty. Line-height aspoň 1,05, aby diakritika (Ž, Č, Ř) nebyla oříznutá. Titulky neodhaluj maskou, vypadá to jako ořez: použij fade + rozostření + lehký zoom.\n- Fonty: systémové s českou diakritikou (na macOS DIN Condensed + Avenir Next Condensed). Pokrytí znaků ověř předem přes fc-query.\n\n## Scénář (vnitřní časy segmentů, natažení na čtení viz další sekce)\nÚvod (3,5 s): dron sjíždí z noční oblohy přes střechu do stadionu na široký záběr středu hřiště. Skenovací mřížka přejede hřiště, pod hráči naskočí kroužky, štítek „MÍČ SLEDOVÁN“. Titulek „PRAVIDLA FOTBALU“, nad ním „TV ANALÝZA PRAVIDEL“, pod ním „9 KLÍČOVÝCH PRAVIDEL · AR ANALÝZA“.\n1. Ofsajd: televizní kamera, Červený #8 přihrává, zastavení v okamžiku přihrávky. Kamera se přesune do osy ofsajdové linie. Tyrkysová rovina u nejzazší části těla předposledního obránce (Modrý #4), červená u předsunutého kolena útočníka (Červený #9), měření „+1,59 m“ (spočítej z kloubů, paže se nepočítají). Rozhodnutí OFSAJD: nepřímý volný kop, Modří.\n2. Faul: záznam ×0,6 nízko u trávníku. Modrý #10 vede míč, Červený #6 jde skluzem zezadu do kotníku. Zastavení v okamžiku kontaktu: zaměřovač „KONTAKT“, „MÍSTO FAULU“ (kruh + sloup), šipka dráhy skluzu, červený obrys. Kamera obkrouží, pak pád. FAUL: přímý volný kop.\n3. Penalta: Červený #9 ve vápně, Modrý #3 ho podrazí. Zastavení, jeřáb nahoru. Zvýraznění pokutového území, oblouk z místa faulu na pokutovou značku s drátěným míčem, „11 m“. PENALTA.\n4. Vhazování: přihrávka Červeného #2 přejede postranní čáru (trajektorie se kreslí živě). Zastavení až ve chvíli, kdy je celý míč venku, střih na kameru za čarou. Červená rovina, „+15 cm“, „CELÝ MÍČ VENKU“, „POSLEDNÍ DOTEK · ČERVENÝ #2“, modrá šipka do hřiště a hologram modrého hráče s míčem nad hlavou. VHAZOVÁNÍ (Modří).\n5. Roh + kop od branky: střela Červeného #10 tečovaná Modrým #4 za brankovou čáru → ROHOVÝ KOP. Pak efekt přetáčení (VHS) a stejná střela bez teče → KOP OD BRANKY (zvýrazněné brankové území).\n6. Hra rukou: střela, Modrý #5 ve výskoku s paží nad ramenem, míč do předloktí. Paže zčervená, ramenní linie, čára paže „ÚHEL PAŽE 135°“, průsvitný válec „OBRYS TĚLA“. RUKA: přímý volný kop.\n7. Volný kop: zeď na 8,00 m „ZEĎ MOC BLÍZKO“, nakreslí se kruh 9,15 m, zeď ustoupí, číslo naběhne na 9,15 m a zezelená. Kamera za exekutora, zahraný oblouk přes zeď zpomaleně, zastavení „PŘES ZEĎ“. PŘÍMÝ VOLNÝ KOP.\n8. Karty: detail rozhodčího se žlutou kartou proti hráči se svěšenou hlavou + velká grafika ŽLUTÁ KARTA / NAPOMENUTÍ se 3 důvody. Střih, červená karta, vyloučený odchází + ČERVENÁ KARTA / VYLOUČENÍ.\n9. Gól: střela, brankář vyrazí, míč padá na čáru. Kamera u brankové čáry. První zastavení: polovina míče na čáře, červená rovina, „−11 cm“, „ZATÍM NENÍ GÓL“. Míč se dokutálí. Druhé zastavení: celý míč za čarou, rovina zezelená, „+3 cm“, blesky foťáků v hledišti. GÓL.\nZávěr (2,5 s): kamera stoupá nad hřiště (návrat k úvodnímu záběru), mřížka, „TEĎ ZNÁŠ PRAVIDLA.“ + mřížka 9 pravidel, stmívačka.\n\nKaždé zastavení obrazu: krátký záblesk, odbarvení scény, kamera se dál pomalu hýbe kolem zmrazených hráčů, AR prvky naskakují postupně. Mezi segmenty vždy stinger.\n\n## Čas na čtení\nAkce (běh, kopy, skluzy) běží ve skutečné rychlosti. Analytické části každého segmentu natáhni 1,5× až 2,1× přes warp funkci (výstupní čas → vnitřní čas segmentu), aby každé pravidlo bylo na obrazovce 6 až 8 s a všechny texty se daly v klidu přečíst. `node render.mjs info` exportuje výslednou časovou osu do out/timeline.json.\n\n## Zvuk (procedurální, https://audio.py/)\n120 BPM broadcast groove (kopák, virbl, hi-haty, basa se sidechainem, arpeggio, pad), riser v úvodu, závěrečný akord. Při zastaveném obrazu hudba ztlumená low-passem. Dav (filtrovaný šum s vlněním, řev při gólu), whoosh + boom na každém střihu, kovový úder na každém zastavení, krátké „razítko“ při rozhodnutí, píšťalka, kopy do míče, zvuk přetáčení. Časy všech zvuků načti z out/timeline.json, ať sedí na obraz i po změně délky. Cílová hlasitost kolem −14 LUFS.\n\n## Postup práce a kontrola\n1. Nejdřív rozjeď pipeline (server, render, ffmpeg) s jednou scénou a ověř, že WebGL v headless Chrome běží.\n2. Po každé změně vyrenderuj kontrolní snímky v klíčových časech a prohlédni je, včetně výřezů na 100 % kvůli textu a diakritice.\n3. Celé video kontroluj přes kontaktní listy (ffmpeg filtr tile) a snímky kolem přechodů.\n4. Hotové video ověř dekódováním (`ffmpeg -v error -i video.mp4 -f null -`) a délku a stopy přes ffprobe.\n5. Do PROGRESS.md průběžně zapisuj, co je hotové a jakými příkazy se to pouští.",
+    "promptStatus": "upstream_full_transcription",
+    "promptCompleteness": "source_reported_full",
+    "requiresReference": false,
+    "status": "collected",
+    "primaryCategory": "explainers-data",
+    "promptFile": "prompts/motion-2105922894924501283.md",
+    "video": "https://video.twimg.com/amplify_video/2105921779478691840/vid/avc1/1280x720/5rDctckTd2waW8Q2.mp4?tag=29",
+    "poster": "https://pbs.twimg.com/amplify_video_thumb/2105921779478691840/img/QYm_3-KAgORYR8-H.jpg",
+    "sourceMediaKeys": [
+      "2105921779478691840"
+    ],
+    "postedAt": "2026-10-02T07:28:38.000Z",
+    "collectedAt": "2026-10-24",
+    "tools": [
+      "Claude Code",
+      "Three.js",
+      "ffmpeg",
+      "Puppeteer"
+    ],
+    "popularity": {
+      "views": 18885,
+      "likes": 135,
+      "bookmarks": 164,
+      "checkedAt": "2026-10-19T08:33:58.737Z",
+      "source": "upstream_reported",
+      "sourceUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105922894924501283"
+    },
+    "verification": {
+      "method": "chrome_mcp_public_prompt_page_and_public_html_extraction",
+      "checkedAt": "2026-10-24",
+      "originalPostConfirmed": false,
+      "promptMatchedOriginalPost": false,
+      "upstreamPromptPageRead": true,
+      "upstreamVideoListed": true,
+      "nativeVideoConfirmed": false,
+      "modelIndependentlyConfirmed": false,
+      "visualQuality": "not_reviewed",
+      "fullReview": false,
+      "promptSha256": "9488b93a1bb6cc2a74a6a18be7fe4a89c9fddfb9f6387ef7de387e919610814e",
+      "videoHttpCheck": {
+        "checkedAt": "2026-10-24",
+        "method": "chrome_mcp_browser_HEAD",
+        "status": 200,
+        "contentType": "video/mp4",
+        "fullPlaybackReviewed": false
+      }
+    },
+    "provenance": {
+      "repository": "https://github.com/zhuyansen/awesome-opus-5.5-video",
+      "commit": "a359f1cdf48b8e97e089d253436625a501a801c8"
+    },
+    "notes": "提示词转录自公开来源目录；已通过 Chrome MCP 读取页面并确认其列出对应视频，正文由同一公开页面提取。热度为来源目录快照，不代表全网排名。除另行说明外，未逐条核实 X 原帖、完整播放、模型归属或提示词复现效果；引用素材、工具、音乐和上下文不随仓库提供。"
+  },
+  {
+    "id": "2105309987983745060",
+    "title": "Zoomable app architecture canvas",
+    "titleZh": "可缩放的应用架构可视化画布",
+    "author": "robinebers",
+    "type": "Prompt",
+    "model": "Claude Opus 5.5",
+    "sourceUrl": "https://x.com/robinebers/status/2105309987983745060",
+    "promptSourceUrl": "https://x.com/robinebers/status/2105309990835933399",
+    "collectionUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105309987983745060",
+    "prompt": "I have a weird task for you. I want you to look at the app and create, for lack of a better word, a canvas that I can zoom in and zoom out and move around to see how our architecture actually works. A lot has changed, and I'm starting to lose an overview of everything that we're doing, especially with Model and Convex.\n\nI want you to map out in a visual way what happens when a user signs up, pays, or gets a guest pass, and then they upload a file. What happens? We create, for example, right now. That's one of the things that I really want to understand. Right now, we're still creating a chat and a project, but the chats are actually independent, I believe, and the projects, I don't even know how the fuck that works. That's already where it starts.\n\nA file is being uploaded, and then that file is being put somewhere into R2 storage, and then some modal workers are doing some things. There's a modal app, or one modal worker, but that has multiple apps. I don't really understand how that works either. I really want you to have a visualization of how this actually all works.",
+    "promptStatus": "upstream_full_transcription",
+    "promptCompleteness": "source_reported_full",
+    "requiresReference": true,
+    "status": "collected",
+    "primaryCategory": "explainers-data",
+    "promptFile": "prompts/motion-2105309987983745060.md",
+    "video": "https://video.twimg.com/amplify_video/2105308444328923136/vid/avc1/1112x720/LaV4e4bAjxhdppFA.mp4?tag=29",
+    "poster": "https://pbs.twimg.com/amplify_video_thumb/2105308444328923136/img/Rk6dkc6EKloRRob0.jpg",
+    "sourceMediaKeys": [
+      "2105308444328923136"
+    ],
+    "postedAt": "2026-09-30T14:53:10.000Z",
+    "collectedAt": "2026-10-24",
+    "tools": [],
+    "popularity": {
+      "views": 189482,
+      "likes": 1655,
+      "bookmarks": 3208,
+      "checkedAt": "2026-10-19T08:33:58.737Z",
+      "source": "upstream_reported",
+      "sourceUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105309987983745060"
+    },
+    "verification": {
+      "method": "chrome_mcp_public_prompt_page_and_public_html_extraction",
+      "checkedAt": "2026-10-24",
+      "originalPostConfirmed": false,
+      "promptMatchedOriginalPost": false,
+      "upstreamPromptPageRead": true,
+      "upstreamVideoListed": true,
+      "nativeVideoConfirmed": false,
+      "modelIndependentlyConfirmed": false,
+      "visualQuality": "not_reviewed",
+      "fullReview": false,
+      "promptSha256": "b932293d9d617415e91556df06d91f80933a808d953370a81b81584c874c2efa",
+      "videoHttpCheck": {
+        "checkedAt": "2026-10-24",
+        "method": "chrome_mcp_browser_HEAD",
+        "status": 200,
+        "contentType": "video/mp4",
+        "fullPlaybackReviewed": false
+      }
+    },
+    "provenance": {
+      "repository": "https://github.com/zhuyansen/awesome-opus-5.5-video",
+      "commit": "a359f1cdf48b8e97e089d253436625a501a801c8"
+    },
+    "notes": "提示词转录自公开来源目录；已通过 Chrome MCP 读取页面并确认其列出对应视频，正文由同一公开页面提取。热度为来源目录快照，不代表全网排名。除另行说明外，未逐条核实 X 原帖、完整播放、模型归属或提示词复现效果；引用素材、工具、音乐和上下文不随仓库提供。"
+  },
+  {
+    "id": "2105253140765479341",
+    "title": "Wordless animation on AI misconceptions",
+    "titleZh": "无字动画：人们对AI的误解",
+    "author": "TheSpacerr",
+    "type": "Prompt",
+    "model": "Claude Sonnet 5.5",
+    "sourceUrl": "https://x.com/TheSpacerr/status/2105253140765479341",
+    "promptSourceUrl": "https://x.com/TheSpacerr/status/2105253140765479341",
+    "collectionUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105253140765479341",
+    "prompt": "Visualise what people get wrong about AI. No words allowed.",
+    "promptStatus": "upstream_brief_transcription",
+    "promptCompleteness": "published_brief_not_full_workflow",
+    "requiresReference": false,
+    "status": "collected",
+    "primaryCategory": "explainers-data",
+    "promptFile": "prompts/motion-2105253140765479341.md",
+    "video": "https://video.twimg.com/amplify_video/2105252529864933376/vid/avc1/1280x720/-jD8OldcZqJF2QI5.mp4?tag=29",
+    "poster": "https://pbs.twimg.com/amplify_video_thumb/2105252529864933376/img/OBprsdH5t6OhVAq_.jpg",
+    "sourceMediaKeys": [
+      "2105252529864933376"
+    ],
+    "postedAt": "2026-09-30T11:07:17.000Z",
+    "collectedAt": "2026-10-24",
+    "tools": [],
+    "popularity": {
+      "views": 54989,
+      "likes": 281,
+      "bookmarks": 145,
+      "checkedAt": "2026-10-19T08:33:58.737Z",
+      "source": "upstream_reported",
+      "sourceUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2105253140765479341"
+    },
+    "verification": {
+      "method": "chrome_mcp_public_prompt_page_and_public_html_extraction",
+      "checkedAt": "2026-10-24",
+      "originalPostConfirmed": false,
+      "promptMatchedOriginalPost": false,
+      "upstreamPromptPageRead": true,
+      "upstreamVideoListed": true,
+      "nativeVideoConfirmed": false,
+      "modelIndependentlyConfirmed": false,
+      "visualQuality": "not_reviewed",
+      "fullReview": false,
+      "promptSha256": "3ebf4c663ddc6b1e90bfb7644dbd56a1f28c00d42b721f66e9dcaf26b6ac866e",
+      "videoHttpCheck": {
+        "checkedAt": "2026-10-24",
+        "method": "chrome_mcp_browser_HEAD",
+        "status": 200,
+        "contentType": "video/mp4",
+        "fullPlaybackReviewed": false
+      }
+    },
+    "provenance": {
+      "repository": "https://github.com/zhuyansen/awesome-opus-5.5-video",
+      "commit": "a359f1cdf48b8e97e089d253436625a501a801c8"
+    },
+    "notes": "提示词转录自公开来源目录；已通过 Chrome MCP 读取页面并确认其列出对应视频，正文由同一公开页面提取。热度为来源目录快照，不代表全网排名。除另行说明外，未逐条核实 X 原帖、完整播放、模型归属或提示词复现效果；引用素材、工具、音乐和上下文不随仓库提供。"
+  },
+  {
+    "id": "2104963500988916032",
+    "title": "Interactive 5-axis CNC machine explainer",
+    "titleZh": "可拆解的五轴数控机床互动讲解",
+    "author": "konstantinsaifo",
+    "type": "Prompt",
+    "model": "Claude Opus 5.5",
+    "sourceUrl": "https://x.com/konstantinsaifo/status/2104963500988916032",
+    "promptSourceUrl": "https://x.com/konstantinsaifo/status/2104963500988916032",
+    "collectionUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104963500988916032",
+    "prompt": "explain how a 5-axis CNC machine works by building one you can take apart in your browser",
+    "promptStatus": "upstream_brief_transcription",
+    "promptCompleteness": "published_brief_not_full_workflow",
+    "requiresReference": false,
+    "status": "collected",
+    "primaryCategory": "explainers-data",
+    "promptFile": "prompts/motion-2104963500988916032.md",
+    "video": "https://video.twimg.com/amplify_video/2104962674337472512/vid/avc1/1280x720/1-1IrD9g8ROl1VOs.mp4?tag=29",
+    "poster": "https://pbs.twimg.com/amplify_video_thumb/2104962674337472512/img/2ajsAEH5ZtsrZq2s.jpg",
+    "sourceMediaKeys": [
+      "2104962674337472512"
+    ],
+    "postedAt": "2026-09-29T15:56:21.000Z",
+    "collectedAt": "2026-10-24",
+    "tools": [],
+    "popularity": {
+      "views": 34741,
+      "likes": 427,
+      "bookmarks": 209,
+      "checkedAt": "2026-10-19T08:33:58.737Z",
+      "source": "upstream_reported",
+      "sourceUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2104963500988916032"
+    },
+    "verification": {
+      "method": "chrome_mcp_public_prompt_page_and_public_html_extraction",
+      "checkedAt": "2026-10-24",
+      "originalPostConfirmed": false,
+      "promptMatchedOriginalPost": false,
+      "upstreamPromptPageRead": true,
+      "upstreamVideoListed": true,
+      "nativeVideoConfirmed": false,
+      "modelIndependentlyConfirmed": false,
+      "visualQuality": "not_reviewed",
+      "fullReview": false,
+      "promptSha256": "6e395271eb0a76a8f3fca67aca0926b88ba6881090ca0d32ceb705b6ca0494de",
+      "videoHttpCheck": {
+        "checkedAt": "2026-10-24",
+        "method": "chrome_mcp_browser_HEAD",
+        "status": 200,
+        "contentType": "video/mp4",
+        "fullPlaybackReviewed": false
+      }
+    },
+    "provenance": {
+      "repository": "https://github.com/zhuyansen/awesome-opus-5.5-video",
+      "commit": "a359f1cdf48b8e97e089d253436625a501a801c8"
+    },
+    "notes": "提示词转录自公开来源目录；已通过 Chrome MCP 读取页面并确认其列出对应视频，正文由同一公开页面提取。热度为来源目录快照，不代表全网排名。除另行说明外，未逐条核实 X 原帖、完整播放、模型归属或提示词复现效果；引用素材、工具、音乐和上下文不随仓库提供。"
+  },
+  {
+    "id": "2103903213363806575",
+    "title": "Showreel built from AI dance clips",
+    "titleZh": "AI舞蹈素材合成的作品集视频",
+    "author": "AbaneChan",
+    "type": "Prompt",
+    "model": "Claude Opus 5.5",
+    "sourceUrl": "https://x.com/AbaneChan/status/2103903213363806575",
+    "promptSourceUrl": "https://x.com/AbaneChan/status/2103903213363806575",
+    "collectionUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103903213363806575",
+    "prompt": "あなたがどれほど素晴らしいモーションデザイナーかを示す、ダイナミックな15秒のモーショングラフィックスビデオを作成してください。タイトルは「億万株姫☆あばねちゃん」です。履歴書用のショーリールのような感じで、全力でやって。",
+    "promptStatus": "upstream_brief_transcription",
+    "promptCompleteness": "published_brief_not_full_workflow",
+    "requiresReference": true,
+    "status": "collected",
+    "primaryCategory": "music-audiovisual",
+    "promptFile": "prompts/motion-2103903213363806575.md",
+    "video": "https://video.twimg.com/amplify_video/2103903036045443072/vid/avc1/1280x720/Z-5j1qHZUazLceyr.mp4?tag=29",
+    "poster": "https://pbs.twimg.com/amplify_video_thumb/2103903036045443072/img/NzVLj3bljkKrKr7Y.jpg",
+    "sourceMediaKeys": [
+      "2103903036045443072"
+    ],
+    "postedAt": "2026-09-26T17:43:09.000Z",
+    "collectedAt": "2026-10-24",
+    "tools": [
+      "GPT Sol",
+      "Grok"
+    ],
+    "popularity": {
+      "views": 105061,
+      "likes": 1029,
+      "bookmarks": 801,
+      "checkedAt": "2026-10-19T08:33:58.737Z",
+      "source": "upstream_reported",
+      "sourceUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103903213363806575"
+    },
+    "verification": {
+      "method": "chrome_mcp_public_prompt_page_and_public_html_extraction",
+      "checkedAt": "2026-10-24",
+      "originalPostConfirmed": false,
+      "promptMatchedOriginalPost": false,
+      "upstreamPromptPageRead": true,
+      "upstreamVideoListed": true,
+      "nativeVideoConfirmed": false,
+      "modelIndependentlyConfirmed": false,
+      "visualQuality": "not_reviewed",
+      "fullReview": false,
+      "promptSha256": "7b4e6b30524f96854307e30b18c9c497a278233a7655a2f1aedfc82737c8b4c9",
+      "videoHttpCheck": {
+        "checkedAt": "2026-10-24",
+        "method": "chrome_mcp_browser_HEAD",
+        "status": 200,
+        "contentType": "video/mp4",
+        "fullPlaybackReviewed": false
+      }
+    },
+    "provenance": {
+      "repository": "https://github.com/zhuyansen/awesome-opus-5.5-video",
+      "commit": "a359f1cdf48b8e97e089d253436625a501a801c8"
+    },
+    "notes": "提示词转录自公开来源目录；已通过 Chrome MCP 读取页面并确认其列出对应视频，正文由同一公开页面提取。热度为来源目录快照，不代表全网排名。除另行说明外，未逐条核实 X 原帖、完整播放、模型归属或提示词复现效果；引用素材、工具、音乐和上下文不随仓库提供。"
+  },
+  {
+    "id": "2103683260144292176",
+    "title": "Rap music video explaining a research paper",
+    "titleZh": "用说唱MV演绎的论文解读视频",
+    "author": "Tz_2022",
+    "type": "Prompt",
+    "model": "Claude Opus 5.5",
+    "sourceUrl": "https://x.com/Tz_2022/status/2103683260144292176",
+    "promptSourceUrl": "https://x.com/Tz_2022/status/2103683260144292176",
+    "collectionUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103683260144292176",
+    "prompt": "为 Attention is all you need 论文做一个说唱风格的 MV 吧，英文唱词，中英双语字幕",
+    "promptStatus": "upstream_brief_transcription",
+    "promptCompleteness": "published_brief_not_full_workflow",
+    "requiresReference": false,
+    "status": "collected",
+    "primaryCategory": "music-audiovisual",
+    "promptFile": "prompts/motion-2103683260144292176.md",
+    "video": "https://video.twimg.com/amplify_video/2103683155907481600/vid/avc1/1280x720/5D02-oA9aLAp3Xyc.mp4?tag=29",
+    "poster": "https://pbs.twimg.com/amplify_video_thumb/2103683155907481600/img/2ixqNG9k902WyR3T.jpg",
+    "sourceMediaKeys": [
+      "2103683155907481600"
+    ],
+    "postedAt": "2026-09-26T03:09:08.000Z",
+    "collectedAt": "2026-10-24",
+    "tools": [],
+    "popularity": {
+      "views": 17819,
+      "likes": 65,
+      "bookmarks": 71,
+      "checkedAt": "2026-10-19T08:33:58.737Z",
+      "source": "upstream_reported",
+      "sourceUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103683260144292176"
+    },
+    "verification": {
+      "method": "chrome_mcp_public_prompt_page_and_public_html_extraction",
+      "checkedAt": "2026-10-24",
+      "originalPostConfirmed": false,
+      "promptMatchedOriginalPost": false,
+      "upstreamPromptPageRead": true,
+      "upstreamVideoListed": true,
+      "nativeVideoConfirmed": false,
+      "modelIndependentlyConfirmed": false,
+      "visualQuality": "not_reviewed",
+      "fullReview": false,
+      "promptSha256": "bd50dccd7fe875ec0edd98aad6f9625751f265842a1dca69fa81fe2faceb37ff",
+      "videoHttpCheck": {
+        "checkedAt": "2026-10-24",
+        "method": "chrome_mcp_browser_HEAD",
+        "status": 200,
+        "contentType": "video/mp4",
+        "fullPlaybackReviewed": false
+      }
+    },
+    "provenance": {
+      "repository": "https://github.com/zhuyansen/awesome-opus-5.5-video",
+      "commit": "a359f1cdf48b8e97e089d253436625a501a801c8"
+    },
+    "notes": "提示词转录自公开来源目录；已通过 Chrome MCP 读取页面并确认其列出对应视频，正文由同一公开页面提取。热度为来源目录快照，不代表全网排名。除另行说明外，未逐条核实 X 原帖、完整播放、模型归属或提示词复现效果；引用素材、工具、音乐和上下文不随仓库提供。"
+  },
+  {
+    "id": "2103108967194833310",
+    "title": "Bitcoin history music video",
+    "titleZh": "比特币历史音乐视频",
+    "author": "bradmillscan",
+    "type": "Prompt",
+    "model": "Claude Opus 5.5",
+    "sourceUrl": "https://x.com/bradmillscan/status/2103108967194833310",
+    "promptSourceUrl": "https://x.com/bradmillscan/status/2103108967194833310",
+    "collectionUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103108967194833310",
+    "prompt": "read my Bitcoin & monetary-history wikis & make a music video with code only",
+    "promptStatus": "upstream_brief_transcription",
+    "promptCompleteness": "published_brief_not_full_workflow",
+    "requiresReference": true,
+    "status": "collected",
+    "primaryCategory": "music-audiovisual",
+    "promptFile": "prompts/motion-2103108967194833310.md",
+    "video": "https://video.twimg.com/amplify_video/2103107959811133442/vid/avc1/720x1280/mPKMMMgUTep2CTII.mp4?tag=29",
+    "poster": "https://pbs.twimg.com/amplify_video_thumb/2103107959811133442/img/eJa0JGD6x2LAq2Re.jpg",
+    "sourceMediaKeys": [
+      "2103107959811133442"
+    ],
+    "postedAt": "2026-09-24T13:07:06.000Z",
+    "collectedAt": "2026-10-24",
+    "tools": [
+      "ElevenLabs"
+    ],
+    "popularity": {
+      "views": 194530,
+      "likes": 1022,
+      "bookmarks": 359,
+      "checkedAt": "2026-10-19T08:33:58.737Z",
+      "source": "upstream_reported",
+      "sourceUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2103108967194833310"
+    },
+    "verification": {
+      "method": "chrome_mcp_public_prompt_page_and_public_html_extraction",
+      "checkedAt": "2026-10-24",
+      "originalPostConfirmed": false,
+      "promptMatchedOriginalPost": false,
+      "upstreamPromptPageRead": true,
+      "upstreamVideoListed": true,
+      "nativeVideoConfirmed": false,
+      "modelIndependentlyConfirmed": false,
+      "visualQuality": "not_reviewed",
+      "fullReview": false,
+      "promptSha256": "7053b3bfe82b6b4f4962c5b318559c3a7974310f8b52cf6bff0fdf74608b9fe1",
+      "videoHttpCheck": {
+        "checkedAt": "2026-10-24",
+        "method": "chrome_mcp_browser_HEAD",
         "status": 200,
         "contentType": "video/mp4",
         "fullPlaybackReviewed": false

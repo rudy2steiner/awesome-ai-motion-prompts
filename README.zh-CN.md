@@ -1,6 +1,6 @@
 # Awesome AI Motion Prompts
 
-**[1020 个含提示词的动效作品](data/README.md)**
+**[1050 个含提示词的动效作品](data/README.md)**
 
 [English](README.md) | 简体中文
 
@@ -82,6 +82,9 @@
 <td width="33%" valign="top"><a href="prompts/motion-2108569413746335887.md"><img src="data/media/motion-2108569413746335887.gif" width="260" alt="量子力学快闪" /></a><br><a href="prompts/motion-2108569413746335887.md"><b>量子力学快闪</b></a><br><a href="https://x.com/YuanXi901019/status/2108569413746335887">@YuanXi901019</a> · <a href="prompts/motion-2108569413746335887.md#prompt">提示词</a><br><sub>Claude Opus 5.5</sub></td>
 <td width="33%" valign="top"><a href="prompts/motion-2108932593911816392.md"><img src="data/media/motion-2108932593911816392.gif" width="260" alt="百年电影类型变迁" /></a><br><a href="prompts/motion-2108932593911816392.md"><b>百年电影类型变迁</b></a><br><a href="https://x.com/gavinpurcell/status/2108932593911816392">@gavinpurcell</a> · <a href="prompts/motion-2108932593911816392.md#prompt">提示词</a><br><sub>Claude Opus 5.5</sub></td>
 <td width="33%" valign="top"><a href="prompts/motion-2105180179836576206.md"><img src="data/media/motion-2105180179836576206.gif" width="260" alt="太阳系与银河系" /></a><br><a href="prompts/motion-2105180179836576206.md"><b>太阳系与银河系</b></a><br><a href="https://x.com/Grace_sunnyy/status/2105180179836576206">@Grace_sunnyy</a> · <a href="prompts/motion-2105180179836576206.md#prompt">提示词</a><br><sub>Claude Opus 5.5</sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="prompts/motion-2113248976984068329.md"><img src="data/media/motion-2113248976984068329.gif" width="260" alt="我的世界藏宝图动画" /></a><br><a href="prompts/motion-2113248976984068329.md"><b>我的世界藏宝图动画</b></a><br><a href="https://x.com/sethfowIer/status/2113248976984068329">@sethfowIer</a> · <a href="prompts/motion-2113248976984068329.md#prompt">提示词</a><br><sub>Claude Opus 5.5</sub></td>
 </tr>
 </table>
 
