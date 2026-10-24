@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-1000 works with prompt text saved in this repository. The collection includes published briefs, workflows and reusable animation templates. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+1020 works with prompt text saved in this repository. The collection includes published briefs, workflows and reusable animation templates. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -17,6 +17,9 @@
 <a id="product-brand"></a>
 
 ## Product & Brand
+
+- [Code-based UI motion design loop](https://x.com/0xAiky/status/2111814234090693110) — @0xAiky · Claude Opus 5.5 · [Prompt](../prompts/motion-2111814234090693110.md#prompt)
+- [Cracked retro game launch video](https://x.com/doseofcreative/status/2110407591503491372) — @doseofcreative · Claude Opus 5.5 · [Prompt](../prompts/motion-2110407591503491372.md#prompt)
 
 - [UI morph showreel](https://x.com/twoclipping/status/2103273003555402193) — @twoclipping · Opus 5.5 · [Prompt](../prompts/ui-morph.md#prompt)
 - [Photo print app launch film](https://x.com/twoclipping/status/2103835273813496100) — @twoclipping · Opus 5.5 · [Prompt](../prompts/photo-print.md#prompt)
@@ -177,6 +180,9 @@
 <a id="motion-studies"></a>
 
 ## Typography & Motion Studies
+
+- [Neon glitch video treatment](https://x.com/aimikoda/status/2113344709682663503) — @aimikoda · Claude Opus 5.5 · [Prompt](../prompts/motion-2113344709682663503.md#prompt)
+- [Surveillance-style subject analysis loop](https://x.com/aimikoda/status/2112590477144797190) — @aimikoda · Claude Opus 5.5 · [Prompt](../prompts/motion-2112590477144797190.md#prompt)
 
 - [Kinetic type](https://x.com/techhalla/status/2103411244468498547) — @techhalla · Opus 5.5 · [Prompt](../prompts/kinetic-type.md#prompt)
 - [Motion showreel](https://x.com/prasenx/status/2103538744695693512) — @prasenx · Opus 5.5 · [Prompt](../prompts/motion-showreel.md#prompt)
@@ -394,6 +400,11 @@
 
 ## Explainers & Data
 
+- [Animated Minecraft treasure map graphic](https://x.com/sethfowIer/status/2113248976984068329) — @sethfowIer · Claude Opus 5.5 · [Prompt](../prompts/motion-2113248976984068329.md#prompt)
+- [Interactive Lamborghini FL3 tractor diesel engine](https://x.com/exploraX_/status/2112130961714385214) — @exploraX_ · Claude Opus 5.5 · [Prompt](../prompts/motion-2112130961714385214.md#prompt)
+- [Tesla Roadster explainer video](https://x.com/KeWai386772/status/2111440772998599022) — @KeWai386772 · Claude Opus 5.5 · [Prompt](../prompts/motion-2111440772998599022.md#prompt)
+- [Interactive wind tunnel lift explainer](https://x.com/konstantinsaifo/status/2109595253879816337) — @konstantinsaifo · Claude Opus 5.5 · [Prompt](../prompts/motion-2109595253879816337.md#prompt)
+
 - [Mathematics motion showreel](https://x.com/Math_files/status/2104486181853610052) — @Math_files · Opus 5.5 · [Prompt](../prompts/mathematics.md#prompt)
 - [Recursion explained in genres](https://x.com/emollick/status/2103688362960019567) — @emollick · Opus 5.5 · [Prompt](../prompts/recursion.md#prompt)
 
@@ -532,6 +543,13 @@
 
 ## Characters & Stories
 
+- [Dystopian AI short film](https://x.com/Skoorbkaz/status/2113392757548941441) — @Skoorbkaz · Claude Opus 5.5 · [Prompt](../prompts/motion-2113392757548941441.md#prompt)
+- [Pelican riding bicycle SVG animation](https://x.com/Ananth7e/status/2111749047598117102) — @Ananth7e · Claude Opus 5.5 · [Prompt](../prompts/motion-2111749047598117102.md#prompt)
+- [Nolan-style short film on Musk's rise](https://x.com/newbeeyu/status/2111446964558770632) — @newbeeyu · Claude Opus 5.5 · [Prompt](../prompts/motion-2111446964558770632.md#prompt)
+- [Character video combining Midjourney and Seedance](https://x.com/aimikoda/status/2110360021988982817) — @aimikoda · Claude Opus 5.5 · [Prompt](../prompts/motion-2110360021988982817.md#prompt)
+- [Toddler relatable moments short video](https://x.com/hoko525/status/2110292964270608425) — @hoko525 · Claude Opus 5.5 · [Prompt](../prompts/motion-2110292964270608425.md#prompt)
+- [YTP-style Sam Altman parody video](https://x.com/JaydenDavisNC/status/2109764557308592537) — @JaydenDavisNC · Claude Opus 5.5 · [Prompt](../prompts/motion-2109764557308592537.md#prompt)
+
 - [Overthinking showreel](https://x.com/gizakdag/status/2103566030916239768) — @gizakdag · Opus 5.5 · [Prompt](../prompts/overthinking.md#prompt)
 
 - [Four seasons outside a cozy train window](https://x.com/itsolelehmann/status/2103124033365762215) — @itsolelehmann · Claude Opus 5.5 · [Prompt](../prompts/itsolelehmann-762215.md#prompt)
@@ -651,6 +669,10 @@
 
 ## 3D & Simulations
 
+- [Procedural ocean and water scene](https://x.com/LexnLin/status/2113333862625648715) — @LexnLin · Claude Opus 5.5 · [Prompt](../prompts/motion-2113333862625648715.md#prompt)
+- [Pixel-art basketball court diorama with weather](https://x.com/vib3coded/status/2112989996366102944) — @vib3coded · Claude Opus 5.5 · [Prompt](../prompts/motion-2112989996366102944.md#prompt)
+- [Sliceable jelly watermelon physics toy](https://x.com/vib3coded/status/2112638127483343162) — @vib3coded · Claude Opus 5.5 · [Prompt](../prompts/motion-2112638127483343162.md#prompt)
+
 - [Infinite zoom](https://x.com/koldo2k/status/2103129343253778767) — @koldo2k · Opus 5.5 · [Prompt](../prompts/infinite-zoom.md#prompt)
 
 - [Golden Gate Bridge with fog, water and traffic](https://x.com/MondemSuraj/status/2108716642540691517) — @MondemSuraj · Claude Opus 5.5 · [Prompt](../prompts/mondemsuraj-691517.md#prompt)
@@ -762,6 +784,9 @@
 
 ## Music & Audiovisual
 
+- [Interactive music system demo](https://x.com/kyubuns/status/2111453039228043604) — @kyubuns · Claude Opus 5.5 · [Prompt](../prompts/motion-2111453039228043604.md#prompt)
+- [Fable 5.5 self-introduction musical video](https://x.com/ChrisGPT/status/2109570757579649086) — @ChrisGPT · Fable 5.5 (preview, source reported) · [Prompt](../prompts/motion-2109570757579649086.md#prompt)
+
 - [Lyrics synchronized to vocals and beats](https://x.com/samaote/status/2103510974796124569) — @samaote · Claude Opus 5.5 · [Prompt](../prompts/samaote-124569.md#prompt)
 - [Retro pop music video with an original song](https://x.com/DavidShulmanFL/status/2103336310089842921) — @DavidShulmanFL · Claude Opus 5.5 · [Prompt](../prompts/davidshulmanfl-842921.md#prompt)
 - [Collision-powered original music machine](https://x.com/KamStudioLabs/status/2102899866762440893) — @KamStudioLabs · Claude Opus 5.5 · [Prompt](../prompts/kamstudiolabs-440893.md#prompt)
@@ -814,6 +839,8 @@
 <a id="interactive"></a>
 
 ## Interactive Experiences
+
+- [Pixel-art 3D football yard simulation with kids and dog](https://x.com/N1njaCodex/status/2113037013326627200) — @N1njaCodex · Claude Opus 5.5 · [Prompt](../prompts/motion-2113037013326627200.md#prompt)
 
 - [Starry Night cat-spotting game](https://x.com/MandelDuck/status/2103802923465768972) — @MandelDuck · Opus 5.5 · [Prompt](../prompts/starry-night.md#prompt)
 
