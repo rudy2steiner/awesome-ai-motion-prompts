@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-1100 works with prompt text saved in this repository. The collection includes published briefs, workflows and reusable animation templates. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+1150 works with prompt text saved in this repository. The collection includes published briefs, workflows and reusable animation templates. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -17,6 +17,15 @@
 <a id="product-brand"></a>
 
 ## Product & Brand
+
+- [Menu-scanning taste-matching app demo](https://x.com/Lovable/status/2112191630266761382) — Lovable · Claude Opus 5.5 · [Prompt](../prompts/motion-2112191630266761382.md#prompt)
+- [USDai product assembly line demo](https://x.com/0xZergs/status/2109609404450607352) — 0xZergs · Claude Opus 5.5 · [Prompt](../prompts/motion-2109609404450607352.md#prompt)
+- [Interactive frontend artifact](https://x.com/LexnLin/status/2106843514772639995) — LexnLin · Claude Opus 5.5 · [Prompt](../prompts/motion-2106843514772639995.md#prompt)
+- [Live calendar dashboard](https://x.com/_insan18/status/2106268513644273809) — _insan18 · Claude Opus 5.5 · [Prompt](../prompts/motion-2106268513644273809.md#prompt)
+- [Liquid glass web hero section](https://x.com/viktoroddy/status/2106061619176620344) — viktoroddy · Claude Opus 5.5 · [Prompt](../prompts/motion-2106061619176620344.md#prompt)
+- [Promotional video for a Roblox game](https://x.com/dataX_e/status/2104967024812118196) — dataX_e · Claude Opus 5.5 · [Prompt](../prompts/motion-2104967024812118196.md#prompt)
+- [Character builder with sliders demo](https://x.com/magnific/status/2104587476014964879) — magnific · Claude Opus 5.5 · [Prompt](../prompts/motion-2104587476014964879.md#prompt)
+- [iPhone Duo app redesign demo video](https://x.com/anshuc/status/2103598854801084824) — anshuc · Claude Opus 5.5 · [Prompt](../prompts/motion-2103598854801084824.md#prompt)
 
 - [Motion design launch video](https://x.com/gauravsbuilding/status/2104370091672711402) — gauravsbuilding · Claude Opus 5.5 · [Prompt](../prompts/motion-2104370091672711402.md#prompt)
 - [Company commercial motion graphic](https://x.com/showheyohtaki/status/2104095944686051492) — showheyohtaki · Claude Opus 5.5 · [Prompt](../prompts/motion-2104095944686051492.md#prompt)
@@ -195,6 +204,13 @@
 <a id="motion-studies"></a>
 
 ## Typography & Motion Studies
+
+- [Cool animation generated from simple prompt](https://x.com/cherry_mx_reds/status/2105816670896009224) — cherry_mx_reds · fable-5.5 · [Prompt](../prompts/motion-2105816670896009224.md#prompt)
+- [SuperX motion graphics showreel](https://x.com/robj3d3/status/2104649947610239253) — robj3d3 · Claude Sonnet 5.5 · [Prompt](../prompts/motion-2104649947610239253.md#prompt)
+- [SuperX MCP replies recap video](https://x.com/robj3d3/status/2103949734520279060) — robj3d3 · Claude Opus 5.5 · [Prompt](../prompts/motion-2103949734520279060.md#prompt)
+- [Self-introduction motion graphics from a script](https://x.com/kumiko_shiraki/status/2103771566982959414) — kumiko_shiraki · Claude Opus 5.5 · [Prompt](../prompts/motion-2103771566982959414.md#prompt)
+- [Launch motion video for mounis.app](https://x.com/MustaphaFenzar/status/2103708363074973906) — MustaphaFenzar · Claude Opus 5.5 · [Prompt](../prompts/motion-2103708363074973906.md#prompt)
+- [Documentary opening titles about Bitcoin](https://x.com/cyrilXBT/status/2103677214135124053) — cyrilXBT · Claude Opus 5.5 · [Prompt](../prompts/motion-2103677214135124053.md#prompt)
 
 - [30-second showreel as a niche branding agency](https://x.com/jacksonfall/status/2103925420211229164) — jacksonfall · Claude Opus 5.5 · [Prompt](../prompts/motion-2103925420211229164.md#prompt)
 - [Funny face photos animated with code](https://x.com/jAlpha_create/status/2103787665569272247) — jAlpha_create · Claude Opus 5.5 · [Prompt](../prompts/motion-2103787665569272247.md#prompt)
@@ -428,6 +444,15 @@
 
 ## Explainers & Data
 
+- [Richard Heart arrest video](https://x.com/ercwl/status/2113049209742274903) — ercwl · Claude Opus 5.5 · [Prompt](../prompts/motion-2113049209742274903.md#prompt)
+- [Hour-by-hour simulation of Singapore occupying Batam](https://x.com/hanifproduktif/status/2109572982444265656) — hanifproduktif · Claude Opus 5.5 · [Prompt](../prompts/motion-2109572982444265656.md#prompt)
+- [Indian civilization history video](https://x.com/rashem48/status/2103850664007028964) — rashem48 · Claude Opus 5.5 · [Prompt](../prompts/motion-2103850664007028964.md#prompt)
+- [Hot vs cold crypto wallet explainer](https://x.com/sergitosergito/status/2103835390998388796) — sergitosergito · Claude Opus 5.5 · [Prompt](../prompts/motion-2103835390998388796.md#prompt)
+- [Explainer on personal benchmarks](https://x.com/danshipper/status/2103678798827020298) — danshipper · Claude Opus 5.5 · [Prompt](../prompts/motion-2103678798827020298.md#prompt)
+- [Explainer animation about Claude usage workflows](https://x.com/daniel_mac8/status/2103666105461924131) — daniel_mac8 · Claude Opus 5.5 · [Prompt](../prompts/motion-2103666105461924131.md#prompt)
+- [Zero-shot documentary on Jewish history](https://x.com/eranshir/status/2103564391170089429) — eranshir · Claude Opus 5.5 · [Prompt](../prompts/motion-2103564391170089429.md#prompt)
+- [3Blue1Brown-style paper explainer animations](https://x.com/BrianCChao/status/2103553398738219450) — BrianCChao · Claude Opus 5.5 · [Prompt](../prompts/motion-2103553398738219450.md#prompt)
+
 - [History of chips explainer video](https://x.com/vctbtc/status/2104081525847605709) — vctbtc · Claude Opus 5.5 · [Prompt](../prompts/motion-2104081525847605709.md#prompt)
 - [Netflix-style explainer reel about El Nino](https://x.com/hanifproduktif/status/2103656501579862155) — hanifproduktif · Claude Opus 5.5 · [Prompt](../prompts/motion-2103656501579862155.md#prompt)
 - [History of gas turbines explainer](https://x.com/Xaraphim/status/2103576037426917779) — Xaraphim · Claude Opus 5.5 · [Prompt](../prompts/motion-2103576037426917779.md#prompt)
@@ -588,6 +613,14 @@
 
 ## Characters & Stories
 
+- [Pelican riding a bike animation](https://x.com/dummerspast39/status/2111391206848503923) — dummerspast39 · fable-5.5 · [Prompt](../prompts/motion-2111391206848503923.md#prompt)
+- [Turkish coffee history told through code](https://x.com/Avenoxai/status/2104825754114810104) — Avenoxai · Claude Sonnet 5.5 · [Prompt](../prompts/motion-2104825754114810104.md#prompt)
+- [Pixel-art character rigged and animated by code](https://x.com/MindGate_dev/status/2103712991409774609) — MindGate_dev · Claude Opus 5.5 · [Prompt](../prompts/motion-2103712991409774609.md#prompt)
+- [2D animated narrative video (AI fable)](https://x.com/Tz_2022/status/2103468826364948584) — Tz_2022 · Claude Opus 5.5 · [Prompt](../prompts/motion-2103468826364948584.md#prompt)
+- [2076 AI apocalypse story animation](https://x.com/Hesamation/status/2103457566978162901) — Hesamation · Claude Opus 5.5 · [Prompt](../prompts/motion-2103457566978162901.md#prompt)
+- [30-second AI-made short drama](https://x.com/AI_DVD6/status/2103444180861178199) — AI_DVD6 · Claude Opus 5.5 · [Prompt](../prompts/motion-2103444180861178199.md#prompt)
+- [1-minute fight animation in code](https://x.com/akokoi1/status/2103149275945517546) — akokoi1 · Claude Opus 5.5 · [Prompt](../prompts/motion-2103149275945517546.md#prompt)
+
 - [The Last Train Home rainy Japanese night scene](https://x.com/pankajkumar_dev/status/2112176644018626840) — pankajkumar_dev · Fable 5.5 (preview, source reported) · [Prompt](../prompts/motion-2112176644018626840.md#prompt)
 - [History of humanity sketch animation](https://x.com/oalanicolas/status/2107958931230241037) — oalanicolas · Fable 5.5 (preview, source reported) · [Prompt](../prompts/motion-2107958931230241037.md#prompt)
 - [Running fried-chicken character animation](https://x.com/whydeso/status/2107754210746134748) — whydeso · Claude Opus 5.5 · [Prompt](../prompts/motion-2107754210746134748.md#prompt)
@@ -722,6 +755,13 @@
 
 ## 3D & Simulations
 
+- [Cyberpunk city with flying cars](https://x.com/buildwithsid/status/2114004943996846516) — buildwithsid · Claude Opus 5.5 · [Prompt](../prompts/motion-2114004943996846516.md#prompt)
+- [Rigged 3D shark with swim and bite animations](https://x.com/maxt3chno/status/2113934291818221665) — maxt3chno · Claude Opus 5.5 · [Prompt](../prompts/motion-2113934291818221665.md#prompt)
+- [Drone flight over the Na Pali coast](https://x.com/LexnLin/status/2113720560920428685) — LexnLin · Claude Opus 5.5 · [Prompt](../prompts/motion-2113720560920428685.md#prompt)
+- [Foldable phone rebuilt part by part in code](https://x.com/andreysuperior/status/2113644365876691235) — andreysuperior · Claude Opus 5.5 · [Prompt](../prompts/motion-2113644365876691235.md#prompt)
+- [Lily of the valley island scene](https://x.com/ann_nnng/status/2112897537430741143) — ann_nnng · Claude Opus 5.5 · [Prompt](../prompts/motion-2112897537430741143.md#prompt)
+- [Paradise island 3D scene](https://x.com/badboyfoxy/status/2109523901105500260) — badboyfoxy · Claude Opus 5.5 / fable-5.5 · [Prompt](../prompts/motion-2109523901105500260.md#prompt)
+
 - [Recursive controller, bicycle and pelican SVG](https://x.com/Mr_Salio/status/2111816222811541641) — Mr_Salio · Fable 5.5 (preview, source reported) · [Prompt](../prompts/motion-2111816222811541641.md#prompt)
 - [Interactive 3D world built one-shot by Opus 5.5](https://x.com/Ainthropos/status/2109718931409699043) — Ainthropos · Claude Opus 5.5 · [Prompt](../prompts/motion-2109718931409699043.md#prompt)
 - [AI-generated running cow animation](https://x.com/AIMind_Ai/status/2107435499686154557) — AIMind_Ai · Claude Opus 5.5 · [Prompt](../prompts/motion-2107435499686154557.md#prompt)
@@ -853,6 +893,12 @@
 
 ## Music & Audiovisual
 
+- [Beat-synced manga-style music edit](https://x.com/aimikoda/status/2113764485429125125) — aimikoda · Claude Opus 5.5 · [Prompt](../prompts/motion-2113764485429125125.md#prompt)
+- [Three poster-grid music video variations](https://x.com/aimikoda/status/2114167098284839305) — aimikoda · Claude Opus 5.5 · [Prompt](../prompts/motion-2114167098284839305.md#prompt)
+- [Violin score with animation](https://x.com/Hesamation/status/2103535326325055843) — Hesamation · Claude Opus 5.5 · [Prompt](../prompts/motion-2103535326325055843.md#prompt)
+- [Self-introduction video with music](https://x.com/mattn_jp/status/2103491383554445613) — mattn_jp · Claude Opus 5.5 · [Prompt](../prompts/motion-2103491383554445613.md#prompt)
+- [Visualization of the singularity experience](https://x.com/dirtman/status/2103686605517287620) — dirtman · Claude Opus 5.5 · [Prompt](../prompts/motion-2103686605517287620.md#prompt)
+
 - [Kinetic Lyric Video](https://www.aicssanimations.com/directory/Motion-Prompts/kinetic-lyric-video) — AI CSS Animations · Claude Opus 5.5 (creator reported) · [Prompt](../prompts/motion-aicss-kinetic-lyric-video.md#prompt)
 - [Podcast Audiogram](https://www.aicssanimations.com/directory/Motion-Prompts/podcast-audiogram) — AI CSS Animations · Claude Opus 5.5 (creator reported) · [Prompt](../prompts/motion-aicss-podcast-audiogram.md#prompt)
 - [Skeuomorphic Synth Plugin](https://www.aicssanimations.com/directory/Motion-Prompts/skeuomorphic-synth-plugin) — AI CSS Animations · Claude Opus 5.5 (creator reported) · [Prompt](../prompts/motion-aicss-skeuomorphic-synth-plugin.md#prompt)
@@ -918,6 +964,17 @@
 <a id="interactive"></a>
 
 ## Interactive Experiences
+
+- [Vault Street pixel-art bank heist diorama](https://x.com/vib3coded/status/2114054716959215724) — vib3coded · Claude Opus 5.5 · [Prompt](../prompts/motion-2114054716959215724.md#prompt)
+- [Pizza making simulator game](https://x.com/MrTacticalX/status/2113987724260872333) — MrTacticalX · Claude Opus 5.5 · [Prompt](../prompts/motion-2113987724260872333.md#prompt)
+- [Minecraft elements mashed into GTA 5](https://x.com/bonnyxen/status/2107843676135100870) — bonnyxen · Claude Opus 5.5 · [Prompt](../prompts/motion-2107843676135100870.md#prompt)
+- [League of Legends x Dragon Ball FighterZ Mashup Game](https://x.com/GamefxAI/status/2106670299731149160) — GamefxAI · Claude Opus 5.5 · [Prompt](../prompts/motion-2106670299731149160.md#prompt)
+- [Dragonball FighterZ Three.js MMO port](https://x.com/GamefxAI/status/2106363469519872338) — GamefxAI · Claude Opus 5.5 · [Prompt](../prompts/motion-2106363469519872338.md#prompt)
+- [Anime School Dating Game](https://x.com/kis/status/2106237162505265499) — kis · Claude Opus 5.5 · [Prompt](../prompts/motion-2106237162505265499.md#prompt)
+- [Realistic fighter jet game](https://x.com/klattkev/status/2106102789160259910) — klattkev · Claude Opus 5.5 · [Prompt](../prompts/motion-2106102789160259910.md#prompt)
+- [Zero-gravity movement shooter](https://x.com/0xPBIT/status/2106048668826546247) — 0xPBIT · Claude Opus 5.5 · [Prompt](../prompts/motion-2106048668826546247.md#prompt)
+- [Minecraft and Slime Rancher crossover](https://x.com/Angaisb_/status/2105952417980592248) — Angaisb_ · Claude Opus 5.5 · [Prompt](../prompts/motion-2105952417980592248.md#prompt)
+- [Browser destruction derby game with concept cars](https://x.com/drcollect/status/2105361031371383180) — drcollect · Claude Opus 5.5 · [Prompt](../prompts/motion-2105361031371383180.md#prompt)
 
 - [Self-laying rail minecart mod](https://x.com/0xJarvi/status/2109776982200508771) — 0xJarvi · Claude Opus 5.5 · [Prompt](../prompts/motion-2109776982200508771.md#prompt)
 - [Cozy fireflies and waterfall game scene](https://x.com/keydol123/status/2109314447508709796) — keydol123 · Claude Opus 5.5 · [Prompt](../prompts/motion-2109314447508709796.md#prompt)
