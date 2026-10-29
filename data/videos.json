@@ -45448,7 +45448,7 @@
       "2102477300990357504"
     ],
     "postedAt": "2026-09-22T19:17:14.000Z",
-    "requiresReference": false,
+    "requiresReference": true,
     "promptStatus": "upstream_brief_transcription",
     "promptCompleteness": "published_brief_not_full_workflow",
     "primaryCategory": "product-brand",
@@ -45460,7 +45460,7 @@
       "source": "upstream_reported",
       "sourceUrl": "https://jasonzhu.ai/en/prompts/claude-opus-5-5/2102477340920152162"
     },
-    "notes": "补收公开作品的提示词转录；保留实际发布日期及目录热度观测时间，不能将其冒充原帖独立实测或今天发布。完整性及模型仅为来源声明，未独立验证完整会话。参考素材与工具依赖参见正文，不随仓库提供。",
+    "notes": "补收公开作品的提示词转录；保留实际发布日期及目录热度观测时间，不能将其冒充原帖独立实测或今天发布。完整性及模型仅为来源声明，未独立验证完整会话。参考素材与工具依赖参见正文，不随仓库提供。 简短要求中的“all of its iterations”依赖此前网站迭代上下文，原素材未附。",
     "type": "Prompt",
     "status": "collected",
     "collectedAt": "2026-10-29",
@@ -45481,7 +45481,8 @@
         "sampleSeconds": 3,
         "decoded": true,
         "fullPlaybackReviewed": false
-      }
+      },
+      "referenceDependencyReview": "Published brief refers to prior website iterations; context is not included."
     },
     "poster": "data/media/2026-10-29/2102477340920152162.webp",
     "width": 640,
