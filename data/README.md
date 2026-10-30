@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-1250 works with prompt text saved in this repository. The collection includes published briefs, workflows and reusable animation templates. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+1300 works with prompt text saved in this repository. The collection includes published briefs, workflows and reusable animation templates. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -17,6 +17,17 @@
 <a id="product-brand"></a>
 
 ## Product & Brand
+
+- [Dark UI Precision Glow](https://www.aicssanimations.com/directory/Motion-Prompts/dark-ui-precision-glow) — AI CSS Animations · Claude Opus 5.5 (publisher reported) · [Prompt](../prompts/motion-aicss-dark-ui-precision-glow.md#prompt)
+- [Fintech Card Wallet](https://www.aicssanimations.com/directory/Motion-Prompts/fintech-card-wallet) — AI CSS Animations · Claude Opus 5.5 (publisher reported) · [Prompt](../prompts/motion-aicss-fintech-card-wallet.md#prompt)
+- [Pricing Page](https://www.aicssanimations.com/directory/Motion-Prompts/pricing-page-reveal) — AI CSS Animations · Claude Opus 5.5 (publisher reported) · [Prompt](../prompts/motion-aicss-pricing-page-reveal.md#prompt)
+- [Coffee Brand Ident](https://www.aicssanimations.com/directory/Motion-Prompts/coffee-brand-ident) — AI CSS Animations · Claude Opus 5.5 (publisher reported) · [Prompt](../prompts/motion-aicss-coffee-brand-ident.md#prompt)
+- [App Onboarding](https://www.aicssanimations.com/directory/Motion-Prompts/app-onboarding-carousel) — AI CSS Animations · Claude Opus 5.5 (publisher reported) · [Prompt](../prompts/motion-aicss-app-onboarding-carousel.md#prompt)
+- [Integrations Orbit](https://www.aicssanimations.com/directory/Motion-Prompts/saas-integrations-orbit) — AI CSS Animations · Claude Opus 5.5 (publisher reported) · [Prompt](../prompts/motion-aicss-saas-integrations-orbit.md#prompt)
+- [Testimonial Cards](https://www.aicssanimations.com/directory/Motion-Prompts/testimonial-quote-cards) — AI CSS Animations · Claude Opus 5.5 (publisher reported) · [Prompt](../prompts/motion-aicss-testimonial-quote-cards.md#prompt)
+- [Exploded View](https://www.aicssanimations.com/directory/Motion-Prompts/exploded-view-device) — AI CSS Animations · Claude Opus 5.5 (publisher reported) · [Prompt](../prompts/motion-aicss-exploded-view-device.md#prompt)
+- [Holographic Foil Card](https://www.aicssanimations.com/directory/Motion-Prompts/holographic-foil-card) — AI CSS Animations · Claude Opus 5.5 (publisher reported) · [Prompt](../prompts/motion-aicss-holographic-foil-card.md#prompt)
+- [Website Scroll Tour](https://www.aicssanimations.com/directory/Motion-Prompts/website-scroll-tour) — AI CSS Animations · Claude Opus 5.5 (publisher reported) · [Prompt](../prompts/motion-aicss-website-scroll-tour.md#prompt)
 
 - [Personal website redesign trailer](https://x.com/trq212/status/2102477340920152162) — trq212 · Claude Opus 5.5 · [Prompt](../prompts/motion-2102477340920152162.md#prompt)
 - [Punchy ad video from a marketing email](https://x.com/gastypm/status/2102863204472799549) — gastypm · Claude Opus 5.5 · [Prompt](../prompts/motion-2102863204472799549.md#prompt)
@@ -219,6 +230,15 @@
 <a id="motion-studies"></a>
 
 ## Typography & Motion Studies
+
+- [Art Deco Gold](https://www.aicssanimations.com/directory/Motion-Prompts/art-deco-gold) — AI CSS Animations · Claude Opus 5.5 (publisher reported) · [Prompt](../prompts/motion-aicss-art-deco-gold.md#prompt)
+- [Memphis Pattern Pop](https://www.aicssanimations.com/directory/Motion-Prompts/memphis-pattern-pop) — AI CSS Animations · Claude Opus 5.5 (publisher reported) · [Prompt](../prompts/motion-aicss-memphis-pattern-pop.md#prompt)
+- [Mid-Century Atomic](https://www.aicssanimations.com/directory/Motion-Prompts/mid-century-atomic) — AI CSS Animations · Claude Opus 5.5 (publisher reported) · [Prompt](../prompts/motion-aicss-mid-century-atomic.md#prompt)
+- [Constructivist Poster](https://www.aicssanimations.com/directory/Motion-Prompts/constructivist-poster) — AI CSS Animations · Claude Opus 5.5 (publisher reported) · [Prompt](../prompts/motion-aicss-constructivist-poster.md#prompt)
+- [Kinetic Type Manifesto](https://www.aicssanimations.com/directory/Motion-Prompts/kinetic-manifesto) — AI CSS Animations · Claude Opus 5.5 (publisher reported) · [Prompt](../prompts/motion-aicss-kinetic-manifesto.md#prompt)
+- [Editorial Serif Titles](https://www.aicssanimations.com/directory/Motion-Prompts/editorial-serif-titles) — AI CSS Animations · Claude Opus 5.5 (publisher reported) · [Prompt](../prompts/motion-aicss-editorial-serif-titles.md#prompt)
+- [Halftone Pop Art](https://www.aicssanimations.com/directory/Motion-Prompts/halftone-pop-art) — AI CSS Animations · Claude Opus 5.5 (publisher reported) · [Prompt](../prompts/motion-aicss-halftone-pop-art.md#prompt)
+- [One-Bit Dithered Desktop](https://www.aicssanimations.com/directory/Motion-Prompts/one-bit-dither) — AI CSS Animations · Claude Opus 5.5 (publisher reported) · [Prompt](../prompts/motion-aicss-one-bit-dither.md#prompt)
 
 - [Apple Liquid Glass style UI motion showcase](https://x.com/motion_conquest/status/2103510103622308152) — motion_conquest · Claude Opus 5.5 · [Prompt](../prompts/motion-2103510103622308152.md#prompt)
 - [15-second motion design showreel (detailed prompt)](https://x.com/darel023/status/2103424524297420829) — darel023 · Claude Opus 5.5 · [Prompt](../prompts/motion-2103424524297420829.md#prompt)
@@ -475,6 +495,15 @@
 
 ## Explainers & Data
 
+- [Monoline Icon Explainer](https://www.aicssanimations.com/directory/Motion-Prompts/monoline-icon-explainer) — AI CSS Animations · Claude Opus 5.5 (publisher reported) · [Prompt](../prompts/motion-aicss-monoline-icon-explainer.md#prompt)
+- [Topographic Contour Map](https://www.aicssanimations.com/directory/Motion-Prompts/topographic-contours) — AI CSS Animations · Claude Opus 5.5 (publisher reported) · [Prompt](../prompts/motion-aicss-topographic-contours.md#prompt)
+- [Cartographic Route Map](https://www.aicssanimations.com/directory/Motion-Prompts/cartographic-route) — AI CSS Animations · Claude Opus 5.5 (publisher reported) · [Prompt](../prompts/motion-aicss-cartographic-route.md#prompt)
+- [History Timeline](https://www.aicssanimations.com/directory/Motion-Prompts/history-timeline) — AI CSS Animations · Claude Opus 5.5 (publisher reported) · [Prompt](../prompts/motion-aicss-history-timeline.md#prompt)
+- [TV Weather Forecast](https://www.aicssanimations.com/directory/Motion-Prompts/weather-forecast-map) — AI CSS Animations · Claude Opus 5.5 (publisher reported) · [Prompt](../prompts/motion-aicss-weather-forecast-map.md#prompt)
+- [Network Graph](https://www.aicssanimations.com/directory/Motion-Prompts/force-network-graph) — AI CSS Animations · Claude Opus 5.5 (publisher reported) · [Prompt](../prompts/motion-aicss-force-network-graph.md#prompt)
+- [Isotype Pictograms](https://www.aicssanimations.com/directory/Motion-Prompts/isotype-pictograms) — AI CSS Animations · Claude Opus 5.5 (publisher reported) · [Prompt](../prompts/motion-aicss-isotype-pictograms.md#prompt)
+- [Git Branch Graph](https://www.aicssanimations.com/directory/Motion-Prompts/git-branch-graph) — AI CSS Animations · Claude Opus 5.5 (publisher reported) · [Prompt](../prompts/motion-aicss-git-branch-graph.md#prompt)
+
 - [Explainer video on JEM self-supervised learning paper](https://x.com/iScienceLuvr/status/2114676265093664978) — iScienceLuvr · Claude Opus 5.5 · [Prompt](../prompts/motion-2114676265093664978.md#prompt)
 - [Anime-style explainer remix video](https://x.com/emollick/status/2103272686570918334) — emollick · Claude Opus 5.5 · [Prompt](../prompts/motion-2103272686570918334.md#prompt)
 - [America-focused civilization documentary](https://x.com/frontierism/status/2103738204411379949) — frontierism · Claude Opus 5.5 · [Prompt](../prompts/motion-2103738204411379949.md#prompt)
@@ -661,6 +690,13 @@
 
 ## Characters & Stories
 
+- [8-Bit Pixel Art Scene](https://www.aicssanimations.com/directory/Motion-Prompts/pixel-art-8bit) — AI CSS Animations · Claude Opus 5.5 (publisher reported) · [Prompt](../prompts/motion-aicss-pixel-art-8bit.md#prompt)
+- [Kawaii Food Friends](https://www.aicssanimations.com/directory/Motion-Prompts/kawaii-food-friends) — AI CSS Animations · Claude Opus 5.5 (publisher reported) · [Prompt](../prompts/motion-aicss-kawaii-food-friends.md#prompt)
+- [Friendly Ghosts](https://www.aicssanimations.com/directory/Motion-Prompts/friendly-ghosts) — AI CSS Animations · Claude Opus 5.5 (publisher reported) · [Prompt](../prompts/motion-aicss-friendly-ghosts.md#prompt)
+- [Pencil Test](https://www.aicssanimations.com/directory/Motion-Prompts/pencil-test-animation) — AI CSS Animations · Claude Opus 5.5 (publisher reported) · [Prompt](../prompts/motion-aicss-pencil-test-animation.md#prompt)
+- [Astronaut Drift](https://www.aicssanimations.com/directory/Motion-Prompts/astronaut-drift) — AI CSS Animations · Claude Opus 5.5 (publisher reported) · [Prompt](../prompts/motion-aicss-astronaut-drift.md#prompt)
+- [Shadow Puppets](https://www.aicssanimations.com/directory/Motion-Prompts/shadow-puppet-theater) — AI CSS Animations · Claude Opus 5.5 (publisher reported) · [Prompt](../prompts/motion-aicss-shadow-puppet-theater.md#prompt)
+
 - [Animation of an imagined social media feed](https://x.com/pleometric/status/2102572941699354900) — pleometric · Claude Opus 5.5 · [Prompt](../prompts/motion-2102572941699354900.md#prompt)
 - [Claude animates its own life story](https://x.com/shfred0/status/2102495989194236158) — shfred0 · Claude Opus 5.5 · [Prompt](../prompts/motion-2102495989194236158.md#prompt)
 - [Video about what it feels like to be Claude](https://x.com/goodside/status/2102876925102555526) — goodside · Claude Opus 5.5 · [Prompt](../prompts/motion-2102876925102555526.md#prompt)
@@ -819,6 +855,15 @@
 
 ## 3D & Simulations
 
+- [Interactive jelly octopus soft-body study](https://x.com/vib3coded/status/2115173334031737112) — vib3coded · Claude Opus 5.5 / fable-5.5 · [Prompt](../prompts/motion-2115173334031737112.md#prompt)
+- [Jelly dolphin physics comparison](https://x.com/vib3coded/status/2115015297195225283) — vib3coded · Claude Opus 5.5 · [Prompt](../prompts/motion-2115015297195225283.md#prompt)
+- [Voxel Island Diorama](https://www.aicssanimations.com/directory/Motion-Prompts/voxel-island-diorama) — AI CSS Animations · Claude Opus 5.5 (publisher reported) · [Prompt](../prompts/motion-aicss-voxel-island-diorama.md#prompt)
+- [Northern Lights](https://www.aicssanimations.com/directory/Motion-Prompts/aurora-night-sky) — AI CSS Animations · Claude Opus 5.5 (publisher reported) · [Prompt](../prompts/motion-aicss-aurora-night-sky.md#prompt)
+- [Stylized Ocean](https://www.aicssanimations.com/directory/Motion-Prompts/stylized-ocean) — AI CSS Animations · Claude Opus 5.5 (publisher reported) · [Prompt](../prompts/motion-aicss-stylized-ocean.md#prompt)
+- [Globe Flight Paths](https://www.aicssanimations.com/directory/Motion-Prompts/globe-flight-arcs) — AI CSS Animations · Claude Opus 5.5 (publisher reported) · [Prompt](../prompts/motion-aicss-globe-flight-arcs.md#prompt)
+- [3D Data City](https://www.aicssanimations.com/directory/Motion-Prompts/data-city-3d) — AI CSS Animations · Claude Opus 5.5 (publisher reported) · [Prompt](../prompts/motion-aicss-data-city-3d.md#prompt)
+- [Puzzle Cube Solve](https://www.aicssanimations.com/directory/Motion-Prompts/twisty-cube-solve) — AI CSS Animations · Claude Opus 5.5 (publisher reported) · [Prompt](../prompts/motion-aicss-twisty-cube-solve.md#prompt)
+
 - [Red supercar driving through Miami at night in Blender](https://x.com/MrTacticalX/status/2114831244936507897) — MrTacticalX · Claude Sonnet 5.5 · [Prompt](../prompts/motion-2114831244936507897.md#prompt)
 - [Floating windmill farm island at sunset in Blender](https://x.com/MrTacticalX/status/2114840067831128271) — MrTacticalX · Claude Opus 5.5 · [Prompt](../prompts/motion-2114840067831128271.md#prompt)
 - [Interactive squishy jelly whale](https://x.com/vib3coded/status/2114674922802782355) — vib3coded · Claude Opus 5.5 · [Prompt](../prompts/motion-2114674922802782355.md#prompt)
@@ -975,6 +1020,12 @@
 
 ## Music & Audiovisual
 
+- [Satoru Gojo temporal grid video edit](https://x.com/aimikoda/status/2115118260060656126) — aimikoda · Claude Opus 5.5 · [Prompt](../prompts/motion-2115118260060656126.md#prompt)
+- [UK Dubstep Live-Coding Video](https://x.com/Rames_Jusso/status/2103200703598776559) — Rames_Jusso · Claude Opus 5.5 (creator reported) · [Prompt](../prompts/motion-2103200703598776559.md#prompt)
+- [Ball Escaping Twelve Rings](https://x.com/kantamk/status/2103148907228176511) — kantamk · Claude Opus 5.5 (creator reported) · [Prompt](../prompts/motion-2103148907228176511.md#prompt)
+- [ESCAPE VELOCITY — published director brief](https://claudia.gallery/escape-velocity/) — anabology · Claude Code / Midjourney / Seedance 2.5 / Suno (creator reported) · [Prompt](../prompts/motion-claudia-escape-velocity.md#prompt)
+- [WHITEPILL — published director brief](https://claudia.gallery/whitepill/) — anabology · Claude Code / Midjourney / Seedance 2.5 / Suno (creator reported) · [Prompt](../prompts/motion-claudia-whitepill.md#prompt)
+
 - [Satoru Gojo AMV from still images and music](https://x.com/aimikoda/status/2114745463736082828) — aimikoda · Claude Opus 5.5 · [Prompt](../prompts/motion-2114745463736082828.md#prompt)
 - [Pro-AI accelerationist code-made edit](https://x.com/holytrinity/status/2102894936316420109) — holytrinity · Claude Opus 5.5 · [Prompt](../prompts/motion-2102894936316420109.md#prompt)
 
@@ -1055,6 +1106,12 @@
 <a id="interactive"></a>
 
 ## Interactive Experiences
+
+- [3D pixel-art streetball court comparison](https://x.com/vib3coded/status/2115106186831823065) — vib3coded · Claude Opus 5.5 · [Prompt](../prompts/motion-2115106186831823065.md#prompt)
+- [AI Chat Product Demo](https://www.aicssanimations.com/directory/Motion-Prompts/ai-chat-product-demo) — AI CSS Animations · Claude Opus 5.5 (publisher reported) · [Prompt](../prompts/motion-aicss-ai-chat-product-demo.md#prompt)
+- [Lock Screen Notifications](https://www.aicssanimations.com/directory/Motion-Prompts/lock-screen-notifications) — AI CSS Animations · Claude Opus 5.5 (publisher reported) · [Prompt](../prompts/motion-aicss-lock-screen-notifications.md#prompt)
+- [Calendar Booking Flow](https://www.aicssanimations.com/directory/Motion-Prompts/calendar-booking-flow) — AI CSS Animations · Claude Opus 5.5 (publisher reported) · [Prompt](../prompts/motion-aicss-calendar-booking-flow.md#prompt)
+- [Ride-Hailing App](https://www.aicssanimations.com/directory/Motion-Prompts/ride-hailing-app) — AI CSS Animations · Claude Opus 5.5 (publisher reported) · [Prompt](../prompts/motion-aicss-ride-hailing-app.md#prompt)
 
 - [Pixel art winter hockey scene comparison](https://x.com/N1njaCodex/status/2114894485389791613) — N1njaCodex · Claude Opus 5.5 · [Prompt](../prompts/motion-2114894485389791613.md#prompt)
 - [Pixel-art table tennis courtyard diorama](https://x.com/vib3coded/status/2114842660829860045) — vib3coded · Claude Opus 5.5 · [Prompt](../prompts/motion-2114842660829860045.md#prompt)
