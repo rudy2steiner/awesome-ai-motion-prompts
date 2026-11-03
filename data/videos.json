@@ -56817,5 +56817,1456 @@
       "fullReview": false,
       "promptSha256": "71afdd4b1b72871e939e5fc2688c332072dcb6180c283ae2b5d63795236ff4b0"
     }
+  },
+  {
+    "id": "aicss-robot-twelve-worlds",
+    "title": "Robot Through Twelve Worlds",
+    "author": "Pradeep Kapoor (@pradeepXkapoor)",
+    "model": "Claude Opus 5.5",
+    "sourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/robot-twelve-worlds",
+    "promptSourceUrl": "https://x.com/pradeepXkapoor/status/robot-twelve-worlds",
+    "collectionUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/robot-twelve-worlds",
+    "prompt": "A robot realises he is stuck in an AI-generated world and tumbles through 12 art styles, from 8-bit to claymation to pencil sketch. A long studio-style production brief rendered in Remotion. The prompt was shared in the original post rather than as quoted text on the aicss site.",
+    "primaryCategory": "characters-stories",
+    "postedAt": "2026-09-24",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "creator_published_brief",
+    "outputCompleteness": "complete_animation",
+    "license": "CC0",
+    "status": "collected",
+    "promptFile": "prompts/motion-aicss-robot-twelve-worlds.md",
+    "requiresReference": false,
+    "provenance": {
+      "platform": "aicssanimations.com",
+      "creatorDeclared": "Pradeep Kapoor (@pradeepXkapoor)",
+      "modelDeclared": "Claude Opus 5.5"
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 279,
+      "outputUrlAccessible": true
+    }
+  },
+  {
+    "id": "aicss-one-line-drawing-film",
+    "title": "One-Line Drawing Film",
+    "author": "Lemomo (@lemomo-ai)",
+    "model": "Claude Code",
+    "sourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/one-line-drawing-film",
+    "promptSourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/one-line-drawing-film",
+    "collectionUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/one-line-drawing-film",
+    "prompt": "A single ink line that never leaves the paper. Everything on screen is that one line being drawn; scenes don't cut, they morph.\n\nEssence:\n- One continuous line on warm white paper. The pen never lifts: in code the whole film can literally be one point array.\n- Everything is a line: characters, places, objects, even time. No fills, no shading, no second line weight, no background art.\n- We watch the line being drawn: the camera follows the nib with a little lag and anticipation.\n\nMotion quality:\n- Everything on ones (24 fps): the appeal is the continuous act of drawing.\n- Timing = chapter windows + curvature: within a window, time per point is weighted by 1 + K*turn.",
+    "primaryCategory": "characters-stories",
+    "postedAt": "2026-09-26",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "creator_published_full_template",
+    "outputCompleteness": "complete_animation",
+    "license": "CC0",
+    "status": "collected",
+    "promptFile": "prompts/motion-aicss-one-line-drawing-film.md",
+    "requiresReference": false,
+    "provenance": {
+      "platform": "aicssanimations.com",
+      "creatorDeclared": "Lemomo (@lemomo-ai)",
+      "modelDeclared": "Claude Code"
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 674,
+      "outputUrlAccessible": true
+    }
+  },
+  {
+    "id": "aicss-raymarched-pelican-bicycle",
+    "title": "Raymarched Pelican on a Bicycle",
+    "author": "Axton (@AxtonLiu)",
+    "model": "Claude Opus 5.5",
+    "sourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/raymarched-pelican-bicycle",
+    "promptSourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/raymarched-pelican-bicycle",
+    "collectionUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/raymarched-pelican-bicycle",
+    "prompt": "Every time a new model comes out, everyone has it draw 'a pelican riding a bicycle' to judge the model's spatial ability, basically using HTML and SVG for animation. I've gotten aesthetic fatigue from watching all of these. I want you to draw the most complex, most detailed, most exquisite 'pelican riding a bicycle' animation video possible. You can use any technology, no rush, you can take a whole day.\n\nResult: A detailed take on the pelican riding a bicycle benchmark: rendered by a GPU raymarcher Claude wrote itself. No models, textures or audio files; 1,140 frames at 40 samples each, score in code.",
+    "primaryCategory": "music-audiovisual",
+    "postedAt": "2026-09-24",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "creator_published_full_template",
+    "outputCompleteness": "complete_animation",
+    "license": "CC0",
+    "status": "collected",
+    "promptFile": "prompts/motion-aicss-raymarched-pelican-bicycle.md",
+    "requiresReference": false,
+    "provenance": {
+      "platform": "aicssanimations.com",
+      "creatorDeclared": "Axton (@AxtonLiu)",
+      "modelDeclared": "Claude Opus 5.5"
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 608,
+      "outputUrlAccessible": true
+    }
+  },
+  {
+    "id": "aicss-stickman-vs-the-clock",
+    "title": "Stickman vs the Clock",
+    "author": "Koldo Huici (@koldo2k)",
+    "model": "Claude Opus 5.5",
+    "sourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/stickman-vs-the-clock",
+    "promptSourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/stickman-vs-the-clock",
+    "collectionUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/stickman-vs-the-clock",
+    "prompt": "Make a 15-second looping animation, square 1080x1080.\n\nA stickman lives inside the face of an analog alarm clock and fights against time. The red second hand is the villain.\n\nStyle: minimal black ink on cream paper, monoline stick figure and numbers, slight hand-drawn line wobble. The only color is red, reserved for time: the second hand, the alarm, the impacts.\n\nStory: he's asleep on top of the 12 and dodges the second hand at the last moment. The clock speeds up, and on each lap he survives it a different way: he jumps, rides the hand like a rodeo bull, and ducks flat as it sweeps over him. Finally he pries the number 6 off the dial and jams the hand with it. Time stops, and he takes a nap... until the alarm goes off, every hand rewinds, and he ends up asleep on the 12 again, so it loops.\n\nSound: fully synthesized in code and synced to the action (ticks, hits, a metallic clank, alarm bells, rewind).",
+    "primaryCategory": "music-audiovisual",
+    "postedAt": "2026-09-26",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "creator_published_full_template",
+    "outputCompleteness": "complete_animation",
+    "license": "CC0",
+    "status": "collected",
+    "promptFile": "prompts/motion-aicss-stickman-vs-the-clock.md",
+    "requiresReference": false,
+    "provenance": {
+      "platform": "aicssanimations.com",
+      "creatorDeclared": "Koldo Huici (@koldo2k)",
+      "modelDeclared": "Claude Opus 5.5"
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 914,
+      "outputUrlAccessible": true
+    }
+  },
+  {
+    "id": "aicss-hand-painted-clawd-animation",
+    "title": "Hand-Painted Cartoon Starter",
+    "author": "John Heibel (@JohnHeibel)",
+    "model": "Claude Opus 5.5",
+    "sourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/hand-painted-clawd-animation",
+    "promptSourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/hand-painted-clawd-animation",
+    "collectionUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/hand-painted-clawd-animation",
+    "prompt": "A starter kit for hand-painted cartoon films in p5.js and p5.brush: watercolour washes, ink outlines and boiling linework, the Clawd character with 31 emotions, and a storyboard-first contact-sheet loop.\n\n1. The medium is solid: brush strokes, flat 2D, boil\n- Paint everything with p5.brush through paint() and inkLine(). Characters get flat wash colour plus an ink outline.\n- The linework boils. jit() and random() are reseeded 12 times a second (BOIL), so every drawing wobbles slightly, like hand-drawn animation.\n- Everything is flat 2D. Never project 3D.\n\n2. No text\n- Show it, don't write it. No captions, no titles, no labels on objects, no speech bubbles with words.\n- Clawd's reactions are painted marks, never letters: !, ?, zzz, sweat, hearts, a bulb, a rain cloud.",
+    "primaryCategory": "characters-stories",
+    "postedAt": "2026-09-23",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "creator_published_full_template",
+    "outputCompleteness": "complete_animation",
+    "license": "CC0",
+    "status": "collected",
+    "promptFile": "prompts/motion-aicss-hand-painted-clawd-animation.md",
+    "requiresReference": false,
+    "provenance": {
+      "platform": "aicssanimations.com",
+      "creatorDeclared": "John Heibel (@JohnHeibel)",
+      "modelDeclared": "Claude Opus 5.5"
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 776,
+      "outputUrlAccessible": true
+    }
+  },
+  {
+    "id": "aicss-motion-designer-showreel",
+    "title": "Motion Designer Showreel",
+    "author": "kirill sh (@shneural)",
+    "model": "Claude Opus 5.5",
+    "sourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/motion-designer-showreel",
+    "promptSourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/motion-designer-showreel",
+    "collectionUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/motion-designer-showreel",
+    "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a resume. go all out.",
+    "primaryCategory": "motion-studies",
+    "postedAt": "2026-09-24",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "creator_published_full_template",
+    "outputCompleteness": "complete_animation",
+    "license": "CC0",
+    "status": "collected",
+    "promptFile": "prompts/motion-aicss-motion-designer-showreel.md",
+    "requiresReference": false,
+    "provenance": {
+      "platform": "aicssanimations.com",
+      "creatorDeclared": "kirill sh (@shneural)",
+      "modelDeclared": "Claude Opus 5.5"
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 151,
+      "outputUrlAccessible": true
+    }
+  },
+  {
+    "id": "aicss-one-line-startup-launch",
+    "title": "One-Line Startup Launch Video",
+    "author": "Deedy (@deedydas)",
+    "model": "Claude Opus 5.5",
+    "sourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/one-line-startup-launch",
+    "promptSourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/one-line-startup-launch",
+    "collectionUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/one-line-startup-launch",
+    "prompt": "make a modern slick and punchy video for a modern startup that works on inference",
+    "primaryCategory": "product-brand",
+    "postedAt": "2026-09-23",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "creator_published_brief",
+    "outputCompleteness": "complete_animation",
+    "license": "CC0",
+    "status": "collected",
+    "promptFile": "prompts/motion-aicss-one-line-startup-launch.md",
+    "requiresReference": false,
+    "provenance": {
+      "platform": "aicssanimations.com",
+      "creatorDeclared": "Deedy (@deedydas)",
+      "modelDeclared": "Claude Opus 5.5"
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 81,
+      "outputUrlAccessible": true
+    }
+  },
+  {
+    "id": "aicss-kinetic-identity-bumper",
+    "title": "Kinetic Identity Bumper",
+    "author": "TechHalla (@techhalla)",
+    "model": "Claude Opus 5.5",
+    "sourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/kinetic-identity-bumper",
+    "promptSourceUrl": "https://x.com/techhalla/status/2103411244468498547",
+    "collectionUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/kinetic-identity-bumper",
+    "prompt": "You are a world-class motion designer doing a 20.00s kinetic identity bumper for TechHalla -- an AI creator known for stealable workflows, not vibes. This piece must feel like the best designer in the room made a street-poster that moves.\n\nDURATION: exactly 20.00 seconds. LOOPABLE: frame 0 == frame last.\nFORMAT: one HTML file, 1080x1080 (square, X-native). 60fps.\n\nPALETTE (strict):\n- bg #0A0A0A\n- magenta #FF2BD6\n- acid green #B8FF00\n- white #F5F5F5 only for primary readable type when needed\n\nTYPE SYSTEM (use all three):\n1) Display / scream: Archivo Black -- 1-4 words max\n2) Urban grotesque: Syne ExtraBold -- secondary hits\n3) Mono / prompt code: IBM Plex Mono Medium -- small labels\n\nMESSAGE (locked):\n1. STOP SCROLLING\n2. AI VIDEO ISN'T EXPENSIVE\n3. BAD PROMPTING IS\n4. WORKFLOWS > WISHES\n5. STEAL THE PROMPT\n6. @ TECHHALLA",
+    "primaryCategory": "motion-studies",
+    "postedAt": "2026-09-25",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "creator_published_full_template",
+    "outputCompleteness": "complete_animation",
+    "license": "CC0",
+    "status": "collected",
+    "promptFile": "prompts/motion-aicss-kinetic-identity-bumper.md",
+    "requiresReference": false,
+    "provenance": {
+      "platform": "aicssanimations.com",
+      "creatorDeclared": "TechHalla (@techhalla)",
+      "modelDeclared": "Claude Opus 5.5"
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 832,
+      "outputUrlAccessible": true
+    }
+  },
+  {
+    "id": "aicss-inbox-triage",
+    "title": "Inbox Triage",
+    "author": "AI CSS Animations (@SaaSgod)",
+    "model": "Claude Opus 5.5 in Claude Code",
+    "sourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/inbox-triage",
+    "promptSourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/inbox-triage",
+    "collectionUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/inbox-triage",
+    "prompt": "Make a 10-second mobile interface animation: a thumb swipes through an inbox, archiving, snoozing and labelling until unread reaches zero and a calm empty state appears.\n\n<inputs>\n- App: default \"Stillpost\" (mail)\n- Messages (sender . subject . action): default Rowan Feld . Invoice #2041 paid . archive; Ottilie Park . Lunch Thursday? . snooze; Build server . Build 1184 passed . archive; Hessa Karim . Contract draft v3 . label Work; Marlow Ito . Photos from the lake . archive.\n- Empty state: default \"All caught up.\" / \"Nothing new. Enjoy the quiet.\"\n- Length: default 10 seconds\n</inputs>\n\n<direction>\n- Palette: stage pale sky #D5E2EC; phone #16191E; screen #FBFBF9; text #1E2A36; muted #6C7783; unread dot #3E6FD8; actions archive #2F9E6B, snooze #E39A2D, label #3E6FD8.\n- Type: Albert Sans 400-700 in the phone; the giant counter in Fraunces 300 (SOFT 100) at 420px.\n- Layout: a 448x936 phone at x 1060, y 72; left of it the unread numeral centered on x 600.\n- Touch: a 56px white circle at 60% with a thin ring, pressing to 88%, moving on thumb arcs.\n- Swipes: rows track the touch 1:1. At 35% the swipe commits: the action color blooms from the icon (180ms) and the icon pops 1->1.18->1.\n- Premium feels like a real phone: rows glued to the thumb, a visible threshold, gaps closing in one motion.\nBanned: confetti, rows fading or shrinking away, staggered reflow, rows faster than 3,000 px/s.\n</direction>\n\n<structure>\n- 0.0-0.8: The phone rises 40px; rows populate 50ms apart; the giant 5 fades up.\n- 0.8-1.5: Archive Rowan Feld. 5->4.\n- 1.5-3.0: Snooze Ottilie Park. 4->3.\n- 3.0-3.6: Archive the build. 3->2.\n- 3.6-5.1: Label Hessa Karim. 2->1.\n- 5.1-5.7: Archive Marlow Ito. 1->0.\n- 5.7-7.6: Empty state draws in.\n- 7.6-10.0: Chips and hold.\n</structure>\n\n<build>\nOne self-contained index.html, 1920x1080 stage, 60fps. HTML/CSS with inline SVG; no canvas or three.js. window.seek(t) sets every visual from t alone.\n</build>",
+    "primaryCategory": "product-brand",
+    "postedAt": "Oct 16, 2026",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "full_transcription",
+    "outputCompleteness": "complete_animation",
+    "license": "CC0",
+    "status": "collected",
+    "promptFile": "prompts/motion-aicss-inbox-triage.md",
+    "requiresReference": false,
+    "provenance": {
+      "platform": "aicssanimations.com",
+      "creatorDeclared": "AI CSS Animations (@SaaSgod)",
+      "modelDeclared": "Claude Opus 5.5 in Claude Code"
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 1936,
+      "outputUrlAccessible": true
+    }
+  },
+  {
+    "id": "aicss-year-in-review-story",
+    "title": "Year in Review Story",
+    "author": "AI CSS Animations (@SaaSgod)",
+    "model": "Claude Opus 5.5 in Claude Code",
+    "sourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/year-in-review-story",
+    "promptSourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/year-in-review-story",
+    "collectionUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/year-in-review-story",
+    "prompt": "Make a 10-second year-in-review animation: phone story cards for a fictional listener's year in music, with big numbers, a top-five list, bold color blocks and a new transition at every cut.\n\n<inputs>\n- App and listener: default \"Tonebook\", Noor, 2026\n- Minutes listened: default 48,210 (over 33 days)\n- Top artists by plays: default Moth Parade 412, Saltwater Choir 365, Kite Theory 301, Juno and the Lowlands 288, Pale Orchard 240\n- Top song: default \"Glasshouse Summer\" by Moth Parade, 96 plays\n- Length: default 10 seconds\n</inputs>\n\n<direction>\n- Format: a 540x960 story at (690, 60), 36px corners, a 10px bezel, five progress segments on top.\n- Cards, two colors each: Pink #FF3D7F, Lime #C9F04A, Cobalt #2B3BFF, Orange #FF7A1A, Plum #2B0F3A.\n- Type: Bricolage Grotesque 800; numbers 800 at width 75 in fixed-width digit slots.\n- Rhythm: 120 BPM; cuts and entrances land on beats or half beats.\n- Transitions, each different: wipe, circle grow, CSS 3D cube turn, stripes slide in.\nBanned: gradients, cross-fades, drop shadows, real artists or apps, emoji, confetti.\n</direction>\n\n<build>\nOne self-contained index.html, 1920x1080 stage, 60fps. HTML/CSS with inline SVG and CSS 3D transforms; no canvas or three.js.\n</build>",
+    "primaryCategory": "product-brand",
+    "postedAt": "Oct 16, 2026",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "full_transcription",
+    "outputCompleteness": "complete_animation",
+    "license": "CC0",
+    "status": "collected",
+    "promptFile": "prompts/motion-aicss-year-in-review-story.md",
+    "requiresReference": false,
+    "provenance": {
+      "platform": "aicssanimations.com",
+      "creatorDeclared": "AI CSS Animations (@SaaSgod)",
+      "modelDeclared": "Claude Opus 5.5 in Claude Code"
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 1228,
+      "outputUrlAccessible": true
+    }
+  },
+  {
+    "id": "aicss-mobile-app-three-phones",
+    "title": "Three Phone App Promo",
+    "author": "AI CSS Animations (@SaaSgod)",
+    "model": "Claude Opus 5.5 in Claude Code",
+    "sourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/mobile-app-three-phones",
+    "promptSourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/mobile-app-three-phones",
+    "collectionUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/mobile-app-three-phones",
+    "prompt": "Make a 10-second mobile app promo with three original phones staggered in 3D on a soft blush backdrop: each phone runs a different live screen of a plant-care app, callouts with leader lines name each feature, and the camera drifts slowly around them.\n\n<inputs>\n- App: Mossback (fictional), a plant-care app. User: Sam.\n- Left phone: \"Today\" care list that scrolls\n- Center phone: plant detail with \"Mark as watered\" button\n- Right phone: scanner that identifies a leaf\n- Headline: \"Keep every plant alive.\" Sign-off: Mossback wordmark.\n</inputs>\n\n<direction>\n- three.js with ACESFilmic tone mapping, perspective 30deg vertical FOV.\n- Phone bodies: rounded box 1.5x3.2x0.16 units, 0.22 corner radius, 0.04 edge bevel.\n- MeshPhysicalMaterial with roughness 0.45 and clearcoat 0.3.\n- Screens: 2D canvas 780x1688, redrawn every frame and uploaded as texture.\n- Camera drifts from azimuth -9deg to +6deg over 8.6s.\nBanned: real company names, real phone models' notches, spinning devices, particles, lens flares.\n</direction>\n\n<build>\nOne self-contained index.html, 1920x1080 stage, 60fps. three.js pinned through importmap from jsDelivr. window.seek(t) computes every visual from t alone.\n</build>",
+    "primaryCategory": "3d-simulations",
+    "postedAt": "Oct 19, 2026",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "full_transcription",
+    "outputCompleteness": "complete_animation",
+    "license": "CC0",
+    "status": "collected",
+    "promptFile": "prompts/motion-aicss-mobile-app-three-phones.md",
+    "requiresReference": false,
+    "provenance": {
+      "platform": "aicssanimations.com",
+      "creatorDeclared": "AI CSS Animations (@SaaSgod)",
+      "modelDeclared": "Claude Opus 5.5 in Claude Code"
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 1194,
+      "outputUrlAccessible": true
+    }
+  },
+  {
+    "id": "aicss-brutalist-web-type",
+    "title": "Brutalist Web Type",
+    "author": "AI CSS Animations (@SaaSgod)",
+    "model": "Claude Opus 5.5 in Claude Code",
+    "sourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/brutalist-web-type",
+    "promptSourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/brutalist-web-type",
+    "collectionUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/brutalist-web-type",
+    "prompt": "Make a 10-second brutalist web-type piece: a raw HTML page that builds itself in hard cuts.\n\n<inputs>\nStudio: STATIC ROOM. Statements: \"NO EASING.\" / \"NO SHADOWS.\" / \"JUST HTML.\" Headline: \"WEBSITES\" / \"THAT LOAD.\"\n</inputs>\n\n<direction>\nPalette: white #FFFFFF, black #000000, link blue #0000EE, visited purple #551A8B, highlight yellow #FFFF00.\nType: browser defaults only. font-family: serif for body; font-family: monospace for statements at 200-240px.\nGrid: one 2px black border system, 120px left margin, everything flush left.\nMotion is hard cuts. Every change happens on a single frame: no tweens, fades, slides or transitions.\nBanned: easing of any kind, opacity fades, transitions, rounded corners, shadows, gradients, web fonts.\n</direction>\n\n<build>\nOne self-contained index.html, 1920x1080 stage, 60fps. No web fonts: the browser's own serif and monospace are the point.\n</build>",
+    "primaryCategory": "motion-studies",
+    "postedAt": "Oct 16, 2026",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "full_transcription",
+    "outputCompleteness": "complete_animation",
+    "license": "CC0",
+    "status": "collected",
+    "promptFile": "prompts/motion-aicss-brutalist-web-type.md",
+    "requiresReference": false,
+    "provenance": {
+      "platform": "aicssanimations.com",
+      "creatorDeclared": "AI CSS Animations (@SaaSgod)",
+      "modelDeclared": "Claude Opus 5.5 in Claude Code"
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 891,
+      "outputUrlAccessible": true
+    }
+  },
+  {
+    "id": "aicss-neo-brutalist-ui",
+    "title": "Neo-Brutalist UI",
+    "author": "AI CSS Animations (@SaaSgod)",
+    "model": "Claude Opus 5.5 in Claude Code",
+    "sourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/neo-brutalist-ui",
+    "promptSourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/neo-brutalist-ui",
+    "collectionUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/neo-brutalist-ui",
+    "prompt": "Make a 10-second neo-brutalist product page: a candy-colored landing page for a savings app stamps itself together with thick black borders and hard shadows.\n\n<inputs>\n- Product: Jarloo (fictional), a savings app.\n- Headline: \"Save like you mean it.\"\n- Jars: Holiday $640.00 of $1,200, Bike $310.00 of $450, Rainy day $1,180.00 of $2,000.\n- Stickers: NEW! . 0% FEES . * 4.9 . NO SPREADSHEETS\n</inputs>\n\n<direction>\n- Palette: page oat #F4EFE3 with dotted grid; ink #111111; tomato #FF5A36; butter #FFD84D; pistachio #B6E57A; periwinkle #8EA2FF.\n- 4px black borders, hard offset shadows 8px right and 8px down.\n- Type: Bricolage Grotesque 800 for display; Space Grotesk 500-700 for body; Space Mono 700 for labels.\n- Motion verbs: stamp (scale 1.08, 24px above), press (button into shadow), slap (stickers), run (marquees).\nBanned: gradients, blurred shadows, glass effects, corner radii over 16px, hairline borders, photos.\n</direction>\n\n<build>\nOne self-contained index.html, 1920x1080 stage, 60fps. HTML/CSS with inline SVG; no canvas and no libraries.\n</build>",
+    "primaryCategory": "product-brand",
+    "postedAt": "Oct 19, 2026",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "full_transcription",
+    "outputCompleteness": "complete_animation",
+    "license": "CC0",
+    "status": "collected",
+    "promptFile": "prompts/motion-aicss-neo-brutalist-ui.md",
+    "requiresReference": false,
+    "provenance": {
+      "platform": "aicssanimations.com",
+      "creatorDeclared": "AI CSS Animations (@SaaSgod)",
+      "modelDeclared": "Claude Opus 5.5 in Claude Code"
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 1063,
+      "outputUrlAccessible": true
+    }
+  },
+  {
+    "id": "aicss-isochrone-travel-map",
+    "title": "Isochrone Map",
+    "author": "AI CSS Animations (@SaaSgod)",
+    "model": "Claude Opus 5.5 in Claude Code",
+    "sourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/isochrone-travel-map",
+    "promptSourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/isochrone-travel-map",
+    "collectionUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/isochrone-travel-map",
+    "prompt": "Make a 10-second animated isochrone map: travel-time bands spread from one square across a fictional city, racing out along tram lines, squeezing through bridges and opening an island around a far rail station.\n\n<inputs>\n- City: Esterholt (fictional). Origin: Tolhurst Square.\n- Bands: every 5 minutes up to 30. Residents: 0-5 min 18,000; 5-10 31,000; 10-15 42,000; 15-20 47,000; 20-25 41,000; 25-30 35,000 (214,000 in all).\n</inputs>\n\n<direction>\n- Palette: land #ECEAE4, streets #FFFFFF, river #B8D1DB, rail #6F6B66. Accent coral #EE5A3C for tram lines.\n- Bands: dark to light teal: 0-5 #0D5C5D through to 25-30 #CDE7D9.\n- City generated from seeded PRNG: river, three bridges, old town grid rotated 8deg, newer grid -4deg.\n- Travel time: Dijkstra over 4px grid; bands follow real routes, not circles.\n- Drawing: basemap on 2D canvas; bands on WebGL2 canvas with mix-blend-mode: multiply; front line by marching squares.\nBanned: circles or buffer rings, rainbow ramps, glow, 3D tilt, teardrop pins, map libraries.\n</direction>\n\n<build>\nOne self-contained index.html, 1920x1080 stage, 60fps. Canvas: basemap and overlay on 2D canvases, bands on one WebGL2 canvas.\n</build>",
+    "primaryCategory": "explainers-data",
+    "postedAt": "Oct 18, 2026",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "full_transcription",
+    "outputCompleteness": "complete_animation",
+    "license": "CC0",
+    "status": "collected",
+    "promptFile": "prompts/motion-aicss-isochrone-travel-map.md",
+    "requiresReference": false,
+    "provenance": {
+      "platform": "aicssanimations.com",
+      "creatorDeclared": "AI CSS Animations (@SaaSgod)",
+      "modelDeclared": "Claude Opus 5.5 in Claude Code"
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 1173,
+      "outputUrlAccessible": true
+    }
+  },
+  {
+    "id": "aicss-dot-density-map",
+    "title": "Dot Density Map",
+    "author": "AI CSS Animations (@SaaSgod)",
+    "model": "Claude Opus 5.5 in Claude Code",
+    "sourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/dot-density-map",
+    "promptSourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/dot-density-map",
+    "collectionUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/dot-density-map",
+    "prompt": "Make a 10-second dot density map: 38,400 dots, one per person, spread evenly over a fictional island nation, then flow to where people really live, clustering into towns and a bright capital.\n\n<inputs>\n- Country: Skerra, an island nation (fictional).\n- Places: Holmvik (capital) 14,200; Saltby 6,300; Skarn 3,900; villages and farms 14,000.\n</inputs>\n\n<direction>\n- Palette, a night atlas: sea #0A0F1C, land #131B2B, coastline #3B4A66. Dots #FFE8C4 with additive blending.\n- Island: hand-authored outline roughened by seeded midpoint displacement.\n- Dots: 1.4px radius, 55% opacity with additive blending. Drawn in one WebGL points pass.\n- Flow: each dot moves from even start to home on curved path, easeInOutCubic over 1.4s.\nBanned: choropleth fills, heat-map gradients, glow or bloom halos, dots larger than 2px, real coastlines.\n</direction>\n\n<build>\nOne self-contained index.html, 1920x1080 stage, 60fps. Canvas: map and type on 2D canvases, dots in one WebGL canvas pass.\n</build>",
+    "primaryCategory": "explainers-data",
+    "postedAt": "Oct 18, 2026",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "full_transcription",
+    "outputCompleteness": "complete_animation",
+    "license": "CC0",
+    "status": "collected",
+    "promptFile": "prompts/motion-aicss-dot-density-map.md",
+    "requiresReference": false,
+    "provenance": {
+      "platform": "aicssanimations.com",
+      "creatorDeclared": "AI CSS Animations (@SaaSgod)",
+      "modelDeclared": "Claude Opus 5.5 in Claude Code"
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 986,
+      "outputUrlAccessible": true
+    }
+  },
+  {
+    "id": "aicss-particle-globe-hero",
+    "title": "Particle Globe Hero",
+    "author": "Meng To (@MengTo)",
+    "model": "Codex, Claude, Cursor",
+    "sourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/particle-globe-hero",
+    "promptSourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/particle-globe-hero",
+    "collectionUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/particle-globe-hero",
+    "prompt": "## Scope\n- Apply only to a globe-like 3D particle visualization.\n- Do not change full page layout, copy, or unrelated motion systems.\n- Use for planetary, orbital, infrastructure, or synthesized data-globe effects.\n- Keep the core neutral or white-hot and derive ring/glow accents from the design's primary color.\n\n## Visual Target\n- Dense spherical core of luminous points.\n- Thinner outer orbital ring or flattened disc around the sphere.\n- Clear globe silhouette with tilt, depth, and layered particle density.\n- Dark atmospheric background, restrained glow, clean structure, and subtle sci-fi depth.\n\n## Taste Rules\n- The silhouette must read as a globe, not a loose starfield.\n- The ring should feel orbital and tilted, not like a flat decorative underline.\n- Use restrained glow; let density and depth create the premium feel.\n- Keep mouse response gentle so the object drifts rather than swings.\n\n## Avoid\n- Generic starfield noise with no spherical structure.\n- Oversized particles or bloom that destroys the globe silhouette.\n- Wild cursor interaction or fast spinning.",
+    "primaryCategory": "3d-simulations",
+    "postedAt": "Feb 3, 2026",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "full_transcription",
+    "outputCompleteness": "complete_animation",
+    "license": "MIT",
+    "status": "collected",
+    "promptFile": "prompts/motion-aicss-particle-globe-hero.md",
+    "requiresReference": false,
+    "provenance": {
+      "platform": "aicssanimations.com",
+      "creatorDeclared": "Meng To (@MengTo)",
+      "modelDeclared": "Codex, Claude, Cursor"
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 1078,
+      "outputUrlAccessible": true
+    }
+  },
+  {
+    "id": "aicss-fantasy-map-drawing",
+    "title": "Fantasy Map",
+    "author": "AI CSS Animations (@SaaSgod)",
+    "model": "Claude Opus 5.5 in Claude Code",
+    "sourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/fantasy-map-drawing",
+    "promptSourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/fantasy-map-drawing",
+    "collectionUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/fantasy-map-drawing",
+    "prompt": "Make a 10-second hand-inked fantasy map that draws itself: coastlines, water lining, mountains, forests, rivers, roads, sea serpents, a compass rose with rhumb lines, lettering and a cartouche.\n\n<inputs>\n- Realm: the Saltmarch Isles (fictional).\n- Cartouche: \"A Chart of the Saltmarch Isles\" . \"drawn for the Wayfarers' Guild, in the year 412\"\n- Islands: Saltmarch, Greyholm and the Lantern Isles.\n- Features: the Thornfell Mountains, the Whisperwood, Hollowmere, the river Wend, Cape Wistful.\n</inputs>\n\n<direction>\n- Look: a chart drawn with a dip pen in iron-gall ink on pale oyster rag paper.\n- Palette: paper #EFEAE0; iron-gall ink #2B2420; Prussian blue #2C4F7C; verdigris #7FB0A2; ochre #D9BE84; vermilion #C2442E; gold ink #B88A36.\n- Pen line: every stroke is a filled shape with width profile 1.2-3.2px, swelling on downstrokes.\n- Water lining: four lines echoing every coast at 7, 16, 28 and 44px, extracted as iso-lines of a distance field.\n- Symbols: ~18 mountain peaks, ~120 tiny trees, two sea serpents, a two-masted ship, 16-point compass rose.\nBanned: parchment textures, real places, fire-breathing dragons, clip-art icons, drop shadows, glow, 3D terrain.\n</direction>\n\n<build>\nOne self-contained index.html, 1920x1080 stage, 60fps. Inline SVG for all line work; paper and washes are canvases rendered once at load under the SVG.\n</build>",
+    "primaryCategory": "explainers-data",
+    "postedAt": "Oct 19, 2026",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "full_transcription",
+    "outputCompleteness": "complete_animation",
+    "license": "CC0",
+    "status": "collected",
+    "promptFile": "prompts/motion-aicss-fantasy-map-drawing.md",
+    "requiresReference": false,
+    "provenance": {
+      "platform": "aicssanimations.com",
+      "creatorDeclared": "AI CSS Animations (@SaaSgod)",
+      "modelDeclared": "Claude Opus 5.5 in Claude Code"
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 1355,
+      "outputUrlAccessible": true
+    }
+  },
+  {
+    "id": "aicss-five-scroll-based-sections",
+    "title": "Five Scroll-Based Sections",
+    "author": "Ercan Keskin (@ercankeskinx)",
+    "model": "",
+    "sourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/five-scroll-based-sections",
+    "promptSourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/five-scroll-based-sections",
+    "collectionUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/five-scroll-based-sections",
+    "prompt": "Build 5 completely different scroll-based sections, decide the context & layout yourself.",
+    "primaryCategory": "interactive",
+    "postedAt": "2026",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "full_transcription",
+    "outputCompleteness": "complete_animation",
+    "license": "Community",
+    "status": "collected",
+    "promptFile": "prompts/motion-aicss-five-scroll-based-sections.md",
+    "requiresReference": false,
+    "provenance": {
+      "platform": "aicssanimations.com",
+      "creatorDeclared": "Ercan Keskin (@ercankeskinx)",
+      "modelDeclared": ""
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 89,
+      "outputUrlAccessible": true
+    }
+  },
+  {
+    "id": "aicss-hyperspace-jump",
+    "title": "Hyperspace Jump Animation Prompt for Claude | AI CSS Animations",
+    "author": "AI CSS Animations",
+    "model": "Claude Opus 5.5 in Claude Code",
+    "sourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/hyperspace-jump",
+    "promptSourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/hyperspace-jump",
+    "collectionUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/hyperspace-jump",
+    "prompt": "Make a 10-second hyperspace jump: a still starfield stretches into streaks, becomes a tunnel of light, then drops out above an alien planet.\n\n<inputs>\nIf I don't give you something, use the default and don't ask.\n- Planet: Orvane IV (fictional).\n- Title: \"Orvane IV\"\n- Subline: \"Arrival, 41 light-years out\"\n- Length: 10 seconds.\n</inputs>\n\n<direction>\n- Palette: space #02030A; stars #DCE8FF with a few #FFE2C4 and #A9C8FF; streak heads #FFFFFF fading to tails #4E9BFF; tunnel #1E3BFF, #6FD3FF and #8A5CFF; planet ocean #1C6A86, deep ocean #0F3A55, land ochre #C49856 and #8E6A3E, clouds #F2F4F2, atmosphere rim #7FD0FF, night-side city lights #FFC27A; title #EAF2FF, subline #8FA6C6.\n- Stars: 7,000 seeded stars in a hollow cylinder (radius 6–80 units, 600 units long) around the flight axis, drawn as LineSegments with a custom shader: each star is a segment from its position back along the axis by v(t) × 0.05 s of travel, so at rest it is a dot and at speed a streak, every streak converging on one vanishing point at frame center. Brightness follows size; far stars are dimmer. Distance travelled is the closed-form integral of v(t) and star z wraps modulo the cylinder length, so any frame is direct to compute.\n- Speed v(t): cruise 0.5 units/s; a brief pull-back before the jump (v dips to −0.3 for 0.3 s, the field drawing inward); exponential acceleration to 900 units/s over 1.4 s; hold; then a hard but eased drop to 0.4 units/s over 0.5 s (easeOutExpo). The jump and the drop-out are the only fast moments.\n- Tunnel: at full speed, a long open cylinder (radius 3, camera inside) with an additive ShaderMaterial of streaming fBm along its length and fine lengthwise filaments, colored through the three tunnel hues by angle and rolling 20° across the beat. It grows out of the streaks and collapses back into them, and never adds more than 70% to frame brightness.\n- Planet: not visible before the drop-out; after it, a sphere of radius 60 below and ahead whose limb arcs across the lower 55% of the frame, lit by a sun out of frame upper right. One ShaderMaterial computes it from 3D noise on the surface normal: oceans and ochre continents, a separate slowly turning cloud shell, a terminator across the left third with warm city lights on the night side, and a back-face atmosphere shell with a Fresnel rim in #7FD0FF. A small gray moon (radius 2.5, cratered by noise) hangs at upper left.\n- Post: EffectComposer with UnrealBloomPass (strength 0.55, radius 0.4, threshold 0.6) so only streak heads and the rim bloom, then OutputPass. ACESFilmic.\n- Camera: fov 60 at cruise, widening to 75 at full speed, settling to 50 on arrival; after the drop-out it pitches down 5° and drifts forward slowly.\n- Type (HTML over the canvas): title in Michroma 400, 64px, uppercase, tracked 0.32em, #EAF2FF, centered with its baseline at y 260 in the dark sky above the planet; subline Barlow 400, 24px, tracked 0.2em, #8FA6C6, beneath.\n- Safety is part of the brief: the drop-out is not a white flash. Average frame brightness never changes by more than 20% within any 0.33 s, and nothing flickers.\n- Premium: one vanishing point, streak length that truly follows speed, a planet that looks lit by a real sun. Cheap: a zoom-blur filter on a star photo, a white flash cut.\nBanned: white or full-frame flashes, camera shake, lens flares, spaceships, cockpits or HUDs, rainbow streaks, streaks that miss the vanishing point, anything flashing more than 3 times per second.\n</direction>\n\n<structure>\n- 0.0–1.4s: a still, deep starfield drifting toward the camera at cruise speed.\n- 1.4–1.7s: the pull-back: the field eases inward.\n- 1.7–3.1s: the jump: stars stretch into streaks that lengthen and turn blue-white, all racing out from the center.\n- 3.1–5.4s: the streaks merge into the tunnel, which streams and rolls; the field of view widens.\n- 5.4–5.9s: drop-out: the tunnel collapses and the streaks shrink back to points as the speed falls away.\n- 5.9–7.8s: the planet is revealed below with its limb and terminator, clouds turning slowly; the camera pitches down and drifts.\n- 7.8–8.6s: the title, then the subline, rise 12px as they fade in.\n- 8.6–10.0s: hold; only the clouds drift.\nFor other lengths, stretch the tunnel beat; keep the drop-out at 0.5 s and at least 1 s of hold.\n</structure>\n\n<build>\n- One self-contained index.html (inline CSS and JS), a 1920×1080 (16:9) stage scaled to fit the window, designed for 60fps. No image, video, texture or model files: every shape and texture is generated in code.\n- window.seek(t), t in seconds, computes every visual from t alone: no CSS transitions or CSS animations, no setTimeout/setInterval, no state carried between frames, randomness only from a seeded PRNG. Anything cumulative is solved analytically from t or precomputed once at load at a fixed step. Past the end, seek clamps to the last frame.\n- Without ?render in the URL, drive seek from requestAnimationFrame so it plays in a browser (loop after a 1s end hold); with ?render, don't start that loop.\n- Google Fonts via <link> are fine; await document.fonts.load() for each face before defining window.seek.\n- Engine: three.js as an ES module pinned to three@0.160.0 through an import map on jsDelivr (`three` and `three/addons/`). WebGLRenderer with antialias, preserveDrawingBuffer: true and setPixelRatio(window.devicePixelRatio); render once at the end of every seek. Text is HTML over the canvas.\n- Call composer.render() once per seek in place of renderer.render(). Star positions, tunnel flow and cloud rotation are closed-form functions of t.\n</build>\n\n<check>\nBefore showing me, step through one frame per second (t = 0…10): screenshot each and look at it. Fix overlaps, clipped or cramped text, and anything off-style or Banned. Check every streak frame shares one vanishing point, log the average luminance of each frame from 5.0 to 6.5 s to confirm there is no flash, the planet's lit side faces the off-screen sun, and the title sits over clear sky. Confirm seek(10) and seek(11) match, so the final frame holds.\n</check>",
+    "primaryCategory": "3d-simulations",
+    "postedAt": "2026-10-16",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "full_transcription",
+    "outputCompleteness": "complete_animation",
+    "license": "CC0",
+    "status": "collected",
+    "promptFile": "prompts/motion-aicss-hyperspace-jump.md",
+    "requiresReference": false,
+    "provenance": {
+      "platform": "aicssanimations.com",
+      "creatorDeclared": "AI CSS Animations",
+      "modelDeclared": "Claude Opus 5.5 in Claude Code"
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 6051,
+      "outputUrlAccessible": true
+    }
+  },
+  {
+    "id": "aicss-fireworks-finale",
+    "title": "Fireworks Finale Animation Prompt for Claude | AI CSS Animations",
+    "author": "AI CSS Animations",
+    "model": "Claude Opus 5.5 in Claude Code",
+    "sourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/fireworks-finale",
+    "promptSourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/fireworks-finale",
+    "collectionUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/fireworks-finale",
+    "prompt": "Make a 10-second fireworks finale over a harbor skyline: ballistic shells, named burst types, trails, drifting smoke and rippling reflections on the water.\n\n<inputs>\nIf I don't give you something, use the default and don't ask.\n- Event: Lowmere Harbour Midsummer Fireworks (fictional).\n- Title: \"Midsummer\"\n- Line: \"Lowmere Harbour · Saturday · 22:30\"\n- Length: 10 seconds.\n</inputs>\n\n<direction>\n- Palette: sky #0B1030 at the top to #1C1F45 at the horizon, with a faint warm city glow #3A2A48 just above the rooftops; skyline silhouette #080A16 with sparse warm windows #FFC879 (2 × 3px, on about 6% of facades); water #05070F. Star colors from real chemistry: strontium red #FF3A3A, barium green #74FF86, copper blue #5B82FF, sodium gold #FFC15A, charcoal willow #E7A24A, titanium white #FFF4E2, violet #C46BFF. Smoke #6E6A80, lit by the bursts' colors.\n- Skyline: a seeded silhouette between y 760 and 880 built from mixed blocks with a few landmarks: a clock tower, a stepped spire, a gasholder frame and a three-arch bridge running to the right edge. The waterline sits at y 880; the water fills 880–1080.\n- Physics, all closed-form so seek(t) needs no stored state: height measured upward, gravity g = 600 px/s², and linear drag k for everything: x(t) = x₀ + (v₀ₓ/k)(1 − e^(−kt)), h(t) = h₀ + ((v₀ᵧ + g/k)/k)(1 − e^(−kt)) − (g/k)t. Shells (k = 0.2) rise from three barges on the water in 1.1–1.4 s with a dim gold comet tail and burst at their apex. Stars use k = 2.6 for peonies, rings and chrysanthemums, 1.6 for palm comets and 4.2 for willows, which hang and slide down slowly; burst speeds of 450–750 px/s open a peony to about 220px radius. Burst velocities are 3D (a seeded sphere, or a tilted ring) projected to the screen, so bursts read as spheres with denser rims, not flat circles. Trails are polylines through the same star at t, t − 0.04 … t − 0.24 s, fading along their length and longer for willows.\n- Burst types: peony (bright stars that change color at 70% of their life), chrysanthemum (each star sheds a fine trail of sparks), willow (gold, long drooping trails, 3.5 s life), ring (a tilted 3D circle), palm (6–8 thick comets with branching tails). Every star burns out at its own seeded lifetime (±20%), so edges die raggedly.\n- Light and smoke: each burst lifts the sky with a soft radial glow (at most 10% added brightness, rising over 0.15 s and decaying over 0.9 s) and leaves a smoke puff that expands, drifts right at 14px/s and stays faintly lit in its burst's color while it burns. Building faces toward a burst pick up a 6% tint.\n- Reflection: render the sky layer to an offscreen canvas and draw it flipped onto the water, squashed to 85% height and sliced into 3px rows, each shifted sideways by sin(y·0.09 + t·1.6) × (2 + 6·depth) px, at 45% brightness with a dark blue tint toward the bottom.\n- Pacing and safety: never more than three burst moments in any one second (bursts at the same instant count once); from 6 s on, keep burst centers out of the upper-left area where the title will sit. Stars and glows use \"lighter\" compositing.\n- Type: title in Bodoni Moda 600 italic, 104px, #FFF1D6, baseline at (120, 190); line in Work Sans 500, 24px, uppercase, tracked 0.24em, #C9C2D9, beneath.\n- Premium: shells that really fly and slow in the air, stars that droop and burn out at different times, smoke that catches the light, rippling reflections. Cheap: circles of dots that grow at constant speed and vanish together.\nBanned: stamped sprite bursts, star shapes or sparkle emoji, strobing glitter or crackle, full-sky flashes, perfectly flat circles, straight-line motion, more than three burst moments in any second, anything flashing more than 3 times per second.\n</direction>\n\n<structure>\n- 0.0–1.0s: a calm harbor; windows glow, the water ripples, and the first shell climbs from the left barge.\n- 1.0–3.0s: the opening: a red peony (1.1 s), a white chrysanthemum (1.8 s), a green ring (2.5 s); their reflections bloom on the water and the first smoke appears.\n- 3.0–5.6s: the build: palms and peonies, one every 0.5 s, alternating barges and colors; smoke layers drift and glow.\n- 5.6–7.4s: the finale: five gold willows 0.4 s apart across the center and right, their trails drooping into a curtain over the skyline, with two white palms bursting at the same moments as the second and fourth willows.\n- 7.4–8.6s: the willow trails fall and burn out; the smoke glows faintly as it drifts; the title and line fade in over 0.9 s in the clear upper-left sky.\n- 8.6–10.0s: hold: only the smoke drifts and the water ripples.\nFor other lengths, add or remove build shells at the same spacing; keep the finale and at least 1 s of hold.\n</structure>\n\n<build>\n- One self-contained index.html (inline CSS and JS), a 1920×1080 (16:9) stage scaled to fit the window, designed for 60fps. No image, video, texture or model files: every shape and texture is generated in code.\n- window.seek(t), t in seconds, computes every visual from t alone: no CSS transitions or CSS animations, no setTimeout/setInterval, no state carried between frames, randomness only from a seeded PRNG. Anything cumulative is solved analytically from t or precomputed once at load at a fixed step. Past the end, seek clamps to the last frame.\n- Without ?render in the URL, drive seek from requestAnimationFrame so it plays in a browser (loop after a 1s end hold); with ?render, don't start that loop.\n- Google Fonts via <link> are fine; await document.fonts.load() for each face before defining window.seek.\n- Engine: Canvas 2D, repainting every frame from scratch, the backing store sized from CSS size × devicePixelRatio. Canvas won't fetch fonts itself, so the awaited loads matter.\n- Every shell, star, trail and smoke puff is a closed-form function of t and its seeded launch data, so nothing is stepped and any frame can be drawn directly.\n</build>\n\n<check>\nBefore showing me, step through one frame per second (t = 0…10): screenshot each and look at it. Fix overlaps, clipped or cramped text, and anything off-style or Banned. Count burst moments in every one-second window (three at most), check each trajectory curves under gravity and slows with drag, the title stays clear of trails and dense smoke, and each reflection sits under its burst. Confirm seek(10) and seek(11) match, so the final frame holds.\n</check>",
+    "primaryCategory": "3d-simulations",
+    "postedAt": "2026-10-16",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "full_transcription",
+    "outputCompleteness": "complete_animation",
+    "license": "CC0",
+    "status": "collected",
+    "promptFile": "prompts/motion-aicss-fireworks-finale.md",
+    "requiresReference": false,
+    "provenance": {
+      "platform": "aicssanimations.com",
+      "creatorDeclared": "AI CSS Animations",
+      "modelDeclared": "Claude Opus 5.5 in Claude Code"
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 6332,
+      "outputUrlAccessible": true
+    }
+  },
+  {
+    "id": "aicss-conversion-funnel",
+    "title": "Conversion Funnel Animation Prompt for Claude | AI CSS Animations",
+    "author": "AI CSS Animations",
+    "model": "Claude Opus 5.5 in Claude Code",
+    "sourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/conversion-funnel",
+    "promptSourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/conversion-funnel",
+    "collectionUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/conversion-funnel",
+    "prompt": "Make a 10-second conversion funnel explainer: a month of shop visits pours through five stages drawn to scale as particles, every dot counted, the leavers piling up to one side and the buyers settling into a grid.\n\n<inputs>\nIf I don't give you something, use the default and don't ask.\n- Shop: Selvedge & Spool, an online sewing shop (fictional).\n- Title: \"Where 48,000 visits went\"\n- Period: \"1–30 September\"\n- Stages and counts: Visited 48,000 · Viewed a product 19,200 (40%) · Added to cart 5,760 (30%) · Started checkout 2,880 (50%) · Ordered 2,016 (70%).\n- Callout: \"Biggest leak: 70% of product viewers left before the cart.\"\n- Result: \"2,016 orders · 4.2% of visits\"\n- Scale: 1 dot = 48 visits.\n- Length: 10 seconds.\n</inputs>\n\n<direction>\n- Look: a dark, calm analytics film: one violet family for the structure, warm white for people in motion, one mint accent for the people who bought. Flat bars, crisp dots, numbers you can check.\n- Palette: ground #170F26 with a soft #24173A lift behind the funnel; bars from #3A2A63 at the top through #45317A, #533A92 and #6243AB to #7350C7 at the bottom, each with a 2px #8E74E8 top edge; connectors in the same colors at 40%; dots #FFE7D1; leaving dots #8A7AA8 at 70%; ordered dots and the result mint #3DF0B4; text #F3EAFB, secondary #A99BC4.\n- Funnel to scale: five stage bars 110px tall and 22px apart, centered on x 960 from y 230. Each bar's width is its count × 0.02px: 960, 384, 115, 58 and 40px. Between bars, trapezoid connectors taper from one width to the next. Nothing is widened for looks: the narrow neck is the story.\n- Labels, left of each bar and right-aligned at x 440: the stage name in Urbanist 600, 24px; its count in Azeret Mono 500, 30px; and, from stage 2 on, the step rate and the visits that left before it, in Azeret Mono 400, 20px, secondary: \"40% · −28,800\", \"30% · −13,440\", \"50% · −2,880\", \"70% · −864\".\n- Dots, exactly accounted for: 1,000 dots enter (48,000 ÷ 48), 400 reach stage 2, 120 stage 3, 60 stage 4 and 42 order. Choose which dots leave at each stage once at load with a seeded shuffle, so the numbers are exact. Dots (6px) fall into the top bar across its width, drift down through each bar under gravity with drag (terminal speed about 380px/s) and are guided toward the center through each connector. Leavers drift to the right edge of their bar, turn grey-violet and slip out through it, arcing down into a heap at the lower right (x 1480–1800, y 860–960) that builds grain by grain into a mound. Survivors that clear the last bar turn mint and settle into a neat 7 × 6 grid (10px pitch) beneath it. Each counter shows the dots that have entered its stage × 48, so it stops exactly on the given number.\n- Type: kicker \"SELVEDGE & SPOOL · SHOP REPORT\" in Urbanist 700, 20px, tracked 0.14em, mint; title Urbanist 700, 60px, top-left at (120, 96); period in Urbanist 500, 26px, secondary, beneath; the result in Urbanist 700, 34px, mint, centered under the grid on baseline y 1000; \"1 dot = 48 visits\" in Azeret Mono 400, 20px, secondary, at the bottom-left (120, 1000); \"Left without ordering: 45,984\" in Azeret Mono 400, 20px, over the heap; the callout in Urbanist 600, 26px, at x 1480–1800 around y 400, on a 1px leader to the right edge of bar 2.\n- Motion: bars grow outward from the center line over 0.5s on cubic-bezier(0.22, 1, 0.36, 1), 0.1s apart; text rises 12px as it fades in over 0.4s on the same curve; counter digits roll over 0.15s. Nothing glows.\n- Premium: bars drawn to scale, every dot accounted for, rates that multiply out to the final count, and one accent reserved for buyers. Cheap: a glossy 3D cone with made-up percentages and a rainbow of stages.\nBanned: 3D cones, gradients inside bars, rainbow stage colors, glow or bloom, dollar signs, shopping-cart icons, emoji, percentages that don't multiply out, dots vanishing uncounted, dots passing through bar walls except where they leave, anything flashing more than 3 times per second.\n</direction>\n\n<structure>\n- 0.0–1.0s: the ground; the kicker, title and period rise in; the bars grow outward top to bottom and the labels set at zero.\n- 1.0–4.0s: dots pour into the top bar, spawning evenly across 3.0s, and fall through the stages; counters climb; leavers peel off to the right and arc into the heap.\n- 4.0–6.4s: the stream thins; the lower stages fill; mint dots settle into the grid one by one.\n- 6.4–7.2s: the last dots settle; the heap's total and the result rise in.\n- 7.2–8.2s: the callout and its leader draw in.\n- 8.2–8.8s: the scale note fades in at the bottom-left.\n- 8.8–10.0s: hold, nothing moving.\nFor other lengths, stretch the pour; keep at least 1s of hold.\n</structure>\n\n<build>\n- One self-contained index.html (inline CSS and JS), a 1920×1080 (16:9) stage scaled to fit the window, designed for 60fps. No image, video, texture or model files: every shape and texture is generated in code.\n- window.seek(t), t in seconds, computes every visual from t alone: no CSS transitions or CSS animations, no setTimeout/setInterval, no state carried between frames, randomness only from a seeded PRNG. Anything cumulative is solved analytically from t or precomputed once at load at a fixed step. Past the end, seek clamps to the last frame.\n- Without ?render in the URL, drive seek from requestAnimationFrame so it plays in a browser (loop after a 1s end hold); with ?render, don't start that loop.\n- Google Fonts via <link> are fine; await document.fonts.load() for each face before defining window.seek.\n- Engine: Canvas 2D, repainting every frame from scratch, the backing store sized from CSS size × devicePixelRatio. Canvas won't fetch fonts itself, so the awaited loads matter. No other libraries.\n- Simulate all 1,000 dots once at load at a fixed 1/120s step from a seeded PRNG into one Float32Array (bar walls, guidance through each connector, exits for leavers, precomputed resting slots in the heap and the grid); seek(t) only reads and interpolates it and never steps the simulation.\n- Counters are counts over that table at t, multiplied by 48.\n</build>\n\n<check>\nBefore showing me, step through one frame per second (t = 0…10): screenshot each and look at it. Fix overlaps, clipped or cramped text, and anything off-style or Banned. Check the counts end exactly on 48,000, 19,200, 5,760, 2,880 and 2,016, the grid holds 42 mint dots, the heap reads 45,984, every bar's width is its count × 0.02px, no dot crosses a bar wall except a leaver at its exit, and the labels never collide with dots in flight. Confirm seek(10) and seek(11) match, so the final frame holds.\n</check>",
+    "primaryCategory": "explainers-data",
+    "postedAt": "2026-10-18",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "full_transcription",
+    "outputCompleteness": "complete_animation",
+    "license": "CC0",
+    "status": "collected",
+    "promptFile": "prompts/motion-aicss-conversion-funnel.md",
+    "requiresReference": false,
+    "provenance": {
+      "platform": "aicssanimations.com",
+      "creatorDeclared": "AI CSS Animations",
+      "modelDeclared": "Claude Opus 5.5 in Claude Code"
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 6569,
+      "outputUrlAccessible": true
+    }
+  },
+  {
+    "id": "aicss-neural-network-explainer",
+    "title": "Neural Network Explainer Animation Prompt for Claude",
+    "author": "AI CSS Animations",
+    "model": "Claude Opus 5.5 in Claude Code",
+    "sourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/neural-network-explainer",
+    "promptSourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/neural-network-explainer",
+    "collectionUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/neural-network-explainer",
+    "prompt": "Make a 10-second 3D neural network explainer: a handwritten 7 rises out of a 28×28 pixel grid, activations flow forward through two hidden layers, and the output layer settles on 7.\n\n<inputs>\n- Digit: a handwritten 7, drawn in code.\n- Network: 784 inputs (28×28) → 16 → 16 → 10 outputs.\n- Output probabilities, summing to 100%: 0: 1%, 1: 3%, 2: 2%, 3: 1%, 4: 2%, 5: 0%, 6: 0%, 7: 88%, 8: 1%, 9: 2%.\n- Title: \"How a network reads a 7\". Layer labels: \"784 pixels\", \"16 neurons\", \"16 neurons\", \"10 digits\".\n- Caption: \"88% sure it's a 7.\"\n- Length: 10 seconds.\nIf I don't give you something, use the default and don't ask.\n</inputs>\n\n<direction>\nStudio: background #DCE3EA; a ShadowMaterial floor at 22% opacity just below the network so everything sits in space; a hemisphere light (sky #FFFFFF, ground #B8C2CC, intensity 0.9) and one directional key from the upper left casting soft shadows (PCFSoftShadowMap, 2048 map). Matte materials only: MeshStandardMaterial, roughness 0.7, metalness 0. Colors: idle nodes #C3CCD6; activation ramps from #FFD9A8 to #FF7A1A; ink pixels #23303D; paper pixels #F4F6F8; links #3A4654; the winning output #FF5A1F.\nThe digit: two strokes, a slightly rising top bar and a long diagonal with a small hook at its foot, with seeded wobble. Rasterize them at 280×280 with a 22px round pen, center by mass in a 20×20 box and average down to 28×28, giving the soft gray edges of the classic handwritten-digit datasets. Those 784 values are the input.\nGeometry, layers along x: the input is a 28×28 grid of square tiles (0.12 units, 0.015 gaps) standing in the y–z plane at x = −6; each tile is a box whose depth toward the network is 0.02 + 0.5 × intensity, colored from paper to ink by intensity, so the 7 stands out as a relief. Hidden layers are 4×4 grids of spheres (radius 0.18, spacing 0.75) at x = −1.5 and x = 2. The output is a column of 10 spheres (radius 0.22, spacing 0.62) at x = 5.5. Links are LineSegments with per-vertex color: from each lit pixel (intensity above 0.2) to all 16 first-layer nodes, then all 256 and all 160 between the later layers. Weights come from a seeded PRNG (normal, σ 0.5); a link rests at 6% + 10%·|w| opacity.\nActivations: hidden layers come from a real forward pass with those weights (ReLU, then scaled 0–1 per layer for display); the output layer shows the given probabilities exactly. A node fills along the ramp, with emissive 0.25 × activation, as its pulses arrive.\nPulses: at each layer step, the 120 strongest contributions (|w × activation|) each carry a bright dash, 0.25 units long and in the ramp color, along their link over 0.6s, start times staggered by up to 0.25s.\nCamera: a 32° PerspectiveCamera. It starts close on the input from the front left (position (−9.5, 1.2, 6.5), looking at (−6, 0, 0)), pulls back to a three-quarter view of the whole network ((−1, 3.2, 13) looking at (0.5, 0, 0)), and ends nearer the outputs ((3.5, 2.4, 10) looking at (3.5, 0, 0)). Moves take 1.4–2s on cubic-bezier(0.65, 0, 0.35, 1); total yaw stays under 40°.\nOverlay, HTML on top in \"Manrope\": title 700, 56px, #16202B, top-left at x 96, baseline y 120; layer labels 600, 24px, #45525F, projected under each layer and clamped inside 96px margins; digit labels 0–9 (700, 26px) left of each output sphere and probability bars right of it (up to 180px, #FF5A1F for 7, #9AA6B2 for the rest) with values at 22px in tabular figures, all projected from 3D every frame; caption 700, 40px, bottom-left at x 96, baseline y 1000.\nThe real thing is a calm, legible machine: a digit you can read in the relief, links thin enough to see through, pulses that follow real weights to a clear winner. The cheap version is a neon brain, random sparks and a camera that never stops spinning.\nBanned: brains, neon, bloom, particles off the links, sci-fi HUD details, camera spins over 40°, 3D text, probabilities that don't sum to 100%, emoji, anything flashing more than 3 times per second.\n</direction>\n\n<structure>\n0.0–1.4s: close on the input grid; a virtual pen writes the 7, and tiles rise to their relief as it passes (top bar, then the diagonal) over 0.15s each; the title fades up.\n1.4–2.6s: the camera pulls back to the three-quarter view; hidden and output nodes scale in layer by layer (0.25s each, 40ms apart); links fade to rest; layer labels fade in.\n2.6–4.0s: input to hidden layer 1: pulses leave the lit pixels and the first hidden layer fills.\n4.0–5.2s: hidden layer 1 to hidden layer 2.\n5.2–6.4s: hidden layer 2 to the outputs: output nodes fill to their probabilities; node 7 swells to 1.35× and turns #FF5A1F.\n6.4–7.8s: the camera glides toward the outputs; probability bars grow over 0.6s each on cubic-bezier(0.22, 1, 0.36, 1), 40ms apart, values counting up.\n7.8–8.6s: links fade to 2% except the strongest chain into 7 (its top contributor in hidden layer 2, that node's top contributor in hidden layer 1, and that node's 12 strongest pixel links); the caption fades up.\n8.6–10.0s: hold; the camera comes to rest by 9.0s and stays still.\nOther lengths: scale the three forward-pass beats evenly; keep the hold at least 1s.\n</structure>\n\n<build>\nOne self-contained index.html, CSS and JS inline. Google Fonts via <link> are fine; no other libraries. Real 3D is needed here: three.js as an ES module pinned to three@0.160.0 through an import map on jsDelivr (https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js, addons under https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/), a WebGLRenderer with preserveDrawingBuffer: true and setPixelRatio(window.devicePixelRatio), and exactly one renderer.render at the end of every seek. Text is HTML on top. Await document.fonts.load() for every face before defining window.seek. The stage is 1920×1080 (16:9), scaled to fit the window. Design for 60fps. window.seek(t), t in seconds, must compute every visual from t alone: no CSS transitions or animations, no setTimeout or setInterval, no state carried between frames, and randomness only from a seeded PRNG. The rasterized digit, the weights and the forward pass are computed once at load; pulses, fills and the camera are pure functions of t. Without ?render in the URL, drive seek from requestAnimationFrame so it plays in a browser (loop after a 1s end hold); with ?render, don't start that loop.\n</build>\n\n<check>\nBefore showing me, step through one frame per second: screenshot each and look at it. Fix overlaps, clipped or cramped text, accidental edge collisions, and anything off-style or Banned. Check that the 7 reads clearly in the relief, labels and bars never overlap spheres or each other at any camera position, the bars match the given probabilities, shadows are soft and present, and nothing moves in the final second. Confirm seek(duration) and seek(duration + 1) match, so the final frame holds.\n</check>",
+    "primaryCategory": "explainers-data",
+    "postedAt": "2026-10-16",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "full_transcription",
+    "outputCompleteness": "complete_animation",
+    "license": "CC0",
+    "status": "collected",
+    "promptFile": "prompts/motion-aicss-neural-network-explainer.md",
+    "requiresReference": false,
+    "provenance": {
+      "platform": "aicssanimations.com",
+      "creatorDeclared": "AI CSS Animations",
+      "modelDeclared": "Claude Opus 5.5 in Claude Code"
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 6812,
+      "outputUrlAccessible": true
+    }
+  },
+  {
+    "id": "aicss-volcano-cross-section",
+    "title": "Volcano Explainer Animation Prompt for Claude | AI CSS Animations",
+    "author": "AI CSS Animations",
+    "model": "Claude Opus 5.5 in Claude Code",
+    "sourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/volcano-cross-section",
+    "promptSourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/volcano-cross-section",
+    "collectionUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/volcano-cross-section",
+    "prompt": "Make a 10-second geology explainer: a stratovolcano in cutaway builds layer by layer, magma rises from its chamber, and the eruption column climbs, with every part labeled.\n\n<inputs>\nIf I don't give you something, use the default and don't ask.\n- Series: \"Fieldnotes on the Earth · 04\", from Brindle Learning (fictional).\n- Title: \"Inside a stratovolcano\"\n- Captions, in order: \"Each eruption adds a layer of lava and ash.\" · \"Magma collects in a chamber about 6 km down.\" · \"As it rises, falling pressure lets gas bubbles grow.\" · \"The gas tears the magma apart and drives the column up.\"\n- Labels: Layers of lava and ash · Magma chamber · Dike · Sill · Conduit · Crater · Eruption column · Ash cloud · Side vent · Lava flow.\n- Length: 10 seconds.\n</inputs>\n\n<direction>\n- Look: a geology textbook plate brought to life: a block diagram whose front face is cut through the volcano's axis, flat fills carrying the patterns of a geological section, and thin ink linework. It is not to scale, and it says so.\n- Palette: paper #F1ECE2; ink #2B2622; older rock #B9AE9C with a granite pattern of small crosses; bedded rock #CFC3AE with horizontal dashes; lava layers #7A5A4A with sparse vesicle dots; ash layers #CDBB95 stippled with dots; magma #E8532B to a hot core #FFB13B, crusted #9E3A22 at its edges (the only gradient); gas bubbles outlined in #FFE2A8; the block's top surface #C9C29A; the column lit #C7C0B6, mid #A39C93, shade #6F6862; lava flow #E8532B under a crust #3A2A24; label dots and kicker #C2412A; secondary text #6E655C.\n- Layout: the block's front face spans x 340–1460, y 520–900; its top face recedes 80px right and 50px up, and its right side face is a darker strip, so it reads as a solid block. The cone rises from the front face's top edge at y 520 to the crater rim at y 300, about 900px wide at its base, on the axis x = 900. The magma chamber is an ellipse 380 × 110px centered at (900, 820). Labels sit in columns at x 90–310 and x 1570–1830; captions at the bottom on baseline y 1000; the key at the bottom right.\n- Section, true to how a stratovolcano is built: 16 alternating layers (8 lava, 8 ash) that dip outward parallel to the slopes, each a little higher than the last, all cut by the central conduit (34px wide) running from the chamber to the crater floor. A dike branches diagonally off the conduit to a side vent with a small parasitic cone on the right flank; a second dike rises on the left and stops inside the layers; a sill spreads horizontally through the bedded rock on the left at y 700. Behind the cut, the back half of the cone shows a sliver of its outer slope with fine downhill hachures.\n- Magma: as it climbs the conduit, bubbles rise with it and grow (radius 2px at the chamber to 14px near the top, as the pressure falls); just below the crater they crowd into foam and break into angular fragments that feed the column.\n- Eruption column, in three parts: a dense, narrow gas-thrust jet at the vent; a convective column of cauliflower lobes that widen as they rise (each lobe born at the vent, slowing from 600 to 80px/s, its radius 20 + 0.42 × its height); and an umbrella cloud that spreads at y 100–220 and drifts right with the wind to x 1540, trailing fine streaks of falling ash on its right side. Each lobe takes three flat tones lit from the upper left. Draw every lobe once with a 3px ink stroke, then every lobe filled on top, so only the column's outer silhouette keeps an outline.\n- Lava flow: from the side vent down the right flank, its glowing front advancing at 30px/s under a darkening crust, coming to rest by 8.0 s.\n- Type: kicker in IBM Plex Mono 500, 20px, tracked 0.14em, #C2412A, at (120, 96); title IBM Plex Serif 600, 56px, ink, beneath; captions IBM Plex Sans 500, 28px, ink, one line each, crossfading with a 10px rise; labels IBM Plex Sans 500, 22px, ink, wrapping to two lines within 200px, each on a 1px ink leader ending in a 6px #C2412A dot on the exact part it names; the key in IBM Plex Sans 500, 20px: four 22px pattern swatches (Lava, Ash, Magma, Older rock) and \"Not to scale\".\n- Motion: calm and explanatory. Lava layers drape from the crater down both flanks over 0.11 s each; ash layers settle evenly from above (a 6px drop as they fade in). Magma fills on cubic-bezier(0.45, 0, 0.2, 1). Leaders draw over 0.25 s, then their text fades in over 0.3 s, rising 6px. Nothing bounces, and no more than four labels arrive in any one second.\n- Premium: real anatomy (layers that follow the slopes, dikes that cut across them, a sill between beds, bubbles that grow on the way up, a column with a jet, billows and an umbrella), leaders that land on exact parts, textbook patterns. Cheap: a brown triangle with a red stripe and orange circles flying out of the top.\nBanned: faces, smoke rings, lava bombs drawn as circles, volcanic lightning, drop shadows, gradients outside the magma, dark backgrounds, labels without leaders, labels overlapping each other or the column, anything flashing more than 3 times per second.\n</direction>\n\n<structure>\n- 0.0–0.8s: paper; the block's outline and its bedded and older rock draw on; the kicker and title rise in.\n- 0.8–2.6s: the cone builds: the 16 layers drape on bottom-up, lava and ash alternating, 0.11 s apart, the conduit left open; caption 1; the label \"Layers of lava and ash\".\n- 2.6–3.8s: the chamber fills with glowing magma, then the dikes and the sill fill from it; caption 2; labels \"Magma chamber\", \"Dike\" and \"Sill\".\n- 3.8–4.8s: magma rises up the conduit, bubbles swelling as they climb; caption 3; the label \"Conduit\".\n- 4.8–5.8s: the foam breaks apart at the crater and the column shoots up to full height, the umbrella starting to spread; caption 4.\n- 5.8–7.6s: the umbrella spreads right with ash falling from it; the side vent opens and the lava flow creeps down the right flank; labels \"Crater\", \"Eruption column\", \"Ash cloud\", \"Side vent\" and \"Lava flow\" arrive at 6.1, 6.4, 6.7, 7.0 and 7.3 s.\n- 7.6–8.6s: the key fades in; the lava flow comes to rest.\n- 8.6–10.0s: hold: only the column billows and ash keeps falling.\nFor other lengths, stretch each beat proportionally; keep at least 1 s of hold.\n</structure>\n\n<build>\n- One self-contained index.html (inline CSS and JS), a 1920×1080 (16:9) stage scaled to fit the window, designed for 60fps. No image, video, texture or model files: every shape and texture is generated in code.\n- window.seek(t), t in seconds, computes every visual from t alone: no CSS transitions or CSS animations, no setTimeout/setInterval, no state carried between frames, randomness only from a seeded PRNG. Anything cumulative is solved analytically from t or precomputed once at load at a fixed step. Past the end, seek clamps to the last frame.\n- Without ?render in the URL, drive seek from requestAnimationFrame so it plays in a browser (loop after a 1s end hold); with ?render, don't start that loop.\n- Google Fonts via <link> are fine; await document.fonts.load() for each face before defining window.seek.\n- Engine: inline SVG, setting attributes, paths and transforms from seek, with <pattern> fills for the rock patterns; no other libraries (no three.js: this style is flat).\n- Column lobes, bubbles and ash streaks are closed-form functions of t from their seeded birth times.\n</build>\n\n<check>\nBefore showing me, step through one frame per second (t = 0…10): screenshot each and look at it. Fix overlaps, clipped or cramped text, and anything off-style or Banned. Check every layer follows the slope and is cut by the conduit, bubbles grow as they rise, every leader dot sits on the part it names, no label overlaps another label, the column or a caption, the umbrella stays left of x 1540, and each caption fits on one line. Confirm seek(10) and seek(11) match, so the final frame holds.\n</check>",
+    "primaryCategory": "explainers-data",
+    "postedAt": "2026-10-18",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "full_transcription",
+    "outputCompleteness": "complete_animation",
+    "license": "CC0",
+    "status": "collected",
+    "promptFile": "prompts/motion-aicss-volcano-cross-section.md",
+    "requiresReference": false,
+    "provenance": {
+      "platform": "aicssanimations.com",
+      "creatorDeclared": "AI CSS Animations",
+      "modelDeclared": "Claude Opus 5.5 in Claude Code"
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 7786,
+      "outputUrlAccessible": true
+    }
+  },
+  {
+    "id": "aicss-radial-bar-chart",
+    "title": "Radial Bar Chart Animation Prompt for Claude | AI CSS Animations",
+    "author": "AI CSS Animations",
+    "model": "Claude Opus 5.5 in Claude Code",
+    "sourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/radial-bar-chart",
+    "promptSourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/radial-bar-chart",
+    "collectionUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/radial-bar-chart",
+    "prompt": "Make a 10-second radial bar chart: 24 bars grow outward from a ring, then re-rank themselves around the circle from largest to smallest, their labels following.\n\n<inputs>\nIf I don't give you something, use the default and don't ask.\n- City: Mossford (fictional).\n- Kicker: \"MOSSFORD CANOPY COUNT\"\n- Title: \"Street trees by district\"\n- Dek: \"Every tree on a public street, counted in spring 2026.\"\n- Districts and trees (24 districts, 49,000 trees): Oakfield 4,120 · Linden Rise 3,860 · Coppice Hill 3,540 · Fallowmead 3,310 · Bellamy Park 3,080 · Ashcombe 2,870 · Starling Row 2,690 · Millbrook 2,520 · Heron Common 2,360 · Thistle Fields 2,210 · Pennyfield 2,060 · Bracken Hill 1,930 · Orchard Gate 1,800 · Tolley 1,680 · Redmarsh 1,560 · Swan Lane 1,450 · Plover Heath 1,340 · Brookside 1,240 · Dovecote 1,140 · Ivy Court 1,040 · Ropewalk 940 · Ironworks 850 · Docklands 760 · Quarry End 650.\n- Callout: \"Oakfield has more than six times the street trees of Quarry End.\"\n- Source: \"Mossford Parks Department street tree survey, spring 2026.\"\n- Length: 10 seconds.\n</inputs>\n\n<direction>\n- Palette: pine ground #0F3A2E with a soft radial lift to #14463A behind the chart; scale rings #2C5C4B at 1px; bars cream #ECE3CB; the top three gold #F2C14E and the bottom three coral #E9906F once ranked; text cream #F1EAD6, secondary #A9C2B5.\n- Geometry: the chart is centered at (1200, 540). Bars are annular sectors 9.5° wide on a 13° pitch with 3px rounded outer corners, from the inner ring at r 100 to r = 100 + 200 × trees ÷ 4,200, so Oakfield reaches r 296 and Quarry End r 131. The 24 slots fill 312° and leave a 48° gap centered on 12 o'clock: slot k is centered 30.5° + 13°·k clockwise from 12 o'clock. Rank 1 takes slot 0, just clockwise of the gap, so the ranked bars spiral down clockwise.\n- Scale: circles at 1,000, 2,000, 3,000 and 4,000 trees, their values in \"Sora\" 400, 20px, secondary, stacked up the gap along the 12 o'clock radius.\n- Labels: two lines set along each bar's direction from r 312 outward: the district in Sora 600, 20px, cream, and the count in Sora 400, 20px, at 70%. On the right half they read outward; on the left half they're turned 180° so they still read left to right, right-aligned at r 312. No label may be upside down or touch a neighbour.\n- Center: \"49,000\" in \"Gloock\" 400, 40px, cream, over \"street trees\" in Sora 400, 20px, secondary, inside the inner ring.\n- Text column at x 120–600: the kicker in Sora 600, 20px, tracked 0.16em, gold, at y 140; the title in Gloock 400, 72px, cream, two lines; the dek in Sora 400, 26px, secondary; later the callout in Gloock 400, 34px, cream, with \"4,120 vs 650\" under it in Sora 600, 24px, gold; the source at y 990 in Sora 400, 20px, secondary.\n- Re-ranking: each bar travels around the ring along the circle to its ranked slot, keeping its length, the short way round but never through the gap, each move 0.9 s on cubic-bezier(0.65, 0, 0.35, 1), staggered 30ms by rank. Moving bars draw at 85% so crossings read. Labels ride with their bars; a label crossing 6 o'clock crossfades between its two orientations over 0.2 s.\n- Motion: bars grow outward from the inner ring over 0.6 s on easeOutCubic; each label slides 10px outward along its radius and fades in as its bar arrives; text rises 12px as it fades in over 0.5 s on cubic-bezier(0.22, 1, 0.36, 1); colors change over 0.4 s. Nothing bounces.\n- Premium: a ranked spiral that reads at a glance, one true length scale from the inner ring, labels that stay readable and follow their bars, a calm two-accent palette. Cheap: a rainbow donut, bars starting from the center point, labels upside down.\nBanned: bars drawn from the center point, values shown by area or color alone, gradients, 3D, glow, rainbow colors, upside-down labels, overlapping labels, a legend, more than two accent colors, anything flashing more than 3 times per second.\n</direction>\n\n<structure>\n- 0.0–0.8s: the pine ground; the scale rings draw clockwise from the gap, 60ms apart, and their values fade in.\n- 0.6–1.4s: the kicker, title and dek rise in, 0.15 s apart; the center total fades up.\n- 1.4–3.4s: the bars grow in alphabetical order, clockwise from slot 0, 60ms apart, each label arriving with its bar: an unsorted, jagged crown.\n- 3.4–3.8s: stillness.\n- 3.8–5.4s: the re-rank: every bar glides around the ring to its ranked slot, labels following, until the bars spiral down clockwise from Oakfield to Quarry End.\n- 5.4–5.9s: the top three turn gold and the bottom three coral.\n- 5.9–7.2s: the callout and its figures rise in under the dek; 1px cream leaders draw from the text to the ends of the Oakfield and Quarry End bars.\n- 7.2–8.0s: the source fades in.\n- 8.0–10.0s: hold, completely still.\nFor other lengths, stretch the re-rank; keep at least 1 s of hold.\n</structure>\n\n<build>\n- One self-contained index.html (inline CSS and JS), a 1920×1080 (16:9) stage scaled to fit the window, designed for 60fps. No image, video, texture or model files: every shape and texture is generated in code.\n- window.seek(t), t in seconds, computes every visual from t alone: no CSS transitions or CSS animations, no setTimeout/setInterval, no state carried between frames, randomness only from a seeded PRNG. Anything cumulative is solved analytically from t or precomputed once at load at a fixed step. Past the end, seek clamps to the last frame.\n- Without ?render in the URL, drive seek from requestAnimationFrame so it plays in a browser (loop after a 1s end hold); with ?render, don't start that loop.\n- Google Fonts via <link> are fine; await document.fonts.load() for each face before defining window.seek.\n- Engine: inline SVG, setting paths, transforms and opacity from seek. No chart libraries.\n- Each bar's angle during the re-rank is a closed-form function of t from its alphabetical slot to its ranked slot.\n</build>\n\n<check>\nBefore showing me, step through one frame per second (t = 0…10): screenshot each and look at it. Fix overlaps, clipped or cramped text, and anything off-style or Banned. Check every bar length matches r = 100 + 200 × trees ÷ 4,200, the ranked order runs clockwise from Oakfield to Quarry End, no label is upside down, overlapping or crossing another bar, the gap stays empty except for the scale values, and the 6 s frame shows the finished ranked ring. Confirm seek(10) and seek(11) match, so the final frame holds.\n</check>",
+    "primaryCategory": "explainers-data",
+    "postedAt": "2026-10-18",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "full_transcription",
+    "outputCompleteness": "complete_animation",
+    "license": "CC0",
+    "status": "collected",
+    "promptFile": "prompts/motion-aicss-radial-bar-chart.md",
+    "requiresReference": false,
+    "provenance": {
+      "platform": "aicssanimations.com",
+      "creatorDeclared": "AI CSS Animations",
+      "modelDeclared": "Claude Opus 5.5 in Claude Code"
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 6371,
+      "outputUrlAccessible": true
+    }
+  },
+  {
+    "id": "aicss-streamgraph",
+    "title": "Streamgraph Animation Prompt for Claude | AI CSS Animations",
+    "author": "AI CSS Animations",
+    "model": "Claude Opus 5.5 in Claude Code",
+    "sourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/streamgraph",
+    "promptSourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/streamgraph",
+    "collectionUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/streamgraph",
+    "prompt": "Make a 10-second streamgraph: seventy years of fictional music genres flow left to right as one organic stream, its layers swelling and shrinking as each genre rises and fades.\n\n<inputs>\nIf I don't give you something, use the default and don't ask.\n- Station: Silverbank Radio (fictional).\n- Title: \"Seventy years on the dial\"\n- Dek: \"Songs played each year on Silverbank Radio, by genre, in thousands.\"\n- Plays in thousands, every five years from 1955 to 2025:\n  Harbor Folk 6, 10, 14, 12, 8, 5, 4, 3, 3, 4, 5, 6, 7, 6, 5\n  Ember Soul 4, 7, 11, 15, 16, 12, 9, 7, 6, 6, 7, 8, 7, 6, 6\n  Flint Rock 0, 1, 4, 10, 18, 22, 20, 16, 14, 12, 9, 7, 6, 5, 5\n  Spinlight 0, 0, 0, 1, 6, 16, 12, 6, 4, 5, 8, 9, 7, 8, 9\n  Glasswave 0, 0, 0, 0, 1, 4, 14, 22, 14, 8, 6, 7, 9, 11, 10\n  Block Verse 0, 0, 0, 0, 0, 0, 2, 6, 14, 20, 24, 22, 20, 19, 18\n  Lamplight Pop 0, 0, 0, 0, 0, 0, 0, 1, 3, 6, 10, 14, 18, 22, 26\n  Pulse Garage 0, 0, 0, 0, 0, 0, 0, 0, 2, 6, 10, 13, 16, 20, 24\n  Totals: 10 in 1955, 61 in 1990, 103 in 2025.\n- Callouts: \"1990: Glasswave at its height, 22,000 plays\" and \"2025: Lamplight Pop leads with 26,000\"\n- Length: 10 seconds.\n</inputs>\n\n<direction>\n- Palette: near-black ground #110E16 with a faint #1A1522 lift behind the stream. Genres, flat: Harbor Folk amber #E8B04E, Ember Soul rose #D9567A, Flint Rock vermilion #E8643A, Spinlight gold #F3D361, Glasswave violet #8D71E8, Block Verse teal #2DB6A3, Lamplight Pop lime #B7D65C, Pulse Garage cobalt #4079EC. Text #F4EEE8, secondary #A79DB0, decade lines #2A2433.\n- Curves: interpolate each genre yearly with a monotone cubic (Fritsch–Carlson), so no layer dips below zero and genres taper to sharp points where they begin; sample every quarter year.\n- Stacking, bottom to top (an inside-out order by first appearance): Lamplight Pop, Glasswave, Flint Rock, Harbor Folk, Ember Soul, Spinlight, Block Verse, Pulse Garage.\n- Baseline: minimize wiggle. With layers f₁…fₙ bottom to top, step the baseline g from 1955 by Δg = −Σᵢ fᵢ·(Σₖ<ᵢ Δfₖ + Δfᵢ/2) ÷ Σᵢ fᵢ at each sample, then shift the whole stream so its midline averages y 600. If it would leave y 250–950, blend it 30% toward a symmetric baseline. Scale: 6.2px per thousand plays, so the 2025 stream is about 640px thick.\n- Layers are flat fills separated by a 1.5px seam in the ground color, so the stream reads as ribbons.\n- Plot: x 140 (1955) to x 1780 (2025). Decade lines at 1960 … 2020 from y 250 to 950, 1px, behind the stream; years in \"Overpass Mono\" 400, 20px, secondary, centered under them at y 1000.\n- Labels: each genre's name sits inside its own layer where it fits best, preferring the thickest stretch: in \"Syne\" 700, sized min(34px, half the layer's local thickness), hidden below 20px, with at least 8px of layer around its box along its whole width and never past the plot's ends. Dark #110E16 on amber, gold, lime and teal; #FFF6EE on the others.\n- Type: title in Syne 800, 72px, top-left at (120, 100); dek in Syne 500, 26px, secondary, beneath. Callouts in Syne 600, 24px, in clear ground above or below the stream on 1px #F4EEE8 leaders ending in a 5px dot at the layer's edge. A total at the right end above the stream, right-aligned at x 1780: \"103,000 songs in 2025\" in Overpass Mono 400, 22px.\n- Reveal: a vertical year cursor sweeps from 1955 to 2025, the stream complete up to it and clipped hard at it; the cursor is a 1px #F4EEE8 line at 60% from y 250 to 950 with the current year above it in Overpass Mono 500, 24px. Each label fades in over 0.4 s once the cursor has passed its whole box.\n- Motion is liquid and unhurried: the cursor moves on easeInOutSine; text rises 12px as it fades in over 0.5 s on cubic-bezier(0.22, 1, 0.36, 1); nothing bounces or snaps.\n- Premium: one organic stream around a moving center, layers that taper to points, labels living inside their own bands, a few flat jewel colors on black. Cheap: a stacked area chart on a flat axis with a legend box, gradient fills and neon glow.\nBanned: a flat zero baseline, a legend, gradients or glow in the layers, 3D, outlines in contrasting colors, kinked or negative layers, labels outside their layers, anything flashing more than 3 times per second.\n</direction>\n\n<structure>\n- 0.0–1.0s: the dark ground; the decade lines draw down from the top, 60ms apart; year labels fade in; the title and dek rise in.\n- 1.0–6.0s: the cursor sweeps 1955 → 2025 and the stream unrolls behind it: folk and soul first as a thin warm ribbon, rock swelling through the 1970s, Spinlight's bulge around 1980, Glasswave's violet surge around 1990, then Block Verse, Lamplight Pop and Pulse Garage widening the stream to the right; labels appear as the cursor clears them.\n- 6.0–6.6s: the cursor and its year fade out; the last labels settle.\n- 6.6–8.0s: the two callouts draw in turn, leader first, text rising after; the total sets at the right end.\n- 8.0–10.0s: hold, completely still.\nFor other lengths, stretch the sweep; keep at least 1 s of hold.\n</structure>\n\n<build>\n- One self-contained index.html (inline CSS and JS), a 1920×1080 (16:9) stage scaled to fit the window, designed for 60fps. No image, video, texture or model files: every shape and texture is generated in code.\n- window.seek(t), t in seconds, computes every visual from t alone: no CSS transitions or CSS animations, no setTimeout/setInterval, no state carried between frames, randomness only from a seeded PRNG. Anything cumulative is solved analytically from t or precomputed once at load at a fixed step. Past the end, seek clamps to the last frame.\n- Without ?render in the URL, drive seek from requestAnimationFrame so it plays in a browser (loop after a 1s end hold); with ?render, don't start that loop.\n- Google Fonts via <link> are fine; await document.fonts.load() for each face before defining window.seek.\n- Engine: inline SVG: one path per layer computed once at load, revealed by a clip rectangle whose width is set from t. No chart libraries.\n- The interpolated series, baseline and label positions are computed once at load; seek(t) only moves the cursor, the clip and the opacities.\n</build>\n\n<check>\nBefore showing me, step through one frame per second (t = 0…10): screenshot each and look at it. Fix overlaps, clipped or cramped text, and anything off-style or Banned. Check every layer tapers smoothly with no kinks or dips below its neighbour, the stream stays between y 250 and 950, every label sits fully inside its own layer, the 2025 column adds up to 103 (about 640px thick), and the 6 s frame shows the whole stream from 1955 to 2025. Confirm seek(10) and seek(11) match, so the final frame holds.\n</check>",
+    "primaryCategory": "explainers-data",
+    "postedAt": "2026-10-18",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "full_transcription",
+    "outputCompleteness": "complete_animation",
+    "license": "CC0",
+    "status": "collected",
+    "promptFile": "prompts/motion-aicss-streamgraph.md",
+    "requiresReference": false,
+    "provenance": {
+      "platform": "aicssanimations.com",
+      "creatorDeclared": "AI CSS Animations",
+      "modelDeclared": "Claude Opus 5.5 in Claude Code"
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 6603,
+      "outputUrlAccessible": true
+    }
+  },
+  {
+    "id": "aicss-snow-globe",
+    "title": "Snow Globe Animation Prompt for Claude | AI CSS Animations",
+    "author": "AI CSS Animations",
+    "model": "Claude Opus 5.5 in Claude Code",
+    "sourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/snow-globe",
+    "promptSourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/snow-globe",
+    "collectionUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/snow-globe",
+    "prompt": "Make a 10-second tabletop film of a glass snow globe with a tiny village inside: it rocks, the snow swirls up in a vortex, then drifts down and settles on the roofs.\n\n<inputs>\nIf I don't give you something, use the default and don't ask.\n- Title: \"Holmcrest\"\n- Line: \"Winter Market · 6–22 December\" (fictional)\n- Plaque on the base: HOLMCREST\n- Village: five houses, a chapel with a clock steeple, seven fir trees, a lamp post, and a frozen pond with a footbridge.\n- Length: 10 seconds.\n</inputs>\n\n<direction>\n- Look: a product shot at blue hour: cool daylight from a big window on the left, a warm lamp from the right, the globe on a pale oak table, the background soft and out of focus.\n- Palette: backdrop #3A4E6E at the top to #6E819C behind the globe; oak #C8A27A with grain; walnut base #4A2F22, satin; brass plaque #C9A45C; water tint #EAF4FF; snow #FFFFFF with blue shadows #C5D3E3; plaster walls cream #EFE3CC, brick red #A8473A and sage #8FA58A; slate roofs #4C5664 under snow #F4F6F8; timber #5B3B2A; lit windows #FFC870; firs #2F5A45; pond ice #B8CFE0; title #F2F4F8, line #C4CEDC.\n- The globe: a sphere of radius 1.0 set in a collar on a turned walnut base (LatheGeometry: foot radius 1.05, a cove, a bead and a fillet, 0.55 tall), with the brass plaque engraved HOLMCREST on its front. Model the glass and water as one transmissive sphere (MeshPhysicalMaterial: transmission 1, ior 1.2, thickness 1.0, roughness 0.02, attenuation #EAF4FF at distance 6), so the village shows clearly, slightly magnified, and the table edge behind bends through it. Over it, a shell at radius 1.004 carries the reflections: transparent, roughness 0, a strong clearcoat and Fresnel, showing the window as a crisp rounded rectangle at upper left and a warm highlight on the right edge.\n- The village on a snow mound (a dome of radius 0.75 filling the lower half): five houses (box bodies with rounded edges, pitched roofs with overhanging eaves, chimneys, doors, and two to four lit windows each with mullions), a chapel with a steeple and a clock face, seven firs (stacked cones with snow loads on each tier), a lamp post with a small warm PointLight, and a frozen pond with a little arched footbridge. Houses stand 0.12–0.18 tall. Window light falls warm on the snow around them.\n- Light: build an environment once with PMREMGenerator.fromScene from a small room: a big cool window panel (#DCE8FF, intensity 4) on the left, a warm lamp panel (#FFC88A) on the right, a dim floor. Key: a cool DirectionalLight from the upper left (intensity 2.2, soft shadows, PCFSoftShadowMap, 2048 map) for the base's soft contact shadow; a warm SpotLight low from the right; HemisphereLight fill at 0.6. ACESFilmic, exposure 1.1. A soft, bright spot of focused light lies on the table on the far side of the globe from the key, as a water-filled sphere throws (an additive elliptical decal at 25%). Everything is clearly lit from the first frame.\n- Snow: 3,000 flakes (flat and irregular, 0.006–0.014 across) as an InstancedMesh, white with a little emissive so they never go grey, each tumbling at 0.3–1.2 turns a second so it catches the light. Simulate once at load at a fixed 1/120 s step from t = −2 s: each flake's velocity relaxes toward the water's velocity with a 0.15 s time constant while it sinks at 0.05 units/s; after the rocking, the water swirls about the vertical axis (6 rad/s, decaying as e^(−t ÷ 1.6 s)) and rolls up the middle and down the walls, which decays faster; flakes stay inside radius 0.97, and any flake that touches the mound, a roof or a fir (simple dome, box and cone tests) stops and stays. At the start most flakes rest on the mound and roofs.\n- The rocking: the globe tips and rocks on its base three times at 2.2 Hz (tilt ±9°, slide ±0.12), as if nudged by an off-screen hand; the water lags behind the glass, lifting the settled snow into the swirl.\n- Camera: fov 30, a three-quarter view 12° above, the globe centered at (1180, 520) and about 640px across, orbiting 10° and pushing in 4% across the piece on easeInOutSine.\n- Type (HTML over the canvas): title in Gilda Display 400, 96px, #F2F4F8, baseline at (120, 500) on the backdrop left of the globe; line in Nunito Sans 600, 24px, uppercase, tracked 0.14em, #C4CEDC, beneath. Each rises 12px as it fades in over 1.0 s on cubic-bezier(0.22, 1, 0.36, 1).\n- Premium: glass you believe (a window reflection, a bright rim, the table bending behind it, a focused spot of light), a village with eaves, chimneys and lit mullioned windows, flakes that tumble and glint and settle as the swirl dies. Cheap: a grey see-through ball over a flat house icon, with white dots falling straight down.\nBanned: rainbow glitter, hands or people, holiday characters, text inside the globe, snow outside the globe, flakes passing through roofs, glass with no reflections, bloom halos, rocking more than 3 times per second, anything flashing more than 3 times per second.\n</direction>\n\n<structure>\n- 0.0–1.2s: the globe at rest, snow lying on the mound and roofs, windows lit; the camera begins its orbit.\n- 1.2–2.6s: the globe rocks three times on its base; the snow lifts off and the water starts to swirl.\n- 2.6–3.8s: a blizzard under glass: flakes whirl around the steeple, glinting as they tumble.\n- 3.8–5.2s: the swirl slows; the title and line rise in.\n- 5.2–7.6s: the flakes drift down through the lamplight and settle on roofs, firs and the mound.\n- 7.6–8.8s: the last of the swirl dies; the camera eases to rest.\n- 8.8–10.0s: hold: a few late flakes still drifting down.\nFor other lengths, stretch the settling; keep the rocking at 2.2 Hz and at least 1 s of hold.\n</structure>\n\n<build>\n- One self-contained index.html (inline CSS and JS), a 1920×1080 (16:9) stage scaled to fit the window, designed for 60fps. No image, video, texture or model files: every shape and texture is generated in code.\n- window.seek(t), t in seconds, computes every visual from t alone: no CSS transitions or CSS animations, no setTimeout/setInterval, no state carried between frames, randomness only from a seeded PRNG. Anything cumulative is solved analytically from t or precomputed once at load at a fixed step. Past the end, seek clamps to the last frame.\n- Without ?render in the URL, drive seek from requestAnimationFrame so it plays in a browser (loop after a 1s end hold); with ?render, don't start that loop.\n- Google Fonts via <link> are fine; await document.fonts.load() for each face before defining window.seek.\n- Engine: three.js as an ES module pinned to three@0.160.0 through an import map on jsDelivr (`three` and `three/addons/`). WebGLRenderer with antialias, preserveDrawingBuffer: true and setPixelRatio(window.devicePixelRatio); render once at the end of every seek. Text is HTML over the canvas.\n- The transmissive sphere uses three.js's built-in transmission pass, which already includes the village and flakes behind the glass. Flake states are read from the precomputed arrays; the rocking, orbit and swirl are closed-form functions of t.\n</build>\n\n<check>\nBefore showing me, step through one frame per second (t = 0…10): screenshot each and look at it. Fix overlaps, clipped or cramped text, and anything off-style or Banned. Check the glass shows the window reflection, a bright rim and the table bending behind it in every frame, the village is clearly visible through the glass, no flake leaves the sphere or sinks into a roof, the rocking stays at 2.2 Hz, and the title sits clear of the globe. Confirm seek(10) and seek(11) match, so the final frame holds.\n</check>",
+    "primaryCategory": "3d-simulations",
+    "postedAt": "2026-10-18",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "full_transcription",
+    "outputCompleteness": "complete_animation",
+    "license": "CC0",
+    "status": "collected",
+    "promptFile": "prompts/motion-aicss-snow-globe.md",
+    "requiresReference": false,
+    "provenance": {
+      "platform": "aicssanimations.com",
+      "creatorDeclared": "AI CSS Animations",
+      "modelDeclared": "Claude Opus 5.5 in Claude Code"
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 7539,
+      "outputUrlAccessible": true
+    }
+  },
+  {
+    "id": "aicss-spiral-galaxy",
+    "title": "Spiral Galaxy Animation Prompt for Claude | AI CSS Animations",
+    "author": "AI CSS Animations",
+    "model": "Claude Opus 5.5 in Claude Code",
+    "sourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/spiral-galaxy",
+    "promptSourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/spiral-galaxy",
+    "collectionUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/spiral-galaxy",
+    "prompt": "Make a 10-second film of a spiral galaxy taking shape: a turning disk of stars gathers into two dusty arms around a bright core while the camera rises to look down on it.\n\n<inputs>\nIf I don't give you something, use the default and don't ask.\n- Galaxy: the Vesper Wheel (fictional).\n- Title: \"The Vesper Wheel\"\n- Line: \"Two arms · 210 billion stars · 104,000 light-years across\"\n- Clock: +0 to +240 million years.\n- Length: 10 seconds.\n</inputs>\n\n<direction>\n- Palette: space #04040A with a faint violet haze #120C22 behind the disk; core #FFF1D6 into #FFC977; bulge and old disk stars #FFD9A6 and #F5C08A; young arm stars #A9C6FF and #D8E5FF; star-forming knots #FF6EA3 with #FF9BC0 halos; dust #2B160C; title #EEE8FF, secondary #A49CC0.\n- Arms from orbits (kinematic density waves): every disk star moves on its own ellipse around the center. With disk radius R = 10 units and semi-major axis a: eccentricity e(a) rises from 0 in the core to 0.32 at 0.45R and eases to 0.18 at the rim; the ellipse is turned by φ(a) = φp + κ·a/R with κ = 3.1 rad; the star's angle along it is θ = θ0 + Ω(a)·T with Ω(a) = Ω0/(a + 0.8), so inner stars orbit faster; position x = a·cos θ·cos φ − b·sin θ·sin φ, y = a·cos θ·sin φ + b·sin θ·cos φ, with b = a·√(1 − e²). Where neighboring ellipses crowd, density rises into two arms on its own; pick the sign of κ so they trail, their outer ends curving back against the rotation. The pattern turns slowly as a whole (φp at a fixed pattern speed) while stars stream through it.\n- Forming: e and κ ramp from 0 (a plain turning disk with no arms) to full on easeInOutSine over 1.0–5.0 s while the disk's thickness falls from 0.35R to 0.05R, so the arms condense out of an even glow.\n- Populations (seeded, about 170,000 points):\n  - 110,000 disk stars, a drawn from an exponential profile (scale length 0.3R), 1–2.4px, warm in the inner disk and neutral toward the rim;\n  - 22,000 young blue stars, 160 pink knots of 20–40 points each with one soft halo sprite, and 26,000 dust points, all placed along the arms in the pattern's own frame and turning with it. Find the arm crests once at load from a polar density histogram of the disk stars at full ramp (the two density peaks at each radius), then put blue stars on the crests, knots strung just outside them, and dust in thin filaments on their inner (concave) edges, offset about 0.03R toward the center; they fade in with the arms over 1.6–5.0 s;\n  - 18,000 bulge stars in an oblate ellipsoid (0.12R) plus a core sprite (a radial falloff, 160px across at the final framing);\n  - in front of everything, 900 sharp field stars across the frame (1–2.5px, slight color variety) and six tiny distant galaxies (soft elliptical smudges 6–14px).\n- Rendering: Points with a ShaderMaterial: round Gaussian sprites, size attenuation, AdditiveBlending, depthWrite false; dust drawn afterwards with NormalBlending at 22–40% opacity and 3–7px, so lanes darken the light behind them. EffectComposer with UnrealBloomPass (strength 0.5, radius 0.5, threshold 0.7) so only the core and knots glow, then OutputPass; ACESFilmic. Set exposure so the disk is bright from the first frame: from 1 s on the galaxy spans at least 60% of the frame width and the arms read clearly against space.\n- Time: T(t) is galactic time, the closed-form integral of a rate that runs steady and eases to a quarter over the last 1.4 s; it drives every angle, and the clock shows it, reaching +240 Myr at 10 s. Choose Ω0 so stars at 0.3R complete about 0.8 of an orbit across the piece and stars at the rim about 0.25; the pattern turns about 23°.\n- Camera: fov 40; it starts 14° above the disk plane and close, the disk a bright lens with the bulge standing above it, and rises to 52° above the plane over 1.0–7.6 s on easeInOutSine while yawing 30° and pulling back, ending with the galaxy centered at (1160, 560) and spanning about 65% of the frame width.\n- Type (HTML over the canvas): title in Instrument Serif 400, 88px, #EEE8FF, at (120, 150); line in Azeret Mono 400, 22px, tracked 0.06em, #A49CC0, beneath; the clock \"+0 Myr\" → \"+240 Myr\" in Azeret Mono 400, 24px, tabular, at the bottom left (120, 980); three labels in Azeret Mono 400, 20px, on 1px #A49CC0 hairline leaders ending in 4px dots on real features: \"core\", \"dust lane\", \"star-forming knot\", each anchor projected from 3D every seek.\n- Easing: camera and ramps on easeInOutSine; text rises 12px as it fades in over 0.6 s on cubic-bezier(0.22, 1, 0.36, 1).\n- Premium: arms that come from orbits (stars streaming through a slowly turning pattern), dust that blocks light, a warm core and blue arms, a camera that rises calmly. Cheap: a 2D spiral of dots spinning like a pinwheel, uniform white stars, a lens-flare core.\nBanned: the whole disk rotating rigidly at one speed, lens flares, rainbow colors, spaceships or planets, twinkling faster than 1 Hz, dim or near-black frames, hard-edged sprites, anything flashing more than 3 times per second.\n</direction>\n\n<structure>\n- 0.0–1.0s: a broad, puffy disk of warm stars turns slowly, seen from low above its plane; the core glows; the field stars are still.\n- 1.0–3.4s: the disk flattens; as the ellipses stretch and twist, two arms gather out of the glow and dust begins to thread along their inner edges.\n- 3.4–6.0s: the camera rises and yaws; the arms sharpen; blue stars and pink knots light along them; inner stars visibly overtake outer ones; the title and line rise in at 4.4 s.\n- 6.0–7.6s: the camera settles at 52°; the clock passes +200 Myr.\n- 7.6–8.6s: the three labels attach, 0.2 s apart.\n- 8.6–10.0s: hold; the rotation slows to a quarter and the clock stops at +240 Myr.\nFor other lengths, stretch the forming beat; keep at least 1 s of hold.\n</structure>\n\n<build>\n- One self-contained index.html (inline CSS and JS), a 1920×1080 (16:9) stage scaled to fit the window, designed for 60fps. No image, video, texture or model files: every shape and texture is generated in code.\n- window.seek(t), t in seconds, computes every visual from t alone: no CSS transitions or CSS animations, no setTimeout/setInterval, no state carried between frames, randomness only from a seeded PRNG. Anything cumulative is solved analytically from t or precomputed once at load at a fixed step. Past the end, seek clamps to the last frame.\n- Without ?render in the URL, drive seek from requestAnimationFrame so it plays in a browser (loop after a 1s end hold); with ?render, don't start that loop.\n- Google Fonts via <link> are fine; await document.fonts.load() for each face before defining window.seek.\n- Engine: three.js as an ES module pinned to three@0.160.0 through an import map on jsDelivr (`three` and `three/addons/`). WebGLRenderer with antialias, preserveDrawingBuffer: true and setPixelRatio(window.devicePixelRatio); render once at the end of every seek. Text is HTML over the canvas.\n- Star positions are computed in the vertex shader from per-star attributes (a, θ0, population, height, color) and uniforms (T, the forming ramp, the pattern angle), so each seek only sets uniforms; call composer.render() once per seek in place of renderer.render().\n</build>\n\n<check>\nBefore showing me, step through one frame per second (t = 0…10): screenshot each and look at it. Fix overlaps, clipped or cramped text, and anything off-style or Banned. Check two arms read clearly from 3.4 s on, dust lanes sit on the arms' inner edges and darken what is behind them, inner stars move faster than outer ones while the pattern turns slowly, the galaxy is bright and large from the first second, each label points at its feature, and the title sits over dark sky clear of the disk. Confirm seek(10) and seek(11) match, so the final frame holds.\n</check>",
+    "primaryCategory": "3d-simulations",
+    "postedAt": "2026-10-18",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "full_transcription",
+    "outputCompleteness": "complete_animation",
+    "license": "CC0",
+    "status": "collected",
+    "promptFile": "prompts/motion-aicss-spiral-galaxy.md",
+    "requiresReference": false,
+    "provenance": {
+      "platform": "aicssanimations.com",
+      "creatorDeclared": "AI CSS Animations",
+      "modelDeclared": "Claude Opus 5.5 in Claude Code"
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 7705,
+      "outputUrlAccessible": true
+    }
+  },
+  {
+    "id": "aicss-black-hole-lensing",
+    "title": "Black Hole Animation Prompt for Claude | AI CSS Animations",
+    "author": "AI CSS Animations",
+    "model": "Claude Opus 5.5 in Claude Code",
+    "sourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/black-hole-lensing",
+    "promptSourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/black-hole-lensing",
+    "collectionUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/black-hole-lensing",
+    "prompt": "Make a 10-second ray-traced film of a black hole: a glowing accretion disk bent by gravitational lensing, with its photon ring, a Doppler-bright approaching side and lensed stars, as the camera orbits slowly.\n\n<inputs>\nIf I don't give you something, use the default and don't ask.\n- Object: Tessaly X-7 (fictional), a non-rotating black hole of 9 million solar masses.\n- Title: \"Light, bent\"\n- Line: \"Every pixel is a ray of light traced through curved space.\"\n- Labels: \"Shadow\" · \"Photon ring\" · \"Far side of the disk, lensed over the top\" · \"Approaching side: Doppler-bright\" · \"Receding side: dimmer and redder\"\n- Scale note: \"Shadow: 5.2 horizon radii across\"\n- Length: 10 seconds.\n</inputs>\n\n<direction>\n- Look: an honest relativistic render lit only by the disk: a thin hot disk around a dark shadow, its far side bent up over the top and down under the bottom, a razor-thin photon ring, one side blazing and the other dim, against a lensed field of stars in deep blue-green space.\n- Palette: space #04121A with a faint dust band #0D3440 and mauve wisps #3A2440; disk emission mapped through one ramp by observed temperature: madder #5C0F2E → rose #D8436A → apricot #FFB27A → cream #FFF1DC → ice #DDF2FF at the hottest, on the approaching side; stars #E6F0FF with a few #FFD9B0; title #EEF4F6, secondary #8FB3BA, label leaders #8FB3BA. The warm ramp against blue-green space is the whole palette: no other hues.\n- Physics, in units where the horizon radius r_s = 1, for a Schwarzschild black hole. For each pixel, march the photon backward from the camera with the null-geodesic shortcut x'' = −1.5·h²·x ÷ |x|⁵, with h = |x × v| conserved; adaptive steps (0.06·r, at least 0.02, at most 1.0), up to 400. Stop when r < 1 (the ray falls in: black) or when r > 60 and moving outward (it escapes: sample the sky in its final direction).\n- The disk lies in the plane y = 0 from r = 3, the innermost stable orbit, to r = 12. At every crossing of that plane (locate it by interpolating between steps), add the disk's emission and absorb by its opacity (0.85 inside r = 8, fading to 0 at 12), so the lensed far side shows over the top and a thin secondary image wraps under the shadow. Emission: temperature T(r) ∝ r^(−3/4)·(1 − √(3/r))^(1/4); the observed shift g = √(1 − 1/r) ÷ (γ·(1 − β·cosα)), with orbital speed β = √(0.5 ÷ (r − 1)), γ = 1/√(1 − β²) and α the angle between the gas's motion and the direction toward the camera; intensity ∝ g⁴·T⁴·density, color from the ramp at g·T. Texture: density = 0.55 + 0.45·fBm(6·log r, φ − Ω(r)·t) with Kepler shear Ω(r) ∝ r^(−3/2) (the inner edge turning once every 3.2 s), giving fine spiral streaks that wind tighter inside, plus 7 seeded hot clumps (Gaussian blobs 0.3–0.6 across at r 4–9) riding their orbits, each appearing twice through lensing. Choose the spin so the approaching side is on the left.\n- The photon ring is never drawn by hand: it comes from rays that loop near r = 1.5 and cross the disk several times. Use enough small steps there that it is a continuous, thin bright ring hugging the shadow's edge at an apparent radius of √27/2 ≈ 2.6.\n- Sky: a procedural star field sampled by final direction (three magnitudes, seeded on a cube-sphere hash, crisp points), a faint dust band and nebula wisps, so lensing visibly stretches and doubles stars near the shadow and smears a faint Einstein ring at the right radius. No star ever appears inside the shadow.\n- Render: one full-screen ShaderMaterial quad at full resolution, then EffectComposer with UnrealBloomPass (strength 0.5, radius 0.35, threshold 0.72) so only the hot approaching side, the ring and the clumps glow, then OutputPass. ACESFilmic, exposure set so the disk is bright and the dim side still clearly visible.\n- Camera: distance 34, fov 30, orbiting slowly: inclination from 4° above the disk plane at the start (the disk a bright band across most of the frame, its far side arched over the shadow) to 14° by 8.6 s, yawing 24° on easeInOutSine and dollying in to 32; the shadow centered at (1180, 600), about 320px across. The far-side arch stays clear of the title: keep everything left of x 840 and above y 330 over dark sky.\n- Labels (HTML): Inconsolata 500, 22px, #EEF4F6, on 1px leaders ending in 5px dots, anchored to real features each seek: the shadow's edge and the photon ring at their apparent radii, the top of the far-side arch found by tracing a column of 200 rays up the shadow's center line on the CPU with the same integrator, and the approaching and receding sides at the disk's projected left and right; at most three at once.\n- Type: kicker \"TESSALY X-7 · 9 MILLION SOLAR MASSES\" in Inconsolata 500, 20px, tracked 0.16em, secondary; title Noto Serif Display 300 italic, 104px, #EEF4F6, top-left at (120, 110); line Inconsolata 400, 24px, secondary, beneath; the scale note at bottom left (120, 990) in Inconsolata 500, 22px, above a 1px bar exactly as long as the shadow's diameter on screen. Text rises 12px as it fades in over 0.6 s on cubic-bezier(0.22, 1, 0.36, 1).\n- Premium: every shape comes from tracing rays: the arch over the top, the thin ring, the bright side, stars stretched near the edge. Cheap: an orange donut with a black circle on it, a glow ring drawn on by hand, a disk the same on both sides.\nBanned: a symmetric disk, a hand-drawn ring, stars inside the shadow, lens flares, jets, spaceships, planets, rainbow colors, any flash, camera shake, anything flashing more than 3 times per second.\n</direction>\n\n<structure>\n- 0.0–1.2s: nearly edge-on: the bright disk crosses the frame, its far side arched over the shadow and a thin image under it, already turning; the kicker rises in.\n- 1.2–3.4s: the camera begins to rise and orbit; the hot clumps stream around, each seen twice; the title and line rise in at 1.6 s.\n- 3.4–6.0s: \"Shadow\" and \"Photon ring\" attach at 3.6 s, then \"Far side of the disk, lensed over the top\" at 4.4 s. At 6.0 s the camera is at about 10°, three labels on, nothing mid-fade.\n- 6.0–7.6s: those labels clear; \"Approaching side: Doppler-bright\" and \"Receding side: dimmer and redder\" attach at 6.4 s.\n- 7.6–8.6s: the camera settles at 14°; the scale note and its bar rise in.\n- 8.6–10.0s: hold: the camera still, only the disk turning.\nFor other lengths, stretch the orbit; keep at least 1 s of hold.\n</structure>\n\n<build>\n- One self-contained index.html (inline CSS and JS), a 1920×1080 (16:9) stage scaled to fit the window, designed for 60fps. No image, video, texture or model files: every shape and texture is generated in code.\n- window.seek(t), t in seconds, computes every visual from t alone: no CSS transitions or CSS animations, no setTimeout/setInterval, no state carried between frames, randomness only from a seeded PRNG. Anything cumulative is solved analytically from t or precomputed once at load at a fixed step. Past the end, seek clamps to the last frame.\n- Without ?render in the URL, drive seek from requestAnimationFrame so it plays in a browser (loop after a 1s end hold); with ?render, don't start that loop.\n- Google Fonts via <link> are fine; await document.fonts.load() for each face before defining window.seek.\n- Engine: three.js as an ES module pinned to three@0.160.0 through an import map on jsDelivr (`three` and `three/addons/`). WebGLRenderer with antialias, preserveDrawingBuffer: true and setPixelRatio(window.devicePixelRatio); render once at the end of every seek. Text is HTML over the canvas.\n- Camera orbit, disk rotation and clump phases are closed-form functions of t passed to the shader as uniforms; the shader traces every pixel fresh each seek, so any frame is direct. Call composer.render() once per seek in place of renderer.render().\n</build>\n\n<check>\nBefore showing me, step through one frame per second (t = 0…10): screenshot each and look at it. Fix overlaps, clipped or cramped text, and anything off-style or Banned. Check the far side arches over and under the shadow in every frame, the photon ring is thin and continuous, the left side is clearly brighter and bluer than the right, stars near the shadow stretch into arcs and none sit inside it, the inner disk visibly shears faster than the outer, the frame is bright from the first second, each label sits on its feature, and the title stays over dark sky. Confirm seek(10) and seek(11) match, so the final frame holds.\n</check>",
+    "primaryCategory": "3d-simulations",
+    "postedAt": "2026-10-19",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "full_transcription",
+    "outputCompleteness": "complete_animation",
+    "license": "CC0",
+    "status": "collected",
+    "promptFile": "prompts/motion-aicss-black-hole-lensing.md",
+    "requiresReference": false,
+    "provenance": {
+      "platform": "aicssanimations.com",
+      "creatorDeclared": "AI CSS Animations",
+      "modelDeclared": "Claude Opus 5.5 in Claude Code"
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 8337,
+      "outputUrlAccessible": true
+    }
+  },
+  {
+    "id": "aicss-lorenz-attractor",
+    "title": "Lorenz Attractor Animation Prompt for Claude | AI CSS Animations",
+    "author": "AI CSS Animations",
+    "model": "Claude Opus 5.5 in Claude Code",
+    "sourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/lorenz-attractor",
+    "promptSourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/lorenz-attractor",
+    "collectionUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/lorenz-attractor",
+    "prompt": "Make a 10-second 3D film of the Lorenz attractor drawn in two inks on paper: one exact path traces the butterfly, then a cloud of 1,200 starting points released almost together tears apart across both wings while the camera orbits.\n\n<inputs>\nIf I don't give you something, use the default and don't ask.\n- Series: \"Field Notes on Chaos · No. 3\", from the Ashgrove Institute (fictional).\n- Title: \"A small difference\"\n- Line: \"1,200 starts within 0.1 of one point, on the Lorenz system\"\n- Closing caption: \"Same equations, starts 0.1 apart: six time units later, both wings.\"\n- System: ẋ = σ(y − x), ẏ = x(ρ − z) − y, ż = xy − βz, with σ = 10, ρ = 28, β = 8/3.\n- Length: 10 seconds.\n</inputs>\n\n<direction>\n- Palette, two inks and graphite on paper: paper #EFE8DA with faint seeded fibers (±2%) and a soft vignette to #E6DDCB; graphite #3A3733 for the first path, axes and marks; indigo ink #2B3C8F and vermilion ink #E0452B for the cloud, with plum #6B3A7E as the midpoint of the ramp between them; type #26231F, secondary #7A736A.\n- The ink look: every stroke is multiplied onto the paper, never alpha-blended to grey: CustomBlending with blendSrc DstColorFactor and blendDst ZeroFactor, each fragment writing mix(vec3(1.0), ink, coverage). Overlapping strokes darken like real ink, indigo over vermilion goes deep plum-black, and order doesn't matter, so nothing is sorted and depthTest is off for strokes. Depth reads through ink density: coverage × (0.55 + 0.45·nearness), nearness from 0 at the far side of the attractor to 1 at the near side. The paper is a full-screen quad drawn first.\n- Integration, exact: RK4 at a fixed step of 0.002 time units, everything precomputed at load, positions stored every 0.01 units. Lorenz time τ(t) runs at 1.2 units per second from t = 0.6 s and eases to a freeze over 8.0–8.8 s (the closed-form integral of a speed that falls on a half-cosine), ending near τ = 9.36.\n- The first path: starts at (0.143500, −2.284607, 23.466987) at τ = 0 and runs to τ = 2.6, switching wings at about τ = 0.14, 1.15 and 1.70, so it draws the whole butterfly. A 1.6px graphite line grows from its start with a 5px head dot; after the release it stays as a 22% graphite guide.\n- The cloud: at τ = 2.6 (t ≈ 2.77 s), 1,200 points seeded uniformly in a ball of radius 0.1 around the path's position there, (−7.6283, −11.6829, 18.7017). From these exact values its RMS radius goes 0.08 at release, about 0.7 at +1.5 units, about 5 at +2.5 as it stretches past the origin, refolds to about 0.8 by +3.0, then about 9 at +4.5 and 8–19 from +5.0 on, split almost exactly half and half between the wings: a tight bead, a ribbon, then a cloud over both wings. Color: rank each point by its coordinate along the cloud's first principal axis at τ = 4.1 (1.5 units after release) and map the rank through indigo → plum → vermilion, so the stretched ribbon runs indigo at one end to vermilion at the other and the inks interleave as it folds.\n- Strokes: each cloud point draws its trail over the last 0.25 time units (Catmull–Rom through the stored samples) as a screen-space ribbon 2.2px wide at the head tapering to 0 at the tail, coverage 0.55 at the head fading to 0, plus a 3px head dot at full coverage. Build all 1,200 ribbons in one BufferGeometry, offsetting each vertex sideways in screen space in the vertex shader from its neighbors (previous and next sample), so widths stay true at any distance.\n- Graphite marks: three axes from the origin (x and y from −25 to 25, z from 0 to 50) as 1px lines with ticks every 10 units and small x, y, z labels; the fixed points C⁺ and C⁻ at (±6√2, ±6√2, 27) ≈ (±8.49, ±8.49, 27) as 12px circled crosses; the origin, the third fixed point, as a 7px open circle.\n- Camera: PerspectiveCamera, fov 30, up +z, target (0, 0, 25), distance 118. It opens on the −y side (azimuth −90°, elevation 6°), the classic butterfly view with x across and z up, then orbits to azimuth −25° and elevation 24° over 2.8–8.6 s on easeInOutSine. Use setViewOffset so the target sits at x 1180 on the stage; the attractor fills about 70% of the frame height.\n- Type, HTML over the canvas: the kicker in Sometype Mono 500, 20px, tracked 0.14em, uppercase, vermilion, at (120, 96); the title in Literata 600 (opsz 72), 72px, #26231F, at (120, 170), two lines at most; the line in Literata 400 italic, 26px, secondary, beneath. The equations at (120, 470) in Literata 400 italic, 30px, one per line, with the constants beneath in Sometype Mono 400, 20px. From (120, 690) two readouts in Sometype Mono 500, 26px, tabular figures: \"τ\" and \"Cloud spread\" (RMS radius, two significant figures). Under them a 380 × 120px chart: log₁₀ of the cloud's RMS radius from 0.01 to 100 against time since release, drawn live as a 2px vermilion line, beside a dashed graphite reference of slope 0.906 per unit (the system's largest Lyapunov exponent) labeled \"e^0.906τ\" in Sometype Mono 400, 20px. Labels C⁺ and C⁻ in Sometype Mono 400, 20px, projected from 3D each seek. The closing caption in Literata 500, 26px, at (120, 1000).\n- Easing: text rises 12px as it fades in over 0.6 s on cubic-bezier(0.22, 1, 0.36, 1). Camera on easeInOutSine; nothing bounces.\n- Premium: two inks that overprint like a print, one exact solution drawn to scale, a cloud that visibly holds together and then tears apart exactly as the equations say, a calm orbiting camera. Cheap: neon particle trails with bloom in a black void, a pre-baked butterfly curve with random sparkles.\nBanned: black or dark backgrounds, glow or bloom, additive blending, colors beyond the palette, motion not from the equations, motion blur, camera shake, anything flashing more than 3 times per second.\n</direction>\n\n<structure>\n- 0.0–0.6s: paper; the axes and fixed-point marks draw in over 0.4 s; the kicker, title and line rise in.\n- 0.6–2.8s: the first path draws the butterfly from its start, crossing between the wings three times; the equations rise in at 1.0 s.\n- 2.8s: release: the 1,200 points appear at the path's head as one dark bead; the path fades to its 22% guide; the readouts and chart rise in.\n- 2.8–4.6s: the bead travels as one thick bundled stroke; about 1.5 units after release it starts to stretch.\n- 4.6–6.6s: it smears into a long ribbon, indigo at one end and vermilion at the other, wrapping both wings while the chart climbs along the reference slope; the camera has turned far enough to show the wings' depth. The 6.0 s frame: the two-ink ribbon across both wings over the faint guide.\n- 6.6–8.0s: the ribbon folds again and again until the inks interleave across both wings.\n- 8.0–8.8s: time eases to a freeze; the closing caption rises in.\n- 8.8–10.0s: hold, completely still.\nFor other lengths, change the Lorenz-time rate and keep the release at τ = 2.6 and the cloud's 6.8 units; keep at least 1 s of hold.\n</structure>\n\n<build>\n- One self-contained index.html (inline CSS and JS), a 1920×1080 (16:9) stage scaled to fit the window, designed for 60fps. No image, video, texture or model files: every shape and texture is generated in code.\n- window.seek(t), t in seconds, computes every visual from t alone: no CSS transitions or CSS animations, no setTimeout/setInterval, no state carried between frames, randomness only from a seeded PRNG. Anything cumulative is solved analytically from t or precomputed once at load at a fixed step. Past the end, seek clamps to the last frame.\n- Without ?render in the URL, drive seek from requestAnimationFrame so it plays in a browser (loop after a 1s end hold); with ?render, don't start that loop.\n- Google Fonts via <link> are fine; await document.fonts.load() for each face before defining window.seek.\n- Engine: three.js as an ES module pinned to three@0.160.0 through an import map on jsDelivr (`three` and `three/addons/`). WebGLRenderer with antialias, preserveDrawingBuffer: true and setPixelRatio(window.devicePixelRatio); render once at the end of every seek. Text is HTML over the canvas; the chart is a 2D canvas.\n- The path and all 1,200 cloud points are integrated once at load into Float32Arrays (about 940 samples each); seek(t) maps t to τ in closed form and only reads and interpolates them.\n</build>\n\n<check>\nBefore showing me, step through one frame per second (t = 0…10): screenshot each and look at it. Fix overlaps, clipped or cramped text, and anything off-style or Banned. Also log the cloud's RMS radius at 0.5 and 4.5 units after release (about 0.07 and 9) and the share of points with x < 0 at the end (about 0.5). Check the strokes darken where they cross instead of turning grey, far strokes are lighter than near ones, the first frame is the classic butterfly view, labels C⁺ and C⁻ sit on their marks, and the chart and type stay clear of the attractor. Confirm seek(10) and seek(11) match, so the final frame holds.\n</check>",
+    "primaryCategory": "3d-simulations",
+    "postedAt": "2026-10-19",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "full_transcription",
+    "outputCompleteness": "complete_animation",
+    "license": "CC0",
+    "status": "collected",
+    "promptFile": "prompts/motion-aicss-lorenz-attractor.md",
+    "requiresReference": false,
+    "provenance": {
+      "platform": "aicssanimations.com",
+      "creatorDeclared": "AI CSS Animations",
+      "modelDeclared": "Claude Opus 5.5 in Claude Code"
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 8809,
+      "outputUrlAccessible": true
+    }
+  },
+  {
+    "id": "aicss-underwater-caustics",
+    "title": "Underwater Caustics Animation Prompt for Claude",
+    "author": "AI CSS Animations",
+    "model": "Claude Opus 5.5 in Claude Code",
+    "sourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/underwater-caustics",
+    "promptSourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/underwater-caustics",
+    "collectionUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/underwater-caustics",
+    "prompt": "Make a 10-second underwater shot over a shallow sandy seabed: sunlight caustics ripple across the sand, light shafts sway through the water, and a school of fish passes as silhouettes.\n\n<inputs>\nIf I don't give you something, use the default and don't ask.\n- Title: \"Light on Sand\"\n- Line: \"Pellam Cay · 6 m · 11:20\" (fictional)\n- School: 260 small silver fish.\n- Length: 10 seconds.\n</inputs>\n\n<direction>\n- Palette: open water #5CCFD6 high in the frame, #1C8FA6 at mid distance, #0B4F6B far; sand lit #F1DFB0, base #CDB27C, shaded #8F7A5A turning bluer with distance; caustic light #FFF7DC; rocks #5E6E6A with algae #6F8F5A; seagrass #3F7F4E to #8DBB5A at the tips; fish backs #0E3A4C shading to silvery bellies #7FA9B5; title #063447, line #0E5A70.\n- Scene: a 60 × 60 m seabed 6 m under the surface at noon. The sand carries wave ripple marks (crests 25 cm apart, slightly sharp, sinuous, with a few forks where one crest splits in two) over broad undulations, fine grain from a procedural normal map, scattered shells, three rocks with algae tufts and three clumps of seagrass (instanced curved blades that lean with a 6 s surge, each on its own phase). The surface itself is never seen.\n- Caustics, computed like the real thing: the surface is a sum of five waves whose speeds follow deep-water dispersion (ω = √(gk)), wavelengths 0.6–3 m, so periods run 0.6–1.4 s, each wave vector a whole number of cycles across a 12 m tile. Refract the sun (12° from vertical) through a 512 × 512 grid of surface points with Snell's law (n = 1.33) down 6 m to the seabed, and render that grid as a mesh into a 1024 × 1024 half-float caustics texture covering the tile: each vertex sits where its ray lands, and brightness is the cell's original area divided by its landed area (from dFdx and dFdy of both positions), blended additively. Draw it nine times, offset by ±1 tile, so the wrap has no seams. The result is a net of thin, bright, curving filaments around darker cells that drifts and reforms continuously, the filaments reaching 2.4× the plain sunlit sand. A faint color split (red and blue landing 1% apart) fringes the brightest lines.\n- Light: a DirectionalLight sun 12° off vertical (soft shadows, PCFSoftShadowMap, 2048 map), with the caustics texture multiplied into its direct term on the sand, rocks, grass and fish (via onBeforeCompile), so the fish's shadows cut holes in the caustics too. HemisphereLight #8EE6F0 above and #C8B07A below at 0.8. Water fog by distance toward the palette's water colors (fully water-colored by about 22 m). ACESFilmic, exposure 1.0. The sand is bright and clearly lit from the first frame.\n- Light shafts: 18 long, soft additive beams along the refracted sun direction, 0.2–0.8 m wide, at different depths, each fading downward and with distance, their brightness taken from the caustics texture at their entry point, so they brighten, break and sway as the waves focus the light; together they never add more than 25% to any pixel. 1,200 suspended particles (1–2px) drift slowly and catch light inside the shafts.\n- Fish: 260 sardine-like fish, 14 cm long: a laterally flattened spindle body, a forked tail and a small dorsal fin, as instanced meshes whose bodies bend in a tail-beat wave at 2.5–3 Hz. The school is precomputed at load at a fixed 1/60 s step with boids rules (separation inside one body length, alignment and cohesion with the 7 nearest fish, 0.9–1.3 m/s), steered by one invisible leader target: it enters from the left at 2.4 s, 1–2.4 m above the sand, streams across the upper half of the frame, and from 6.8 s curves back so the school settles into a slow, loose mill centered at about (1280, 420). Against the open water the fish read as dark silhouettes.\n- Camera: fov 50, 1.6 m above the sand, pitched down 18° so open water fills the top and sand the lower 60%; it drifts forward at 0.25 m/s and sways ±3 cm on a 4 s sine, like a diver holding position, easing to rest by 8.6 s.\n- Type (HTML over the canvas): title in Sora 600, 88px, #063447, baseline at (120, 190) over the bright open water; line in Sora 400, 24px, tracked 0.08em, #0E5A70, beneath. Each rises 12px as it fades in over 0.8 s on cubic-bezier(0.22, 1, 0.36, 1). The fish stay below y 300.\n- Premium: filaments that truly come from the waves, sharp and always reforming, shafts that brighten where the light focuses, ripple-marked sand, fish shadows breaking the light. Cheap: a scrolling caustic texture, blue fog, cartoon fish.\nBanned: cartoon fish or faces, divers or bubbles, a tiled texture sliding over the sand, a flicker over the whole frame, lens flares, colors beyond the palette, anything flashing more than 3 times per second.\n</direction>\n\n<structure>\n- 0.0–1.2s: the seabed in bright noon light, caustics already crawling over the ripples; shafts sway; particles drift.\n- 1.2–2.4s: the camera drifts forward; the seagrass leans with the surge; the title and line rise in.\n- 2.4–4.4s: the school streams in from the left, a dark ribbon of fish against the open water, its shadows sliding over the caustics.\n- 4.4–6.8s: the school crosses the frame and turns as one, thickening where it banks.\n- 6.8–8.6s: the lead fish curve back and the school settles into a loose mill right of center; the camera drift eases to rest.\n- 8.6–10.0s: hold: camera and type still; the caustics, shafts, grass and milling school keep moving.\nFor other lengths, stretch the crossing; keep at least 1 s of hold.\n</structure>\n\n<build>\n- One self-contained index.html (inline CSS and JS), a 1920×1080 (16:9) stage scaled to fit the window, designed for 60fps. No image, video, texture or model files: every shape and texture is generated in code.\n- window.seek(t), t in seconds, computes every visual from t alone: no CSS transitions or CSS animations, no setTimeout/setInterval, no state carried between frames, randomness only from a seeded PRNG. Anything cumulative is solved analytically from t or precomputed once at load at a fixed step. Past the end, seek clamps to the last frame.\n- Without ?render in the URL, drive seek from requestAnimationFrame so it plays in a browser (loop after a 1s end hold); with ?render, don't start that loop.\n- Google Fonts via <link> are fine; await document.fonts.load() for each face before defining window.seek.\n- Engine: three.js as an ES module pinned to three@0.160.0 through an import map on jsDelivr (`three` and `three/addons/`). WebGLRenderer with antialias, preserveDrawingBuffer: true and setPixelRatio(window.devicePixelRatio); render once at the end of every seek. Text is HTML over the canvas.\n- In every seek, render the caustics mesh into its render target first, then the scene. Waves, caustics, shafts and camera are closed-form functions of t; the school is read from the precomputed arrays.\n</build>\n\n<check>\nBefore showing me, step through one frame per second (t = 0…10): screenshot each and look at it. Fix overlaps, clipped or cramped text, and anything off-style or Banned. Check the caustics are thin filaments rather than blobs and that they reshape rather than slide, nothing pulses over the whole frame, fish shadows darken the caustics under them, each fish reads as a fish at 1280×720, and the title stays clear of the school and reads against the water. Confirm seek(10) and seek(11) match, so the final frame holds.\n</check>",
+    "primaryCategory": "3d-simulations",
+    "postedAt": "2026-10-18",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "full_transcription",
+    "outputCompleteness": "complete_animation",
+    "license": "CC0",
+    "status": "collected",
+    "promptFile": "prompts/motion-aicss-underwater-caustics.md",
+    "requiresReference": false,
+    "provenance": {
+      "platform": "aicssanimations.com",
+      "creatorDeclared": "AI CSS Animations",
+      "modelDeclared": "Claude Opus 5.5 in Claude Code"
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 7322,
+      "outputUrlAccessible": true
+    }
+  },
+  {
+    "id": "aicss-sorting-algorithm",
+    "title": "Sorting Algorithm Animation Prompt for Claude | AI CSS Animations",
+    "author": "AI CSS Animations",
+    "model": "Claude Opus 5.5 in Claude Code",
+    "sourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/sorting-algorithm",
+    "promptSourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/sorting-algorithm",
+    "collectionUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/sorting-algorithm",
+    "prompt": "Make a 10-second quicksort visualization: 24 bars are sorted by a real Lomuto-partition quicksort, every comparison and swap shown in order, with live counters.\n\n<inputs>\n- Array: the values 1–24, shuffled by Fisher–Yates with mulberry32 (seed 2026).\n- Algorithm: quicksort, Lomuto partition, last element as the pivot, left part first.\n- Title: \"Quicksort, step by step\". Counters: comparisons, swaps, depth.\n- Code panel, five lines:\n  pivot = a[hi]; i = lo\n  for j in lo .. hi − 1:\n    if a[j] < pivot:\n      swap(a[i], a[j]); i += 1\n  swap(a[i], a[hi])\n- Length: 10 seconds.\nIf I don't give you something, use the default and don't ask.\n</inputs>\n\n<direction>\nTruth first: run the sort once at load and record its events in order (enter range, choose pivot, compare, swap, place pivot, mark sorted). Self-swaps (i = j) are skipped: they neither play nor count. seek(t) maps t onto that event list through cumulative durations, so every frame is a real state of the array and the counters are the counts of events played so far. A range of one element is marked sorted instantly; depth is the recursion depth of the active range.\nPacing: the first partition (the whole array) plays at teaching speed: 0.07s per comparison, 0.2s per swap. Every later event plays faster, scaled uniformly so the sort ends exactly at 8.0s, with a comparison weighing 1 and a swap 3.\nPalette: ground deep teal #0E3B43; bars cream #F1E6CF; bars outside the active range at 32%; the pivot amber #FFB547; sorted bars mint #7FE0C3; secondary text #9CC5C9; code panel #0A2E35 with a 1px #1E5A63 border and a #1E5A63 line highlight.\nComparisons are read, not flashed: a 1.5px dashed amber line at the pivot's height spans the active range, a white caret \"j\" glides under the bar being compared, and a mint caret \"i\" marks the edge of the smaller-than-pivot zone, which a 4px mint bar underlines from lo to i − 1. Bars never blink.\nSwaps: the two bars trade places over the swap's duration on easeInOutCubic; the one moving right lifts on a 36px sine arc and passes over the other, which slides along the floor. When the pivot lands, it crossfades to mint over 0.2s.\nType: title \"Schibsted Grotesk\" 700, 52px, #F1E6CF; everything else \"JetBrains Mono\": counters 26px (labels #9CC5C9, numbers #F1E6CF, tabular), code 22px on a 36px line height, value labels 20px.\nLayout: title top-left at x 96, baseline y 120; counters at baseline y 190 (\"comparisons 0   swaps 0   depth 0\"). Code panel top-right at x 1220–1824, y 72–300, 12px radius. Bars 50px wide at a 66px pitch, from x 176 to 1744, on a baseline at y 880, height = value × 21px. Value labels at baseline y 912. Carets at y 936–960 with their letters below at baseline y 990. The active range's bracket, a 2px #9CC5C9 line with end ticks, sits at y 352.\nIn the teaching pass, the code highlight slides between lines on easeInOutCubic over 0.08s. In the fast pass it fades out and a small tag showing the real speed-up (rounded, such as \"4×\") appears after the title, so the highlight never blinks between lines.\nThe real thing is a faithful replay you could audit frame by frame: honest counts, pointers you can follow, one slow pass that teaches the rule. The cheap version shuffles rainbow bars at random and flickers a color on every comparison.\nBanned: rainbow or hue-by-value bars, bars changing height, skipped or invented steps, highlights blinking on and off, waveform or audio visuals, 3D, gradients, glow, bouncy easing, emoji, anything flashing more than 3 times per second.\n</direction>\n\n<structure>\n0.0–0.6s: the title and counters fade up; the code panel slides in 24px from the right.\n0.6–1.2s: the bars rise from the baseline in index order, 15ms apart, 0.35s each on cubic-bezier(0.22, 1, 0.36, 1); value labels fade in.\n1.2s to the end of the first partition (about 4.5s): the teaching pass. The bracket spans the array, the pivot turns amber and its level line draws across, j walks the range, swaps arc over, the code highlight follows each step, and the pivot swaps into place and turns mint.\nThen to 8.0s: the rest of the recursion at speed; the bracket jumps to each subrange, the depth changes, and bars turn mint as they land.\n8.0–8.8s: a white caret sweeps left to right under all 24 bars, each brightening once to #B8F2E0 and back as it passes; a drawn check mark appears after the title; the counters hold their final values.\n8.8–10.0s: hold.\nOther lengths: stretch the fast pass first; keep the teaching pass at its speed and the hold at least 1s.\n</structure>\n\n<build>\nOne self-contained index.html, CSS and JS inline. Google Fonts via <link> are fine; no other libraries. Draw in Canvas 2D, repainting every frame from scratch, with the backing store sized from the CSS size × devicePixelRatio. Canvas won't fetch fonts itself, so the font wait matters here. Await document.fonts.load() for every face before defining window.seek. The stage is 1920×1080 (16:9), scaled to fit the window. Design for 60fps. window.seek(t), t in seconds, must compute every visual from t alone: no CSS transitions or animations, no setTimeout or setInterval, no state carried between frames, and randomness only from a seeded PRNG. The shuffle and the full event list are computed once at load; seek(t) replays the list up to t. Without ?render in the URL, drive seek from requestAnimationFrame so it plays in a browser (loop after a 1s end hold); with ?render, don't start that loop.\n</build>\n\n<check>\nBefore showing me, step through one frame per second: screenshot each and look at it. Fix overlaps, clipped or cramped text, accidental edge collisions, and anything off-style or Banned. Confirm the array after the last event is 1 to 24 in order and the final counters equal the total comparisons and non-self swaps in the list. Check that no bar blinks, carets and labels never overlap, the speed tag shows the real factor, and the teaching pass is slow enough to follow. Confirm seek(duration) and seek(duration + 1) match, so the final frame holds.\n</check>",
+    "primaryCategory": "interactive",
+    "postedAt": "2026-10-16",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "full_transcription",
+    "outputCompleteness": "complete_animation",
+    "license": "CC0",
+    "status": "collected",
+    "promptFile": "prompts/motion-aicss-sorting-algorithm.md",
+    "requiresReference": false,
+    "provenance": {
+      "platform": "aicssanimations.com",
+      "creatorDeclared": "AI CSS Animations",
+      "modelDeclared": "Claude Opus 5.5 in Claude Code"
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 6007,
+      "outputUrlAccessible": true
+    }
+  },
+  {
+    "id": "aicss-code-editor-ghost-text",
+    "title": "Code Editor Ghost Text Animation Prompt for Claude",
+    "author": "AI CSS Animations",
+    "model": "Claude Opus 5.5 in Claude Code",
+    "sourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/code-editor-ghost-text",
+    "promptSourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/code-editor-ghost-text",
+    "collectionUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/code-editor-ghost-text",
+    "prompt": "Make a 10-second code editor demo: ghost-text completions are accepted with Tab, the diff gutter marks the new lines, and the failing tests turn green.\n\n<inputs>\nIf I don't give you something, use the default and don't ask.\n- Product: Quoin, a code editor. Tagline: \"Press Tab. Keep going.\"\n- File tidepool/src/duration.ts, finished exactly as:\n```ts\nconst UNITS: Record<string, number> = { h: 3600, m: 60, s: 1 };\n\n// Turns \"1h 30m\" into seconds.\nexport function parseDuration(input: string): number {\n  let total = 0;\n  for (const [, n, unit] of input.matchAll(/(\\d+)\\s*([hms])/g)) {\n    total += Number(n) * UNITS[unit];\n  }\n  return total;\n}\n```\n- Tests: \"1h 30m\" → 5400; \"45s\" → 45; \"1h 1m 1s\" → 3661; \"2 h\" → 7200; \"\" → 0\n- Accent: #C3A6FF. Length: 10 seconds\n</inputs>\n\n<direction>\nPalette, an original dark theme: stage #0C0B11, editor #17161D, panels #121117, text #E6E3EE, line numbers #4D4A5C. Syntax: keywords #FF7EB6, functions #7CC4FF, types #C3A6FF, numbers #FFB26B, regex #F7D774, comments #6F6B80 italic. Ghost text #6E6A82 italic. Added and passing #4ADE9A, modified #6CA8FF, failing #FF6B6B.\nType: JetBrains Mono 400 and italic, 26px on 42px lines, no ligatures; chrome in Hanken Grotesk 500, 20–22px; the wordmark in 700, 64px.\nLayout: a 1680×840 window at (120, 56): file tree, tabs (\"duration.ts\" unsaved), a gutter ending in a 4px diff column, a 250px test panel, a status bar. Below it, a keystroke HUD of 64px dark keycaps that sink 2px with an accent border when pressed.\nGhost text stays plainly a suggestion: dim italic, uncolored, its extra lines unnumbered, the code below sliding down to make room, a small \"Tab Accept\" chip above it. Accepting recolors it in a 160ms left-to-right sweep; numbers fade in and green diff bars grow down the new lines. Line 3 already has a blue modified bar. The caret blinks on a 1.06s period when idle; typing runs 9–14 characters a second.\nTest panel: five rows (icon, name, input → expected), opening on the last run, all failed (\"expected 5400, received undefined\"). On re-run each icon spins, then draws a check, 180ms apart, and the summary flips \"5 failed\" → \"5 passed · 38 ms\".\nMotion is crisp: 120–200ms on cubic-bezier(0.2, 0, 0, 1), with a 3% push across the piece.\nPremium is an editor a developer would believe: code that compiles and passes, ghost text that stays a suggestion until Tab. Cheap is green code raining down a black screen.\nBanned: a mouse cursor, code that wouldn't compile or pass, real editor or framework names, glow, glitch effects, emoji, anything flashing more than 3 times per second.\n</direction>\n\n<structure>\n0.0–0.8s: the window rises 20px and fades in: lines 1–4, the caret on an empty line 5, \"}\" on line 6; the panel reads 5 failed.\n0.8–1.2s: \"let\" is typed.\n1.2–1.6s: a pause, then the ghost text fades in: \" total = 0;\" and the three loop lines.\n1.6–2.4s: hold so it can be read.\n2.4s: Tab; accepted; bars grow on lines 5–8.\n2.6–3.0s: Enter opens line 9; ghost \"return total;\" appears.\n3.3s: Tab; line 9 gets its bar.\n3.7–4.2s: ⌘S; the unsaved dot clears; \"Saved\" shows in the status bar.\n4.2–6.0s: tests re-run; checks land from 4.6s; the summary flips at 5.6s.\n6.0–7.4s: the HUD fades; the editor loses focus and the caret hides.\n7.4–8.6s: \"Quoin\" and the tagline rise out of a mask below the window.\n8.6–10.0s: hold, perfectly still.\nFor other lengths, keep typing and acceptance timing fixed and stretch the pauses and hold.\n</structure>\n\n<build>\nOne self-contained index.html, CSS and JS inline; Google Fonts via <link>, awaited with document.fonts.load() before window.seek is defined; no other libraries. Use HTML/CSS with inline SVG icons, laying code on a monospace grid. The stage is 1920×1080 (16:9), scaled to fit the window; design for 60fps. window.seek(t), t in seconds, must compute every visual from t alone: no CSS transitions or animations, no setTimeout or setInterval, no state carried between frames, randomness only from a seeded PRNG. Without ?render in the URL, drive seek from requestAnimationFrame (loop after a 1s end hold); with ?render, don't start that loop.\n</build>\n\n<check>\nBefore showing me, step through one frame per second: screenshot each and look at it. Fix overlaps, clipped or cramped text and anything off-style or Banned. Check the final code matches the input exactly, ghost lines carry no numbers or colors, diff bars sit only on lines 5–9 plus line 3, and no code runs under the panel. Confirm seek(10) and seek(11) match, so the final frame holds.\n</check>",
+    "primaryCategory": "interactive",
+    "postedAt": "2026-10-16",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "full_transcription",
+    "outputCompleteness": "complete_animation",
+    "license": "CC0",
+    "status": "collected",
+    "promptFile": "prompts/motion-aicss-code-editor-ghost-text.md",
+    "requiresReference": false,
+    "provenance": {
+      "platform": "aicssanimations.com",
+      "creatorDeclared": "AI CSS Animations",
+      "modelDeclared": "Claude Opus 5.5 in Claude Code"
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 4510,
+      "outputUrlAccessible": true
+    }
+  },
+  {
+    "id": "aicss-ai-agent-fleet",
+    "title": "AI Agent Fleet Animation Prompt for Claude | AI CSS Animations",
+    "author": "AI CSS Animations",
+    "model": "Claude Opus 5.5 in Claude Code",
+    "sourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/ai-agent-fleet",
+    "promptSourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/ai-agent-fleet",
+    "collectionUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/ai-agent-fleet",
+    "prompt": "Make a 10-second product film of an AI coding-agent fleet: two dozen agent panes write code in parallel, tasks flow from a queue to the agents along drawn routes, finished results flow out into a merge lane, and everything lands in a single green build.\n\n<inputs>\nIf I don't give you something, use the default and don't ask.\n- Orchestrator: Tandemloom (fictional).\n- Repository and branch: harborline/api (fictional) · release/4.2\n- Goal: \"Migrate 48 endpoints to the v2 schema\"\n- Fleet: 24 agents, A-01 to A-24, two tasks each.\n- Tasks: #001 to #048, each \"Migrate /<route> to v2\", routes drawn from: orders, invoices, refunds, customers, carts, shipments, coupons, payouts, reviews, wishlists, returns, taxes (repeat with suffixes like /orders/items).\n- Retry: A-17's second task (#041) fails 2 tests, fixes them and passes.\n- Results: 48 pull requests merged, +4,112 −3,086 lines in all; Build #1187: lint, types, tests, bundle; 3,214 tests passed, 0 failed.\n- Fleet clock: 00:00:00 to 00:41:08.\n- Final line: \"48 tasks · 24 agents · one green build\"\n- Length: 10 seconds.\n</inputs>\n\n<direction>\n- Look: an orchestration dashboard in a calm, light editorial style: a wall of 24 live agent panes streaming real-looking code and test output, a task queue that drains into them along drawn routes, results that flow out into a merge lane and down into one build card, which turns green. Busy but orderly: everything on a grid, every motion meaning something.\n- Palette, light rather than green-on-black: background warm paper #EEE9DF with a 24px dot grid #D9D2C4; panes white #FFFFFF with a 1px #D6CFC1 border, 10px radius and a header strip #F6F2EA; code ink #24272E with keywords ultramarine #3346D3, strings terracotta #C25A34, comments #8C8578, types plum #8A3F93, numbers teal #127C86; status: queued slate #8C93A3, working ultramarine #3346D3, reviewing amber #D99A1E, failed rose #E04B5A, passed green #1F9D55; routes ink #24272E at 30%; build card ink #1C1F26 that fills green #1F9D55; text ink #1C1F26, secondary #6B6658. Green appears only for passes and the build, so the final green is earned.\n- Layout on the 1920 × 1080 stage:\n  - header: kicker \"TANDEMLOOM · ORCHESTRATOR\" in Instrument Sans 700, 20px, tracked 0.14em, ultramarine, at (120, 78); the goal in Instrument Sans 700, 48px, ink, on baseline 142; at the right, right-aligned at x 1800, \"harborline/api · release/4.2\" in Azeret Mono 500, 22px, secondary, and the fleet clock in Azeret Mono 600, 28px, ink;\n  - queue, x 120–400, y 190–1000: \"Queue 48\" in Instrument Sans 700, 24px, then task cards 280 × 40 at 48px pitch, each \"#014 /orders → v2\" in Azeret Mono 500, 20px, with a slate status dot;\n  - pane wall, x 460–1456, y 190–1002: 6 columns × 4 rows of panes 156 × 194 with 12px gutters, A-01 at the top left;\n  - merge lane, x 1520–1800, y 190–760: \"Merged 0/48\" in Instrument Sans 700, 24px, then PR chips 280 × 36 stacking downward, each \"PR #2231 · +84 −61\" in Azeret Mono 500, 20px, with the additions in green and the deletions in rose; past twelve chips the oldest compress into a stacked \"+36 more\" card;\n  - build card, x 1520–1800, y 800–1000: \"Build #1187\" in Instrument Sans 700, 26px; four stage ticks \"lint · types · tests · bundle\" in Azeret Mono 500, 20px; a 248px progress bar; the result line.\n- An agent pane: a 30px header strip with the agent id (\"A-07\", Azeret Mono 600, 20px) at the left, its task number at the right, and a 4px status bar along its left edge in the status color; a body of 12 code lines in Azeret Mono 400 at 10px (13px leading), typing at 40 characters per second per pane with a 1 Hz block caret and scrolling up a line when full, syntax-colored, drawn from about 60 seeded TypeScript-like lines (imports, handler signatures, schema parsing, database queries, a v2 comment, test assertions such as `expect(res.status).toBe(200)`); a 30px footer with a thin progress bar and a test readout in Azeret Mono 500, 20px (\"✓ 64\" in green, or \"✗ 2\" in rose). The 10px code is texture in the wide view and readable at the opening zoom.\n- Flow:\n  - dispatch: a task card leaves the queue as a 64 × 28 chip (\"#014\", Azeret Mono 500, 20px, white on ultramarine), travels at up to 1,600px/s (eased at both ends) along its route, shrinking to a 10px ultramarine dot where the route enters the 12px gutters, and grows back into the chip as it docks into its pane's header; the pane's status bar turns ultramarine and its typing starts; the queue scrolls up and its count drops;\n  - routes: orthogonal paths with 8px corner radii, drawn as 1.5px lines a moment before each chip travels them and fading after: from the queue into a vertical trunk in the gap at x 430, along the row gutters to the pane's column, then into the pane's top edge. Result routes leave each pane's right edge along the row gutters to a trunk at x 1488 and up into the merge lane. Routes run only in gutters, never over a pane;\n  - finish: when a task completes, its pane turns amber for 0.3 s (review), then green with a check; a PR chip leaves the pane's right edge as a 10px green dot along its result route, grows into its chip at the trunk and lands at the bottom of the merge lane with a 1.1 to 1 pop; the merged count rolls; the pane takes its next task at once;\n  - the retry: A-17's second task turns rose at 5.7 s with \"✗ 2 failing: orders.spec.ts\" in its footer and two rose lines in its code (a failing assertion); a small circular retry arrow turns once; it types a fix and passes at 6.9 s;\n  - the build: when all 48 are merged, the merge lane's chips compress upward into one bar that slides down into the build card; the stages tick on one by one with a check each, the bar fills, and the card fills green with \"3,214 passed · 0 failed\" in Azeret Mono 600, 22px, white.\n- Schedule: tasks #001–#024 dispatch 1.0–2.0 s, 40 ms apart; each task's duration is seeded between 2.2 and 3.4 s, so first finishes arrive from about 3.4 s and second-wave tasks #025–#048 dispatch as panes free up; the last result merges by 7.3 s. Seed the 48 PR sizes so they total exactly +4,112 and −3,086 (draw 47, set the 48th to the remainder within range).\n- Fleet clock: maps t onto fleet time through a smooth monotonic curve, 00:00:00 at 0.8 s to 00:41:08 at 8.3 s, ticking seconds, never running backwards.\n- Camera: a CSS transform on the dashboard: it opens at 2.6× on pane A-01 (its code readable at about 26px, the first chip arriving), then pulls back to 1.0× by 2.4 s on cubic-bezier(0.45, 0, 0.2, 1); still after that.\n- Motion: panels rise 12px and fade over 0.4 s on cubic-bezier(0.22, 1, 0.36, 1); chips pop on a damped spring (ratio 0.6); numbers roll like an odometer over 0.3 s.\n- Premium: code that looks like code, with syntax color and believable rhythm, routes that carry real tasks from queue to agent to merge, one honest failure and retry, numbers that add up, a single green that lands last. Cheap: falling green characters on black, glowing robot icons, random blinking boxes, a progress bar with nothing behind it.\nBanned: real AI products, companies, model names, logos or editor chrome; robot, brain or sparkle icons; falling-character rain; dark mode; neon glow; routes crossing over panes; any element blinking faster than 1 Hz; anything flashing more than 3 times per second.\n</direction>\n\n<structure>\n- 0.0–1.0s: close on pane A-01 at 2.6×: an empty editor; the header and queue fade in around it.\n- 1.0–2.4s: dispatch: the first chip docks into A-01 and it starts typing, readable; the camera pulls back as chips stream along their routes into all 24 panes, 40 ms apart; the queue scrolls down to 24.\n- 2.4–3.4s: the whole wall types at once; footers fill; the fleet clock runs.\n- 3.4–5.6s: finishes ripple across the wall: amber, green, PR chips flowing into the merge lane; second-wave chips dispatch; the queue empties at about 4.8 s.\n- 5.6–6.0s: A-17 turns rose with its failing tests. At 6.0 s: every pane busy, one rose pane, the merge lane half full, the queue empty: a complete composition.\n- 6.0–7.3s: A-17 retries and passes (6.9 s); the last results land; \"Merged 48/48\" and \"+4,112 −3,086\".\n- 7.3–8.3s: the merge lane funnels into the build card; lint, types, tests and bundle tick at 7.5, 7.7, 7.9 and 8.1 s; the card turns green at 8.3 s with \"3,214 passed · 0 failed\"; the clock stops at 00:41:08.\n- 8.3–8.7s: the wall eases to 60% with a green check in every pane; the goal line changes to the final line.\n- 8.7–10.0s: hold: only the carets blink.\nFor other lengths, add or remove tasks per agent; keep the retry, the build beat and at least 1 s of hold.\n</structure>\n\n<build>\n- One self-contained index.html (inline CSS and JS), a 1920×1080 (16:9) stage scaled to fit the window, designed for 60fps. No image, video, texture or model files: every shape and texture is generated in code.\n- window.seek(t), t in seconds, computes every visual from t alone: no CSS transitions or CSS animations, no setTimeout/setInterval, no state carried between frames, randomness only from a seeded PRNG. Anything cumulative is solved analytically from t or precomputed once at load at a fixed step. Past the end, seek clamps to the last frame.\n- Without ?render in the URL, drive seek from requestAnimationFrame so it plays in a browser (loop after a 1s end hold); with ?render, don't start that loop.\n- Google Fonts via <link> are fine; await document.fonts.load() for each face before defining window.seek.\n- Engine: HTML/CSS: absolutely positioned elements whose transforms, sizes, text and opacity are set from seek, with inline SVG for routes, checks, dots and the retry arrow; no canvas and no other libraries.\n- The whole schedule (dispatch, durations, finishes, routes, PR sizes, code lines per pane) is generated once at load from a seeded PRNG; each seek derives every pane's status, its typed text (characters = 40 × time since the task started, wrapped and scrolled), every chip's position along its route and every count from t alone.\n</build>\n\n<check>\nBefore showing me, step through one frame per second (t = 0…10): screenshot each and look at it. Fix overlaps, clipped or cramped text, and anything off-style or Banned. Check there are exactly 24 panes and 48 tasks, every chip travels a route from the queue to a pane or from a pane to the merge lane and routes stay in the gutters; counts agree (queue + in progress + merged = 48 at every frame); A-17 fails and retries exactly once; the PR totals read +4,112 −3,086; the build turns green only after the 48th merge; header, queue, chips, footers and build text are at least 20px and readable; the 6.0 s and final frames are complete compositions. Confirm seek(10) and seek(11) match, so the final frame holds.\n</check>",
+    "primaryCategory": "interactive",
+    "postedAt": "2026-10-19",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "full_transcription",
+    "outputCompleteness": "complete_animation",
+    "license": "CC0",
+    "status": "collected",
+    "promptFile": "prompts/motion-aicss-ai-agent-fleet.md",
+    "requiresReference": false,
+    "provenance": {
+      "platform": "aicssanimations.com",
+      "creatorDeclared": "AI CSS Animations",
+      "modelDeclared": "Claude Opus 5.5 in Claude Code"
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 10699,
+      "outputUrlAccessible": true
+    }
+  },
+  {
+    "id": "aicss-structured-resume-reel",
+    "title": "Structured Resume Reel",
+    "author": "Daryl Patigas (@darel023)",
+    "model": "Claude Opus 5.5",
+    "sourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/structured-resume-reel",
+    "promptSourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/structured-resume-reel",
+    "collectionUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/structured-resume-reel",
+    "prompt": "You're a world-class motion designer, and this is your 15-second resume reel. Make it dynamic and confident: open with a striking hook in the first second, build through a sequence of distinct techniques (typography, shape play, camera moves, colour shifts), and land on a clean, memorable final frame. Pacing should feel like it's cut to music. Go crazy.",
+    "primaryCategory": "motion-studies",
+    "postedAt": "2026",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "full_transcription",
+    "outputCompleteness": "complete_animation",
+    "license": "CC0",
+    "status": "collected",
+    "promptFile": "prompts/motion-aicss-structured-resume-reel.md",
+    "requiresReference": false,
+    "provenance": {
+      "platform": "aicssanimations.com",
+      "creatorDeclared": "Daryl Patigas (@darel023)",
+      "modelDeclared": "Claude Opus 5.5"
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 355,
+      "outputUrlAccessible": true
+    }
+  },
+  {
+    "id": "aicss-drone-emprit-showreel",
+    "title": "Drone Emprit Showreel",
+    "author": "Ismail Fahmi (@ismailfahmi)",
+    "model": "Claude Opus 5.5",
+    "sourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/drone-emprit-showreel",
+    "promptSourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/drone-emprit-showreel",
+    "collectionUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/drone-emprit-showreel",
+    "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible media intelligent Drone Emprit is, like it's our showreel for a resume. go all out.",
+    "primaryCategory": "motion-studies",
+    "postedAt": "2026",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "full_transcription",
+    "outputCompleteness": "complete_animation",
+    "license": "CC0",
+    "status": "collected",
+    "promptFile": "prompts/motion-aicss-drone-emprit-showreel.md",
+    "requiresReference": false,
+    "provenance": {
+      "platform": "aicssanimations.com",
+      "creatorDeclared": "Ismail Fahmi (@ismailfahmi)",
+      "modelDeclared": "Claude Opus 5.5"
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 160,
+      "outputUrlAccessible": true
+    }
+  },
+  {
+    "id": "aicss-recruiter-self-intro-reel",
+    "title": "Recruiter Self-Intro Reel",
+    "author": "AI CSS Animations (@SaaSgod)",
+    "model": "Claude Opus 5.5 in Claude Code",
+    "sourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/recruiter-self-intro-reel",
+    "promptSourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/recruiter-self-intro-reel",
+    "collectionUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/recruiter-self-intro-reel",
+    "prompt": "Make a dynamic 15-second motion graphics video of me introducing myself to a recruiter. Use all the motion design skills you have, like it's your showreel for a resume. Go all out.",
+    "primaryCategory": "product-brand",
+    "postedAt": "2026",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "full_transcription",
+    "outputCompleteness": "complete_animation",
+    "license": "CC0",
+    "status": "collected",
+    "promptFile": "prompts/motion-aicss-recruiter-self-intro-reel.md",
+    "requiresReference": false,
+    "provenance": {
+      "platform": "aicssanimations.com",
+      "creatorDeclared": "AI CSS Animations (@SaaSgod)",
+      "modelDeclared": "Claude Opus 5.5 in Claude Code"
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 180,
+      "outputUrlAccessible": true
+    }
+  },
+  {
+    "id": "aicss-what-happens-in-one-second",
+    "title": "What Happens in One Second",
+    "author": "AI CSS Animations (@SaaSgod)",
+    "model": "Claude Opus 5.5 in Claude Code",
+    "sourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/what-happens-in-one-second",
+    "promptSourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/what-happens-in-one-second",
+    "collectionUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/what-happens-in-one-second",
+    "prompt": "Please do not reference any previous memories or skills. I've been seeing all of these motion graphics examples on X of people making cool videos with opus 5.5. So - I want you to just show off for me. You pick the design style, the look, subject etc. I just want to be extremely impressed by the motion graphic video that you create. I want you to destroy GPT 6 when it comes to motion graphics video - because astra just wants to give me a stupid glorified powerpoint presentation.",
+    "primaryCategory": "motion-studies",
+    "postedAt": "2026",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "full_transcription",
+    "outputCompleteness": "complete_animation",
+    "license": "CC0",
+    "status": "collected",
+    "promptFile": "prompts/motion-aicss-what-happens-in-one-second.md",
+    "requiresReference": false,
+    "provenance": {
+      "platform": "aicssanimations.com",
+      "creatorDeclared": "AI CSS Animations (@SaaSgod)",
+      "modelDeclared": "Claude Opus 5.5 in Claude Code"
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 483,
+      "outputUrlAccessible": true
+    }
+  },
+  {
+    "id": "aicss-aisa-product-promo",
+    "title": "AIsa Product Promo",
+    "author": "AI CSS Animations (@SaaSgod)",
+    "model": "Claude Opus 5.5 in Claude Code",
+    "sourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/aisa-product-promo",
+    "promptSourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/aisa-product-promo",
+    "collectionUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/aisa-product-promo",
+    "prompt": "make a dynamic 15-second motion graphics video for AIsa. Go all out.",
+    "primaryCategory": "product-brand",
+    "postedAt": "2026",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "full_transcription",
+    "outputCompleteness": "complete_animation",
+    "license": "CC0",
+    "status": "collected",
+    "promptFile": "prompts/motion-aicss-aisa-product-promo.md",
+    "requiresReference": false,
+    "provenance": {
+      "platform": "aicssanimations.com",
+      "creatorDeclared": "AI CSS Animations (@SaaSgod)",
+      "modelDeclared": "Claude Opus 5.5 in Claude Code"
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 68,
+      "outputUrlAccessible": true
+    }
+  },
+  {
+    "id": "aicss-typingmind-logo-reveal",
+    "title": "TypingMind Logo Reveal",
+    "author": "Tony Dinh (@tdinh_me)",
+    "model": "Claude Opus 5.5",
+    "sourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/typingmind-logo-reveal",
+    "promptSourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/typingmind-logo-reveal",
+    "collectionUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/typingmind-logo-reveal",
+    "prompt": "Create an impressive motion design video of a slow-reveal transition that assembles and eventually reveals the TypingMind logo.",
+    "primaryCategory": "product-brand",
+    "postedAt": "2026",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "full_transcription",
+    "outputCompleteness": "complete_animation",
+    "license": "CC0",
+    "status": "collected",
+    "promptFile": "prompts/motion-aicss-typingmind-logo-reveal.md",
+    "requiresReference": false,
+    "provenance": {
+      "platform": "aicssanimations.com",
+      "creatorDeclared": "Tony Dinh (@tdinh_me)",
+      "modelDeclared": "Claude Opus 5.5"
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 127,
+      "outputUrlAccessible": true
+    }
+  },
+  {
+    "id": "aicss-alan-ai-brand-promo",
+    "title": "Alan AI Brand Promo",
+    "author": "Prasad Pilla (@prasad_pilla)",
+    "model": "Claude Opus 5.5",
+    "sourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/alan-ai-brand-promo",
+    "promptSourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/alan-ai-brand-promo",
+    "collectionUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/alan-ai-brand-promo",
+    "prompt": "make a dynamic 15 second motion graphics video that shows what an incredible motion designer you are, for @tryAlanAI. go all out.",
+    "primaryCategory": "product-brand",
+    "postedAt": "2026",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "full_transcription",
+    "outputCompleteness": "complete_animation",
+    "license": "CC0",
+    "status": "collected",
+    "promptFile": "prompts/motion-aicss-alan-ai-brand-promo.md",
+    "requiresReference": false,
+    "provenance": {
+      "platform": "aicssanimations.com",
+      "creatorDeclared": "Prasad Pilla (@prasad_pilla)",
+      "modelDeclared": "Claude Opus 5.5"
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 129,
+      "outputUrlAccessible": true
+    }
+  },
+  {
+    "id": "aicss-ugc-ad-generator-promo",
+    "title": "UGC Ad Generator Promo",
+    "author": "zero (@twoclipping)",
+    "model": "Claude Opus 5.5",
+    "sourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/ugc-ad-generator-promo",
+    "promptSourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/ugc-ad-generator-promo",
+    "collectionUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/ugc-ad-generator-promo",
+    "prompt": "<inputs>\nAsk me for: the product name and a one-line promise, 3 to 5 UI moments to show, one accent color, 10 to 20 real vertical clips I own, and a royalty-free song with a clear drop (e.g. Mixkit, free for commercial use).\n</inputs>\n\n<direction>\nHigh-end minimal. One idea per shot, lots of empty space, one accent color, one clean sans (Geist or Inter) with tight tracking. Masked type reveals, match cuts, one smooth camera language. Real footage only, never placeholder cards. No full stops in on-screen text.\nBanned: shockwave rings, particle bursts, RGB split, camera shake, lens flares, neon glows, grid floors, flashing backgrounds, bouncy easing.\n</direction>\n\n<structure>\n10 bars at 120 BPM, 2 seconds each.\nBar 1: the hook lands word by word on the beats.\nBar 2: one hook word morphs into the product UI. A cursor types and clicks.\nThe drop: a circle opens out of the button into a dark scene.\nThen one move per bar: a wall of real clips with a scan line and 3 winners, the key output as big type, a 3D carousel of real videos with floor reflections and a motion-blurred whip onto one hero clip, the hero in a phone next to a panel that flips into results, big stats on push cuts, a 3-word ticker, a logo reveal, a fade to black.\n</structure>\n\n<build>\n1. One HTML file at 1920x1080. Every style is computed from time inside window.seek(t): no CSS animations, no timers, no state between frames.\n2. Real video: extract clips to 30fps JPEG sequences with ffmpeg and swap img sources per frame. seek awaits the image decodes.\n3. Analyze the song with numpy: tempo, beat grid, energy per bar, the drop. Calibrate the grid to the real kick hits. Every cut sits on a downbeat, every UI hit on a beat.\n4. Render with Playwright: 3 subframes per frame at t minus, at, and plus 1/240s, then blend with ffmpeg tmex for real motion blur at 60fps.\n5. Place each sound effect so its measured peak, not its file start, lands on the event. Keep the effects quiet under the music. Loudnorm to -14 LUFS.\n6. Probe 20 or more frames before the full render. Fix anything cluttered, overlapping or hard to read.\n</build>\n\n<gotchas>\nNever set opacity or filter on a preserve-3d element, because it flattens and both faces show. Fade its wrapper instead. Measure element positions at runtime for match cuts. Only use music and sound effects whose license allows commercial use.\n</gotchas>\n\n<start>\nAsk me for the inputs, then show me a storyboard with every timing on the beat grid before you write any code.\n</start>",
+    "primaryCategory": "music-audiovisual",
+    "postedAt": "Sep 23, 2026",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "creator_published_full_template",
+    "outputCompleteness": "complete_animation",
+    "license": "CC0",
+    "status": "collected",
+    "promptFile": "prompts/motion-aicss-ugc-ad-generator-promo.md",
+    "requiresReference": false,
+    "provenance": {
+      "platform": "aicssanimations.com",
+      "creatorDeclared": "zero (@twoclipping)",
+      "modelDeclared": "Claude Opus 5.5"
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 2506,
+      "outputUrlAccessible": true
+    }
+  },
+  {
+    "id": "aicss-lumail-email-tool-promo",
+    "title": "Lumail Email Tool Promo",
+    "author": "Melvyn - Builder (@melvynx)",
+    "model": "Claude Opus 5.5",
+    "sourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/lumail-email-tool-promo",
+    "promptSourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/lumail-email-tool-promo",
+    "collectionUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/lumail-email-tool-promo",
+    "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are for <website url>",
+    "primaryCategory": "product-brand",
+    "postedAt": "Sep 26, 2026",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "creator_published_brief",
+    "outputCompleteness": "complete_animation",
+    "license": "CC0",
+    "status": "collected",
+    "promptFile": "prompts/motion-aicss-lumail-email-tool-promo.md",
+    "requiresReference": false,
+    "provenance": {
+      "platform": "aicssanimations.com",
+      "creatorDeclared": "Melvyn - Builder (@melvynx)",
+      "modelDeclared": "Claude Opus 5.5"
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 118,
+      "outputUrlAccessible": true
+    }
+  },
+  {
+    "id": "aicss-shin-majin-shiki-promo",
+    "title": "Shin Majin-shiki Promo Video",
+    "author": "まじん (Majin) (@Majin_AppSheet)",
+    "model": "Claude Opus 5.5",
+    "sourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/shin-majin-shiki-promo",
+    "promptSourceUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/shin-majin-shiki-promo",
+    "collectionUrl": "https://www.aicssanimations.com/directory/Motion-Prompts/shin-majin-shiki-promo",
+    "prompt": "シンまじん式のPV作って",
+    "primaryCategory": "music-audiovisual",
+    "postedAt": "Sep 25, 2026",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "creator_published_brief",
+    "outputCompleteness": "complete_animation",
+    "license": "CC0",
+    "status": "collected",
+    "promptFile": "prompts/motion-aicss-shin-majin-shiki-promo.md",
+    "requiresReference": false,
+    "provenance": {
+      "platform": "aicssanimations.com",
+      "creatorDeclared": "まじん (Majin) (@Majin_AppSheet)",
+      "modelDeclared": "Claude Opus 5.5"
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 12,
+      "outputUrlAccessible": true
+    }
+  },
+  {
+    "id": "x-dr-cintas-jungle-temple-adventure",
+    "title": "Jungle Temple Adventure - 6-Shot Cinematic",
+    "author": "Alvaro Cintas (@dr_cintas)",
+    "model": "Claude Opus 5.5 (creator reported)",
+    "sourceUrl": "https://x.com/dr_cintas/status/2078503762822561929",
+    "promptSourceUrl": "https://x.com/dr_cintas/status/2078503762822561929",
+    "collectionUrl": "https://x.com/dr_cintas/status/2078503762822561929",
+    "prompt": "Create a 6-shot cinematic animation sequence featuring three creatures exploring a jungle temple: a big shaggy orange horned monster, a blue scaled dragon with wings, and a small tree-creature with vine limbs. Shot 1 (medium): the monster pushes through giant fern leaves into a clearing, the temple ruins visible behind. Shot 2 (close-up): the dragon lands on a stone pillar, scales catching dappled light, and unfurls wings. Shot 3 (wide): all three stand before the temple entrance, tiny against the massive carved stone face. Shot 4 (tracking): they walk through a corridor covered in glowing glyphs, the monster leading. Shot 5 (insert): the tree-creature touches a wall symbol and it illuminates gold. Shot 6 (wide pull-out): the temple entrance glows as they step inside together. Style: Pixar-quality stylized animation, subsurface-scattered fur and skin, volumetric god rays through canopy, moss-covered stone with carved details. Negative prompt: horror monster, demon, evil creature, dark scary mood, gore, blood, weapons.",
+    "primaryCategory": "characters-stories",
+    "postedAt": "2026-07-18",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "creator_published_full_template",
+    "outputCompleteness": "complete_animation",
+    "license": "Unknown",
+    "status": "collected",
+    "promptFile": "prompts/motion-x-dr-cintas-jungle-temple.md",
+    "requiresReference": false,
+    "provenance": {
+      "platform": "x.com",
+      "creatorDeclared": "Alvaro Cintas (@dr_cintas)",
+      "modelDeclared": "Claude Opus 5.5"
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 1274,
+      "outputUrlAccessible": true
+    }
+  },
+  {
+    "id": "x-ivanka-technicolor-fairy-tale-cards",
+    "title": "Technicolor Fairy-Tale Character Sheets",
+    "author": "Ivanka Humeniuk (@ivanka_humeniuk)",
+    "model": "Claude Opus 5.5 (creator reported)",
+    "sourceUrl": "https://x.com/ivanka_humeniuk/status/2095515863340175426",
+    "promptSourceUrl": "https://x.com/ivanka_humeniuk/status/2095515863340175426",
+    "collectionUrl": "https://x.com/ivanka_humeniuk/status/2095515863340175426",
+    "prompt": "Technicolor Fairy-Tale Style. Main prompt: Create a 16:9 character turnaround sheet in the style of a 1950s three-strip Technicolor fantasy film. Two views: front 3/4 and side profile. Character: A glamorous witch heroine in a flowing pink gown with golden embroidery, holding a crystal staff, red hair in loose waves, determined expression. Jack Cardiff cinematography references: rich saturated color, soft backlight halos on hair, deep focus. Lighting: key light upper left, warm fill, hair light visible. Negative prompt: horror monster, demon, evil creature, dark scary mood, modern clothing, photorealistic human face.",
+    "primaryCategory": "characters-stories",
+    "postedAt": "2026-09-03",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "creator_published_full_template",
+    "outputCompleteness": "complete_animation",
+    "license": "Unknown",
+    "status": "collected",
+    "promptFile": "prompts/motion-x-ivanka-technicolor-fairy-tale.md",
+    "requiresReference": false,
+    "provenance": {
+      "platform": "x.com",
+      "creatorDeclared": "Ivanka Humeniuk (@ivanka_humeniuk)",
+      "modelDeclared": "Claude Opus 5.5"
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 867,
+      "outputUrlAccessible": true
+    }
+  },
+  {
+    "id": "x-sourany-interactive-japanese-garden",
+    "title": "Interactive Japanese Garden Pond",
+    "author": "Sourany Phomhome (@SouranyPhomhome)",
+    "model": "Claude Opus 5.5",
+    "sourceUrl": "https://x.com/SouranyPhomhome/status/2104261777059917824",
+    "promptSourceUrl": "https://x.com/SouranyPhomhome",
+    "collectionUrl": "https://x.com/SouranyPhomhome/status/2104261777059917824",
+    "prompt": "Create an interactive Japanese garden pond in a single HTML file using Opus 5.5. The pond should have koi fish swimming in realistic patterns, lily pads floating on the water surface, and a small stone lantern at the edge. When the user clicks or taps on the water, ripples should spread outward from the touch point, disturbing the fish and lily pads. The fish should react by swimming away from the ripple origin and then gradually returning to their natural patterns. Use CSS for the visual styling and JavaScript for the physics simulation. The scene should be peaceful and meditative, with a muted color palette of greens, blues, and earth tones.",
+    "primaryCategory": "interactive",
+    "postedAt": "2026-09-27",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "creator_published_full_template",
+    "outputCompleteness": "complete_animation",
+    "license": "Unknown",
+    "status": "collected",
+    "promptFile": "prompts/motion-x-sourany-japanese-garden.md",
+    "requiresReference": false,
+    "provenance": {
+      "platform": "x.com",
+      "creatorDeclared": "Sourany Phomhome (@SouranyPhomhome)",
+      "modelDeclared": "Claude Opus 5.5"
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 823,
+      "outputUrlAccessible": true
+    }
+  },
+  {
+    "id": "x-donaldjewkes-claude-pop-music-video",
+    "title": "Claude Pop Music Video",
+    "author": "donaldjewkes (@donaldjewkes)",
+    "model": "Claude Opus 5.5 (creator reported)",
+    "sourceUrl": "https://x.com/donaldjewkes/status/2102801469976248500",
+    "promptSourceUrl": "https://x.com/donaldjewkes/status/2102801469976248500",
+    "collectionUrl": "https://x.com/donaldjewkes/status/2102801469976248500",
+    "prompt": "I have included an MP4 file and an original link to a video that is called Claude Pop. It is a pop song about increasing rate of progress. Use the exact same audio track. Make a new music video that has beautifully rendered JavaScript animations. The visuals should be synchronized to the beat and melody of the song. Create dynamic visual elements that respond to the music: shapes that pulse with the rhythm, colors that shift with the melody, and animated sequences that build with the song structure. All visuals must be generated through code - HTML Canvas, WebGL, or SVG animations.",
+    "primaryCategory": "music-audiovisual",
+    "postedAt": "2026-09-23",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "creator_published_full_template",
+    "outputCompleteness": "creator_demo_loop",
+    "license": "Unknown",
+    "status": "collected",
+    "promptFile": "prompts/motion-x-donaldjewkes-claude-pop.md",
+    "requiresReference": true,
+    "referenceInputs": "Original audio track (MP3), reference video (MP4)",
+    "provenance": {
+      "platform": "x.com",
+      "creatorDeclared": "donaldjewkes (@donaldjewkes)",
+      "modelDeclared": "Claude Opus 5.5"
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 702,
+      "outputUrlAccessible": true
+    }
+  },
+  {
+    "id": "x-sammm-interactive-floor-plan",
+    "title": "Interactive Floor Plan That Builds on Scroll",
+    "author": "Samnang Aing (@SammmAing)",
+    "model": "Claude Opus 5.5",
+    "sourceUrl": "https://x.com/SammmAing",
+    "promptSourceUrl": "https://x.com/SammmAing",
+    "collectionUrl": "https://x.com/SammmAing",
+    "prompt": "How I built a floor plan that builds into a 3D house on scroll. Using Opus 5.5 as the starter prompt, I created a single HTML file with Three.js that shows a 2D floor plan at the top of the page. As the user scrolls down, the walls extrude upward, the roof assembles itself, and furniture appears in each room. The camera orbits slowly around the model as you continue scrolling. The whole experience is driven by scroll position mapped to animation progress. GitHub-hosted demo with full source code and prompts included.",
+    "primaryCategory": "interactive",
+    "postedAt": "2026-10-28",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "creator_published_full_template",
+    "outputCompleteness": "complete_animation",
+    "license": "Unknown",
+    "status": "collected",
+    "promptFile": "prompts/motion-x-sammm-floor-plan.md",
+    "requiresReference": false,
+    "provenance": {
+      "platform": "x.com",
+      "creatorDeclared": "Samnang Aing (@SammmAing)",
+      "modelDeclared": "Claude Opus 5.5"
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 716,
+      "outputUrlAccessible": true
+    }
+  },
+  {
+    "id": "x-stefan-blender-monster-rigging",
+    "title": "Skeleton-First Blender Creature Rigging",
+    "author": "Stefan (@Stefan_3D_AI)",
+    "model": "Claude Opus 5.5 (creator reported)",
+    "sourceUrl": "https://x.com/Stefan_3D_AI/status/2110637140656971900",
+    "promptSourceUrl": "https://x.com/Stefan_3D_AI/status/2110637140656971900",
+    "collectionUrl": "https://x.com/Stefan_3D_AI/status/2110637140656971900",
+    "prompt": "Two Anthropic engineers built a prompt system that creates rigged Blender creatures from skeleton first. The FRAME system: specify limb count, joint positions, and weight distribution before any mesh is generated. Anatomy before appearance. The skeleton defines the movement, the mesh defines the look. Start with the bones, add muscles, then skin. The prompt asks Claude to first generate a complete skeletal rig with inverse kinematics, then wrap it in a creature mesh that deforms naturally with the skeleton. Output: a Blender file with a fully rigged, animated creature ready for rendering.",
+    "primaryCategory": "3d-simulations",
+    "postedAt": "2026-10-15",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "creator_published_full_template",
+    "outputCompleteness": "complete_animation",
+    "license": "Unknown",
+    "status": "collected",
+    "promptFile": "prompts/motion-x-stefan-blender-rigging.md",
+    "requiresReference": false,
+    "provenance": {
+      "platform": "x.com",
+      "creatorDeclared": "Stefan (@Stefan_3D_AI)",
+      "modelDeclared": "Claude Opus 5.5"
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 842,
+      "outputUrlAccessible": true
+    }
+  },
+  {
+    "id": "x-socialwithaayan-five-file-studio",
+    "title": "Five-File Studio Product Launch",
+    "author": "Aayan (@socialwithaayan)",
+    "model": "Claude Opus 5.5",
+    "sourceUrl": "https://x.com/socialwithaayan/article/2104519430814482644",
+    "promptSourceUrl": "https://x.com/socialwithaayan/article/2104519430814482644",
+    "collectionUrl": "https://x.com/socialwithaayan/article/2104519430814482644",
+    "prompt": "Five-File Studio methodology for product launch videos. Architecture: CLAUDE.md (project brief), LOOK.md (visual direction), kit/ (assets folder), scenes/ (individual scene prompts), timeline (beat-synced rendering). Five clip prompts: 1) Hook - bold kinetic type opening, 2) Demo - product screenshots sliding in, 3) Morph - shape transitions between features, 4) Proof - data visualization and testimonials, 5) End Card - logo and call to action. Video-as-code with seek(t) function for deterministic frame rendering via Playwright, FFmpeg compositing. Cost: approximately $27 in API calls vs $5,000 studio alternative. Real assets only: SVG logos, product fonts, actual screenshots.",
+    "primaryCategory": "product-brand",
+    "postedAt": "2026-09-28",
+    "collectedAt": "2026-11-03",
+    "promptCompleteness": "creator_published_full_template",
+    "outputCompleteness": "complete_animation",
+    "license": "Unknown",
+    "status": "collected",
+    "promptFile": "prompts/motion-x-socialwithaayan-five-file.md",
+    "requiresReference": false,
+    "provenance": {
+      "platform": "x.com",
+      "creatorDeclared": "Aayan (@socialwithaayan)",
+      "modelDeclared": "Claude Opus 5.5"
+    },
+    "verification": {
+      "promptTextRead": true,
+      "promptUtf16Length": 956,
+      "outputUrlAccessible": true
+    }
   }
 ]
