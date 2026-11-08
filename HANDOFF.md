@@ -1,6 +1,6 @@
 # Motion Prompts 每日维护交接
 
-更新时间：2026-11-07（北京时间）。本文记录当前已验证状态及后续执行方法；后续运行须重新检查远端、工作区和生产版本，不把本快照当作实时状态。
+更新时间：2026-11-08（北京时间）。本文记录当前已验证状态及后续执行方法；后续运行须重新检查远端、工作区和生产版本，不把本快照当作实时状态。
 
 ## 1. 任务目标与授权
 
@@ -26,34 +26,35 @@
 
 ## 3. 当前完成状态
 
-2026-11-07已收集、双仓库推送、发布并通过正式域名API验收。今日新增50条。
+2026-11-08已收集、双仓库推送、发布并通过正式域名API验收。今日新增54条。
 
 | 项目 | 数量或状态 |
 | --- | --- |
-| 当天新增 | 50条 |
-| 来源数据总量 | 1551条 |
-| 网站原始导入量 | 1551条 |
+| 当天新增 | 54条 |
+| 来源数据总量 | 1605条 |
+| 网站原始导入量 | 1605条 |
 | 历史质量排除 | 197条，保持不变 |
-| 无海报条目 | 约366条 |
-| 网站实际可展示 | 1185条；本批实际新增32条（18条无海报生成或为X帖子） |
+| 有海报条目 | 1190条 |
+| 网站实际可展示 | 1185条（API返回total） |
 | 新增精选 / 新增排除 / 导入失败 | 0 / 0 / 0 |
-| Node测试 / Python回归 | 16项通过（含2项计数断言更新） / 1项通过 |
-| 正式发布版本 | `0d4517df-3dba-41c6-8223-746724b45f82` |
+| Node测试 / Python回归 | motion-catalog 11/11通过 + gallery 10/10通过 / 1/1通过 |
+| 正式发布版本 | `e3078f15-78c8-426a-9903-0b908d558373` |
 
-当天分类（50条）：`product-brand` 7、`motion-studies` 7、`explainers-data` 8、`characters-stories` 7、`3d-simulations` 8、`interactive` 7、`music-audiovisual` 6。七类本日均达标（≥5）。
+当天分类（54条）：`product-brand` 6、`motion-studies` 11、`explainers-data` 11、`characters-stories` 5、`3d-simulations` 9、`interactive` 10、`music-audiovisual` 2。music-audiovisual 缺3条（仅找到2条 genuine 音乐/音频驱动作品：@flxrnc Liquid Chrome with Web Audio synthesis、@kloss_xyz showreel with original piano score）。
 
 提交记录：
 
-- [来源数据 0e25afb](https://github.com/rudy2steiner/awesome-ai-motion-prompts/commit/0e25afb)
-- [来源日报](https://github.com/rudy2steiner/awesome-ai-motion-prompts/blob/main/data/collection-reports/2026-11-07.md)
-- [网站数据 c912230](https://github.com/rudy2steiner/open-prompts/commit/c912230)
-- [网站发布验收](https://github.com/rudy2steiner/open-prompts/commit/c912230)
+- [来源数据 ccb5de4](https://github.com/rudy2steiner/awesome-ai-motion-prompts/commit/ccb5de4)
+- [来源日报](https://github.com/rudy2steiner/awesome-ai-motion-prompts/blob/main/data/collection-reports/2026-11-08.md)
+- 网站部署版本 `e3078f15-78c8-426a-9903-0b908d558373`
 
-详细证据见 [2026-11-07日报](data/collection-reports/2026-11-07.md)。**10月29日音乐类只有2条、缺3条的历史问题仍保留，不倒算补齐。**
+详细证据见 [2026-11-08日报](data/collection-reports/2026-11-08.md)。
 
 已知预存问题：`tests/motion-media-performance.test.ts` 有1项测试在原始main上即失败（previewVideo匹配逻辑与catalog video分辨率不一致），与本次导入无关。
 
-本次撰写交接时，网站原工作区有其他任务修改：`src/components/prompt-gallery/CoverImage.tsx`、`tests/gallery-native-first-paint.test.tsx`、`messages/*.json`、`next.config.mjs`、`src/app/` 多个页面、`src/lib/seo/` 等。不要暂存、丢弃或直接将它们纳入本任务发布；实际操作前重新检查状态。
+本次撰写交接时，网站原工作区有其他任务修改。不要暂存、丢弃或直接将它们纳入本任务发布；实际操作前重新检查状态。
+
+**网站同步关键修复**：导入后需确保 featured 条目（status='featured'）在 catalog 数组中位于首位，否则 curated 排序测试会失败。导入器会重排条目顺序。
 
 ## 4. 来源数据维护
 
@@ -155,8 +156,10 @@ NODE_OPTIONS='--require=./scripts/cloudflare-upload-timeout.cjs' node_modules/.b
 ## 8. 下一轮接手清单
 
 - 先读本交接、最新日报和网站集成文档，核对两个仓库远端与工作区。
-- 从新日期开始累计，11-07的50条已上线（总计1551条、可展示1185条），不重复导入或计为新收集。
+- 从新日期开始累计，11-08的54条已上线（总计1605条、可展示1185条），不重复导入或计为新收集。
 - 继续扩展近期原作者来源，改善音乐类来源和高质量精选审核；不要长期靠单一旧模板来源完成数量。
-- 当前没有未完成发布或浏览器验收；29日音乐缺口属于历史记录。导入器字段保留和截图异常仍是已知风险，后续修改工具需另行验证。
+- music-audiovisual 是最难补充的分类。AI音乐视频提示词带真实输出URL的极为稀少。11-08仅找到2条（@flxrnc Liquid Chrome with Web Audio synthesis、@kloss_xyz showreel with original piano score），缺口-3。
+- 当前没有未完成发布或浏览器验收。导入器字段保留和截图异常仍是已知风险，后续修改工具需另行验证。
+- **导入器重排修复**：导入后 catalog 数组顺序会被打乱，featured 条目可能不在首位。需手动将 status='featured' 的条目移到数组首位，否则 curated 排序测试失败。
 - `tests/motion-media-performance.test.ts` 的1项预存失败已知（previewVideo匹配问题），不影响功能；后续如修复需同步更新相关断言。
 - 完成后日报分别列来源新增、七类数量、精选变化、导入/可展示/排除/失败数量、两个仓库提交链接、发布版本和正式网页验收。失败时说明已完成部分及具体阻塞，不声称已上线。
