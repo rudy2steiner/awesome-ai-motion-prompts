@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-1551 works with prompt text saved in this repository. The collection includes published briefs, workflows and reusable animation templates. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+1605 works with prompt text saved in this repository. The collection includes published briefs, workflows and reusable animation templates. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -237,6 +237,12 @@
 
 
 <a id="motion-studies"></a>
+- [Chaos to Calm Transition](https://www.aicssanimations.com/directory/Motion-Prompts/before-after-chaos-to-calm) — AI CSS Animations · Claude Opus 5.5 in Claude Code · [Prompt](../prompts/motion-aicss-before-after-chaos-to-calm.md#prompt)
+- [Business Motion Film Kit](https://github.com/echris6/motion-video-kit) — echris6 · Claude Code · [Prompt](../prompts/motion-aicss-business-motion-film-kit.md#prompt)
+- [Organic Friendly Shapes](https://www.aicssanimations.com/previews/organic-friendly-shapes.mp4) — AI CSS Animations · Claude Opus 5.5 in Claude Code · [Prompt](../prompts/motion-aicss-organic-friendly-shapes.md#prompt)
+- [@TawohAwa (Awa K. Penn) AI Motion](https://pbs.twimg.com/amplify_video_thumb/2104896287883845632/img/pwqhtl9Ntc8Fv0QK?format=webp&name=medium) — TawohAwa · Claude Opus 5.5 · [Prompt](../prompts/motion-x-tawohawa-awa-k.-penn-20260929.md#prompt)
+- [HyperFrames Launch Video](https://x.com/rryssf/status/2109336862099911149) — rryssf · Claude Opus 5.5 · [Prompt](../prompts/motion-x-rryssf-hyperframes-20261011.md#prompt)
+- [SaaS Product Launch](https://skillry.dev/ai-videos/opus-5-5/moritzkremb-466494) — moritzkremb · Claude Opus 5.5 · [Prompt](../prompts/motion-x-moritzkremb-saas-20261012.md#prompt)
 
 ## Typography & Motion Studies
 
@@ -510,6 +516,17 @@
 
 
 <a id="explainers-data"></a>
+- [Archival Photo Parallax](https://www.aicssanimations.com/directory/Motion-Prompts/archival-photo-parallax) — AI CSS Animations · Claude Opus 5.5 in Claude Code · [Prompt](../prompts/motion-aicss-archival-photo-parallax.md#prompt)
+- [Chalkboard Lettering](https://www.aicssanimations.com/directory/Motion-Prompts/chalkboard-lettering) — AI CSS Animations · Claude Opus 5.5 in Claude Code · [Prompt](../prompts/motion-aicss-chalkboard-lettering.md#prompt)
+- [Extruded 3D Type](https://www.aicssanimations.com/previews/extruded-3d-type.mp4) — AI CSS Animations · Claude Opus 5.5 in Claude Code · [Prompt](../prompts/motion-aicss-extruded-3d-type.md#prompt)
+- [Wireframe Vector World](https://www.aicssanimations.com/previews/wireframe-vector-world.mp4) — AI CSS Animations · Claude Opus 5.5 in Claude Code · [Prompt](../prompts/motion-aicss-wireframe-vector-world.md#prompt)
+- [@0xMovez AI Motion](https://x.com/0xMovez/article/2104216919033192746) — 0xMovez · Claude Opus 5.5 · [Prompt](../prompts/motion-x-0xmovez-20260927.md#prompt)
+- [@daniel_mac8 AI Motion](https://x.com/daniel_mac8/status/2103666105461924131/video/1) — daniel_mac8 · Claude Opus 5.5 · [Prompt](../prompts/motion-x-daniel_mac8-20260926.md#prompt)
+- [@Dannnnnok (Tasher) AI Motion](https://pbs.twimg.com/amplify_video_thumb/2103781198417788928/img/wGOsQjt4SWpmNrE4?format=webp&name=medium) — Dannnnnok · Claude Opus 5.5 · [Prompt](../prompts/motion-x-dannnnnok-tasher-20260926.md#prompt)
+- [@aiedge_ AI Motion](https://x.com/aiedge_/article/2112552093483671966) — aiedge_ · Claude Opus 5.5 (via Claude Code) · [Prompt](../prompts/motion-x-aiedge_-20261020.md#prompt)
+- [Opus 5.5 Self Introduction](https://x.com/1littlecoder/status/2104100525584830464) — 1littlecoder · Claude Opus 5.5 · [Prompt](../prompts/motion-x-1littlecoder-intro-20260928.md#prompt)
+- [Motion Director Critique Loop](https://x.com/mablesjoseph/status/2103465246014601469) — mablesjoseph · Claude Opus 5.5 · [Prompt](../prompts/motion-x-mablesjoseph-critique-20260925.md#prompt)
+- [GPT Image Animated GIF](https://x.com/Div_pradeep/status/2118712684426449073) — Div_pradeep · GPT-Image-2.6 · [Prompt](../prompts/motion-x-div-pradeep-gif-20261106.md#prompt)
 
 ## Explainers & Data
 
@@ -713,6 +730,17 @@
 
 
 <a id="characters-stories"></a>
+- [3D Sales Ranking Tower](https://x.com/DilumSanjaya/status/2018367621381620142) — Dilum Sanjaya · Claude Code · [Prompt](../prompts/motion-aicss-3d-sales-ranking-tower.md#prompt)
+- [AI Data Centre 3D Tour](https://x.com/Sayan_shanky/status/2103736579449868515) — Sayan Gupta · Claude Opus 5.5 (high effort) · [Prompt](../prompts/motion-aicss-ai-data-centre-3d-tour.md#prompt)
+- [AI Summary With Citations](https://www.aicssanimations.com/directory/Motion-Prompts/ai-doc-summary-citations) — AI CSS Animations · Claude Opus 5.5 in Claude Code · [Prompt](../prompts/motion-aicss-ai-doc-summary-citations.md#prompt)
+- [Annotated Product Walkthrough](https://www.aicssanimations.com/directory/Motion-Prompts/annotated-walkthrough-marker) — AI CSS Animations · Claude Opus 5.5 in Claude Code · [Prompt](../prompts/motion-aicss-annotated-walkthrough-marker.md#prompt)
+- [API Request and Response](https://www.aicssanimations.com/directory/Motion-Prompts/api-request-response) — AI CSS Animations · Claude Opus 5.5 in Claude Code · [Prompt](../prompts/motion-aicss-api-request-response.md#prompt)
+- [Architectural Sun Study](https://www.aicssanimations.com/directory/Motion-Prompts/architectural-sun-study) — AI CSS Animations · Claude Opus 5.5 in Claude Code · [Prompt](../prompts/motion-aicss-architectural-sun-study.md#prompt)
+- [Blueprint and Paper Explainer Film](https://github.com/kuhnhomeuk-cell/procedural-film) — its_Irissss · Claude Code · [Prompt](../prompts/motion-aicss-blueprint-paper-explainer-film.md#prompt)
+- [Blueprint UX Redesign](https://github.com/moguzbulbul/blueprint-animation) — Oğuz Bülbül · Claude Design · [Prompt](../prompts/motion-aicss-blueprint-ux-redesign.md#prompt)
+- [Customer Case Study Metrics](https://www.aicssanimations.com/directory/Motion-Prompts/case-study-metric-callouts) — AI CSS Animations · Claude Opus 5.5 in Claude Code · [Prompt](../prompts/motion-aicss-case-study-metric-callouts.md#prompt)
+- [History Showreel](https://x.com/sonnylazuardi/status/2103885833535193089) — sonnylazuardi · Claude Opus 5.5 · [Prompt](../prompts/motion-x-sonnylazuardi-history-20260927.md#prompt)
+- [Cocktail Recipe Animation](https://skillry.dev/ai-videos/opus-5-5/ror-fly-880547) — Ror_Fly · Claude Opus 5.5 · [Prompt](../prompts/motion-x-ror-fly-cocktail-20261012.md#prompt)
 
 ## Characters & Stories
 
@@ -886,6 +914,11 @@
 
 
 <a id="3d-simulations"></a>
+- [Blender Claymation](https://github.com/angrypenguinpng/blender-claymation-skill) — AP · Claude Code · [Prompt](../prompts/motion-aicss-blender-claymation.md#prompt)
+- [@davelee AI Motion](https://pbs.twimg.com/amplify_video_thumb/2115849251431612418/img/placeholder?format=webp&name=medium) — davelee · Claude Opus 5.5 (Medium) · [Prompt](../prompts/motion-x-davelee-20261029.md#prompt)
+- [@xikhar (Shikhar) AI Motion](https://pbs.twimg.com/amplify_video_thumb/2105314256665329664/img/TgkM0SL2o6oW1fPL?format=webp&name=medium) — xikhar · Claude Opus 5.5 (Blender) · [Prompt](../prompts/motion-x-xikhar-shikhar-20260930.md#prompt)
+- [@AlexReibman (Alex Reibman) AI Motion](https://pbs.twimg.com/amplify_video_thumb/2113494721444335617/img/7_WlaXdxdF3LWKod?format=webp&name=medium) — AlexReibman · Claude Opus 5.5 (Blender) · [Prompt](../prompts/motion-x-alexreibman-alex-reibman-20261023.md#prompt)
+- [Halloween Pets Comedy](https://x.com/apob_ai/status/2116463607961813053) — apob_ai · Seedance 2.5 · [Prompt](../prompts/motion-x-apob-ai-halloween-pets-20261031.md#prompt)
 
 ## 3D & Simulations
 
@@ -1062,6 +1095,15 @@
 
 
 <a id="music-audiovisual"></a>
+- [@Bhavani_00007 AI Motion](https://pbs.twimg.com/amplify_video_thumb/2109710147841040384/img/P8BiaNiDdl2EQsPR?format=webp&name=medium) — Bhavani_00007 · Claude Opus 5.5 · [Prompt](../prompts/motion-x-bhavani_00007-20261012.md#prompt)
+- [@hasantoxr AI Motion](https://pbs.twimg.com/amplify_video_thumb/2117458086562787328/img/QxshmjFfscIKa2PE?format=webp&name=medium) — hasantoxr · LongCat-2.5 (via Claude Code) · [Prompt](../prompts/motion-x-hasantoxr-20261103.md#prompt)
+- [@berryxia AI Motion](https://pbs.twimg.com/amplify_video_thumb/2060176174903664640/img/cJ8niFUSeoXg7neP?format=webp&name=medium) — berryxia · Claude Opus 4.8 · [Prompt](../prompts/motion-x-berryxia-20260529.md#prompt)
+- [@terryyuezhuo AI Motion](https://pbs.twimg.com/amplify_video_thumb/1887541904025526549/img/placeholder?format=webp&name=medium) — terryyuezhuo · Not specified · [Prompt](../prompts/motion-x-terryyuezhuo-20250206.md#prompt)
+- [@keenanisalive (Keenan Crane) AI Motion](https://pbs.twimg.com/amplify_video_thumb/2104223359470796800/img/Ra1Qld5KAeL05DJg?format=webp&name=medium) — keenanisalive · Claude Opus 5.5 · [Prompt](../prompts/motion-x-keenanisalive-keenan-crane-20260927.md#prompt)
+- [@businessbarista (Alex Lieberman) AI Motion](https://pbs.twimg.com/amplify_video_thumb/2104217300672937984/img/83ybI3WQL2FafEQ6?format=webp&name=medium) — businessbarista · Claude Opus 5.5 · [Prompt](../prompts/motion-x-businessbarista-alex-lieberman-20260927.md#prompt)
+- [@KanaWorks_AI AI Motion](https://pbs.twimg.com/amplify_video_thumb/2118289347942416384/img/jl55crRoo0g-Gfpr?format=webp&name=medium) — KanaWorks_AI · Claude Opus 5.5 (Godot 4) · [Prompt](../prompts/motion-x-kanaworks_ai-20261105.md#prompt)
+- [@KlyroOG AI Motion](https://pbs.twimg.com/amplify_video_thumb/2118464597581508609/img/VQ1KD1OhPtH8yil4?format=webp&name=medium) — KlyroOG · Claude Opus 5.5 · [Prompt](../prompts/motion-x-klyroog-20261106.md#prompt)
+- [Three.js Helicopter Landing](https://x.com/agnesai_sapiens/status/2096144075430736113) — agnesai_sapiens · Agnes 2.5 Flash · [Prompt](../prompts/motion-x-agnesai-helicopter-20260905.md#prompt)
 
 ## Music & Audiovisual
 
@@ -1153,6 +1195,8 @@
 
 
 <a id="interactive"></a>
+- [Liquid Chrome Visual with Sound Design](https://x.com/flxrnc/status/2105311836190978392) — flxrnc · Claude Opus 5.5 · [Prompt](../prompts/motion-x-flxrnc-liquid-chrome-20260930.md#prompt)
+- [60s Showreel with Piano Score](https://x.com/kloss_xyz/status/2103570093154431289) — kloss_xyz · Claude Opus 5.5 · [Prompt](../prompts/motion-x-kloss-xyz-showreel-20260926.md#prompt)
 
 ## Interactive Experiences
 
@@ -1465,3 +1509,13 @@
 - [Motion Prompt: Preloader](https://showheyohtaki.github.io/motion-prompt/#089) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-089.md#prompt)
 - [Motion Prompt: Marquee](https://showheyohtaki.github.io/motion-prompt/#094) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-094.md#prompt)
 - [Motion Prompt: Animated gradient](https://showheyohtaki.github.io/motion-prompt/#095) — @Shohei Ohtaki / showheyohtaki · Model-agnostic motion direction · [Prompt](../prompts/motion-motion-prompt-vocab-095.md#prompt)
+- [AI Prompt to UI](https://www.aicssanimations.com/directory/Motion-Prompts/ai-prompt-generates-ui) — AI CSS Animations · Claude Opus 5.5 in Claude Code · [Prompt](../prompts/motion-aicss-ai-prompt-generates-ui.md#prompt)
+- [AR Walking Directions](https://www.aicssanimations.com/directory/Motion-Prompts/ar-walking-directions) — AI CSS Animations · Claude Opus 5.5 in Claude Code · [Prompt](../prompts/motion-aicss-ar-walking-directions.md#prompt)
+- [Card Pack Opening](https://www.aicssanimations.com/directory/Motion-Prompts/card-pack-opening) — AI CSS Animations · Claude Opus 5.5 in Claude Code · [Prompt](../prompts/motion-aicss-card-pack-opening.md#prompt)
+- [Chat Thread Story Ad](https://www.aicssanimations.com/directory/Motion-Prompts/chat-thread-story) — AI CSS Animations · Claude Opus 5.5 in Claude Code · [Prompt](../prompts/motion-aicss-chat-thread-story.md#prompt)
+- [@alex_prompter AI Motion](https://pbs.twimg.com/media/HBmKdNObUAAJmwF?format=webp&name=large) — alex_prompter · Gemini 3.1 Pro · [Prompt](../prompts/motion-x-alex_prompter-20260220.md#prompt)
+- [@dreyk0o0 AI Motion](https://pbs.twimg.com/amplify_video_thumb/2103821312711913472/img/24zAofg43XdtCCb9?format=webp&name=medium) — dreyk0o0 · Claude Opus 5.5 · [Prompt](../prompts/motion-x-dreyk0o0-20260926.md#prompt)
+- [@vib3coded AI Motion](https://pbs.twimg.com/amplify_video_thumb/2105353337780473856/img/3N_L5eIKlOdj9yH1?format=webp&name=medium) — vib3coded · Claude Opus 5.5 · [Prompt](../prompts/motion-x-vib3coded-20260930.md#prompt)
+- [@listudio (leolee) AI Motion](https://pbs.twimg.com/amplify_video_thumb/2104162242937995264/img/g4WXcLR5z_SjKYg-?format=webp&name=medium) — listudio · Claude Opus 5.5 (via Claude Code) · [Prompt](../prompts/motion-x-listudio-leolee-20260927.md#prompt)
+- [Three.js MacBook Recreation](https://x.com/MengTo/status/2096510126244999366) — MengTo · Claude Astra · [Prompt](../prompts/motion-x-mengto-macbook-20260906.md#prompt)
+- [Coconut Button Club](https://x.com/exploraX_/status/2116160132262318269) — exploraX_ · Claude Opus 5.5 · [Prompt](../prompts/motion-x-explorax-coconut-20261030.md#prompt)
