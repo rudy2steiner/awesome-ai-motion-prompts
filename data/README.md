@@ -2,7 +2,7 @@
 
 [Featured motions](../README.md#prompt-library) · [Submit a PR](../CONTRIBUTING.md)
 
-1961 works with prompt text saved in this repository. The collection includes published briefs, workflows and reusable animation templates. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
+2012 works with prompt text saved in this repository. The collection includes published briefs, workflows and reusable animation templates. Source attribution, reference requirements and review status are recorded on each prompt page; inclusion does not mean independent playback or model verification.
 
 ## Contents
 
@@ -15,6 +15,15 @@
 - [Interactive Experiences](#interactive)
 
 <a id="product-brand"></a>
+
+- [UGC-Style AI Fashion Brand Ad: 100% AI-Generated](https://x.com/amanxdesign) — amanxdesign · Nano Banana Pro + Seedance 2.0 + Kling + CapCut + Claude Code · [Prompt](../prompts/x-amanxdesign-ugc-fashion-ad-20260416.md)
+- [GPT-6.1 Sol + Figma: Motion Design Prompt-Template for Product Videos](https://x.com/AmirMushich/status/2105332054313341204) — AmirMushich · GPT-6.1 Sol + Figma + Claude + Codex + Figma MCP + Figma Motion · [Prompt](../prompts/x-AmirMushich-gpt61sol-figma-motion-20260930.md)
+- [Step-by-Step AI Motion Design Tutorials for SaaS and Fintech](https://x.com/Michael_CXT) — Michael_CXT · Claude Opus 5.5 + Fable 5.2 + HyperFrames · [Prompt](../prompts/x-MichaelCXT-saas-launch-tutorials-20261106.md)
+- [Opus 5.5 Extra Effort: 30-Second Motion Graphics Showreel for X](https://x.com/anshitbansal21/status/2106949358860316703) — anshitbansal21 · Claude Opus 5.5 (Extra effort) · [Prompt](../prompts/x-anshitbansal21-opus55-showreel-20261005.md)
+- [Opus 5.5 + Seedance 2.5: AI Product Video Creation Workflow](https://x.com/itsshara_ai) — itsshara_ai · Claude Opus 5.5 + Seedance 2.5 + CapCut PC · [Prompt](../prompts/x-itsshara-ai-opus55-seedance25-product-20261117.md)
+- [AI Motion Graphics: Best-in-Class AI Video for Brand Content](https://x.com/Motionfly_co) — Motionfly_co · Claude Opus 5.5 + AI video generation · [Prompt](../prompts/x-Motionfly-co-ai-motion-graphics-20261117.md)
+- [Kling AI 4.0 FLASH: 20-Second 720p Product Demos](https://x.com/gabemichael_ai) — gabemichael_ai · Kling AI 4.0 FLASH · [Prompt](../prompts/x-gabemichael-ai-kling40-flash-demos-20260928.md)
+- [Opus 5.5 + GPT 6: 6-Step Animated Marketing Video Workflow](https://x.com/shannholmberg/status/2103173892831674715) — shannholmberg · Claude Opus 5.5 + GPT 6 + Codex + GPT Image 2.5 + Paper + Figma · [Prompt](../prompts/x-shannholmberg-opus55-marketing-video-20260924.md)
 
 ## Product & Brand
 
@@ -237,6 +246,13 @@
 
 
 <a id="motion-studies"></a>
+
+- [Opus 5.5 Code-Based Motion Graphics: Frame-by-Frame seek(t) Architecture](https://x.com/FinanceYF5/status/2120045805096894884) — FinanceYF5 · Claude Opus 5.5 + Claude Code + Playwright + FFmpeg + Remotion + GSAP · [Prompt](../prompts/x-FinanceYF5-opus55-code-motion-20261110.md)
+- [Opus 5.5 Max Effort: 15-Second Motion Graphics Showreel (16K Likes)](https://x.com/stephanlivera/status/2103315922098470926) — stephanlivera · Claude Opus 5.5 (Max effort) · [Prompt](../prompts/x-stephanlivera-opus55-showreel-20260925.md)
+- [100+ Copy-Paste Prompts for AI Motion Graphics with Opus 5.5](https://x.com/humzaakhalid/article/2105947929290936331) — humzaakhalid · Claude Opus 5.5 · [Prompt](../prompts/x-humzaakhalid-opus55-100prompts-20261115.md)
+- [Claude Sonnet 5.5 vs Opus 5.5: Same Motion Graphics Prompt Comparison](https://x.com/motion_so) — motion_so · Claude Sonnet 5.5 + Claude Opus 5.5 · [Prompt](../prompts/x-motion-so-sonnet55-vs-opus55-20261117.md)
+- [Fable 5.2 Animation Studio: Remake Any Animation with 15 Open-Source Repos](https://x.com/0xsoul) — 0xsoul · Claude Fable 5.2 + open-source animation tools · [Prompt](../prompts/x-0xsoul-fable52-animation-studio-20261118.md)
+- [SIGGRAPH SPARKS: AI and Robotic Art to Experimental Animation, 58 Sessions](https://x.com/siggraph/status/2122848027052224541) — siggraph · Various AI and creative coding tools · [Prompt](../prompts/x-siggraph-ai-experimental-animation-20261118.md)
 - [Chaos to Calm Transition](https://www.aicssanimations.com/directory/Motion-Prompts/before-after-chaos-to-calm) — AI CSS Animations · Claude Opus 5.5 in Claude Code · [Prompt](../prompts/motion-aicss-before-after-chaos-to-calm.md#prompt)
 - [Business Motion Film Kit](https://github.com/echris6/motion-video-kit) — echris6 · Claude Code · [Prompt](../prompts/motion-aicss-business-motion-film-kit.md#prompt)
 - [Organic Friendly Shapes](https://www.aicssanimations.com/previews/organic-friendly-shapes.mp4) — AI CSS Animations · Claude Opus 5.5 in Claude Code · [Prompt](../prompts/motion-aicss-organic-friendly-shapes.md#prompt)
@@ -516,6 +532,14 @@
 
 
 <a id="explainers-data"></a>
+
+- [Redesigning AI Explainer Graphics: Beyond Dark Backgrounds and Purple Glow](https://x.com/somi_ai/status/2121120250070766060) — somi_ai · Claude Fable 5.2 · [Prompt](../prompts/x-somi-ai-fable52-explainer-redesign-20261113.md)
+- [AI Agent-Built Data Visualizations and Animated Charts](https://x.com/AdamHoltererer/status/2120174791982186506) — AdamHoltererer · Claude + Codex + Kimi K3.1 + Fable 5.2 + T3 Code · [Prompt](../prompts/x-AdamHoltererer-agent-data-viz-20261110.md)
+- [90-Second Cartoon Explainer from a Single Prompt: Full Production Pipeline](https://x.com/free_ai_guides/status/2109947384826626188) — free_ai_guides · Claude (Anthropic) · [Prompt](../prompts/x-free-ai-guides-90sec-cartoon-explainer-20261013.md)
+- [Claude Dashboards and Claude Motion: Data-to-Animation Pipeline](https://x.com/claudeai/status/2108271552991252810) — claudeai · Claude Dashboards + Claude Motion ( (Anthropic) · [Prompt](../prompts/x-claudeai-dashboards-motion-launch-20261008.md)
+- [AI Explainer Video Platform: 450+ Avatars, No Filming Needed](https://x.com/Jogg_ai) — Jogg_ai · JoggAI proprietary platform (450+ AI avatars) · [Prompt](../prompts/x-Jogg-ai-explainer-avatars-20261117.md)
+- [Perplexity Transforms IPO Filing into Interactive 3D Animated Explainer](https://x.com/AravSrinivas) — AravSrinivas · Perplexity AI · [Prompt](../prompts/x-AravSrinivas-perplexity-ipo-explainer-20261117.md)
+- [Rising Quality of AI Explainer Videos: Commentary and Curation](https://x.com/rough__sea/status/2118193149621456953) — rough__sea · Various AI tools · [Prompt](../prompts/x-rough-sea-ai-explainer-trend-20261105.md)
 - [Archival Photo Parallax](https://www.aicssanimations.com/directory/Motion-Prompts/archival-photo-parallax) — AI CSS Animations · Claude Opus 5.5 in Claude Code · [Prompt](../prompts/motion-aicss-archival-photo-parallax.md#prompt)
 - [Chalkboard Lettering](https://www.aicssanimations.com/directory/Motion-Prompts/chalkboard-lettering) — AI CSS Animations · Claude Opus 5.5 in Claude Code · [Prompt](../prompts/motion-aicss-chalkboard-lettering.md#prompt)
 - [Extruded 3D Type](https://www.aicssanimations.com/previews/extruded-3d-type.mp4) — AI CSS Animations · Claude Opus 5.5 in Claude Code · [Prompt](../prompts/motion-aicss-extruded-3d-type.md#prompt)
@@ -730,6 +754,14 @@
 
 
 <a id="characters-stories"></a>
+
+- [Between The Folds: Animated AI Art Exploring Identity](https://x.com/kellyeld/status/2123062136590983518) — kellyeld · Midjourney + Google Veo + Suno · [Prompt](../prompts/x-kellyeld-between-the-folds-20261118.md)
+- [Gentlemen: Character Animation with Seedance 2.5 on CapCut](https://x.com/keneth_ai/status/2116723904014340590) — keneth_ai · Seedance 2.5 + CapCut · [Prompt](../prompts/x-keneth-ai-gentlemen-seedance25-20261101.md)
+- [Betrayal: Emotional Dog Character Scene in AI Animation](https://x.com/keneth_ai/status/2115820451297456155) — keneth_ai · Seedance 2.5 + CapCut · [Prompt](../prompts/x-keneth-ai-betrayal-dog-scene-20261029.md)
+- [THE DEATH OF FEAR: AI-Animated Mockumentary Short Film](https://x.com/Tamara_Llorens) — Tamara_Llorens · Midjourney + ChatGPT + Seedance 2.5 + ElevenLabs + Suno · [Prompt](../prompts/x-Tamara-Llorens-death-of-fear-20261028.md)
+- [The Pact: AI Short Film Created with Flick Platform](https://x.com/flickartHQ) — Gertywood5 · Flick AI filmmaking platform · [Prompt](../prompts/x-flickartHQ-the-pact-ai-film-20261113.md)
+- [Invisible Accidents: AI-Driven Creativity from Almaty](https://x.com/davincisdigital/status/2120499185157816320) — davincisdigital · Unique AI Show + Runway + Tripo H3.1 · [Prompt](../prompts/x-davincisdigital-invisible-accidents-20261111.md)
+- [GOLDFISH MAYHEM: AI Short Film with Seedance 2.5 Kung Fu Scenes](https://x.com/JunieLauX) — JunieLauX · Seedance 2.5 + AI filmmaking tools · [Prompt](../prompts/x-JunieLauX-goldfish-mayhem-20261105.md)
 - [3D Sales Ranking Tower](https://x.com/DilumSanjaya/status/2018367621381620142) — Dilum Sanjaya · Claude Code · [Prompt](../prompts/motion-aicss-3d-sales-ranking-tower.md#prompt)
 - [AI Data Centre 3D Tour](https://x.com/Sayan_shanky/status/2103736579449868515) — Sayan Gupta · Claude Opus 5.5 (high effort) · [Prompt](../prompts/motion-aicss-ai-data-centre-3d-tour.md#prompt)
 - [AI Summary With Citations](https://www.aicssanimations.com/directory/Motion-Prompts/ai-doc-summary-citations) — AI CSS Animations · Claude Opus 5.5 in Claude Code · [Prompt](../prompts/motion-aicss-ai-doc-summary-citations.md#prompt)
@@ -914,6 +946,14 @@
 
 
 <a id="3d-simulations"></a>
+
+- [3D Engineering Simulations: Coaster G-Force and Engine Lab](https://x.com/RyanSael/status/2122740827726524715) — RyanSael · @ai_build (AI-powered 3D builder) · [Prompt](../prompts/x-RyanSael-3d-engineering-sims-20261117.md)
+- [Banana Buggy: Creative 3D Vehicle Concepts with Fable 5.2](https://x.com/thebuggeddev/status/2122677285463715972) — thebuggeddev · Claude Fable 5.2 + Three.js · [Prompt](../prompts/x-thebuggeddev-banana-buggy-fable52-20261117.md)
+- [Yonkers Mech: Three.js Animation of NYC Boroughs as Walking Robot](https://x.com/simonw) — simonw · GPT-6.2 Astra + GPT-6.2 Sol + Three.js + OpenStreetMap · [Prompt](../prompts/x-simonw-yonkers-mech-threejs-20261117.md)
+- [Codevember 2026 Day 17: Kelp — Procedural Underwater Simulation](https://x.com/_pwd_) — _pwd_ · Three.js + TSL + WebGPU · [Prompt](../prompts/x-pwd-codevember2026-kelp-20261117.md)
+- [Infinite Carousel with Cloth Simulation in TypeScript (XPBD + WebGPU)](https://x.com/jesper_alpacka) — jesper_alpacka · TypeScript + XPBD physics + DomGL (WebGPU) · [Prompt](../prompts/x-jesper-alpacka-cloth-sim-xpbd-20261117.md)
+- [Patent Rotunda: Historical Inventions as Interactive 3D Models](https://x.com/googledevs/status/2122804618547826841) — googledevs · Gemini 4 Hydrogen + Deep Research + Google AI Studio · [Prompt](../prompts/x-googledevs-patent-rotunda-3d-20261117.md)
+- [VISVISE Motus: AI-Powered Auto-Rigging, Skinning, and Motion Generation](https://x.com/VISVISEvisvise) — VISVISEvisvise · Motus AI + foundation models for 3D animation · [Prompt](../prompts/x-VISVISEvisvise-motus-3d-character-animation-20260826.md)
 - [Blender Claymation](https://github.com/angrypenguinpng/blender-claymation-skill) — AP · Claude Code · [Prompt](../prompts/motion-aicss-blender-claymation.md#prompt)
 - [@davelee AI Motion](https://pbs.twimg.com/amplify_video_thumb/2115849251431612418/img/placeholder?format=webp&name=medium) — davelee · Claude Opus 5.5 (Medium) · [Prompt](../prompts/motion-x-davelee-20261029.md#prompt)
 - [@xikhar (Shikhar) AI Motion](https://pbs.twimg.com/amplify_video_thumb/2105314256665329664/img/TgkM0SL2o6oW1fPL?format=webp&name=medium) — xikhar · Claude Opus 5.5 (Blender) · [Prompt](../prompts/motion-x-xikhar-shikhar-20260930.md#prompt)
@@ -1095,6 +1135,14 @@
 
 
 <a id="music-audiovisual"></a>
+
+- [The Math of You: End-to-End Opus 5.5 Music Video with Claude Code Skill](https://x.com/makevoid/status/2104216237794550018) — makevoid · Claude Opus 5.5 + Suno + GPT Image 2.6 + MiniMax H3 + Fal.ai + p5.js + Node.js + Python · [Prompt](../prompts/x-makevoid-math-of-you-music-video-20260927.md)
+- [Suno Visuals Launch: Native AI Music Video Generation with H3 Move](https://x.com/analyticsinme/status/2123053616848368006) — analyticsinme · Suno v6 + H3 Move (MiniMax H3) + Audible Magic + ACRCloud + Musixmatch · [Prompt](../prompts/x-suno-visuals-h3move-launch-20261117.md)
+- [Turn a Portrait into a 15-Second AI Band Performance](https://x.com/1min_dot_AI) — 1min_dot_AI · 1min.AI platform · [Prompt](../prompts/x-1min-dot-AI-portrait-band-performance-20261117.md)
+- [Best AI Music Video Generators in 2026: Comprehensive Review](https://x.com/soundverse_ai/status/2123025933330227460) — soundverse_ai · Neural Frames + Freebeat + Kaiber + Google Veo 3.1 + Runway Gen-4.5 + Kling 4.0 + LTX Studio + Luma Ray 3.2 + MiniMax H3 + Pika · [Prompt](../prompts/x-soundverse-ai-music-video-roundup-20261118.md)
+- [Dreamina Brings Seedance 2.5 Video Generation to 4K](https://x.com/EugenioFierro3) — EugenioFierro3 · Seedance 2.5 + Dreamina · [Prompt](../prompts/x-EugenioFierro3-seedance25-4k-video-20261117.md)
+- [AI-Powered Video Creation Conference: November 18-20, 2026](https://x.com/video_rebirth) — video_rebirth · Various AI video tools · [Prompt](../prompts/x-video-rebirth-ai-music-video-conference-20261118.md)
+- [Lost Footage from Rapa Nui: AI-Generated Music Video with Framia AI](https://x.com/FramiaPro) — FramiaPro · Framia AI + Kling + AI video generation · [Prompt](../prompts/x-FramiaPro-lost-footage-rapa-nui-20261117.md)
 - [@Bhavani_00007 AI Motion](https://pbs.twimg.com/amplify_video_thumb/2109710147841040384/img/P8BiaNiDdl2EQsPR?format=webp&name=medium) — Bhavani_00007 · Claude Opus 5.5 · [Prompt](../prompts/motion-x-bhavani_00007-20261012.md#prompt)
 - [@hasantoxr AI Motion](https://pbs.twimg.com/amplify_video_thumb/2117458086562787328/img/QxshmjFfscIKa2PE?format=webp&name=medium) — hasantoxr · LongCat-2.5 (via Claude Code) · [Prompt](../prompts/motion-x-hasantoxr-20261103.md#prompt)
 - [@berryxia AI Motion](https://pbs.twimg.com/amplify_video_thumb/2060176174903664640/img/cJ8niFUSeoXg7neP?format=webp&name=medium) — berryxia · Claude Opus 4.8 · [Prompt](../prompts/motion-x-berryxia-20260529.md#prompt)
@@ -1195,6 +1243,15 @@
 
 
 <a id="interactive"></a>
+
+- [Codevember 2026: Labyrinth — Path-Traced 3D Maze](https://x.com/akella) — akella · Three.js + path tracing + WebGL · [Prompt](../prompts/x-akella-codevember2026-labyrinth-20261117.md)
+- [Underground: Browser Racing Game Built with Opus 5.5, Rust, and WebGPU](https://x.com/hakimieiqbal/status/2122329321775718405) — hakimieiqbal · Claude Opus 5.5 + Rust + WebGPU + Blender + ElevenLabs · [Prompt](../prompts/x-hakimieiqbal-underground-racing-20261116.md)
+- [New WebGPU and TSL Course: 21 Lessons for Browser Graphics](https://x.com/bruno_simon) — bruno_simon · WebGPU + TSL (Three.js Shading Language) · [Prompt](../prompts/x-bruno-simon-webgpu-tsl-course-20261117.md)
+- [WebGPU Infinite Scroll Experience with DomGL](https://x.com/crnacura) — crnacura · WebGPU + DomGL + alpacka/scroll · [Prompt](../prompts/x-crnacura-webgpu-infinite-carousel-20261117.md)
+- [WebGL Mahjong: Sculpted Ceramic Tiles with Spring Physics](https://x.com/antigravity/status/2119127745833713814) — antigravity · Gemini 4 Argon + Lyria 3.5 + WebGL · [Prompt](../prompts/x-antigravity-webgl-mahjong-20261107.md)
+- [Gemini Transforms Questions into Interactive Physics and Molecule Visualizations](https://x.com/Google/status/2092620237908631795) — Google · Gemini + Gemini Flash · [Prompt](../prompts/x-Google-interactive-physics-molecule-20261115.md)
+- [AA-3D Benchmark: Evaluating AI Agents Building Interactive 3D Scenes](https://x.com/ArtificialAnlys/status/2109791341802885209) — ArtificialAnlys · Claude Sonnet 5.5 + Opus 5.5 + GPT-6 Astra + Fable 5.1 + Kimi K3 + Gemini 3.8 Flash + Three.js + Blender + Rapier · [Prompt](../prompts/x-ArtificialAnlys-3d-benchmark-20261012.md)
+- [AI Creative Tools Exploration: ChatGPT for Interactive Content](https://x.com/icreatelife) — icreatelife · ChatGPT + AI creative tools · [Prompt](../prompts/x-icreatelife-ai-creative-tools-20261117.md)
 - [Liquid Chrome Visual with Sound Design](https://x.com/flxrnc/status/2105311836190978392) — flxrnc · Claude Opus 5.5 · [Prompt](../prompts/motion-x-flxrnc-liquid-chrome-20260930.md#prompt)
 - [60s Showreel with Piano Score](https://x.com/kloss_xyz/status/2103570093154431289) — kloss_xyz · Claude Opus 5.5 · [Prompt](../prompts/motion-x-kloss-xyz-showreel-20260926.md#prompt)
 
