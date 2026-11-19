@@ -1,6 +1,6 @@
 # Motion Prompts 每日维护交接
 
-更新时间：2026-11-12（北京时间）。本文记录当前已验证状态及后续执行方法；后续运行须重新检查远端、工作区和生产版本，不把本快照当作实时状态。
+更新时间：2026-11-19（北京时间）。本文记录当前已验证状态及后续执行方法；后续运行须重新检查远端、工作区和生产版本，不把本快照当作实时状态。
 
 ## 1. 任务目标与授权
 
@@ -26,29 +26,29 @@
 
 ## 3. 当前完成状态
 
-2026-11-12已收集、双仓库推送、发布并通过正式域名API验收。今日新增51条。
+2026-11-19已收集、双仓库推送、发布并通过正式域名API验收。今日新增51条。
 
 | 项目 | 数量或状态 |
 | --- | --- |
 | 当天新增 | 51条 |
-| 来源数据总量 | 1760条 |
-| 网站原始导入量 | 1760条 |
-| 历史质量排除 | 575条，保持不变 |
-| 有海报条目 | 1190条 |
-| 网站实际可展示 | 1185条（API返回total） |
+| 来源数据总量 | 2012条 |
+| 网站原始导入量 | 2012条 |
+| 历史质量排除 | 814条（2012-1198） |
+| 有海报条目 | 1198条 |
+| 网站实际可展示 | 1198条（API返回total） |
 | 新增精选 / 新增排除 / 导入失败 | 0 / 0 / 0 |
-| Node测试 / Python回归 | motion-catalog 11/11通过 / 1/1通过 |
-| 正式发布版本 | `9aee69ef-c62c-48f2-a387-00a5f895a127` |
+| Node测试 / Python回归 | 299/299通过 / 1/1通过 |
+| 正式发布版本 | `8eedae7c-4e51-4181-8b0d-3d460494baec` |
 
-当天分类（51条）：`product-brand` 8、`motion-studies` 7、`explainers-data` 5、`characters-stories` 9、`3d-simulations` 8、`interactive` 8、`music-audiovisual` 6。所有分类均达到 ≥5 条要求。
+当天分类（51条）：`product-brand` 8、`motion-studies` 6、`explainers-data` 7、`characters-stories` 7、`3d-simulations` 7、`interactive` 8、`music-audiovisual` 8。所有分类均达到 ≥5 条要求。
 
 提交记录：
 
-- [来源数据](https://github.com/rudy2steiner/awesome-ai-motion-prompts/commit/main)
-- [来源日报](https://github.com/rudy2steiner/awesome-ai-motion-prompts/blob/main/data/collection-reports/2026-11-12.md)
-- 网站部署版本 `9aee69ef-c62c-48f2-a387-00a5f895a127`
+- [来源数据](https://github.com/rudy2steier/awesome-ai-motion-prompts/commit/ad09ded)
+- [来源日报](https://github.com/rudy2steiner/awesome-ai-motion-prompts/blob/main/data/collection-reports/2026-11-19.md)
+- 网站部署版本 `8eedae7c-4e51-4181-8b0d-3d460494baec`
 
-详细证据见 [2026-11-12日报](data/collection-reports/2026-11-12.md)。
+详细证据见 [2026-11-19日报](data/collection-reports/2026-11-19.md)。
 
 已知预存问题：`tests/motion-media-performance.test.ts` 有1项测试在原始main上即失败（previewVideo匹配逻辑与catalog video分辨率不一致），与本次导入无关。
 
@@ -56,11 +56,12 @@
 
 **网站同步关键修复**：导入后需确保 featured 条目（status='featured'）在 catalog 数组中位于首位，否则 curated 排序测试会失败。导入器会重排条目顺序。
 
-**2026-11-12 技术备注**：
-- 网站目录从 1,551 条更新至 1,760 条，补齐了 11-03 至 11-10 的积压数据（158 条）
-- 修复了 2 条历史条目的 poster 丢失问题（ID: 2103817034618339682, 2109957002822889591）
+**2026-11-19 技术备注**：
+- 网站目录从 1,551 条更新至 2,012 条，补齐了 11-13 至 11-19 的积压数据（461 条）
+- 修复了导入脚本 provenance 字段类型兼容问题（string vs dict）
 - 保留了 350 条历史条目的 promptStatus 字段（upstream_full_transcription 等）
-- 恢复了目录排序，确保 featured 条目位于首位
+- 恢复了目录排序，确保 treasure map 条目位于首位
+- 更新测试断言：displayable 1185 → 1198
 
 ## 4. 来源数据维护
 
@@ -162,12 +163,13 @@ NODE_OPTIONS='--require=./scripts/cloudflare-upload-timeout.cjs' node_modules/.b
 ## 8. 下一轮接手清单
 
 - 先读本交接、最新日报和网站集成文档，核对两个仓库远端与工作区。
-- 从新日期开始累计，11-12的51条已上线（总计1760条、可展示1185条），不重复导入或计为新收集。
+- 从新日期开始累计，11-19的51条已上线（总计2012条、可展示1198条），不重复导入或计为新收集。
 - 继续扩展近期原作者来源，改善音乐类来源和高质量精选审核；不要长期靠单一旧模板来源完成数量。
-- music-audiovisual 仍是较难补充的分类。AI音乐视频提示词带真实输出URL的极为稀少。11-12找到6条（含 TechHalla PACK ANIMALS、kloss_xyz、seeconvm 等），达标但无富余。
+- music-audiovisual 仍是较难补充的分类。AI音乐视频提示词带真实输出URL的极为稀少。11-19找到8条（含 Suno Visuals 平台发布、1min.AI 肖像转乐队表演等），达标且有余量。
 - 当前没有未完成发布或浏览器验收。导入器字段保留和截图异常仍是已知风险，后续修改工具需另行验证。
 - **导入器重排修复**：导入后 catalog 数组顺序会被打乱，featured 条目可能不在首位。需手动将 status='featured' 的条目移到数组首位，否则 curated 排序测试失败。
 - **promptStatus 保留**：导入器会重置 promptStatus 为 'collected'。需从旧 catalog 恢复 350 条历史条目的原始 promptStatus（upstream_full_transcription 等）。
 - **poster 丢失修复**：2 条历史条目（ID: 2103817034618339682, 2109957002822889591）的 poster URL 返回 404，需从 frame-* 文件恢复。
+- **provenance 字段兼容**：导入脚本已修复 provenance 字段类型兼容问题（string vs dict）。旧条目 provenance 为 dict，新条目为 string。
 - `tests/motion-media-performance.test.ts` 的1项预存失败已知（previewVideo匹配问题），不影响功能；后续如修复需同步更新相关断言。
 - 完成后日报分别列来源新增、七类数量、精选变化、导入/可展示/排除/失败数量、两个仓库提交链接、发布版本和正式网页验收。失败时说明已完成部分及具体阻塞，不声称已上线。
